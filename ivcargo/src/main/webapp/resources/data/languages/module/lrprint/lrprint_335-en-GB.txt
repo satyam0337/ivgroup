@@ -1,0 +1,40 @@
+invoiceNumber				Inv.No :
+declaredValue				Dec.Value:
+deliveryAt					Delivery At :
+sourceBranch				From :
+destinationBranch			To :
+bookingDate					Date :
+actualWeight			  	Actual Wt:
+chargedWeight			  	Charged Wt:
+consignorname				Consignor
+consigneename				Consignee
+remark						Remark :
+other						Door Delivery
+grandTotal					Total
+freight						Freight 	
+hamali						Hamali 	
+lrCharge					LR Charge
+other						Door Delivery
+lateNight					Late Night 	
+waiting						Waiting 	 	
+printedby					Printed By : 
+seperator					Of 
+serviceTaxPaidBy			GST Paid By :
+mobilenumber				Mobile :
+consignmentQuantity			Qty.
+description					Description
+gstNo						GSTIN:
+consigneeAddr				Address:
+consignorAddr				Address:
+lrNumber					LR.No : 
+destAddr					Dest.Address:
+total						Total
+amount:						Amount :
+sgst						SGST 
+cgst						CGST 
+igst						IGST
+totalQty					Tot.
+address						Address :
+amount						Amount
+lrType						Type :
+rate                        Rate

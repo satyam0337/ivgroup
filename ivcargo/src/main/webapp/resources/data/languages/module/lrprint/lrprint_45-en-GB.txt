@@ -1,0 +1,38 @@
+lrnumber				LR No :
+date					Bkg time : 
+lrSource				From : 
+lrDestination			To : 
+address					Address :
+packingType				Packing Type 
+noOfArticles			No of Articles 
+freight					Freight :
+loading					Loading :
+grandTotal 				Total :
+destBranch				Dest :
+source					Org : 
+bookedBy				Booked By :
+phone					Phone :
+lrType					LR Type : 
+declaredValue			Declared Value : Rs
+NoOfPkgs				No. of Pkgs  
+printDate				Print Time : 
+sign					Sign :
+printedBy				Printed By 
+noOfPkg					No. of Pkgs :
+diliveryAt				Dilivery at :
+material				Material :
+rupee					Rs
+remark					Remark :
+receiver				Receiver :
+sender 					Sender :
+bookingTime				Bkg Time :  
+info1					Customer Copy
+privateMark				Private Mark :
+invoiceNo				Invoice No:
+info1					Customer Copy
+serviceTax				GST To Be Paid By :
+gstIn					GSTIN:24AQGPS8538K1Z8
+gstno				    GSTN : 
+consignorGst			C'r/GSTN:
+consigneeGst			C'e/GSTN:
+custCopy				Customer Copy

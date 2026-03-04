@@ -1,0 +1,6 @@
+wayBillNumber						LR No
+wayBillSourceBranchName				Source Branch
+wayBillDestinationBranchName		Destination Branch
+wayBillBookingDateTimeStr			Booking Date
+commission							commission
+commissionOnAmount					Commission On Amount

@@ -1,0 +1,10 @@
+wayBillNumber							LR No
+wayBillDestinationBranchAbrvtinCode		Branch
+wayBillArticleQuantity					No. Of Art
+wayBillActualWeight						Weight
+wayBillVasuliAmount						Vasuli Amt
+wayBillOtherAmount						Paid Amt
+wayBillServiceTaxAmount					S.Tax
+wayBillCarrierRiskAmount				C.R.Chg
+privateMark								Pvt Mark
+wayBillType								Type

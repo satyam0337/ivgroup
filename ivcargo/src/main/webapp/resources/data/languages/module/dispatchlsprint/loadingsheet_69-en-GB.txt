@@ -1,0 +1,51 @@
+srNumberLabel					Sr<br>No
+lrNumberLabel					WB<br> No.
+consignorLabel					Sender
+consigneeLabel					Receiver
+consigneeContactLabel			Receiver<br> No.
+lrTypeLabel						WB <br>Type
+consignmentPackingDetailsLabel	Pkgs<br> Detail
+hamaliChargeLabel               Hamali
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						AMT.
+branchAddressLabel				Address :
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Dispatch No :
+vehicleNumberLabel				Vehicle No :
+fromBranchLabel					Origin
+toBranchLabel					Destnation
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					CATEGORY
+totalArticleLabel				NAG
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amount
+driverNameLabel					Driver Name :
+receiverNameLabel				Receiver Name :
+cleanerNameLabel				Cleaner Name :
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		Destination Branch
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark
+receiveLabel					Receiver<br>Sign
+totalLrChargeLabel				LrCharge
+receiverSign					Receiver<br>
+fromBranch						from :
+toBranch						To :
+preparedByLabel					Memo Prepared by :
+checkedByLabel					Memo Checked by :
+dateTimeLabel					Date & Time :

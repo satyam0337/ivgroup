@@ -1,0 +1,15 @@
+header					***** DELIVERY RECEIPT *****
+crNo					CR No :
+deliveryDate			Date :
+deliveryTo				M/s   :
+agent					Agent :
+bkgStation				Booking Station :
+lrNo					LR No
+bookingDate				Bk Date
+quantity				Article
+item					Item
+receiveDate				Arrival
+freight					Freight
+grandTotal				Net Amt
+remark					P Marka :
+currentDate				Time :

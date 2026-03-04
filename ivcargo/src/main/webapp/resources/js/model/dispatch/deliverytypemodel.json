@@ -1,0 +1,13 @@
+ {
+	"labelId":"deliveryTo",
+	"dataDtoKey":"deliveryToName",
+	"columnDisplayCssClass":"column-data-left-align hyperlink",
+	"displayColumnTotal":"false",
+	"elementConfigKey":"DeliveryType",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+	,"elementCssClass":"hyperlink"
+	,"columnDisplayCssClass":"hyperlink"
+	,"buttonCallback": "editDeliveryAt"
+	,"inputElement":"link"
+}

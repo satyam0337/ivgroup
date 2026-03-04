@@ -1,0 +1,27 @@
+header 						All Group Wise Collection Report
+
+date						Date
+region						Region
+accountGroup                Account Group
+
+search						Search
+
+subHeader1					All Group Wise Collection Report
+
+bookedLRHeader				Booked LRs
+deliveredLRHeader			Delivered LRs
+wayBillNumber				LR No.
+wayBillType					LR Type
+bookedDateStr				Bkg Date
+bookedBy					Bkd By
+dlyDateStr					Dly Date
+remark						Remark
+wayBillSourceBranch			Source
+wayBillDestBranch			Destination
+consignor					Consignor
+cnorGSTN					Consignor GSTN
+consignee					Consignee
+cneeGSTN					Consignee GSTN
+quantity					Pkgs
+amount						Freight
+totalGrandTotal				Amt

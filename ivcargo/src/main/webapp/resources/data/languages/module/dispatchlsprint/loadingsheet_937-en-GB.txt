@@ -1,0 +1,66 @@
+srNumberLabel					SR.NO.
+lrNumberLabel					GNR.
+manualtktLabel					ManualTktNo
+consignorLabel					Sender
+consigneeLabel					Receiver
+consigneeContactLabel			Receiver No.
+lrTypeLabel						Type
+consignmentPackingDetailsLabel	Qty
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						AMOUNT
+hamaliLabel						Hamali
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Dispatch No:
+vehicleNumberLabel				Vehicle No:
+vehicleTypeLabel				Vehicle Type.:
+busNumberLabel					Bus No.
+fromBranchLabel					From City:
+toBranchLabel					To City:
+printDateLabel					Print Date:
+genearateDateLabel				Generate Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					Category
+totalArticleLabel				Total
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				AMOUNT
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From City
+lrDestinationBranchLabel		Destination
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+grandTotalLabel					Total
+receiverSignLabel 				Receiver Sign
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lrRemarkLabel					Remark
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						Art
+gst								GST no.
+saidToContain					Pkgs Details
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WEIGHT
+totalLrChargeLabel				LR Charge
+ConsolidateEwaybillNo		   Con.EwaybillNo :
+lsRemarkLabel 				   Loading Remark:
+driverNameLabel				   Driver Name:
+cleanerNameLabel			   Cleaner Name:

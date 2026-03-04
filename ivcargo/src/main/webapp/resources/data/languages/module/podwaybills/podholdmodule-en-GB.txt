@@ -1,0 +1,17 @@
+header 						POD Hold
+
+singleLR					Single LR
+findBtn						Find
+
+wayBillNumber				LR No.
+bookingDateString			Booking Date
+deliveryDateString			Delivery Date
+sourceBranchStr				From
+destinationBranchStr		To
+consignorStr				Consignor
+consigneeStr				Consignee
+wayBillTypeStr				LR Type
+grandTotal					Grand Total
+
+removeheader				Remove
+removeLabel					Remove

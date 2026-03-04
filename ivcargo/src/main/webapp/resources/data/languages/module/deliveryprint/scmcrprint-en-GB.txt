@@ -1,0 +1,30 @@
+-----------------SCM delivery print---------------
+
+IssuingOffice				Issuing Office
+CRNo						CR No
+Date						Date
+LRNO						LR NO.
+LRDate						LR Date
+FromCity					From City
+LRType						LR Type
+Consignee					Consignee
+DeliveredTo					Delivered To
+MobileNo					Mobile No
+Remark						Remark
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of

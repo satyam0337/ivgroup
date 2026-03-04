@@ -1,0 +1,17 @@
+lrNumber 					LR No  :&nbsp;
+bookingDate					LR Date :&nbsp;
+consignorName				Consignor :
+consigneeName				Consignee :
+gstNo						Gst No. &nbsp;
+srcBranch					From :&nbsp;
+destBranch					To :&nbsp;
+deliveryType				Delivery Type &nbsp;:&nbsp;
+invNo						Inv.No. :&nbsp;
+invValue					Inv.Value :&nbsp;
+qty							Qty.
+packingType					Particulars
+actWgt						Act.Wgt.
+ChgWgt						Chg.Wgt.
+total						Total
+totalQty					Total Qty :
+mobileNo					Mobile No :

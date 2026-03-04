@@ -1,0 +1,34 @@
+lrnumber				WB No : 
+date					Bkg Time : 
+consignorName			From : 
+consigneeName			To : 
+lrSource				Org : 
+lrDestination			Dest : 
+phone					Receiver Contact Number : 
+lrType					WB Type : 
+declaredValue			Value of the Parcel : 
+NoOfPkgs				No. of Pkgs : 
+freight					Booking Charges : 
+loading					Loading : 
+grandTotal				Total : 
+bookedby				Booking By : 
+printDate				Print Date : 
+sign					Sign : 
+deliverAt				Delivery Address : 
+dlyContact				Delivery Contact : 
+gstNo					GSTN:
+eWayBillNo				E-WayBill :
+invocieNo               Invoice No :
+remark                  Remark :
+pickUpcartage			Pickup Charges :
+hamali					Hamali :
+other 					Other :
+note					For Booking Queries Contact :
+branchCopy				Branch Copy
+receipt					Booking Receipt   
+dropcartage				Drop Charges :
+customerCopy            Customer Copy
+printedBy				Printed By :
+cgst					CGST :
+sgst					SGST :
+igst					IGST :

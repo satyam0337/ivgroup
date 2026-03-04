@@ -1,0 +1,15 @@
+ {
+	"elementId":"TotalBookingAmtEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"TotalBookingAmtEle",
+	"elementType":"text",
+	"labelId":"TotalBookingAmt",
+	"elementDefaultValue":"",
+	"dataDtoKey":"bookingTotal",
+	"elementConfigKey":"TotalBookingAmt",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":80,
+	"displayColumnTotal":true,
+	"columnDisplayCssClass":"column-data-right-align"
+}

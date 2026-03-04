@@ -1,0 +1,10 @@
+ {
+	"labelId":"toPayAmount",
+	"dataDtoKey":"toPayAmount",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":true,
+	"elementConfigKey":"TopayAmount",
+	"columnPrintWidthInPercentage":"12",
+	"columnWidth":135,
+	"columnMinWidth":60
+}

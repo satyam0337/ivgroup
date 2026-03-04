@@ -1,0 +1,16 @@
+createDateTimeString				Date
+region								Region
+subRegion							Area
+branch								Branch
+ReportSort							Report Sorting
+header								Delivery Details Report
+search								Search
+serialnumberheader					SR. No.
+date								Date
+lrType								LR Type
+paymentType							Mode Of Payment
+party								Party Name
+corporateAccountDisplayName			Party Name
+grandTotal							Total
+lrDetails							LR Wise
+crDetails							CR Wise

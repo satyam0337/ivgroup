@@ -1,0 +1,40 @@
+invoiceNumber				Consignor Invoice No. :
+declaredValue				Declared Value
+sourceBranch				From : 
+destinationBranch			To : 
+lrType						LR Type :
+lrnumber					LR No. :
+bookingDate					Date :
+consignmentQuantity			Articles
+actualWeight			  	Actual Weight
+chargeWeight			  	Charge Weight
+grandTotal					Total
+consignorname				Consignor : 
+consigneename				Consignee :
+remark						Remark :
+lorry_no					Lorry No. :
+phone_number				Phone No. :
+gstin						GSTIN:
+address						Address :
+article						Description of goods
+contains					Contains
+sgst						SGST
+cgst						CGST
+igst						IGST
+advance						Advance
+balance						Balance
+total_qty					Total :
+gst_paid_by					GST Paid By : 
+atc_gst_no					ATC GST No. :
+weight						Weight
+rate						Rate
+deliveryAt					Delivery At :
+mobileNumber				Mob No:
+vehicleTypeLabel			Truck Type : 
+freight						Freight
+loading						Loading
+doorDelivery				Door Delivery
+stationaryCharge			Stationary Charge
+collection					Collection
+detention					Detention
+unloading					Unloading

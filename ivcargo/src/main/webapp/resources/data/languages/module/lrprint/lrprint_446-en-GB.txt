@@ -1,0 +1,23 @@
+lrnumber				WB No : 
+date					Bkg Time : 
+lrSource				From : 
+lrDestination			To : 
+consignorName			Consignor : 
+consigneeName			Consignee : 
+phone					Phone : 
+lrType					LR Type : 
+declaredValue			Value of the Parcel : 
+freight					Freight : 
+loading					Loading : 
+grandTotal				Total : 
+bookedby				Booked By : 
+printDate				Print Time : 
+printBy					Printed By :
+sign					Sign : 
+deliverAt				Delivery At : 
+gstNo					GSTN:
+eWayBillNo				E-WayBill :
+invocieNo               Invoice No :
+remark                  Remark :
+lrType					WB Type :
+noOfPkg					NoOfPkgs :

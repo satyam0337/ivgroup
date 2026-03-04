@@ -1,0 +1,38 @@
+lrnumber				LR No : 
+date					Booking Date : 
+lrSource				From : 
+lrDestination			To : 
+consignorName			Name : 
+consigneeName			Name : 
+gstin					GSTIN :
+mobile					Mobile :
+address					Address :
+packingType				Packing Type 
+noOfArticles			No of Articles 
+actualWeight			Actual Weight
+chargedWeight			Charged Weight
+freight					Freight
+loading					Loading
+statistical				Statistical
+otherCharge				Other
+serviceCharge			GST
+charges					Charges :
+grandTotal				Total : 
+remark					Remark :
+destBranch				Dest Address :
+bookedBy				Booked By :
+phone					Phone : 
+lrType					LR Type : 
+declaredValue			Declared Value : 
+NoOfPkgs				No. of Pkgs : 
+printDate				Print Date : 
+info1					Consignor Copy
+info2					Consignee Copy
+ewaybill				EwayBill No : 
+invoiceno				Invoice No : 
+invoicevalue			Invoice Value : 
+express					Express
+other					Other
+sgst					SGST
+igst					IGST
+cgst					CGST

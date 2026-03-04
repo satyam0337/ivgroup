@@ -1,0 +1,15 @@
+date 							Date :
+vehicleNo						Vehicle Number : 
+find							Find
+header							Vehicle Wise Luggage Voucher
+lsNumber   						LS No
+lsDate							LS Date
+sourchBranch					From Branch
+destinationBranch				To Branch
+quantity						Qty
+paidAmount						Paid
+toPayAmount						To Pay
+commissionAmount				Commission
+subHeader						Vehicle Wise Luggage Voucher
+grandTotal						Grand Total
+totalAmount						Total Amount

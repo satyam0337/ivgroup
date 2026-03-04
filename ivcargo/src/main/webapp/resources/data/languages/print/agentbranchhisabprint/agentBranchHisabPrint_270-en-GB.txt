@@ -1,0 +1,44 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+
+hisabNumberLabel				Hisab No.
+TotalHisabLabel					Total Hisab
+settledHisabLabel				Settled Hisab
+balanceHisabLabel				Balance Hisab
+amountPaidByBranchLabel			Amount Paid By Branch 
+remarkLabel						Remark
+
+agentBranchHisabNumberLabel		Agent Branch Hisab Number :
+hisabDateLabel					Date :  
+agentBranchNameLabel			Agent Branch : 
+hisabDoneByBranchLabel			Hisab By Branch : 
+
+summaryHeaderLabel					Summary Header
+summaryIdentifierLabel				Summary Notations
+amountSummaryLabel					Amount
+
+topayBookingLabel					Topay Booking
+topayBookingIdentifierLabel			A
+paidBookingLabel					Paid Booking
+paidBookingIdentifierLabel			B
+bookingTotalLabel					Booking Total
+bookingTotalIdentifierLabel			[A+B] --> C
+bookingCommission					Booking Commission
+bookingCommissionIdentifier			D
+deliveryCommission					Delivery Commission
+deliveryCommissionIdentifier		E
+tds									TDS
+tdsIdentifier						F
+finalCommission						Commission
+finalCommissionIdentifier			[(D+E)-F] --> G
+lastOutStandingLabel				Last Outstanding
+lastOutStandingIdentifierLabel		H
+blhpvLabel							Blhpv Expense
+blhpvIdentifierLabel				I
+ddmLorryhireExpenseLabel			DDM Lorryhire Expense
+ddmLorryhireExpenseIdentifierLabel	J
+totalExpenseLabel					Total Expense
+totalExpenseIdentifierLabel			[I+J] --> K
+finalCollection						Collection
+finalCollectionIdentifier			[C-K] --> L
+finalAmtLabel						Final Amt 

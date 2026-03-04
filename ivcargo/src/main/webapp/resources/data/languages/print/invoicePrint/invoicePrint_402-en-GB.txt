@@ -1,0 +1,61 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To Branch : 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							#
+gst								GST No. : 
+stateCode						State Code : 
+billNo							Bill No : 
+date							Bill Date : 
+bkgdate							Bkg. Date
+lrNo							LR No.
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Particulars
+qty								Qty
+other							Others
+freight							Freight
+total							Total : 
+grandtotal						Total
+gst5							GST 5%
+note							Note
+name							Customer Name : 
+add								Address : 		
+billTotal						Bill Total : 
+destination						Destination
+pkgs							Pkgs.
+cgst							CGST
+sgst							SGST
+igst							IGST
+billfromdate					Billing From : 
+billtodate						To : 				
+info1							Payment should be made through NEFT, RTGS Or Fund Transfer only
+info2							Bank Details :
+info3							Bank Name : ICICI Bank
+info4							A/C Name : Seabird Tourist Centre
+info5							A/C No. : 035905502093
+info6							Branch : Avenue Road, Bangalore.
+info7							IFSC code : ICIC0000359
+info8							This is a system generated invoice seal & signature not required.
+info9							For Seabird Express Cargo
+info10							Authorised Signatory
+hsnCode							HSN CODE :
+subLineInfo                     Division Of Seabird Tourists Center

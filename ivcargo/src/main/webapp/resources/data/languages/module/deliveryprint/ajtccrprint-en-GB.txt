@@ -1,0 +1,34 @@
+hydBranches							Hyderabad Branches
+mumbaiBranches						Mumbai Branches
+secunderabad						Secunderabad
+secunderabadMobile					9700349951
+afzalGunj							Afzal Gunj
+afzalGunjMobile						8121106170
+kingKoti							KingKoti
+kingKotiMobie						9848844059
+lakdikapul							Lakdikapul
+lakdikapulMobile					9290173318
+market								Market
+marketMobile						7208786293
+grantRoad							Grant Road
+grantRoadMobile						7208786294
+parel								Parel(Dadar)
+parelMobile							7208786295
+sakinaka							Sakinaka
+sakinakaMobile						7208786296
+bhiwandi							Bhiwandi
+bhiwandiMobile						7208786297
+deliveryBranch						Delivery Branch : 
+crNO								CR NO 
+crDate								Date 
+receiverName						Delivered To 
+lrNO								LR NO 
+noOfarticles						No Of Art
+toPayCharge							To Pay Charge 
+vechileNo							Vechile No 
+other								 Other 
+total								Total 
+other								Other 
+vechileNo							Vechile NO 
+discount							Discount
+consignee							Consignee

@@ -1,0 +1,25 @@
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+bookingDateLabel				Bkg. Date
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consignmentPackingDetailsLabel	No. of Pkgs
+packingTypeLabel				Packing type
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Challan No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From : 
+toBranchLabel					To : 
+dispatchDateLabel				Date: 
+lrSourceBranchLabel				From 
+lrDestinationBranchLabel		To 
+branchInchargeSignLabel			Prepared By : 
+lsRemarkLabel					Remark : 
+bkgDateLabel					Date
+driverNameLabel					Driver Name :
+lrCategoryLabel					LR Type :
+totalArticleLabel				No. of Pkgs
+paidLabel						Paid
+topayLabel						Topay
+tbbLabel						TBB
+totalLabel						Total

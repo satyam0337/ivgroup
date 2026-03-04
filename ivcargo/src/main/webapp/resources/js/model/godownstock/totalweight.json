@@ -1,0 +1,13 @@
+ {
+	"elementId":"totalWeightEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"totalWeightEle",
+	"elementType":"text",
+	"labelId":"totalWeight",
+	"elementDefaultValue":"",
+	"dataDtoKey":"totalWeight",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

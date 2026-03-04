@@ -1,0 +1,31 @@
+lrNo      		LR No : 	
+bookingDate   	Bkg Time :
+forn   			From : 	
+to    			To :
+consignor   	Consignor : 	
+consignee  		Consignee :
+consignorNo 	Consignor No : 	
+consigneeNo 	Consignee No :
+lrType  		LR Type : 	
+serviceCharge 	Service Charge :
+noOfPkgs		No. of Pkgs : 	
+serviceType		Service Type :
+freight			Freight : 	
+expressCharge	Express Charge :
+discount		Discount : 	
+total			Total :
+bookedby 		Booked By : 	
+printedBy		Printed By :
+printTime		Print Time :
+destination		Destination : 
+loading			Loading :
+cartage			Cartage :
+crossing		Crossing :
+deliveryAddr	Delivery Addr :
+helpLineNo		Help Line No.:
+gstin			GSTIN :
+commission		Commission:
+crossing		Crossing:
+gst				GST:
+freight			Freight :
+contact			Contact No:

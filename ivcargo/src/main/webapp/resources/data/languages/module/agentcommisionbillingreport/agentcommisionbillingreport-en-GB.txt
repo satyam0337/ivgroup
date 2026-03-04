@@ -1,0 +1,21 @@
+header 							Agent Commission Bill Register
+
+dateCheck						Search Date Wise 
+date							Date : 
+note							Note : If you want to search date wise then only select date. 
+searchType						Search By : 
+agent							Agent : 
+collectionPerson				Collection Person : 
+paymentStatus					Payment Status : 	
+search							Search
+
+subHeader1						Agent Commission Bill Details
+
+agentCommisionBillingNumber		Bill No.
+creationDateStr					Bill Date
+commissionReceivable			Amount Receivable
+commissionPayable				Amount Payable
+amountTotal						Total
+paymentStatusName				Status
+noOfDays						No. Of Days
+partialheader					Payment<br> Details

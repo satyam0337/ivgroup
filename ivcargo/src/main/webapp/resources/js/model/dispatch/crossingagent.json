@@ -1,0 +1,9 @@
+ {
+	"elementId"				:	"crossingAgentSelectEle",
+	"elementGlyphicon"		:	"glyphicon glyphicon-th",
+	"elementName"			:	"crossingAgentSelectEle",
+	"elementType"			:	"text",
+	"tooltipName"			: 	"Select Crossing Agent",
+	"labelId"				:	"crossingAgentSelect",
+	"elementDefaultValue"	:	""
+}

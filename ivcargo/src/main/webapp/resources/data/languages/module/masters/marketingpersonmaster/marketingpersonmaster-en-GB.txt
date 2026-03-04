@@ -1,0 +1,23 @@
+header 							Marketing Person Master
+searchMarketingPerson			Search Marketing Person
+region							Region
+subRegion						Sub-Region
+branch							Branch
+MarketingPersonName				Name
+MarketingPersonAddress			Address
+country							Country
+MarketingPersonState			State
+MarketingPersonCity				City
+MarketingPersonPhonNumber		Phone Number
+MarketingPersonMobileNumber		Mobile Number
+edit							Edit
+save							Save
+update							Update
+delete							Delete
+reset							Reset
+viewAll							View All
+createdBy						Created By
+modifyOn						Modified Date
+createdOn						Created Date
+serialnumberheader				Sr. No.
+find 							Find

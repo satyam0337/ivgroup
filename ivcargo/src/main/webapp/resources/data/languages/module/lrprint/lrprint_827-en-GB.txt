@@ -1,0 +1,23 @@
+date					DATE: 
+type					TYPE: 
+lrNo					LR NO: 
+from					FROM: 
+to						TO: 
+consignor				Consignor: 
+gstin					GSTIN: 
+consignee				Consignee: 
+qty						Qty
+description				Description
+tot						​Tot. 
+actWt					Act Wt: 
+chgWt					Chg Wt: 
+invNo					Inv No: 
+seperator				of
+total					Total
+deliveryType			Delivery Type: 
+remark					Remark: 
+receiverSignature		Receiver Signature
+signatureOfClerkAgent	Signature of Clerk/Agent
+mobileNo				Mobile No :&nbsp;
+gst						GST :&nbsp;
+email					Email :&nbsp;

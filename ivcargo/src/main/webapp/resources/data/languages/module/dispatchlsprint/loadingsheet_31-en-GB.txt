@@ -1,0 +1,53 @@
+srNumberLabel					SR No.
+lrNumberLabel					LR No.
+bkgDateLabel					Bkg. Date
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+quantityLabel					No. of Art.
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						AMT.
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				LS No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				Article
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amount
+driverNameLabel					Driver:
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Prepared by
+totaltLabel						Total
+otherLabel						Others
+tbbFreightChargeLabel			TBB
+branchlable						For AMMA ROAD CARRIERS.
+dataReport						LOADING SHEET
+quantityLabelForSummary			No. of Pkgs

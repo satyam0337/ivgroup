@@ -1,0 +1,8 @@
+header 						Crossing Hisab Settlement Cancellation
+subHeader					Search Details
+billNumberLabel				Bill Number
+branchNameLabel				Branch
+find						Find Details
+cancel						Cancel Bill
+crossingAgentLabel			Crossing Agent
+crossingAgentTypeLabel		Type

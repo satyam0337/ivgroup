@@ -1,0 +1,114 @@
+@import url('/ivuiresources/resources/css/bootstrap/bootstrap.min.css');
+
+.content {
+	width: 98%;
+	margin: 5px auto;
+	padding: 20px;
+	min-height: 100%;
+}
+
+#headerClock{
+	color: white;
+}
+
+.backgroundColor{
+background: rgb(30,87,153); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(30,87,153,1) 0%, rgba(32,105,201,1) 93%, rgba(125,185,232,1) 100%, rgba(30,87,153,1) 101%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(30,87,153,1) 0%,rgba(32,105,201,1) 93%,rgba(125,185,232,1) 100%,rgba(30,87,153,1) 101%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(30,87,153,1) 0%,rgba(32,105,201,1) 93%,rgba(125,185,232,1) 100%,rgba(30,87,153,1) 101%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#1e5799',GradientType=0 ); /* IE6-9 */
+}
+
+/* bootstrap 3 helpers */
+header {
+	height: 80px;
+}
+
+.padding15{
+	padding-top: 15px;
+}
+
+#nav.affix {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10;
+}
+
+#sidebar.affix-top {
+	position: static;
+}
+
+.dropdown-menu {
+	min-width: 200px;
+	left: 50%;
+	right: auto;
+	text-align: left;
+	transform: translate(-50%, 0);
+}
+
+.dropdown-menu.columns-2 {
+	min-width: 400px;
+}
+
+.dropdown-menu.columns-3 {
+	min-width: 600px;
+}
+
+.dropdown-menu li a {
+	padding: 1px 15px;
+	font-weight: 500;
+}
+
+.multi-column-dropdown {
+	list-style: none;
+}
+
+.multi-column-dropdown li a {
+	display: block;
+	clear: both;
+	line-height: 1.5;
+	color: #333;
+	white-space: normal;
+}
+
+.multi-column-dropdown li a:hover {
+	text-decoration: none;
+	color: #262626;
+	background-color: #f5f5f5;
+}
+
+@media ( max-width : 767px) {
+	.dropdown-menu.multi-column {
+		min-width: 240px !important;
+		overflow-x: hidden;
+	}
+	.dropdown-menu {
+		min-width: 200px;
+		left: auto;
+		right: 50%;
+		text-align: left;
+		transform: translate(0%, 0);
+	}
+	#nav.affix {
+		position: relative;
+	}
+}
+
+@media ( max-width : 480px) {
+	.content {
+		width: 90%;
+		margin: 5px auto;
+		padding: 10px;
+	}
+	.dropdown-menu {
+		min-width: 200px;
+		left: auto;
+		right: 50%;
+		text-align: left;
+		transform: translate(0%, 0);
+	}
+	#nav.affix {
+		position: relative;
+	}
+}

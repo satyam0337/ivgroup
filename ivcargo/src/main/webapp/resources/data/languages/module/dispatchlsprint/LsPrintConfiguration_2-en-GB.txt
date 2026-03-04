@@ -1,0 +1,54 @@
+srNumberLabel					Sr<br>No.
+lrNumberLabel					L.R.No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			Receiver no.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	No.of<br>Pkgs
+paidFreightChargeLabel			PAID
+toPayFreightChargeLabel			VASULI
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						Amount
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				LoadingSheet NO:&nbsp;
+vehicleNumberLabel				Vehicle No.:&nbsp;
+fromBranchLabel					From :
+toBranchLabel					To :
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+noOfLRLabel						No Of LRs
+totalArticleLabel				Article
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amount
+driverNameLabel					Driver :&nbsp;
+preparedByLabel					Prepared By :&nbsp;
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name:
+dispatchDateLabel				DATE :
+dispatchTimeLabel				TIME :
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		DESTINATION
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+HamaliLabel						Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark
+receiveLabel					Receiver Sign
+ackLabel						ACKNOWLEDGMENT
+saidToContain					DESCRIPTION
+lRremark						Remark
+ceWayNo							CEWayNo :
+bkgDate							Bkg<br> Date
+containsLabel					Article Type
+consigneeMobileNo				Consginee<br>Mobile No.

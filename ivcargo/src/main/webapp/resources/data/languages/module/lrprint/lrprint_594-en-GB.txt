@@ -1,0 +1,18 @@
+from                 FROM :
+to                   TO : 
+moNo                 Mo.No.
+consignor            CONSIGNOR :
+consignee            CONSIGNEE :
+no                   No.
+description          Description 
+consignmentQuantity  Quantity 
+remark               Remark :
+bookingTime          Bkg Time :
+ewayBillNo           EwayBill No :
+deliveryAddress      Delivery Address :
+lrNo                 LR NO.:
+lrType               FREIGHT TYPE : 
+grandTotal           TOTAL
+gstn                 GSTIN:
+invoiceNo            Invoice No:
+decalredValue        Declare Value:

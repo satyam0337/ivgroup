@@ -1,0 +1,54 @@
+branchPhoneNumberLabel			Ph : 8805130925/9850071692/ 
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				Consignee. 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					Destination 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							Sr. No.
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							Date : 	
+lrNo							Lr.No
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+total							G.T
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GST NO -
+invoiceno						In. No.
+bookingdate						LR Bkg. Dt.
+particulars						Particulars
+articles						Art
+weightLabel						Wt.Kgs.
+note							Subject to Hyderabad Jurisdiction only.			
+note1							Bill towards Freight and Other Charges of your consignments transported as under
+rate                            Rate
+lrcharge                        Lr.Chg
+doorDelivery                    DD
+gstNo                           GST NO:

@@ -1,0 +1,13 @@
+header 						Destination Wise Dispatch Summary
+
+date						Date
+regionSelect				From Region
+subRegionSelect				From Area
+branchSelect				From Branch
+vehicleNumber				Vehicle Number
+
+destinationBranchSelect		Destination Branch
+wayBillType					LR Type
+TotalArticle				No Of Art
+TotalServiceTax				S Tax
+TotalBookingAmt				Total

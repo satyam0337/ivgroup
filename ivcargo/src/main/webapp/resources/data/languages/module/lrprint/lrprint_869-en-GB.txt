@@ -1,0 +1,18 @@
+of						of
+freight					Freight
+loading					Loading
+unloading				Unloading
+doorPickup				Door Pickup
+doorDelivery			Door Delivery
+total					Total
+dateLabel				Date:
+consignor				Consignor
+consignee				Consignee
+noOfArticles			No. of Articles
+descriptionLabel		Description of Goods<br/>(Said to Contain)
+invoiceNo				Invoice No
+weightKg				Weight (Kg)
+freightDetails			Freight<br/>Details
+amount					Amount
+amountInWordsLabel		Amount In Words: 
+itemValueLabel			Item Value: 

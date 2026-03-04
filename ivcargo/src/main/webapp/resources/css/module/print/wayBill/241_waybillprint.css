@@ -1,0 +1,26 @@
+table {
+	border-collapse: collapse;
+	border: 0px solid black;
+	 
+}
+td{
+	 border: 0px solid black;
+	 padding-top : 3px; 
+	 padding-bottom : 2px; 
+	 padding-left : 2px;
+	 font-size: 14px;
+}
+.td25
+{
+	width: 25%;
+}
+.table1 td{
+	padding-left: 15px;
+}
+.table2 td{	
+	padding-left: 15px;
+}
+.td_capitalize{
+	
+    text-transform: capitalize;
+}

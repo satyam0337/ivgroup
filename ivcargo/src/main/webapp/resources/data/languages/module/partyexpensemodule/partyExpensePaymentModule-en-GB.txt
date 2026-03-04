@@ -1,0 +1,6 @@
+header 								Party Expense Payment
+partyName							Party Name
+amountLabel								Amount
+remarkLebel								Remark
+save								Save
+find								Find

@@ -1,0 +1,30 @@
+invoice						INVOICE
+groupName					Pegasus Cargo & Passenger Logistics Private Limited
+invoiceNumberLabel			Invoice No: 
+invoiceDateLabel			Invoice Date:
+ourPanLabel					Our PAN:
+ourSacLabel					Our SAC: 
+ourGstLabel					Our GST:
+billToLabel					Bill To:
+addressLabel				Address: 
+gstNoLabel					GST No: 
+description					Description
+annexureRefNo				Annexure<br/>Ref No
+rs							Rs
+total						TOTAL
+inWordsLabel				In Words:
+billNoLabel					BILL NO : 
+dateLabel					Date : 
+nameOfCustomerLabel			Name of Customer:
+sNo							S. No
+lrDate						LR. Date 
+lrNo						LR. No
+fromBranch					From Branch
+toBranch					To Branch
+noOfPackages				No. of<br/>Packages
+actualWt					Actual<br/>Wt
+perBoxRate					Per<br/>Box<br/>Rate
+freight						Freight
+statisticalCharge			Statistical<br/>Charge
+doorDeliveryCharge			Door<br/>Delivery<br/>Charge
+totalCharge					Total<br/>Charge

@@ -1,0 +1,36 @@
+hsnCodeLabel			HSN Code: 
+dt						Dt.
+adminOfficeLabel		Admin Office -
+emailLabel				Email :
+contactLabel			Contact :   
+creditWayBill			Credit Way Bill
+number					Number
+consignorLabel			Consignor:
+consigneeLabel			Consignee:
+from					From
+to						To
+contactNumber			Contact Number
+invoiceNumber			Invoice Number
+ewaybillNumber			E-WAY BILL Number
+valueOfConsignmentRs	Value of Consignment Rs.
+insurancePolicyNumber	Insurance Policy Number
+modeOfTransport			Mode of Transport
+methodOfPacking			Method of Packing
+qtyOfPackages			Qty. of Packages
+actualWeightKgs			Actual Weight KGs
+chargeableWeightKgs		Chargeable Weight KGs
+dimentionsOfBox			Dimentions of Box
+temperature				Temperature
+dataLoggerNumber		Data Logger Number
+typeOfForward			Type of Forward
+declaration				Declaration
+connectivity			Connectivity
+forConsignor			For CONSIGNOR
+panNumberLabel			Pan Number:
+gstinLabel				GSTIN : 
+authorisedSignatory		Authorised Signatory
+receiversSignAndStamp	Receiver's Sign & Stamp
+receivedByNameAndDate	Received By Name & Date
+for						For
+
+

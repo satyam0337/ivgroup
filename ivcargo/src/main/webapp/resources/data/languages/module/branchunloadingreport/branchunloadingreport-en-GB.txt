@@ -1,0 +1,26 @@
+header 						Branch Unloading
+
+region						Region
+subRegion					Sub Region
+branch						Branch
+date						Date
+
+search						Search
+
+subHeader1					Branch Unloading Details
+serialnumberheader				Sr No
+wayBillNumber					LR No.
+lsnumber						LS No. 
+bookingDateTimeStampStr			Bkg Date.
+consignorName					C/nor
+consigneeName					C/nee
+turnumber						TUR No.
+quantity						Qty
+actualWeight					Wgt
+grandTotal						Booking Total
+vehicleNumber					Vehicle Number
+receivedBranchName				Received Branch Name
+							
+														
+
+							

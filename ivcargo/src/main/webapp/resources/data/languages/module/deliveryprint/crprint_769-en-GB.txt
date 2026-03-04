@@ -1,0 +1,32 @@
+date		Date
+name		Name
+crNo		CR. No.
+lrNo		LR. No. 
+pkgs		Pkgs
+actWt		Act Wt. 
+chWt		Ch Wt.
+from		From
+bkDt		BkDt.
+arDt		ArDt.
+pm			P.M.
+cnt			Cnt.
+gdNo		Gd. No.
+thru		Thru
+mNo			M. No.
+vehicle		Vehicle
+sgst		SGST
+cgst		CGST
+igst		IGST
+total		Total
+disc        Discount
+Freight     Freight
+Unloading   Unloading
+DeliveryCharge  Delivery Charge
+Godown          Godown	
+Tempo           Tempo	
+MiscCharges	    Misc. Charges
+CRChg        C R Chg.
+	
+	
+	
+							

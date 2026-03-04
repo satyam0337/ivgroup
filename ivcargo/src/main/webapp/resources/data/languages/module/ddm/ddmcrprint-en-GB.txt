@@ -1,0 +1,28 @@
+header 						<b>DDM CR Print</b>
+ddmNumber					DDM No.
+branch						Branch
+find						Find
+
+subHeader1					<b>DDM Details</b>
+
+ddmNumber					DDM No.
+date						Date
+from						From
+to							To
+truckNumber					Truck No.
+driverName					Driver Name
+
+subHeader2					<b>LR Details</b>
+printMultiCR				Print Selected CR
+printDDM					Print DDM
+
+partialheader				Print CR
+
+serialnumberheader			SR. No.
+wayBillNumber				LR No.
+consignorName				Consignor Name
+consigneeName				Consignee Name
+wayBillType					LR Type
+packageDetails				Package Details
+bkgAmount					Booking Amount
+deliveryAmount				Delivery Amount

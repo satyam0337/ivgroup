@@ -1,0 +1,43 @@
+srNumberLabel					#
+lrNumberLabel					LR No.
+consignorLabel					Sender
+consigneeLabel					Receiver
+lrTypeLabel					TYP
+freightChargeLabel				FRT
+loadingChargeLabel				HML
+doorDeliveryChargeLabel				D D
+serviceTaxLabel					GST
+amountLabel					TOTAL
+dispatchNumberLabel				LS No : 
+vehicleNumberLabel				Truck No : 
+lhpvNumberLabel					LHPV No : 
+dispatchDateLabel				Date :
+totalArticleLabel				QTY
+driverNameLabel					Driver : 
+driverLicenseLabel				License No : 
+lrDestinationBranchLabel			Destination
+serviceTax					GST
+commision					Commision
+hamali						Hamali
+thapi						Thapi
+crossing					Crossing
+refund						Refund
+total						Total
+vasuli						Vasuli
+paidDebit					Paid Debit
+paidCredit					Paid Credit
+cash						Total Comm.
+receivedComm					Received Comm.
+paidComm					Paid Comm.
+balance						Balance Comm.
+totalLabel					Total
+summaryFreightLabel				FREIGHT
+summaryHamaliLabel				HAMALI
+summaryTotalLabel				TOTAL
+ownerNameLabel					Owner's Name :
+marathiData1					या मोटारीतून जो माल घेऊन जात आहे त्याची सर्व जबाबदारी मी
+marathiData2					व मोटार मालक यांजवर आहे. माल घेणाऱ्या गिऱ्हाईकाच्या मालाचे
+marathiData3					कोणतेही नुकसान झाले असल्यास त्याबद्दल मी व माझे मोटार 
+marathiData4					मालक जबाबदार आहोत. या कागदाच्या मागील पानावर छापलेल्या 
+marathiData5					अटीनुसार वागण्यास आम्ही तयार आहोत.
+marathiData6					मोटार मालक / ड्रायव्हरची सही --------------------

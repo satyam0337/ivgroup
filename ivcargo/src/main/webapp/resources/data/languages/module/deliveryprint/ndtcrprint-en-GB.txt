@@ -1,0 +1,37 @@
+bookingTotal						Booking Total 
+bookingType							LR Type
+discount							Discount
+grandTotal							Total
+crNo								CR No. 
+crSource							From 
+crDestination						To 
+consigneeName						Consignee : 
+consignorName						Delivered By
+deliveryTime						Delivery Time
+bookingDate							Booking Date
+printTime							Print Time
+deliveredAt							Delivered At Godown :
+paymentType							Pay Mode : 
+deliveredTo							Delivered To :
+deliverydate						Date : 
+srcbranch							Station :  
+lrNo								LR.No. :
+quantity							Articles : 
+packingType							Item : 
+receiveDateTime						Arrival : 
+remark								Remark : 
+serviceTax							GST 
+actualweight						Actual Weight : 
+chargeweight						Charge Weight : 
+stpaidby							GST Paid By :
+rupee								&#x20B9 
+lrtype								LR Type : 
+destBranch							Destination	Branch : 
+printedby							Printed By : 
+issuingoffice						Issuing Office : 
+amountlabel							Amount
+headerlabel							Delivery Memo / Cash Receipt
+info1								In safe and sound condition. The motor receipt of the said goods
+info2								shall be send as soon as it is received or released from the bank.
+partysign							Party Signature
+totalinwords						In Words - 

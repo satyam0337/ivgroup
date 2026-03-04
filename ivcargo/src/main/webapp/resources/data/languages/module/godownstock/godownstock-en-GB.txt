@@ -1,0 +1,40 @@
+header 						Godown Stock Summary
+region						From Region
+subRegion					From Area
+branch						From Branch
+godown						Godown
+sourceBranch				Source Branch
+destinationBranch			Destination Branch
+totalLRs					LRs
+totalArrivedLR				Total Arrived LR
+totalQuantity				Article
+totalWeight					Weight
+arrivedWeight				Total Arrived Weight
+bookingAmount				AMOUNT
+wayBillNumber				LR NO
+date						BKG DATE
+quantity					ART
+actualWeight				ACT WT
+chargeWeight				CHRG WT
+wayBillType					LR TYPE
+partialheader				Details
+serialnumberheader			SR. No.
+stockType					Stock Type
+search						Search
+subHeader1					Pending Delivery
+subHeader2					Pending Crossing
+subHeader3					Pending Dispatch
+subHeader4					Arrived
+mailGodownStock				Mail Pending Godown Stock
+routeId						Route
+privateMark					Private Mark
+consignor					Consignor
+consignee					Consignee
+topayAmount					TO PAY
+paidAmount					PAID
+tbbAmount					TBB
+packingType					Packing Type
+saidToContain				SaidToContain
+deliveryToName				Delivery To
+invoiceNumber				Invoice Number
+noOfDays					No. of day

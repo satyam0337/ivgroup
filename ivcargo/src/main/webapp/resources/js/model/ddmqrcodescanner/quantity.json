@@ -1,0 +1,9 @@
+ {
+	"labelId":"Quantity",
+	"elementConfigKey":"Quantity",
+	"dataDtoKey":"consignmentSummaryQuantity",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":70,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

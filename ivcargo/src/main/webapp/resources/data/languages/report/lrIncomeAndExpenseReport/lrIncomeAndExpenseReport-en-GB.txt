@@ -1,0 +1,18 @@
+subHeader1					LR Income And Expense Report
+header 						LR Income And Expense Report
+
+date						Date
+region						Region
+subRegion					Sub Region
+branch						Branch
+type						Type
+searchBy					Search By
+search						Search
+wayBillNumber				LR No.
+branchName					Branch
+bookingDateTimeStr			Added Date
+quantity					Articles
+incomeAmount				Income
+expenseAmount				Expense
+executiveName				User Name
+

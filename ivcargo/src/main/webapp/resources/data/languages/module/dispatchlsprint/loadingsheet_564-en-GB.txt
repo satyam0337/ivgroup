@@ -1,0 +1,40 @@
+srNumberLabel					SL.<br> NO.
+lrNumberLabel					LR No.
+consigneeLabel					CONSIGNEE
+consigneeContactLabel			C/NEE NO.
+lrTypeLabel						LR TYPE
+consignmentPackingDetailsLabel	ART
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+amountLabel						TOTAL
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					TO:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				Art
+totalAmountLabel				Total
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+dateTimeLabel					Date:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+lsRemarkLabel					Remark :
+gst								GST no.
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WT
+declareValue                    INV VAL
+articleType                     ART TYPE
+directAmt						Direct<br> Amt.
+connectingAmt					Connecting<br> Amt.
+totalDirectFreightLabel			Direct Freight
+totalConnFreightLabel			Connecting<br> Freight

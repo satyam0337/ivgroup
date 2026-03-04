@@ -1,0 +1,11 @@
+{
+	"elementId"				: "AdditionalDiscount",
+	"elementName"			: "additionalDiscount",
+	"elementGlyphicon"		: "glyphicon glyphicon-none",
+	"elementType"			: "text",
+	"tooltipName"			: "Additional Discount",
+	"elementValueMaxLength" : 8,
+	"parentDivCss"			: "col-md-6",
+	"elementStyle" 			: "width: auto"
+}
+

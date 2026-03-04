@@ -1,0 +1,81 @@
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+bookingDateLabel				LR Date
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	No.of<br/>Art.
+packingTypeLabel				Packing<br/>Details
+packingTypeLabel1				Goods Contain
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				Freight
+loadingChargeLabel				LDG.
+amountLabel						Total
+amountLabel1					Amount
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Dispatch No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From Branch :
+toBranchLabel					To Branch :
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalLrLabel					Nos.of LRs
+totalArticleLabel				No.of Art
+totalWeightLabel				Weight
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Total
+driverNameLabel					Driver:
+driverMobileNumberLabel			Driver Mobile No :
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From 
+lrDestinationBranchLabel		To 
+lrDestinationBranchLabel1		Destination
+loadingClerkSignLabel			Loading Clerk Signature
+driverSignLabel					Driver Signature
+branchInchargeSignLabel			Prepared By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door<br/>Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+lrRemarkLabel					Remark
+bkgDateLabel					Date
+doorPickupLabel					Door<br/>Pickup
+doorDeliveryLabel				Door<br/>Delivery
+otherChargeLabel				Others
+totalDoorPickupLabel			Door<br/>Pickup
+totalOtherLabel					Others
+weightLabel						Weight
+weightLabel1					Act	Weight
+ownerNameLabel					Owner Name :
+driverNameLabel					Driver Name :
+engineNumberLabel				Engine Number :
+permitNumberLabel				Permit Number :
+licenseNoLabel					License No. :
+chasisNumberLabel				Chasis Number :
+validityLabel					Validity
+noOfDoorDeliveryLabel			No.of Door Dly.
+crossingChargeLabel				Crossing<br/>Amount
+payable							Payable
+receivable						Receivable
+crossingAgentName				Crossing Agent Name :
+rulesLable						Received above goods in good condition of delivery at destination along with the manifest and document.I hold myself responsible for any loss or damage to the entrusted to us for delivery and shall be bound the value to the M/S. S N Logistics (India) as per remarks of challan.I stand guarantee for the above lorry supplied by me also for the goods entrusted to the said. 
+deliveryat						Delivery at
+privatemark						Private Mark 
+brokername						Broker Name :
+ceWayNo							CEWayNo :
+billingBranch					Billing<br>Branch

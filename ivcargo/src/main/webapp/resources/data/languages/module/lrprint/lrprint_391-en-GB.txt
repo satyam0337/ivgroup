@@ -1,0 +1,52 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery At :
+deliveryContact				Contact :
+sourceBranch				FROM :
+destinationBranch			TO :
+lrType						TYPE :
+bookingDate					Date :
+actualWeight			  	ACTUAL WT:
+chargedWeight			  	CHARGED WT:
+lrNumber					L.R.NO :
+consignorName				CONSIGNOR :
+consigneeName				CONSIGNEE :
+declaredValue				Parcel Value :
+remark						REMARK :
+weight						Weight
+serviceTax					S.T
+other						OTHER
+grandTotal					Total
+tinNo						TIN No : 
+chargeName1					FREIGHT
+pickup                      PICKUP
+grCharge                    G.R.CHARGE
+hamali					    HAMALI
+other						OTHER
+discount					DISCOUNT
+total						TOTAL
+number						Ph : 
+consignorCopy				Consignor Copy
+consigneeCopy				Consignee Copy
+grnumber					LR NO : 
+mobile						MOBILE : 
+gstNo						GST NO : 
+nop							NOP
+pkgtype						PKG TYPE
+description					DESCRIPTION
+invno						INV. NO :
+invvalue					INV VALUE :
+delat						DEL AT :
+bookedby					BOOKED BY
+sgst						SGST
+igst						IGST
+cgst						CGST
+
+invdate						INV. DATE :
+driverCopy					Driver Copy
+gstpayableby				GST PAYABLE BY : 
+truckno						TRUCK NO :
+deliveryCopy				DELIVERY Copy
+
+newgstpaidby				GST PAYABLE BY : 
+address						ADDRESS : 

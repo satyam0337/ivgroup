@@ -1,0 +1,9 @@
+ {
+	"elementId"				:	"destinationAreaEle",
+	"elementGlyphicon"		:	"glyphicon glyphicon-th",
+	"elementName"			:	"destinationAreaEle",
+	"elementType"			:	"text",
+	"tooltipName"			: 	"Select Destination Area",
+	"labelId"				:	"destinationAreaSelect",
+	"elementDefaultValue"	:	""
+}

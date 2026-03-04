@@ -1,0 +1,10 @@
+ {
+	"elementId":"branchSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"branchSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Branch",
+	"labelId":"branchSelect",
+	"divRegion":"SearchRegion",
+	"elementDefaultValue":""
+}

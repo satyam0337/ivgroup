@@ -1,0 +1,18 @@
+branchAddressLabel				Reg Off :
+from							From :-
+to								To :-
+MFNO							MF NO :-
+Date							Date :-
+VehicleNo						Vehicle No :-
+lrNumberLabel					Receipt No
+NoOfPackets						No Of Packets
+ModeOfpay						Mode Of Pay
+Remark							Remark 
+sign							Receiver Sign
+srNumberLabel					Sr No
+consignorLabel					consignor
+consigneeLabel					consignee
+amountLabel						Amount
+lrCategoryLabel					Type
+totalArticleLabel				Pcs
+totalAmountLabel				Total Amt

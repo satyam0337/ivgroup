@@ -1,0 +1,56 @@
+fre							Freight 	
+ham							Hamali 	
+col							Collection 	
+stat						Statistical 	
+dd							Door Delivery 	
+fc							Form Charges 	
+fov							FOV 	
+ot							Other 	
+aoc							AOC 
+consignorname		CONSIGNOR :
+gstn				GSTN :
+consigneename		CONSIGNEE :
+qty					QTY
+articledetails		Said To Contain
+actwgt				Actual Weight
+chrgwgt				Chrg. Wt. 
+invno				Invoice No
+decval				Declared Value
+delto				Delivery Type
+risk				Risk
+podrq				POD Required
+remarks				Remarks :
+delat				Delivery At :
+date				DATE :
+lrnum				G.C. NOTE NO. :
+src					Source :
+time				TIME :
+dest				Destination :
+chrges				Charges
+amt					Amount
+paymode				Payment Mode
+gstpayby			GST Payable By
+freight				Basic Freight
+collection			Local Collection
+dd					Door Delivery
+hamali				Hamali
+statchrg			Statistical Charge
+other				Other Charge
+fov					FOV
+subtotal			Sub Total
+cgst				C.GST
+sgst				S.GST
+igst				I.GST
+netamt				Net Amount
+authsign			Authorized Signature
+address				ADDRESS :
+total				TOTAL :
+eWayBillNumber		EWayBillNumber :
+acknowledge			Acknowledge
+Mobile				Mobile : 
+lrNo				LR.NO.
+from				From : 
+to					To : 
+payment				PAYMENTS ON OFFICIAL QR.
+site				www.Lmtco.com
+poweredBy			Powered By : 

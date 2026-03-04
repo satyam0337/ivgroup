@@ -1,0 +1,35 @@
+
+toLabel							To,  
+phoneNumberLabel				Phone :  
+emailLabel						Email : 
+gstnLabel						GSTN : 
+billCoverLetterNumberLabel		Doc No :
+billCoverLetterDateLabel		Date :  
+date							Date  
+amountLabel						Amount
+lrSourceBranchLabel				FROM 
+lrDestBranchLabel				DESTINATION 
+lrNumberLabel					DOCKET NO
+billTypeLabel					BILL TYPE
+header1							COVERING LETTER
+header2							OUTGOING BILLS
+dataInfo1						Dear Sir/Madam,
+dataInfo2						Authorised Signatory
+dataInfo3Email					admin@sklcargomovers.com /	sharmalks@srikrishnalogistics.in
+dataInfoMsg1					We are pleased to forward herewith our following transportation freight bills along with the relevant acknowledgement <br> the goods delivered at the destination for your kind perusal
+dataInfoMsg2					We Shall be highly obliged if you kindly pass our bills and remit us the payment at your earliest
+dataInfoMsg3					Thanking you<br>Your's Faithfully<br>SKL Cargo Movers India Pvt.Ltd.
+
+bankDetails						Bank Details
+accountNameLabel                ACC. NAME
+bankNameLabel                   BANK NAME
+accountNoLabel                  ACC. No.
+ifsCodeLabel                    IFS CODE 
+branchLabel                     BRANCH
+accountName                     : SKL Cargo Movers India Pvt.Ltd.
+bankName                        : ICICI Bank
+accountNo                       : 603505015359
+ifsCode                         : ICIC0006035
+								
+
+                            

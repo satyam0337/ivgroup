@@ -1,0 +1,107 @@
+header 						Party Master
+region						Region
+subRegion					Sub Region
+branch						Branch
+partyName					Party Name
+isTBB						Is TBB?
+partyType					Party Type
+address						Address
+country						Country
+state						State
+city						City
+pincode						Pincode
+contactPerson				Contact Person
+department					Department
+phoneNumber1				Phone Number 1
+phoneNumber2				Phone Number 2
+mobileNumber1				Mobile Number 1
+mobileNumber2				Mobile Number 2
+faxNumber					Fax Number
+emailAddress				Email
+location					Location
+marketingPerson				Marketing Person
+serviceTaxNumber			Service Tax No.
+tinNumber					TIN No.
+panNumber					PAN No.
+remark						Remark
+isBlackListed				Is Black Listed?				
+taxPaidByTransporter		GST Paid By<br/>Transporter ?
+serviceTaxRequired			S.Tax Required?
+partyDisplayName			Display Name
+userName					User Name
+password					Password
+edit						Edit
+save						Save
+update						Update
+deactivate					Deactivate
+activate					Activate
+delete						Delete
+deliveryAt					Delivery At
+chargedWeightRoundOff		Charged Weight<br/>Round Off
+isPodRequired				Is Pod Required?
+isPodRequiredForInvoiceCreation		Is Pod Required<br/>For Invoice Creation?
+isDiscountAllowed			Is Discount<br/>Allowed?
+displayName					Display Name
+partyCode					Party Code
+gstn						Party GST No.
+header						View All Party Details
+subHeader					All Party Details
+header1						Add New Party
+chargedWeightRoundOffValue	Charged Weight<br/>Round Off Value
+search						Search
+createdDate					Created Date
+updatedDate					Updated Date
+shortCreditTxnType			Short Credit<br/>Txn Type
+rateAllowedOnWeightType		Rate AllowedOn<br/>Weight Type
+insuredBy					Insured By
+stPaidBy					S.T. Paid By
+partyNameSelector			Search Party
+rateConfigure				Rate Define<br/>Y/N
+tanNumber					TAN No.
+chgwgtLessThanActwgt		Charged Weight Less Than<br/> Actual Weight Allow : 
+deleteheader				Delete
+smsRequired					SMS Service
+branchMap					Branch Mapping
+smsRequiredName				SMS Required<br/>Y/N
+partyStatus					Status
+isTransporter				Is Transporter
+isParentParty				Is Parent
+partyNameSelectorForParentParty	Parent Name
+partyBusinessType			Business Type
+searchPartyNameSelector		Search Party
+chargedWt					Charged Wt
+saveBtn						Save 
+billSelectionType			Bill Type			
+isExempted					Is Exempted?
+cftValue					CFT Value
+matadiChargesApplicable		Matadi Charges Applicable
+gstNumSelector				Search GST
+partyConfiguration			Party Configuration
+taxType						Tax Type
+cftUnit						CFT Unit
+partyNameForClaim			Search Party
+claimAmount					Claim Amount
+partyConfigurationHeader	Party Configuration
+partyClaimHeader			Party Claim
+addPartyClaimBtn			Add
+updatePartyClaimBtn			Update
+deletePartyClaimBtn			Delete
+mobileNumSelector			Mobile No
+commissionSelector			Commission (%)
+limitAmountSelector			Limit Amount
+billingBranch				Billing Branch
+billingPerson				Billing Person
+billingPersonPhn			Billing Person No
+accountPerson				Account Person
+accountPersonNo 			A/C Person No
+sourceBranch				Source Branch
+billingPartyName			Billing Party
+billingBranchesMap			Billing Branches
+noOfDays					No Of Day's
+invoiceDueDays				Invoice Due Day's
+deviationSelector			Deviation (%)
+deductionSelector			Deduction (%)
+billingPartyAddress			Billing Party Address
+lmtStaff					LMT Staff
+issueDate					Issue Date
+letterNo					Letter No

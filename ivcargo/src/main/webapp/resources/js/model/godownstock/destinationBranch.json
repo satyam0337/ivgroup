@@ -1,0 +1,12 @@
+ {
+	"elementId":"destinationBranchEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"destinationBranchEle",
+	"elementType":"text",
+	"labelId":"destinationBranch",
+	"elementDefaultValue":"",
+	"dataDtoKey":"destinationBranchName",
+	"columnPrintWidthInPercentage":"50",
+	"columnWidth":200,
+	"columnMinWidth":90
+}

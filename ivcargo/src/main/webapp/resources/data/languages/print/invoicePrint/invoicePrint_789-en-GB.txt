@@ -1,0 +1,32 @@
+mDash					M -&nbsp;
+mLabel					M :&nbsp;
+invoice					Invoice
+original				Original
+msLabel					M/s. :&nbsp;
+gstLabel				GST No :&nbsp;
+invoiceNo				Invoice No.
+date					Date
+to						To
+srNo					Sr.
+lrDate					Lr Date
+lrNo					L.R. No.
+consignor				CONSIGNOR
+toCity					To City
+art						Art.
+kg						(Kg)
+freight					Freight
+totalArticleLabel		Total Article :&nbsp;
+totalWeightLabel		Total Weight :&nbsp;
+subTotal				Sub Total
+rsInWordsLabel			Rs. (in words) :&nbsp;
+discount				DISCOUNT
+roundoff				ROUND OFF
+panNoLabel				PAN NO :&nbsp;
+gstNoLabel				GSTNO :&nbsp;
+narrationLabel			Narration :&nbsp;
+grandTotal				Grand Total
+bankLabel				Bank :&nbsp;
+acLabel					A/C :&nbsp;
+ifscNoLabel				IFSC No :&nbsp;
+termsAndCondition		Terms &amp; Condition
+authorizedSignatory		( Authorized Signatory )

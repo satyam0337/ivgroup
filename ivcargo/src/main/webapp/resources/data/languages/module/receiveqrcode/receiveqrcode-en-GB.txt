@@ -1,0 +1,9 @@
+scanqrcodehead				Receive
+removeheader				Remove
+removeLabel					Remove
+serialnumberheader 			SR No.
+WayBillNumber				LR No.
+WayBillTypeName				Type
+Quantity					Qty
+LSNumber					LS Number
+receiveBtn					Receive

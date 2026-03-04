@@ -1,0 +1,11 @@
+ {
+	"elementId":"wayBillConsignorNameEle",
+	"elementName":"wayBillConsignorNameEle",
+	"tooltipName": "Consignor Name",
+	"labelId":"WayBillConsignorName",
+	"elementDefaultValue":"",
+	"dataDtoKey":"wayBillConsignorName",
+	"elementConfigKey": "WayBillConsignorName",
+	"columnPrintWidthInPercentage": "40",
+	"parentDivCss": "col-xs-4"
+}

@@ -1,0 +1,16 @@
+lrnumber			WayBillNumber :
+crDate				Delivery Time :
+DeliveryReceipe		Delivery Receipt :
+from				From :
+to					To :
+deiveredto			Delivered To :
+deliverToNo			Delivered To No :
+wayBillType			WB Type :
+noOfCOnsignment		No Of Congs :
+noOfarticle			No Of Pkgs. :
+bookingCharges		Bkg chrgs. :
+DeliveryCharge		Delivery Chgs. :
+deliveriDisc		Delivery Disc :
+GrandTotal			Total :
+printedBy			Printed By :
+printTime			Print Time :

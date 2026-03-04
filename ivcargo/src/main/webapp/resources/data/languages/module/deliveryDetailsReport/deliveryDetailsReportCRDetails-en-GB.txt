@@ -1,0 +1,55 @@
+header 						Delivery Details Report
+
+date						Date
+region						Region
+subRegion					Area
+branch						Branch
+paymentType					Payment Type
+
+search						Search
+
+subHeader1					Delivery Details Report CR Data
+subHeader2					Delivery Cancellation Details
+subHeader3					Payment Type Wise Summary
+
+serialnumberheader			Sr No
+deliveryDateTimeStr			Dly Date
+wayBillDeliveryNumber		CR No
+wayBillNumber				LR No
+deliveredToPersonDetails	Delivered To
+quantity					Pkgs
+actualWeight				Act Wt
+bookingAmount				To Pay
+sourceBranchName			From
+destinationBranchName		To
+wayBillTypeName				LR type
+grandTotal					Amt
+consignorName				Consignor
+consigneeName				Consignee
+executiveName				Dlvrd by
+remark						Remark
+bookingDateTimeStr			Bk Dt
+receivedDateTimeStr			Rcv Dt
+paymentStatusName			Credit Payment Details
+paymentTypeName				Pay Type
+cancelledCrCharges			Cancelled CR Amt
+deliveryDiscount			Dly. Disc.
+deliveryCommission			Dly. Comm.
+crno						C.C.M.No
+sourceBranch				Station
+noofArticles				Art.
+paymentType					Mode Of Payment
+chequeNumber				Che No./ Tran No.
+grandTotalForggs			Total
+freight						Freight
+tdsOnAmount					TDSOnAmount
+tdsAmount					TDSAmount
+paidAmount					Paid
+deliveryToName				Delivery To
+cnorMobileNumber			Consignor No.
+cneeMobileNumber			Consignee No.
+deliveryToNumber			Delivered To No.
+declaredValue				Goods Val.
+invoiceNo					Inv No.
+saidToContain				Contains 
+packingType					Article 

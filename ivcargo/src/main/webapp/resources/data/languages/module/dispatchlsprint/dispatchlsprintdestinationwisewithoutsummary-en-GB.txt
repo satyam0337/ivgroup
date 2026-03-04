@@ -1,0 +1,10 @@
+wayBillNumber							LR No
+wayBillConsignorName					Con'or
+wayBillConsigneeName					Con'nee
+wayBillConsigneeMobileNumber			Cons'nee No
+wayBillArticleQuantity					No. Of Art
+packingTypeString						Art Type
+wayBillType								Type
+wayBillPaidTotal						Paid
+wayBillTopayTotal						ToPay
+wayBillTBBTotal							TBB

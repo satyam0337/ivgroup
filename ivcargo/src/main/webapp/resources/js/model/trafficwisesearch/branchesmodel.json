@@ -1,0 +1,15 @@
+ {
+	"elementId"				: "excBranchesSelectEle",
+	"elementGlyphicon"		: "glyphicon glyphicon-grain",
+	"elementName"			: "excBranchesSelectEle",
+	"elementType"			: "text",
+	"tooltipName"			: "Select Branches",
+	"labelId"				: "excBranchesSelect",
+	"elementDefaultValue"	: "",
+	"dataDtoKey"			: "branchesName",
+	"divRegion"				: "branchRegion",
+	"elementConfigKey"		: "Branches",
+	"columnPrintWidthInPercentage": "18",
+	"columnWidth"			: 100,
+	"columnMinWidth"		: 60
+}

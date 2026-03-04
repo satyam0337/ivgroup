@@ -1,0 +1,39 @@
+date							Date :
+sno								S.No.
+gstno							GST NO.: 29AAJCP5378G1ZV  &nbsp; &nbsp;
+panno							PAN : AAJCP5378G
+branchname						Branch Name : &nbsp;
+consignor						Consignor :
+consignee 						Consignee :
+rsinwords						Rs.in words :
+from							From : 
+to								To :
+lrno  							LR NO.:
+date							DATE :
+noofPkgs						No. of Pkgs. :
+chgWeight 						Chg. Weight :
+paymenttype						Payment Type :
+freight							Booking Freight
+localfreight					Local Freight
+doordelivery                    Door Delivery
+localgodowncharge				Local Godown 
+transitcharge					Transit 
+demurragecharge					Demurrage 
+dmrcharge						DMR 
+total							Total
+gst								GST
+gtotal							G.Total
+other							Other
+info							For PARVATHI PARAMESHWARA TRANSLOGISTICS PVT. LTD.
+hamali							Hamali
+charge							Charges
+amount							Amount
+branchadd						Branch Add :
+deliverymoneyreceipt			DELIVERY MONEY RECEIPT No.
+receivedwiththanksfrom			Received with Thanks From :
+crno							CR No.:
+bkgdate							Bkg. Date :
+remarks							Remarks :
+signature 						Signature :
+contactno						Contact No.:
+discount						Discount

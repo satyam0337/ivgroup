@@ -1,0 +1,40 @@
+header 						LR Blocking Details 
+header1						<b>LR Blocking Details</b>
+date						Date
+viewAll						View All Data : 
+region						From Region
+subRegion					From Area
+branch						From Branch
+find						Find
+
+serialnumberheader			SR. No
+billNo						Bill No
+date 						Date
+collectionPerson			Collection Person
+totalLRs					Total LRs.
+status						Status
+gstAmount					GST
+discountAmount				DISC
+balanceAmount				Balance Amt
+billAmount					Bill Amt
+ReceivedAmount				Received Amt
+notReceivedAmount			Not	Received Amt
+pendingLRs					Pending LRs
+receivedBy					Payment Received By
+printStbs					Print
+lrDetailsStr				View LRs
+partyName					Party Name
+
+wayBillNumber				LR NO
+bookingDateTimeStr			Booking Date
+sourceBranchName			Source Branch Name
+destinationBranchName		Destination Branch Name
+statusString				Status
+lockCreationDateTimeStr		Blocking Date & Time
+lockBranchName				Blocking Branch Name
+lockExecutiveName			Blocking User 
+lockRemark					Blocking Remark
+releaseCreationDateTimeStr	Releasing Date & Time
+releaseBranchName			Releasing Branch Name
+releaseExecutiveName		Releasing User Name
+releaseRemark				Releasing Remark

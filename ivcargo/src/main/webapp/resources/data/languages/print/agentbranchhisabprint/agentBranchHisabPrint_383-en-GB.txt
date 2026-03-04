@@ -1,0 +1,25 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+hisabNumberLabel				Hisab No.
+TotalHisabLabel					Total Hisab
+settledHisabLabel				Settled Hisab
+balanceHisabLabel				Balance Hisab
+amountPaidByBranchLabel			Amount Paid By Branch 
+remarkLabel						Remark
+agentBranchHisabNumberLabel		Agent Branch Hisab Number :
+hisabDateLabel					Date :  
+agentBranchNameLabel			Agent Branch : 
+hisabDoneByBranchLabel			Hisab By Branch : 
+summaryHeaderLabel				Summary Header
+amountSummaryLabel				Amount
+lastOutStandingLabel			Last Outstanding
+finalAmtLabel					Final Amt 
+outwardFreight					Outward freight
+inwardFreight					Inward freight
+totalFreight					Total Freight	
+outwardCommission				Outward Commission	
+inwardCommission            	Inward Commission
+totalCommission 				Total Commission
+paidAmount  					Paid Amount
+OtherBranchToPay 				Other Branch To Pay
+serviceCharge 					Service Charge

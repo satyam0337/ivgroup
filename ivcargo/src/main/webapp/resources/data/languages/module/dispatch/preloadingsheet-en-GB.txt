@@ -1,0 +1,45 @@
+header 							<b>Pre Loading Sheet</b>
+areaSelect 						Select Area
+branchSelect 					Select Branch
+serialnumberheader 				SR No.
+StatusButtonEle 				Activate/Deactivate
+incomingDateTimeStamp			Date
+wayBillNumber					LR Number
+sourceBranch					Source
+destinationBranch				Destination
+consignorName					Consignor
+consigneeName					Consignee
+totalArticles					Loaded Art
+articleDetails					Articles
+totalWeight						Weight
+amount							Amount
+waybilltype						LR Type
+deliveryTo						Delivery To
+freightUptoBranch				Freight Upto
+vehicleNumber					Vehicle Number
+cleanerName						Cleaner Name
+driverLicenceNumber				Driver Licence Number
+driverMobileNumber				Driver Mobile Number
+driverName						Driver Name
+remark							Remark
+truckDestination				Truck Destination
+DispatchLabel					Dispatch
+DeleteLabel						Delete
+removeheader					Remove
+removeLabel						Remove
+partialheader					Partial
+quantity						Quantity
+packingType						Packing Type
+dispatchQuantity				Dispatch Quantity
+singlelr						Single LR
+driverNumber					Mobile No.
+reprintBtnLabel					Reprint
+reprintMsg						Previous LS Number
+actualtotalArticles				Total Art
+lr_No                           LR_No
+nops                            NOPS
+from                            From
+to                              To
+packing                         Packing
+awt                             AWT
+bookingDate                     Booking Date

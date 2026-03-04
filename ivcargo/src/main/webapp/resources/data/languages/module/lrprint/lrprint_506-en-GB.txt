@@ -1,0 +1,54 @@
+invoiceNumber				Invoice No.
+deliveryAt					Delivery At :
+sourceBranch				From :
+destinationBranch			To :
+lrType						Type
+bookingDate					Date :
+actualWeight			  	Actual Weight
+chargedWeight			  	Charged Weight
+lrNumber					LR No :
+consignorname				Consignor :
+consigneename				Consignee :
+declaredValue				Value
+weight						Weight
+serviceTax					G.S.T
+other						Other
+grandTotal					Total
+tinNo						TIN No : 
+chargeName1					Freight
+chargeName49				Handling
+chargeName25				Door Dly.
+chargeName6					Door Pickup
+chargeName48				Unloading
+chargeName29				LR Charge
+chargeName7					Octroi
+number						Ph : 
+chargeName23				Stationary	
+printedby					Printed By : 
+seperator					Of
+serviceTaxPaidBy			G.S.T Paid By :
+mobilenumber				Mobile No :
+consignmentQuantity			Qty.
+totalQty					Tot.
+description					Description
+consignorcopy				Consignor Copy		
+authSign                    Auth Sign
+vehicleCopy					Vehicle Copy
+TruckCopy				    Truck Copy
+CustomerCopy				Customer Copy
+partycopy					Party Copy
+gstin						GSTIN : 
+freight						Freight
+ddc							DDC
+hamali						Hamali
+service						Service
+sc							S.C
+cover						Cover
+mobno						MOBILE NO.
+gstNo						GST No :
+sgst						SGST
+cgst						CGST
+igst						IGST
+freighttype					Freight type : 
+remark						Remark : 
+address						Address : 

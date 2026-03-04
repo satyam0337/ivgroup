@@ -1,0 +1,6 @@
+header 						Transfer Party Name
+accountGroupLabel			Account Group
+partyIdentifierLabel		Party Identifier
+tbbPartyIdentifierLabel		TBB Party Identifier
+transferPartyName			Transfer Normal Party Name
+transferTBBPartyName		Transfer TBB Party Name

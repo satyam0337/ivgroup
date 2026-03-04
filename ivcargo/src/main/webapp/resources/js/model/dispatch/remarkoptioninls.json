@@ -1,0 +1,13 @@
+ {
+	"elementId":"remarkEle",
+	"elementGlyphicon":"glyphicon glyphicon-none",
+	"elementName":"remarkEle",
+	"elementType":"text",
+	"tooltipName": "Remark",
+	"labelId":"remark",
+	"elementDefaultValue":"",
+	"parentDivCss":"col-xs-4",
+	"divRegion" :	"truckDetination",
+	"labelCss":"col-xs-5",
+	"elementDivCss":"col-xs-7 validation-message"
+}

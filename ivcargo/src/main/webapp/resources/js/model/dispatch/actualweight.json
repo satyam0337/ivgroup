@@ -1,0 +1,9 @@
+ {
+	"labelId":"actualWeight",
+	"dataDtoKey":"consignmentSummaryActualWeight",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":"true",
+	"elementConfigKey":"actualWeight",
+	"columnPrintWidthInPercentage":"15",
+	"columnWidth":130
+}

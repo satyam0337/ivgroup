@@ -1,0 +1,13 @@
+header 					BLHPV Payment Details
+subHeader				<b>Search Details</b>
+region					Region
+subRegion				Sub Region
+branch					Branch
+find					Find
+save					Save
+viewPaymentDetails		View Payment Details
+vehicleNumberLabel		Vehicle Number
+paymentType				Payment Type For All
+paymentStatus			Payment Status For All
+plainPrint				Plain Print
+vehicleAgentLabel		Vehicle Agent

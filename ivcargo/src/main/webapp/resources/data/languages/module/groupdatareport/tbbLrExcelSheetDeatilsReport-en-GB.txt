@@ -1,0 +1,26 @@
+header 						TBB Data Report
+date						Date
+region						Region
+subRegion					Sub Region
+branch						Branch
+search						Search
+subHeader1					TBB Lr Details
+serialnumberheader			SR. No
+
+lrNumber					LR No.
+bookingDate					Booking Date
+fromBranch					From
+toBranch					To
+turBranch					TUR Branch
+crNumber					CR Number
+deliveryDate				Delivery Date
+deliveryBranch				CR Branch
+consignorName				Cnor Name
+consigneeName				Cnee Name
+quantity					Quantity
+articleType					Article Type
+actualWeight				Actual Weight
+chargedWeight				Charged Weight
+wayBillType					WayBill Type
+wayBillStatus				Status
+regionName					Region Name

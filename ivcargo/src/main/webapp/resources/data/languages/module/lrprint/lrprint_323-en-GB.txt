@@ -1,0 +1,39 @@
+seperator			OF
+invoiceNumber		Invoice No. : 
+weight				Weight
+actualWeight		Actual
+chargeWeight		Charge
+declaredValue		Value:
+vehicleNo			Truck No.
+freight				Freight
+hamali				Hamali
+lrCharge			L.R. Chgs.
+collection			Collection
+doordly				Door Dly.
+detention			Detention
+others				Others
+crossinghire		CRS. Hire*
+serviceTax			GST
+grandTotal			TOTAL
+article				Article
+description			Description
+totalArticle		Total-
+deliveryat			DELIVERY AT :
+remark				Remark : 
+forLabel			For: Jayram Roadlines
+consignor			Consignor:
+consignee			Consignee:
+charges				Charges
+servicetaxNumber	GST NO. : 
+signNstamp			SIGN & STAMP:
+lrlabel				G.C.Note No.
+datelabel			Date:
+lrSource			From:
+lrDestination		To:
+lrFreightUpto		Frt. Upto:
+kg					Kg.
+gstno				GSTN : 
+lrDetails			LR Details
+podRequied			POD Req.
+bookingType			Bkg.Type
+eWayBillNo			E-WayBill No.

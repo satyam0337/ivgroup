@@ -1,0 +1,62 @@
+srNumberLabel					SL.NO.
+lrNumberLabel					LR No.
+consignorLabel					C/NOR
+consigneeLabel					C/NEE
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						FRGHT
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				ART
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				AMOUNT
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				ORG
+lrDestinationBranchLabel		DEST
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BK DT
+packages						Art
+gst								GST No. : 
+saidToContain					ART DTLS
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WGT
+totalLrChargeLabel				LR Charge
+ConsolidateEwaybillNo		Con.EwaybillNo :
+deliverytype				DD	
+weightLabel     WEIGHT             
+toPayLabel        TO PAY
+paidLabel        PAID
+ddLabel          DD LR
+lrCount						LR COUNT :  

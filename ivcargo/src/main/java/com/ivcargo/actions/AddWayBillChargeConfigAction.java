@@ -1,0 +1,325 @@
+package com.ivcargo.actions;
+
+import java.sql.Timestamp;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashMap;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.businesslogic.CRTxnBLL;
+import com.businesslogic.ChargeConfigBLL;
+import com.businesslogic.properties.impl.PropertyConfigValueBLLImpl;
+import com.framework.Action;
+import com.framework.JSPUtility;
+import com.iv.utils.dataObject.ValueObject;
+import com.ivcargo.actionUtility.ActionStaticUtil;
+import com.ivcargo.actionUtility.ActionStepsUtil;
+import com.platform.dao.DeliveryContactDetailsDao;
+import com.platform.dao.WayBillDao;
+import com.platform.dao.reports.WayBillDetailsDAO;
+import com.platform.dto.CRTxn;
+import com.platform.dto.ChargeConfig;
+import com.platform.dto.ChargeTypeMaster;
+import com.platform.dto.DeliveryContactDetails;
+import com.platform.dto.Executive;
+import com.platform.dto.PropertiesFileConstants;
+import com.platform.dto.WayBill;
+import com.platform.dto.WayBillCharges;
+import com.platform.dto.WayBillDeliveryCharges;
+import com.platform.dto.WayBillInfo;
+import com.platform.dto.WayBillTaxTxn;
+import com.platform.dto.model.WayBillChargeConfigModel;
+import com.platform.dto.model.WayBillDeatailsModel;
+import com.platform.utils.Utility;
+
+public class AddWayBillChargeConfigAction implements Action  {
+	ValueObject					configuration					= null;
+	PropertyConfigValueBLLImpl	propertyConfigValueBLLImpl		= null;
+	int 						filter							= 0;
+	public void execute(HttpServletRequest request, HttpServletResponse response) {
+
+		// TODO Auto-generated method stub
+		HashMap<String,Object>	 	error 					= null;
+		try {
+			error = ActionStaticUtil.getSystemErrorColl(request);
+			if(ActionStaticUtil.isSystemError(request,error)){
+				return;
+			}
+			Executive 		executive 		= (Executive) request.getSession().getAttribute("executive");
+			ChargeConfigBLL chargeConfigBLL = new ChargeConfigBLL();
+			ValueObject 	inValObj        = new ValueObject();
+			filter				= PropertiesFileConstants.CHARGECONFIG;
+			propertyConfigValueBLLImpl = new PropertyConfigValueBLLImpl();
+			configuration			   = propertyConfigValueBLLImpl.getConfiguration(executive, filter);
+			
+			inValObj.put("dispatchLedgerId", JSPUtility.GetLong(request, "dispatchLedgerId", 0));
+
+			WayBillChargeConfigModel[] wayBillChargeConfigUserModels = chargeConfigBLL.getWayBillChargeConfigDetails(inValObj);
+			for (int i = 0; i < wayBillChargeConfigUserModels.length; i++) {
+				wayBillChargeConfigUserModels[i].setChargeAmount(JSPUtility.GetDouble(request, ""+wayBillChargeConfigUserModels[i].getWayBillId(), 0));
+			}
+
+			WayBillChargeConfigModel[] wayBillChargeConfigModels = chargeConfigBLL.getWayBillChargeConfigExistDetails(inValObj);
+
+			ArrayList<ChargeConfig> 	insertChargeConfig 		= new ArrayList<ChargeConfig>();
+			ArrayList<ChargeConfig> 	updateChargeConfig 		= new ArrayList<ChargeConfig>();
+			ArrayList<WayBillDeliveryCharges> 	updateWayBillCharges 	= new ArrayList<WayBillDeliveryCharges>();
+			ArrayList<Long> 			wayBillIds 				= new ArrayList<Long>();
+			HashMap<Long, WayBill>      wayBillHM				= null;
+			ArrayList<WayBillInfo> 		wayBillInfoList 		= new ArrayList<WayBillInfo>();
+			WayBillInfo[]				wayBillInfoArray		= null;
+			HashMap<Long, DeliveryContactDetails> 		delConColl		= null;
+			DeliveryContactDetails						delConDet		= null;
+			ArrayList<Long>                 crIdList					= null;
+			ValueObject						outValueObject				= null;
+			CRTxn[]									crTxnArray						= null;			
+			DeliveryContactDetails[]				delConDetArray 					= null;
+			HashMap<Long, DeliveryContactDetails>			dcdHM							= null; 
+			CRTxnBLL										crtxnBll						= null;
+			ValueObject										crTxnInObject					= null;
+			WayBillInfo			wayBillInfo			= null;	
+			
+			Timestamp 	createDate 	= new Timestamp(new Date().getTime());
+			int 		increment 	= 0;
+			boolean 	update 		= false;
+			crIdList	= new ArrayList<Long>();
+			dcdHM		= new HashMap<Long, DeliveryContactDetails>();
+			crtxnBll	= new CRTxnBLL();
+
+			if(wayBillChargeConfigModels.length > 0){
+				for (int i = 0; i < wayBillChargeConfigUserModels.length; i++) {
+					increment 	= 0;
+					update 		= false;
+
+					for(int j=0; j< wayBillChargeConfigModels.length; j++){
+						if(wayBillChargeConfigUserModels[i].getWayBillId() == wayBillChargeConfigModels[j].getWayBillId()){
+							increment++;
+							if(wayBillChargeConfigUserModels[i].getChargeAmount() != wayBillChargeConfigModels[j].getChargeAmount()){
+								update = true;
+							}
+						}
+					}
+
+					if(increment == 0){
+						//Insert into ChargeConfig
+						if(wayBillChargeConfigUserModels[i].getChargeAmount() > 0){
+							insertChargeConfig.add(getChargeConfigModel(executive ,wayBillChargeConfigUserModels[i] ,createDate));
+						}
+					} else{
+						if(update){
+							//Update into ChargeConfig
+							updateChargeConfig.add(getChargeConfigModel(executive ,wayBillChargeConfigUserModels[i] ,createDate));
+						}
+					}
+
+				}
+			} else {
+				//Insert into ChargeConfig
+				for (int i = 0; i < wayBillChargeConfigUserModels.length; i++) {
+					if(wayBillChargeConfigUserModels[i].getChargeAmount() > 0){
+						insertChargeConfig.add(getChargeConfigModel(executive ,wayBillChargeConfigUserModels[i] ,createDate));
+					}
+				}
+			}
+
+			for (int i = 0; i < wayBillChargeConfigUserModels.length; i++) {
+				if(wayBillChargeConfigUserModels[i].getStatus() == WayBill.WAYBILL_STATUS_DUEUNDELIVERED){
+					updateWayBillCharges.add(getWayBillChargesDto(wayBillChargeConfigUserModels[i]));
+					wayBillIds.add(wayBillChargeConfigUserModels[i].getWayBillId());
+				}
+			}
+
+			ChargeConfig[] insertChargeConfigArr = new ChargeConfig[insertChargeConfig.size()];
+			insertChargeConfig.toArray(insertChargeConfigArr);
+
+			ChargeConfig[] updateChargeConfigArr = new ChargeConfig[updateChargeConfig.size()];
+			updateChargeConfig.toArray(updateChargeConfigArr);
+
+			WayBillDeliveryCharges[] wayBillChargesArr = new WayBillDeliveryCharges[updateWayBillCharges.size()];
+			updateWayBillCharges.toArray(wayBillChargesArr);
+
+			Long[] wayBillIdArray = new Long[wayBillIds.size()];
+			wayBillIds.toArray(wayBillIdArray);
+
+			WayBill[] wayBill = new WayBill[0];
+			
+			if(wayBillIdArray.length > 0){
+
+				HashMap<Long, WayBillDeatailsModel> wayBillDetails  = WayBillDetailsDAO.getInstance().getWayBillDetails(wayBillIdArray ,true ,ChargeTypeMaster.WAYBILL_CHARGETYPE_DELIVERY ,true ,WayBillTaxTxn.WAYBILL_TAX_TXN_TYPE_BOOKING ,false);
+				wayBill 	= new WayBill[wayBillChargesArr.length];
+				wayBillHM	= WayBillDao.getInstance().getLimitedLRDetails(Utility.GetLongArrayListToString(wayBillIds));	
+				delConColl  = DeliveryContactDetailsDao.getInstance().getDeliveryContactDetails(Utility.GetLongArrayListToString(wayBillIds));
+				WayBillCharges[] 	wayBillCharges 		= null;
+				WayBillTaxTxn[] 	wayBillTax 			= null;
+				double 				totalCharges		= 0.00;
+				double 				totalTax 			= 0.00;
+				double				deliveryTotal		= 0.00;
+
+				for (int i = 0; i < wayBillChargesArr.length; i++) {
+
+					//WayBill Charges (Delivery)
+					wayBill[i] = new WayBill();
+					wayBillCharges = wayBillDetails.get(wayBillChargesArr[i].getWayBillId()).getWayBillCharges();
+					totalCharges   = 0.00;
+					for(int j=0;j<wayBillCharges.length;j++){
+						if(wayBillCharges[j].getWayBillChargeMasterId() == Utility.getLong(configuration.get("chargeType"))){
+							totalCharges = totalCharges + wayBillChargesArr[i].getChargeAmount();
+						} else {
+							totalCharges = totalCharges + wayBillCharges[j].getChargeAmount();
+						}
+					}
+					//end 	
+
+					//Calculate Total WayBill Tax
+					wayBillTax 	= wayBillDetails.get(wayBillChargesArr[i].getWayBillId()).getWayBillTaxTxn();
+					totalTax 	= 0.00;
+					for(int k=0;k<wayBillTax.length;k++){
+						totalTax = totalTax + wayBillTax[k].getTaxAmount();
+					}
+					//end
+
+					//Calculate Total Discount
+					/*totalDiscount = 0.00;
+					if(wayBillChargesArr[i].isDiscountPercent()){
+						totalDiscount = Math.round(wayBillChargesArr[i].getAmount() * wayBillChargesArr[i].getDiscount() / 100);
+					}else{
+						totalDiscount = wayBillChargesArr[i].getDiscount();
+					}*/
+					//end
+
+					deliveryTotal = 0.00;
+					wayBillInfo	    = new WayBillInfo();
+					wayBillInfo.setWayBillId(wayBillChargesArr[i].getWayBillId());
+					wayBillInfo.setDeliveryChargesSum(totalCharges);
+					wayBillInfo.setDeliveryTimeServiceTax(wayBillHM.get(wayBillChargesArr[i].getWayBillId()).getDeliveryTimeServiceTax());
+					wayBillInfo.setDeliveryDiscount(wayBillHM.get(wayBillChargesArr[i].getWayBillId()).getDeliveryDiscount());
+					
+					deliveryTotal = (wayBillInfo.getDeliveryChargesSum() + wayBillInfo.getDeliveryTimeServiceTax()) - wayBillInfo.getDeliveryDiscount();
+					
+					wayBillInfo.setDeliveryTotal(deliveryTotal);
+					wayBillInfo.setGrandTotal(wayBillHM.get(wayBillChargesArr[i].getWayBillId()).getBookingTotal() + wayBillInfo.getDeliveryTotal());
+					wayBillInfoList.add(wayBillInfo);
+
+					wayBill[i].setWayBillId(wayBillChargesArr[i].getWayBillId());
+					wayBill[i].setDeliveryAmount(wayBillInfo.getDeliveryChargesSum() + wayBillInfo.getDeliveryTimeServiceTax());
+					wayBill[i].setGrandTotal(wayBillInfo.getGrandTotal());
+					
+					if(delConColl != null && delConColl.size() > 0){
+						delConDet 	= delConColl.get(wayBillInfo.getWayBillId());
+						
+						if(delConDet != null){
+
+							delConDet.setDeliverySumCharges(wayBillInfo.getDeliveryChargesSum());
+							delConDet.setDeliveryTimeTax(wayBillInfo.getDeliveryTimeServiceTax());
+							delConDet.setDeliveryDiscount(wayBillInfo.getDeliveryDiscount());
+							delConDet.setDeliveryTotal(wayBillInfo.getDeliveryTotal());
+							delConDet.setGrandTotal(wayBillInfo.getGrandTotal());
+
+							crIdList.add(delConDet.getCrId());
+							dcdHM.put(wayBillInfo.getWayBillId(),delConDet);
+						}
+					}	
+				}
+			}
+
+			/*if(crIdList != null && crIdList.size() > 0){
+				outValueObject         = WayBillInfoDao.getInstance().getByCRIds(Utility.getStringFromArrayList(crIdList));
+
+				if(outValueObject != null){
+					crIdWiseWayBillInfoListHM = 	(HashMap<Long, ArrayList<WayBillInfo>>)outValueObject.get("crIdWiseWayBillInfoListHM");
+
+					for(Long key : crIdWiseWayBillInfoListHM.keySet()){
+						wayBillInfoArrayListFromDB = crIdWiseWayBillInfoListHM.get(key);
+						crAmount	= 0.00;
+
+						for(int i = 0; i < wayBillInfoArrayListFromDB.size(); i++){
+							wayBillInfo = wayBillInfoHM.get(wayBillInfoArrayListFromDB.get(i).getWayBillId());
+							if(wayBillInfo != null){
+								if(wayBillInfoArrayListFromDB.get(i).getWayBillTypeId() == WayBillType.WAYBILL_TYPE_TO_PAY){
+									crAmount += wayBillInfo.getGrandTotal();
+								} else {
+									crAmount += wayBillInfo.getDeliveryTotal();
+								}
+							} else {
+								if(wayBillInfoArrayListFromDB.get(i).getWayBillTypeId() == WayBillType.WAYBILL_TYPE_TO_PAY){
+									crAmount += wayBillInfoArrayListFromDB.get(i).getGrandTotal();
+								} else {
+									crAmount += wayBillInfoArrayListFromDB.get(i).getDeliveryTotal();
+								}
+							}
+						}
+
+						crTxn = new CRTxn();
+						crTxn.setCrId(key);
+						crTxn.setCrAmount(crAmount);
+						crTxnList.add(crTxn);
+					}
+				}
+			}*/
+			
+			if(crIdList != null && crIdList.size() > 0){
+				
+				crTxnInObject = new ValueObject();
+				crTxnInObject.put("crIdList", crIdList);
+				crTxnInObject.put("dcdHM", dcdHM);
+				crTxnInObject.put("wayBillHM", wayBillHM);
+				
+				outValueObject = crtxnBll.calculateCRAmount(crTxnInObject);
+				if(outValueObject != null){
+					crTxnArray = (CRTxn[])outValueObject.get("crTxnArray");
+				}
+			}
+			
+			wayBillInfoArray = new WayBillInfo[wayBillInfoList.size()];
+			wayBillInfoList.toArray(wayBillInfoArray);
+
+			if(delConColl != null && delConColl.size() > 0){
+				delConDetArray = delConColl.values().toArray(new DeliveryContactDetails[delConColl.size()]);
+			}
+			
+			inValObj.put("insertChargeConfigArr", insertChargeConfigArr);
+			inValObj.put("updateChargeConfigArr", updateChargeConfigArr);
+			inValObj.put("wayBillChargesArr", wayBillChargesArr);
+			inValObj.put("wayBillInfoArray", wayBillInfoArray);
+			inValObj.put("wayBill", wayBill);
+			inValObj.put("crTxnArray", crTxnArray);
+			inValObj.put("delConDetArray", delConDetArray);
+
+			chargeConfigBLL.performChargeConfigOpration(inValObj);
+
+			request.setAttribute("nextPageToken", "success");
+		} catch (Exception _e) {
+			ActionStepsUtil.catchActionException(request, _e, error);
+		}
+	}
+
+
+	private ChargeConfig getChargeConfigModel(Executive executive ,WayBillChargeConfigModel wayBillChargeConfigUserModels ,Timestamp createDate) throws Exception {
+		ChargeConfig chargeConfig = new ChargeConfig();
+
+		chargeConfig.setChargeTypeMasterId(Utility.getLong(configuration.get("chargeType")));
+		chargeConfig.setChargesAmount(wayBillChargeConfigUserModels.getChargeAmount());
+		chargeConfig.setExecutiveId(executive.getExecutiveId());
+		chargeConfig.setDateTime(createDate);
+		chargeConfig.setWayBillId(wayBillChargeConfigUserModels.getWayBillId());
+		chargeConfig.setAccountGroupId(wayBillChargeConfigUserModels.getAccountGroupId());
+		chargeConfig.setBookedForAccountGroupId(wayBillChargeConfigUserModels.getBookedForAccountGroupId());
+
+		return chargeConfig;
+	}
+
+	private WayBillDeliveryCharges getWayBillChargesDto(WayBillChargeConfigModel wayBillChargeConfigUserModels) throws Exception {
+		WayBillDeliveryCharges wayBillCharges = new WayBillDeliveryCharges();
+
+		wayBillCharges.setWayBillId(wayBillChargeConfigUserModels.getWayBillId());
+		wayBillCharges.setWayBillChargeMasterId(Utility.getLong(configuration.get("chargeType")));
+		wayBillCharges.setChargeAmount(wayBillChargeConfigUserModels.getChargeAmount());
+		wayBillCharges.setAmount(wayBillChargeConfigUserModels.getAmount());
+		wayBillCharges.setDiscountPercent(wayBillChargeConfigUserModels.isDiscountPercent());
+		wayBillCharges.setDiscount(wayBillChargeConfigUserModels.getDiscount());
+
+		return wayBillCharges;
+	}
+}

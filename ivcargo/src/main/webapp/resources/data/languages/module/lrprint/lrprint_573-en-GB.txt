@@ -1,0 +1,20 @@
+sender				CONSIGNOR: 
+address				CONSIGNEE :
+contact				CONTACT
+tel					TEL 
+bookingMode			BOOKING MODE	
+bookingDate			BOOKING DATE & TIME
+value				VALUE :
+saidToContain		SAID TO CONTAINS
+pkgs				NO OF ART
+dimension			Dimensions
+actualWeight		Actual Weight
+chargeWeight		Charge Weight
+noofpieces			No. Of Packages
+shipment			SHIPMENT DIMENSIONS
+origin				Origin
+dest				DEST
+note				Note: This is a computer generated Consignment Note, which needs no Sign/Company Stamp
+bookingRemark       Booking Remark :
+invoiceNo           Invoice No :
+dktNo               DOCKET NO :

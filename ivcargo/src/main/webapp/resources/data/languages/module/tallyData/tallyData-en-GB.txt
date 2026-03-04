@@ -1,0 +1,5 @@
+header 						Tally Transfer Excel
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch

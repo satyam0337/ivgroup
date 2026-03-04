@@ -1,0 +1,35 @@
+header 						Party Master
+region						Region
+subRegion					Sub-Region
+branch						Branch
+partyName					Party Name
+isTBB						Is TBB?
+partyType					Party Type
+address						Address
+country						Country
+state						State
+city						City
+pincode						Pincode
+contactPerson				Contact Person
+department					Department
+phoneNumber1				Phone Number 1
+phoneNumber2				Phone Number 2
+mobileNumber1				Mobile Number 1
+mobileNumber2				Mobile Number 2
+faxNumber					Fax Number
+emailAddress				Email
+location					Location
+marketingPerson				Marketing Person
+serviceTaxNumber			Service Tax No.
+tinNumber					TIN No.
+panNumber					PAN No.
+remark						Remark
+isBlackListed				Is Black Listed?					
+taxPaidByTransporter		Tax Paid By Trans.?
+serviceTaxRequired			S.Tax Required?
+partyDisplayName			Display Name
+userName					User Name
+password					Password
+edit						Edit
+save						Save
+update						Update

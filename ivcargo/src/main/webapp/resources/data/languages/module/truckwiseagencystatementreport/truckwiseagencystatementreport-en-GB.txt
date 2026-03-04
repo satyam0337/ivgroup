@@ -1,0 +1,26 @@
+header 						Truck Wise Agency Statement
+
+date						Date
+region						Region
+subRegion					Sub Region
+branch						Branch
+toRegion					To Region
+toSubRegion					To Sub Region
+toBranch					To Branch
+vehicle						Truck No.
+
+search						Search
+
+subHeader1					Truck Wise Agency Statement Details
+
+serialnumberheader			SR NO
+lhpvNumber					LHPV NO
+tripDateTimeStr				LS DATE
+vehicleNumber				TRUCK NO
+totalTopayAmount			TOPAY
+totalPaidAmount				PAID
+totalTBBAmount				TBB
+totalCrossingHireAmount		CROSSING
+totalRefundAmount			REFUND
+bookingTimeServiceTax		GST
+lsNumber					LS No

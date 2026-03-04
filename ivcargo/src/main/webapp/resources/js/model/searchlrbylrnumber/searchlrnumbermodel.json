@@ -1,0 +1,8 @@
+{
+	"elementId":"lrNumberEle",
+	"elementGlyphicon":"glyphicon glyphicon-search",
+	"elementName":"lrNumberEle",
+	"elementType":"text",
+	"tooltipName": "LR Number",
+	"labelId":"lrNumber"
+}

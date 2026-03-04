@@ -1,0 +1,4 @@
+header 						<b>Year Collection Report</b>
+search						Search
+year						Year
+region						Region

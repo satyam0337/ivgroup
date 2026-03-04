@@ -1,0 +1,77 @@
+invoiceNumber				INVOIE NO.:
+deliveryAt					Delivery At :
+sourceBranch				From 
+destinationBranch			To 
+lrType						Type
+bookingDate					Date 
+actualWeight			  	Actual Wt:
+chargedWeight			  	Charged Wt:
+lrNumber					LR No :
+consignorname				Consignor Name :
+consigneename				Consignee Name :
+declaredValue				DECLARED VALUE :
+weight						WEIGHT (KG)
+pan							PAN NO.:
+eway						E-way ID.:
+bookingMH					BOOKING AGENT FOR ALL MAHARASHTRA
+companyName					S. M. TRANSPORT
+subject						Subject to Sambhaji Nagar Jurisdiction
+rate						RATE
+serviceTax					G.S.T
+other						Other
+grandTotal					Total
+tinNo						TIN No : 
+freight						Freight
+lrcharge					LR Charge
+loading						Loading 
+unloading					Unloading 
+other						Other Charges
+total						TOTAL :
+pkg							PACKAGES
+saidToContain				DESCRIPTION ( SAID TO CONTAIN )
+number						Ph : 
+chargeName23				Stationary	
+printedby					Printed By : 
+seperator					Of
+serviceTaxPaidBy			G.S.T Paid By :
+mobilenumber				Mobile No :
+consignmentQuantity			Qty.
+totalQty					Tot.
+description					Description
+consignorcopy				Consignor Copy		
+info1						Party's Signature
+info2						Booked at Owner's Risk.
+info3						For Aditya Roadlines.
+vehicleNo					Vehicle No.
+consignmentNo				Consignment <br> Note No.
+consigneeCopy				Consignee Copy
+consignorCopy				Consignor Copy
+partycopy					Party Copy
+gst 						GST No : 
+freight						Freight
+ddc							DDC
+hamali						Hamali
+service						Service
+sc							S.C
+cover						Cover
+mobno						MOBILE NO.
+gstNo						GST No :
+add							Address : 
+sgst						SGST
+cgst						CGST
+igst						IGST
+freighttype					Freight type : 
+remark						Remark : 
+privateMark					Private Mark :
+owner						OWNER'S RISK 
+insurance					INSURANCE
+theConsinor					The Consignor has started that 
+heHas						He has not Insured the consignment
+or							OR
+heHas2						He has insured the consignment
+company						Company
+policy						Policy No
+amount						Amount
+risk 						Risk
+weAre 						We are Not responsible for Leakages <br>Breakages & Damages Condition <br>Goods Accepted "Owner Risk"
+forSmt						For S. M. TRANSPORT 

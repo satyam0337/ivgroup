@@ -1,0 +1,57 @@
+branchPhoneNumberLabel			Ph :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				Source 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					Destination 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							Sl.No 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							Date : 	
+lrNo							GC Number
+bookingStation					Booking<br>Station
+consignee						Consignee
+consignor						Consignor
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+total							Amount
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GST NO -
+invoiceno						Inv. No.
+bookingdate						Date
+particulars						Packgs
+articles						Articles
+weightLabel						Weight<br>Kgs
+Ch.Weight						Ch.Wt
+chtype							Ch.Type
+gst								GST
+SubTotal						SubTotal
+rliplGst						RLIPL 
+branchGST						GST NO :
+branchName						Branch :
+noOfArticle						No.Of<br>Article

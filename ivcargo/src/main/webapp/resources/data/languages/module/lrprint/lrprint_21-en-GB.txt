@@ -1,0 +1,54 @@
+bookingDate					Booking Date :
+lrNO						LR NO:
+info1						--Consignment Details--
+chargesDetails				--Charges Details--
+sourceBranch				From :
+destinationBranch			To :
+consignor					CONSIGNOR :
+consignee					CONSIGNEE :
+gstin						GSTIN -
+packingType					Packing Type
+total						Total:
+sign						Consignor Signature
+info2						Read and Accepted
+printedBy					Printed By
+info3						WE  SHALL NOT BE LIABLE FOR ANY PARCEL/LUGGAGE DETAINED BY GOVT. RECOGNIZED AGENCIES FOR WITHOUT BILL/LEGAL DOCUMENTS
+formType					Form Type :
+declaredValue				Declared Value :
+sgst						SGST
+cgst						CGST
+igst						IGST
+
+date						Date:
+lrType						LR Type:
+quantity					Total
+noOfPackages				No.Of Pkgs :
+quantityType				Goods
+saidToContain				Description
+deliveryOffc				Delivery Office :
+remark						Remark:
+freight						Freight :
+loading						Loading:
+
+bookedBy					Booked By :
+printTime					Time:	
+pvtMark						Pvt Marka:
+source						Source:
+gst							GST :
+receiverSign				Receivers Sign
+
+source						Booking -
+declaredValue				Declared Value :
+charges						Charges
+info2						( Rules Read & accepted )
+signature					Signature
+phoneNo						Phone :
+doorPickUp					Door PickUp :
+stationary					Stationary :
+
+remark						Remark :
+delivery					Delivery:
+rupee						&#x20B9
+transportLabel				TRANSPORT ID : 
+transportId					27AFBPS3694C2ZB
+invoiceNumber				Invoice No. : 

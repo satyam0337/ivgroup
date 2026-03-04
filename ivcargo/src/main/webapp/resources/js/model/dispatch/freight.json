@@ -1,0 +1,10 @@
+ {
+	"labelId":"Freight",
+	"dataDtoKey":"freightAmount",
+	"columnDisplayCssClass":"column-data-left-align",
+	"elementConfigKey":"Freight",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

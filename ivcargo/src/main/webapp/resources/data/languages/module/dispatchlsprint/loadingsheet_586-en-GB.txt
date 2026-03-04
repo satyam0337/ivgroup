@@ -1,0 +1,64 @@
+srNumberLabel					S No.
+lrNumberLabel					LR No.
+consignorLabel					Consignor<br>Name
+consigneeLabel					Consignee<br>Name
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						TOTAL:
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No:
+dispatchNumberLabel				LSNO:
+vehicleNumberLabel				LORRYNO:
+fromBranchLabel					Source:
+toBranchLabel					Destination:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF PKGS.
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				Total
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						B/DATE
+packages						Art
+gst								GST no.
+saidToContain					Article<br>Type
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							Actual<br>Weight
+totalLrChargeLabel				LR Charge
+doorDeliveryLabel               Door<br>Delivery
+declareValue                    Declared<br>Value
+consignor                       CONSIGNOR
+consignee                       CONSIGNEE
+dirct                           DIRECT:
+DATE                            DATE:
+route							ROUTE:
+doorDel                         Door<br>Delivery
+

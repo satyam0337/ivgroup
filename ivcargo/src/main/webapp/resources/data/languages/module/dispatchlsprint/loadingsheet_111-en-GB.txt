@@ -1,0 +1,21 @@
+srNumberLabel					S. No.
+lrNumberLabel					LR No.
+noOfarticleLabel				No Of Art
+freightChargeLabel				Freight
+stLabel							ST
+cartageLabel					Cartage
+hamaliLabel						Hamali
+amountLabel						Bkg. Total
+lrTypeLabel						LR Type
+descLabel						Description
+branchAddressLabel				Address : 
+branchPhoneNumberLabel			Mobile No. : 
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchNumberLabel				Loading Sheet No.:
+dispatchDateLabel				Date&Time:
+vehicleNumberLabel				Vehicle No.:
+driverNameLabel					Driver:
+vehicalOwnerLabel				Broker/Owner Name :
+drivingLicenseLable				Driving License no.:
+fromBranchLabel					From:

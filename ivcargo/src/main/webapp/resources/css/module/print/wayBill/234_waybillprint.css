@@ -1,0 +1,184 @@
+table {
+	color: black;
+	padding-top: 5px; 
+	border-collapse: collapse;
+	text-align: left;
+	border: 0px solid black;
+}
+.textboldright{
+	font-weight: bold;
+	text-align: right;
+	padding-right:  10px;
+}
+.paddingleft10{
+	padding-left: 10px;
+}
+.paddingTopleft{
+	padding-top: 7px;
+	padding-left: 10px;
+}
+.textboldcenter{
+	font-weight: bold;
+	text-align: center;
+}
+.UpperTabel {
+	height: 115px;
+	width: 100%;
+	color: blue;
+}
+.tdright{
+	padding-right:  10px;
+	text-align: right;
+}
+.tdcenter{
+	text-align: center;
+}
+.tabel100{
+	width: 100%;
+}
+.Address{
+	height: 63px;
+	vertical-align: top;
+	padding-left: 7px;
+}
+tr {
+	padding: 1px;
+}
+
+.td5 {
+	width: 5px;
+	padding: 1px, 0px;
+}
+
+.td10 {
+	width: 10px;
+	padding: 1px, 0px;
+}
+.td20 {
+	width: 20px;
+	padding: 1px, 0px;
+}
+
+.td25 {
+	width: 25px;
+	padding-left: 1px;
+}
+
+.td30 {
+	width: 30px;
+	padding-left: 5px;
+}
+.td40 {
+	width: 40px;
+	padding-left: 5px;
+}
+
+.td50 {
+	width: 50px;
+	padding-left: 3px;
+}
+
+.td60 {
+	width: 90px;
+	padding-left: 10px;
+	
+}
+
+.td80 {
+	width: 80px;
+	padding: 1px, 0px;
+}
+
+.td160 {
+	width: 160px;
+	padding-left: 10px;
+}
+
+.td205 {
+	width: 205px;
+	padding-left: 5px;
+}
+
+.td350 {
+	padding-left: 5px;
+	width: 350px;
+	padding-top: 5px;
+}
+.td350v {
+	padding-left: 5px;
+	width: 350px;
+	padding-top: 5px;
+	border-right: medium; 
+}
+#amount{
+	
+	width: 90px;
+	padding-left: 10px;
+	text-align: right;
+}
+#vLine1{
+	
+	width: 1px;
+	height: 100px;
+	left: 10px; 
+	top: 250px;
+	
+}
+.bordered {
+    border-bottom: 1px solid black;
+    width: 700px;
+}
+.bordered1 {
+    border-top: 1px solid black;
+    width: 700px;
+}
+.hr1 {
+	height: 95px;
+	position: absolute;
+	left: 340px;
+	top: 125px;
+}
+
+.hr2 {
+	height: 160px;
+	position: absolute;
+	left: 40px;
+	top: 215px;
+}
+.hr3 {
+	height: 160px;
+	position: absolute;
+	left: 265px;
+	top: 215px;
+}
+.hr4 {
+	height: 160px;
+	position: absolute;
+	left: 305px;
+	top: 215px;
+}
+.hr5 {
+	height: 160px;
+	position: absolute;
+	left: 400px;
+	top: 215px;
+}
+.hr6 {
+	height: 160px;
+	position: absolute;
+	left: 440px;
+	top: 215px;
+}
+.hr7 {
+	height: 245px;
+	position: absolute;
+	left: 500px;
+	top: 215px;
+}
+.hr8 {
+	height: 1px;
+	width : 503px;
+	position: absolute;
+	left: 0px;
+	top: 430px;
+}

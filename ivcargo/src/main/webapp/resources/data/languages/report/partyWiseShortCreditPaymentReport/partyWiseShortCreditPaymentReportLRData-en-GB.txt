@@ -1,0 +1,50 @@
+header 						Party Wise Short Credit Payment Report LR Data
+
+date						Date
+region						Region
+subRegion					Sub Region
+branch						Branch
+type						Type
+
+searchBy					Search By
+party						Party
+lrNumber					LR No.
+crNumber					CR No.
+
+search						Search
+
+subHeader1					Party Wise Short Credit Payment Report LR Data
+
+serialnumberheader			Sr No
+wayBillNumber				LR No
+deliveryWayBillNumber		CR No
+creationDateTimeStr			Book Dt
+partyName					Party Name
+branchName					From
+grandTotal					Book Amt
+txnTypeName					Type
+paymentTypeName				Payment Type
+chequeDateStr				Chq Dt
+chequeNumber				Chq No
+bankName					Bank Name
+paymentStatusName			Status
+receivedAmount				Rece Amt
+tdsAmount					TDS Amt
+dueBalanceAmount			Current Due Amt
+receivedDateTimeStr			Rece Dt
+receivedByBranchName		Rece At
+receivedByExecutiveName		User
+collectionPersonName		Collection Person Name
+remark						Remark
+blhpvNumber					BLHPV No
+blhpvDateTimeStr			BLHPV Dt
+vehicleNumber				Vehicle No
+amountTypeName				Bal/Ref
+blhpvAmount					BLHPV Amt
+
+subHeader3					PaymentType Wise Summary
+subHeader2					Short Credit Payment Cancellation Details
+cancellationDateTimeStr		Cancellation Dt
+cancelledByBranchName		Cancelled At
+cancelledByExecutiveName	Cancelled By User
+cancellationRemark			Cancellation Remark			

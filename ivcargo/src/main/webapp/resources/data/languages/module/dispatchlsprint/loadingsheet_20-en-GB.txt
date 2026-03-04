@@ -1,0 +1,63 @@
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Description Of Goods
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						AMT.
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				No. :
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				Article
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amount
+driverNameLabel					Driver Name & Address :
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		Destination
+driverSignLabel					Driver Signature :
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lrRemarkLabel					Remark 
+receiveLabel					Receiver Sign
+actualWeight					Weight
+partyTinNo						Party TIN No.
+noOfPakgs						Pkgs
+info							For MEGHA PARCEL LLP
+engineNumberLabel				Engine No. :
+chasisNumberLabel				Chasis No. :
+ownerNameLabel					Owner Name & Address :
+brokerNameLabel					Broker :
+info2							Insurance Policy No. & co. :
+driverLicenseNo					Driver's Licence No. :
+info3							(1) All the risk in the way of vehicle owner or his Agent. 
+info3a							(2) Goods Loaded good & Safe Condition 
+info4							Dispatch Incharge	
+partyGSTNo						Party GST No.
+insuranceNameLable				Insurance Name :
+policyNumberLable				Policy No. :
+loadedByLable					Loaded By :

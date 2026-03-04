@@ -1,0 +1,30 @@
+header 						Company To Destination Summary
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+lsType						Type Of LS
+companyBranch				Company Branch
+
+save						Find
+
+serialnumberheader			SR. No
+lsNumber   					LS No
+lsDate   					LS Date
+totalNoOfarticles			No of Art
+wayBillDispatchActualWeight	Act Wt
+wayBillToPayAmount			Topay
+wayBillServiceTaxAmount		S Tax
+wayBillBHAmount				B.H.
+wayBillLorryHireAmount		Lorry Hire
+wayBillCRInsuranceAndCarrierRiskAmount			Carreir Risk
+wayBillBalanceAmount		Balance
+lhpvNumber					LHPV No
+lhpvAmount					LHPV Total Amt
+
+companyWiseLsDetails		Get Company Wise Print
+companyWiseWeightDetails	Get Company Wise Weight Print
+companyName					Company Name
+insurOther					CR/Insurance		
+WeightDetailsMoreThen5000   Get LR Details Weight More than 5000
+transhipmentDetails		   	Transhipment Details	

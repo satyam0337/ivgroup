@@ -1,0 +1,30 @@
+remark			Remarks : 
+ewaybill		EWaybill No.:
+sign			Receiver's Signature/Name
+total			Total
+sgst			SGST
+cgst			CGST
+igst			IGST
+totalqty		Total Qty.
+invoice			Cust. Inv. No.
+invDate			Inv. Date
+chwt			Chrg. Wt.
+value			Value
+artDetails		Article Details
+packing			Packing
+NoArt			No. of Art
+gstin			GSTin : 
+consinor		Consignor
+consignee		Consignee
+mob			 	Mobile No. : 
+from			From :
+to				To : 
+lrNo			No.:
+consignorCopy	CONSIGNOR COPY
+consigneeCopy	CONSIGNEE COPY
+date			Date :
+gst				GST NO.: 
+email			E-Mail ID
+offNo			Office No:
+mobNo			Mob. No.
+add				Address : 

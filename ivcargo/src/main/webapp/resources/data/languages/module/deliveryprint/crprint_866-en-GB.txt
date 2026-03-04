@@ -1,0 +1,134 @@
+-----------------SCM delivery print---------------
+branch						Branch
+IssuingOffice				Issuing Office
+CRNo						CR No
+Date						Date
+LRNO						LR No.
+LRDate						LR Date
+FromCity					From City
+LRType						LR Type:
+Consignee					Consignee: 
+DeliveredTo					Delivered To
+cmpNo						Phone No
+gst							GST No
+Remark						Remark
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				No. of Articles
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					Lr. Amount
+crCharge					Cr Charge
+source						From
+Destination					To 
+consignor					Consignor: 
+paymenttype					Payment Type:
+igst						IGST
+
+
+
+consignorname						Branch
+IssuingOffice				Issuing Office
+CRNo						CR No
+Date						Date : 
+LRNO						LR No.
+srNo						Sr. No. 
+LRDate1						Date
+From 						From 
+FromCity					From City
+LRType						LR Type:
+consigneename				Consignee Name : 
+cmpNo						Phone No
+Consigneegst							Consignee GST Number :
+remark						Remark : 
+memoNumber					CR Number :
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+total 						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				No. of Articles
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					Lr. Amount
+crCharge					Cr Charge
+Destination					To 
+consignor					Consignor : 
+receiptno					Receipt No :
+cnee						C'Nee : 
+from						From : 
+to							To : 
+vehicle						Vehicle No : 
+deliveryTo					Deliver To Name : 
+deliveryToNo				Delivery To No : 
+DeliveryAdd					Delivery Address:
+DeliveryNo					Phone Number:
+memoDate					CR Date :
+memoType					Payment Type : 
+Type 						Type 
+Article						Article
+gc							GC
+additionalFreight			Additional Freight
+totalFreight				Total Freight
+godown						Godown Name:
+saidToContain				Said To Contain
+deliveryToNumber			Delivery To Number
+bookingTotal				Booking Total
+other						Other
+hamali						Hamali
+doorDelivery				Door Delivery
+total						Total
+netTotal					Net Total &nbsp; - 
+igst5per					IGST 5% &nbsp; -  
+grandTotal					Grand Total -  
+amountInwords				Amount In Words : 
+chwt						Charge Wt
+actwt						Actual Wt
+
+consignmentNo				Consignment No.
+consignmentDate				Consignment Date
+SubmissionBranch			Submission Branch
+invoiceNo					Invoice No.
+deliveryDate				Delivery Date
+packingType					Packing Type
+vehicleNo					Vehicle No.
+pkgs						Pkgs.
+chweight					Ch. Weight
+consigneeNew				Consignee
+consignorNew				Consignor
+pm							P.M.
+basis						Basis
+amountInwords				Amount in words
+charges						Charges
+amountNew					Amount
+grTotal						GR. TOTAL
+lrFreight					Freight Charge
+deliveryPaymentType         Payment Mode : 
+gstn						GST No. : 
+paymentReceipt				Payment Receipt
+invoice						Invoice No.
+deliveryBy					Executive Name

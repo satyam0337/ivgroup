@@ -1,0 +1,7 @@
+{
+	"buttonName":"dispatchBtn",
+	"buttonId":"dispatchBtn",
+	"buttonClass":"btn btn-success hide",
+	"tooltipName":"Dispatch",
+	"buttonSpanId":"DispatchLabel"
+}

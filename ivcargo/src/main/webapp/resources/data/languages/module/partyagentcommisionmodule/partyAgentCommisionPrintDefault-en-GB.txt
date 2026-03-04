@@ -1,0 +1,13 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+actualWeightLabel				Actual Weight
+chargedWeightLabel				Charged Weight
+chargeAmountLabel				Charge Amount
+
+partyAgentCommisionNumberLabel	Commission No. :
+partyAgentNameLabel				Agent Name :  
+partyAgentCommisionDateLabel	Commission Date : 

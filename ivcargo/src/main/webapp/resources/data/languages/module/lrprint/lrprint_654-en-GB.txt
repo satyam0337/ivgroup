@@ -1,0 +1,28 @@
+wbNo			WB NO:
+bookingTime	    Bkng Time:
+sourceBranch	Org:
+destinationBranch	To :
+consignor		Sender:
+senderNo        Sender No:
+lrType			WB Type:
+contain			Packing Dtls:
+freight			Freight:
+bookedBy		Booked By:	
+remarks			Remarks:
+destination     Dest:	
+receiver		Receiver:
+receiverNo		Receiver No:
+noOfPkgs		No Of Pkgs:	
+total			Total:
+ravina Travels BG(Kalasipalyam)-		Ravina Travels BG(Kalasipalyam)-		
+BookTime		Bkng Time:
+wbNum			WB NO:
+wb Type			WB Type:
+dest			Destination:
+senderName		Sender:
+receiverName	Receiver:
+saidToContain	Packing Dtls:
+total			Total:
+branch			Branch:
+branchPhone     Phone : 
+bookingBranchName  Booking Branch:

@@ -1,0 +1,30 @@
+header 						Marketing Person Wise Report
+subHeader					Marketing Person Details
+date						Date
+selectionType				Selection Type 
+branch						Branch
+region						Region
+subRegion					Sub Region
+download					Search
+partyName					Party Name
+branch						Branch Name
+marketingPerson				Marketing Person
+regularParties				Regular Parties
+totalParties				Total Parties
+irregularParties			Irregular Parties
+nonBookingParties			Non-Booking Parties
+viewLRs						View LRs
+viewVisitHistory			Party visit
+viewParties					View parties
+partyName      				Party Name
+address						Address       
+contactPerson				Contact Person 
+contactNo					Contact Number     
+state						State         
+city						City          
+noOfLRs						No Of LRs       
+amount						Amount        
+viewPartyVisit				Party visit
+mobileNumber				Contact Number
+partyVisitDateTime			Date of visit
+partyVisitRemark			Remark

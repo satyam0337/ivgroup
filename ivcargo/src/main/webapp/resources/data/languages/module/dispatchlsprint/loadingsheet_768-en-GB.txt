@@ -1,0 +1,73 @@
+srNumberLabel					SR.
+lrNumberLabel					LR No.
+consignorLabel					CONSIGNOR
+consigneeLabel					CONSIGNEE
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						LR. AMT.
+amountLabel2					AMOUNT
+branchAddressLabel				ADD : 
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF ARTICLES
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				AMOUNT
+driverNameLabel					Driver Name :
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						Art]
+gst								GST no.
+saidToContain					PKG TYPE
+drivingLicenseLable				License No.:
+crossingTransportLabel			Crossing Transport : 
+crossingHireAmtLabel			Crossing Hire Amt.
+weight							WEIGHT
+totalLrChargeLabel				LR Charge
+ConsolidateEwaybillNo		Con.EwaybillNo :
+sealNo						Seal No. : 
+actual						AC.WT.
+charge						CW.WT.
+ACCWET						WEIGHT
+vehicalTypeLabel			Vehicle Type : 
+loaderName					Load By : 
+contractAmount				Contract Amount : 
+otherAmount					Other Amount : 
+totalAmount					Total Amount : 
+balancePayLoc				Balance Pay Loc :  
+advanceAmount				Advance Amount : 
+advancePayLoc				Advance Pay Loc : 
+deliveryType				DELIVERY TYPE
+dateTime					Printing Date & Time : 
+total1						TOTAL
+ConsolidateEwaybillNo		Con.Ewaybill No :

@@ -1,0 +1,18 @@
+lrnumber				LR No : 
+date					Bkg Date : 
+lrSource				From : 
+lrDestination			To : 
+consignorName			Sender : 
+consigneeName			Receiver : 
+phone					Phone : 
+lrType					LR Type : 
+declaredValue			Parcel Value : 
+NoOfPkgs				No. of Pkgs : 
+freight					Freight : 
+loading					Loading : 
+grandTotal				Total : 
+bookedby				Bkd By : 
+printDate				Printed On: 
+sign					Sign : 
+deliverAt				Delivery At :
+invoice					Inv. No. :  

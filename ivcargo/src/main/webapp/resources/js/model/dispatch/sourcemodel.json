@@ -1,0 +1,10 @@
+ {
+	"elementId":"sourceSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"sourceSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Source",
+	"labelId":"sourceSelect",
+	"divRegion":"SearchRegion",
+	"elementDefaultValue":""
+}

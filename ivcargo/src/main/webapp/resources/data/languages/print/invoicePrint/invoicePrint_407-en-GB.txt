@@ -1,0 +1,75 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+billedto						BILLED TO
+shippedto						SHIPPED TO 
+srNo							Sr.<br>No 
+gst								GST
+stateCode						State Code : 
+date							Date: 	
+lrNo							G.R<br>No.
+total							Total
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN :
+branchgstno						GSTIN :
+invoiceno						Invoice<br>No.
+gstinno							GSTIN : 07BIRPK9342K1ZK
+taxinvoice						TAX INVOICE
+mob								Mob. :
+billno							TAX INVOICE :  
+finaltotal						Total : 
+rsinwords						Rs. In Words : 
+bankinfo1						State Bank Of India Delhi
+bankinfo2						A/C : 37120827677
+bankinfo3						IFSC : SBIN0006815
+note1							E & O.E.
+note2							Terms & Conditions
+note3							1. Goods once sold will not be taken back.
+note4							2. Intt @ 18% charged if not paid on presentation.
+note5							3. All disputes subject to Delhi Juridiction
+fleetowner						FLEET OWNERS & TRANSPORT CONTRACTOR
+address							746/3, J.P. House, Opp. Metro Piller No. 715, Main Rohtak Road, Tikri Kalan, Delhi-110041
+email							Email : shivtransportservice9312@gmail.com
+forsts							For : SHIV TRANSPORT SERVICE
+signatory						Authorised Signatory 
+panno							PAN NO : BIRPK9342K
+totalsgst						Total SGST 
+totalcgst						Total CGST
+totaligst						Total IGST
+sts								Shiv Transport Service
+terms							GST Subject To Reverse Charges Mechanism(RCM).Description :We declare that we have not claimed credit as per chapter V of the CGST Act read with Rule36 with Notification No. 8/2017 Integrated  Tax (Rate)/ Notification No.11/2017 Unoin Territory Tax (Rate) on any goods input and/or services used in or in relation to supplying Goods Transport Ageny services.
+name							Name : 
+statecode						State Code - Delhi(07) 
+udyamNumber						UDYAM -
+dldiNo							DL-11-0006404(MICRO)
+bankinfo4						Gpay/PhonePay :
+note6							9582210468

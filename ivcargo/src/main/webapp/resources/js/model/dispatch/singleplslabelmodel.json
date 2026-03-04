@@ -1,0 +1,10 @@
+ {
+	"elementId":"singleplslabelEle",
+	"elementGlyphicon":"",
+	"elementName":"singleplslabelEle",
+	"elementType":"hidden",
+	"tooltipName": "",
+	"labelId":"singlelabel",
+	"divRegion":"SearchRegion",
+	"elementDefaultValue":""
+}

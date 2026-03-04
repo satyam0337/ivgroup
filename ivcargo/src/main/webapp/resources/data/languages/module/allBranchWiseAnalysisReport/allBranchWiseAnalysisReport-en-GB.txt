@@ -1,0 +1,10 @@
+createDateTimeString				Date
+region								Region
+subRegion							Area
+branch								Branch
+ReportSort							Report Sorting
+header								All Branch Wise Analysis Report
+search								Search
+serialnumberheader					SR. No.
+date								Date
+lrType								LR Type

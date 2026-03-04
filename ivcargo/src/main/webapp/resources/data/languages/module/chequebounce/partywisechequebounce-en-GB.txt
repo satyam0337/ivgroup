@@ -1,0 +1,18 @@
+header 						<b>PARTY WISE CHEQUE BOUNCE</b>
+subHeader					Add Discount
+branch						Select Branch
+party						Select Party
+remark						Remark
+add							Add
+view						View
+save						Save
+update						View
+NumberLabel					Number
+searchTypeLabel				Search Type
+branch						Branch
+find						Find
+
+header1						<b>Cheque Bounce Details</b>
+
+remark						Remark
+save						Save

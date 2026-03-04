@@ -1,0 +1,16 @@
+docketNo				Docket No. :
+date					Date : 
+receiverName			Receiver : 
+senderName				Sender : 
+address					Address : 
+from					From : 
+dlyAdd					Delivery Branch : 
+itemType				Item Type : 
+quantity				Quantity : 
+to						To : 
+amount					Amount : 
+bookingBranch			Booking Branch : 
+deliveryBranch			Delivery Branch : 
+remark					Remark : 
+grandTotal 				Grand Total : 
+lrType					LR Type : 

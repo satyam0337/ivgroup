@@ -1,0 +1,12 @@
+ {
+	"elementId"				:	"lorryHireNumberEle",
+	"elementGlyphicon"		:	"glyphicon glyphicon-none",
+	"elementName"			:	"lorryHireNumberEle",
+	"elementType"			:	"text",
+	"tooltipName"			: 	"Enter TES Number",
+	"labelId"				:	"lorryHireNumber",
+	"divRegion"				:	"lorryHireNumberRegion",
+	"parentDivCss"			:	"col-xs-7",
+	"labelCss"				:	"col-xs-5",
+	"elementDivCss"			:	"col-xs-5 validation-message"
+}

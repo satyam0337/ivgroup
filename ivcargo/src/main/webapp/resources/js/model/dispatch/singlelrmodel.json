@@ -1,0 +1,10 @@
+ {
+	"elementId":"singlelrEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"singlelrEle",
+	"elementType":"text",
+	"tooltipName": "LR Number",
+	"labelId":"singlelr",
+	"divRegion":"SearchRegion",
+	"elementDefaultValue":""
+}

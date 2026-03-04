@@ -1,0 +1,19 @@
+header 						User Activity Report
+header1						<b>Lr Details</b>
+date						Date
+branch						From Branch
+executive					Executive
+find						Find
+
+serialnumberheader			SR. No
+waybillNumber				waybillNumber
+bookingDate 				bookingDate
+actualWeight				actualWeight
+grandTotal					grandTotal
+sourceBranch				sourceBranch
+destinationBranch			destinationBranch
+consignor					Consignor Name
+consignee					Consignee Name
+quantity					quantity
+bookingTotal				bookingTotal
+CancelledDate				CancelledDate

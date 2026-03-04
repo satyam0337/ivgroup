@@ -1,0 +1,54 @@
+consignorname		CONSIGNOR PARTY NAME :
+gstn				GSTN :
+consigneename		CONSIGNEE PARTY NAME :
+qty					QTY
+articledetails		Description 
+actwgt				ACT WGT :
+chrgwgt				CHR WGT 
+invno				Invoice No :
+decval				Declared Value
+delto				Delivery To
+risk				Risk
+podrq				POD Required
+remarks				Remark :
+delat				Delivery To :
+stampandsgn			Stamp and Signature.
+date				DATE :
+lrnum				G.C. NOTE NO. :
+src					Source :
+time				TIME :
+dest				Destination :
+chrges				Charges
+amt					Amount
+paymode				Payment Mode
+gstpayby			GST Payable By
+freight				Basic Freight
+collection			Local Collection
+dd					Door Delivery
+hamali				Hamali
+statchrg			Statistical Charge
+other				Other Charge
+fov					FOV
+subtotal			Sub Total
+cgst				C.GST
+sgst				S.GST
+igst				I.GST
+netamt				Net Amount
+forsuraj			For Suraj Carrying Corporation
+authsign			Authorized Signature
+tc					it is Taken in to consideration that you agreed with all the terms<br>and condition mention overleaf. Not bound to deliver goods next<br> day. If booked after 6.00 pm. | SUNDAY WEEEKLY OFF.
+address				ADDRESS :
+total				TOTAL :
+eWayBillNumber		EWayBillNumber :
+cftWeight			CFT Weight
+Height				,H =
+Length				L =
+Breadth 			,B =
+bookingBranch		BOOKING BRANCH
+destinationBranch	DELIVERY BRANCH
+lrNumber			LR NO :
+lrType				LR TYPE :
+invoiceValue		Invoice Value :
+number				Phone No :
+gstNo				GST No :
+rate				Rate

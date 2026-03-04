@@ -1,0 +1,12 @@
+ {
+	"elementId":"StatusEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"StatusEle",
+	"elementType":"text",
+	"labelId":"Status",
+	"elementDefaultValue":"",
+	"elementConfigKey":"Status",
+	"dataDtoKey":"status",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100
+}

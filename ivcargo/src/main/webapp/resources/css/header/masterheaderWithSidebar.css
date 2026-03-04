@@ -1,0 +1,51 @@
+.headerClock{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	line-height: 20px;
+	font-weight: bold;
+	color: white;
+	width:320px;
+}
+
+.langSelect{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	line-height: 20px;
+	font-weight: bold;
+	width:320px;
+}
+
+.displayHide{
+	display: none;
+}
+
+.footerColor{
+	z-index: 100;
+	background-color: #3c8dbc;
+	color: white;
+}
+
+.headerIndex{
+	position: fixed; top: 55px; z-index: 50;
+}
+
+.dropDownMenuCustom{
+  ul {list-style: none;padding: 0px;margin: 0px;}
+  ul li {display: block;position: relative;float: left;border:1px solid #000}
+  li ul {display: none;}
+  ul li a {display: block;background: #000;padding: 5px 10px 5px 10px;text-decoration: none;
+           white-space: nowrap;color: #fff;}
+  ul li a:hover {background: #f00;}
+  li:hover ul {display: block; position: absolute;}
+  li:hover li {float: none;}
+  li:hover a {background: #f00;}
+  li:hover li a:hover {background: #000;}
+  #nav-custom li ul li {border-top: 50px;}
+	
+}
+
+.positionAbsolute{
+	position: absolute;
+	width: 90%;
+	height: auto;
+}

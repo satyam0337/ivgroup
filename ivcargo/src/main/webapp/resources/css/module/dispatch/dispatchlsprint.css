@@ -1,0 +1,86 @@
+.headersAlignCenter {
+	font-family: sans-serif;
+	text-align: center;
+	color: black;
+}
+
+.table {
+	table-layout: fixed;
+	/* width: 100%; */
+	border: 1px solid black;
+	text-align: center;
+	font-family: ‘Lucida Console’, Monaco, monospace;
+}
+
+.tableCells {
+	border: 1px solid gray;
+}
+
+.rightDiv {
+	font-family: sans-serif;
+	float: right;
+	color: black;
+}
+
+.leftDiv {
+	font-family: sans-serif;
+	float: left;
+	color: black;
+}
+
+.lineDiv {
+	display: inline-block;
+	width: 100%;
+	font-family: sans-serif;
+	color: black;
+}
+
+.rightCell {
+	text-align: right;
+}
+
+.totalTableCell {
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+.plainTable {
+	table-layout: fixed;
+	wodth: 100%;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.hideData {
+	text-indent: -9999px;
+}
+.remarkTd {
+	font-size: 18px; font-weight: bold; text-align: left; padding-left: 50px;font-family: sans-serif;word-break: break-all;
+}
+.dataTd {
+	font-size: 18px; font-weight: bold; text-align: left; padding-left: 50px;font-family: sans-serif;
+}
+
+@media screen, print {
+	body {
+		line-height: 1.2
+	}
+}
+
+.truncate {
+	/* width: 120px; */
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	/* position: relative;
+	font-size: 0.6em; */
+	letter-spacing: -0.02em;
+	font-family: sans-serif;
+}
+
+@media print {
+	.page-break {
+		display: block;
+		page-break-before: always;
+	}
+}

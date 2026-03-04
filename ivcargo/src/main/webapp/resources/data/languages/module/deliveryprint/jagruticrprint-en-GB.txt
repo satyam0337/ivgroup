@@ -1,0 +1,48 @@
+lrNo					LR No :
+crNo					CR No :
+lrType					LR Type :
+deliveryTime			Delivery Time :
+crSourceSubregion		sourceBranch :
+crDestinationSubregion	destBranch :
+sourceBranch			From :
+destBranch				To :
+consignor				Consignor :
+consignee				Consignee :
+consignorGstn			GSTN :
+consigneeGstn			GSTN :
+consignorNo				Consignor No :
+consigneeNo				Consignee No :
+noOfConsignments		No.OfCongs :
+noOfPackages			No.of Pkgs :
+gstn					GSTN :
+gst						GST :
+natureOfPackage			Nature Of Pkg :
+freightCharge			Freight 
+discount				Disc :
+sgst					SGST :
+cgst					CGST :
+igst					IGST :
+grandTotal				Total 
+deliveredBy			 	Delivered By :
+printedBy				Printed By :
+printTime				Print Time:
+deliverTo				Delivered To:
+deliveredToNo			Delivered To Number:
+articleType				Nature Of Pkg:	
+octroi					Octroi:
+unloading				Unloading:
+demurrage				Demurrage:
+bookingAmt				Booking Amt:
+deliveryAmt				Delivery Amt:
+discountAmt				Discount 
+total					Total:	
+articlesDetails			Articles Details	
+totalArticles			Articles Type	
+qauntity				Qauntity
+deliveryAt				Delivery At :
+taxpaidby				Gst Paid By  :
+deliveryBy				Deliverd By :
+deliveryTo				Deliverd To :
+remark					Remark	 :
+paymentType				Payment Type :
+chequeNumber			Cheque Number :

@@ -1,0 +1,79 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+srNumberLabel					S.No.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weight							Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		G.R.Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To 
+vehicle				            Vehicle No. : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							Sr.<br>No 
+gst								GST No. :
+stateCode						State Code : 
+billNo							Invoice No : 
+date							Date: 	
+lrNo							LR No.
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+total							Bkg.<br>Total
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+gstno						GST No :
+invoiceNo						Invoice No.
+bookingdate						LR Booking<br> Date
+articles						Articles
+lrNumber						LR Number
+lrSourceBranchlabel				Source
+destination						Destination
+sNo								SNo
+note1							Bill towards Freight and Other Charges of your consignments transported as under
+particularss					Particulars
+totalamount						Net<br>Amount
+gstn                            GSTN :
+freight                         FREIGHT
+cgst                            CGST 2.5%
+sgst                            SGST 2.5%
+igst                            IGST 5%
+total                           TOTAL
+gr                              GR
+consignor                       Consignor
+from                            FROM
+to                              TO
+pkg                             PKG
+wt                              WT
+rate                            Rate
+dc                              DC
+otc                             OTC   
+invno                           Inv No.   
+chargewt                        Chrg Wt 
+freight                         Freight 
+cnNo							CN.No.    
+pkgs							No.of <br>Pkgs
+bookingCharges					Booking Charges
+ddcharge						D.D.Charge
+stcharge						ST.Charge
+docketno						CN. No. 
+docketdate						CN.Date
+email							Email :

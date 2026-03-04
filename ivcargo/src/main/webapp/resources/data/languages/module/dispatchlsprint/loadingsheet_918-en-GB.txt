@@ -1,0 +1,52 @@
+srNumberLabel					#
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art. Detail
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						AMT.
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Dispatch No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				Article
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amount
+driverNameLabel					Driver:
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		Destination Branch
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+mobile							Mobile no.
+sign							Signature
+total                           Total	
+tempoBhada						Tempo Bhada
+crossingHire                    Crossing Hire
+other	                        Other
+lrCharge                        LR Charge

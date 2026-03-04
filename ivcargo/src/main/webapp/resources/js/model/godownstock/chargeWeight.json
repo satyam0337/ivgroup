@@ -1,0 +1,13 @@
+ {
+	"elementId":"chargeWeightEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"chargeWeightEle",
+	"elementType":"text",
+	"labelId":"chargeWeight",
+	"elementDefaultValue":"",
+	"dataDtoKey":"chargeWeight",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

@@ -1,0 +1,15 @@
+ {
+	"elementId":"sourceSubRegionSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"sourceSubRegionSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Sub Region",
+	"labelId":"sourceSubRegionSelect",
+	"elementDefaultValue":"",
+	"dataDtoKey":"",
+	"divRegion":"branchRegion",
+	"elementConfigKey":"SubRegion",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

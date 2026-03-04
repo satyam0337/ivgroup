@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+.title {
+	margin-bottom: 30px; 
+	text-align: center;
+	font-weight: bold;
+	font-size: 16px;
+	padding: 5px;
+}
+
+.title span {
+	border-style: solid;
+	border: 1px solid #0000FF;
+	border-color:#0000FF;
+	border-left-color: #8AC007;
+	border-left-width: 10px;
+	background: #f8f8f8;
+	padding: 5px 20px;
+}
+
+.sub-title {
+	margin-bottom: 20px; 
+	text-align: center;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 5px;
+}
+
+.sub-title span {
+	border-bottom: 2px solid blue;
+	border-bottom-width: 3px;
+	border-left: 1px solid #8AC007; 
+	border-right: 1px solid #8AC007;
+	padding: 5px 20px;
+}

@@ -1,0 +1,9 @@
+{
+	"elementId"			: "remark",
+	"elementName"		: "remark",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "Remark",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: auto"
+}

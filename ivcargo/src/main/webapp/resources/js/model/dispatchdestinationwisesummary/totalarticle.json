@@ -1,0 +1,15 @@
+ {
+	"elementId":"TotalArticleEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"TotalArticleEle",
+	"elementType":"text",
+	"labelId":"TotalArticle",
+	"elementDefaultValue":"",
+	"dataDtoKey":"totalNoOfPackages",
+	"elementConfigKey":"TotalArticle",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true,
+	"columnDisplayCssClass":"column-data-right-align"
+}

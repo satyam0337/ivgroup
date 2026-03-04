@@ -1,0 +1,15 @@
+ {
+	"elementId":"TotalServiceTaxEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"TotalServiceTaxEle",
+	"elementType":"text",
+	"labelId":"TotalServiceTax",
+	"elementDefaultValue":"",
+	"dataDtoKey":"serviceTax",
+	"elementConfigKey":"TotalServiceTax",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true,
+	"columnDisplayCssClass":"column-data-right-align"
+}

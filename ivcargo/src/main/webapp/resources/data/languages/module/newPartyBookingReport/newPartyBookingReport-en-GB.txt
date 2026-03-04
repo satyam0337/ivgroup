@@ -1,0 +1,21 @@
+header 					New Party Booking Report
+date					Date
+region					Region
+subRegion				Sub Region
+branch					Branch
+search					Search
+subHeader1				New Party Booking Report
+serialnumberheader		Sr No
+Article					Article
+Weight					Weight	
+Branch					Branch
+gstn					GSTN
+excel					Download Excel
+collectionPerson		Collection Person
+branchName				BranchName
+partyName				PartyName
+paid					Paid
+toPay					ToPay
+total					Total
+partialheader			VIEW
+

@@ -1,0 +1,15 @@
+ {
+	"elementId":"destSubRegionSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"destSubRegionSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Dest Sub Region",
+	"labelId":"destSubRegionSelect",
+	"elementDefaultValue":"",
+	"dataDtoKey":"destSubRegionName",
+	"divRegion":"vehicleRegion",
+	"elementConfigKey":"DestSubRegion",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

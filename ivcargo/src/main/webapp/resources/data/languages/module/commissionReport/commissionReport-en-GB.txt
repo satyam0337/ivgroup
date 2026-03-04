@@ -1,0 +1,50 @@
+header 						Commission Report
+
+date						Date
+commissionType				Commission Type 
+branch						Branch
+search						Search
+subHeader1					Commission Report Data
+
+lsNumber					MEMO
+lsDate						DATE
+vehicleNumber				VEHICLE NO
+noOfArts					PKG
+sourceBranch				BOOKING BRANCH
+destBranch					DELIVERY BRANCH
+totalPaid					PAID
+totalToPay					TOPAY
+totalTBB					TBB
+bookingDiscount				BKG Discount
+deliveryDiscount			DLY Discount
+grandTotal					TOTAL
+bookingCommission			BKG Commission
+deliveryCommission			DLY Commission
+balance						BALANCE
+partialheader				VIEW
+
+branchName					Branch Name
+bookingFright				Booking Freight
+bookingTimeCommission		Bkg. Commission
+deliveryTimeCommission		Dly. Commission
+bookingDateString			Date/Month
+serialnumberheader			SR.No.
+doorDelyCharge				DoorDly Charge
+dlyDiscount					DlyDis<br>Details
+dlyDscButton				Dly<br>Dsc<br>Details
+DDlyButton					DDly<br>Chrg
+lrExpensesAmount			LR Exp
+payableCommissionAmount		Payable Cmsn
+deliveryCmsn				Total Dly Cmsn
+showAllButton				LrExpense Details
+pfCharge					PF
+cartage						Cartage
+weight						Act. Weight
+lorryHireAmount				Lorry Hire
+totalHamali					Hamali
+totalBookingCommission		Total Bkg. Comm.
+totalDeliveryCommission		Total Dly. Comm
+lsSrcBranch					LS Source Branch
+lsDestBranch				LS Destination Branch
+totalBasicFreight		    Total Freight
+crossingHamali				Crossing Hamali

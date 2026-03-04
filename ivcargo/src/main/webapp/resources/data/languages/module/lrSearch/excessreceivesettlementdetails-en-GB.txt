@@ -1,0 +1,9 @@
+header							Excess Receive Settlement Detail
+wayBillNumber					LR Number
+settlementType					Settlement With
+shortNumber						Short Number
+newFOCLRNumber					New FOC Number
+settlementDate					Settlement Date
+settlementRemark				Settlement Remark
+settledByBranch					Settlement At
+settledByExecutive				Settled By

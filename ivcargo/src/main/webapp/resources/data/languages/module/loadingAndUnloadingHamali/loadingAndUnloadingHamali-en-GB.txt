@@ -1,0 +1,58 @@
+header 						Loading And Unloading Hamali Report
+
+date						Date
+region						Region
+subRegion					Sub Region
+branch						Branch
+type						Type
+
+searchBy					Search By
+party						Party
+lrNumber					LR No.
+crNumber					CR No.
+
+search						Search
+
+unLoadingHeader				UnLoading Hamali Details
+loadingHeader				Loading Hamali Details
+
+subHeader1					Loading And Unloading Hamali Details
+
+vehicleNumber				Truck No
+lsCreationDateTime			Date Of LS
+lsNumber					LS Number
+creationDateTime			Creating Date
+loadingHamaliNumber			Loading Hamali No.
+branchId					From
+fromDate				 	From Date
+toDate						To Date
+actualWeight				Act Wt
+manualBharaiWeight			Bharai Wt
+bharaiAmount				Bharai Amount
+manualThappiWeight			Thappi Wt
+thappiAmount				Thappi Amount
+unLoadingHamaliNumber		UnLoading Hamali Number
+manualUtraiWeight			Utrai Wt
+utraiAmount					Utrai Amount
+manualWaraiWeight			Warai Wt
+waraiAmount					Warai Amount
+turNumber					TUR Number
+manualUnLoadingPerTonAmount UnLoading Per Ton Amnt
+manualPerTonWeight          Per Ton Wt
+manualFlatWeight            Flat Wt
+manualUnLoadingFlatAmount   UnLoading Flat Amnt
+totalUnloadingHamali        Total Unloading Amnt
+receivedLedgerDateTime      Date Of TUR
+manualLoadingPerTonAmount	Loading Per Ton Amnt
+manualLoadingPerTonWeight   Loading Per Ton Wt
+manualLoadingFlatAmount		Loading Flat Amnt
+manualLoadingFlatWeight		Loading Flat Wt
+totalActualLoadingHamali    Total Actual Loading Hamali
+
+
+subHeader3					PaymentType Wise Summary
+subHeader2					Short Credit Payment Cancellation Details
+cancellationDateTimeStr		Cancellation Dt
+cancelledByBranchName		Cancelled At
+cancelledByExecutiveName	Cancelled By User
+cancellationRemark			Cancellation Remark			

@@ -1,0 +1,46 @@
+fleetOwner					FLEET OWNERS & TRANSPORT CONTRACTORS
+isoCertified				ISO	Certified Company 9001 : 2015
+emailId						● Email : 
+cin							● CIN : 
+cinNo						U60231MH2020PTC345477
+mobNo						Mob. : 
+caution						CAUTION
+consinorCopy				CONSIGNOR COPY
+gstNo						GST No. : 
+cautionLine					This Consigment will not be detained, diverted, re-routed or re-booked without Consignes Bank's written permission will be delivered at the destination.
+deliveryOffice				Address of delivery Office
+consignmentNo				CONSIGNMENT NO.
+date						Date : 
+atownerRisk					AT OWNER'S RISK 
+insurance					INSURANCE
+theCustomer					The customer has stated that:
+heHas						● He has not insured the consigment 
+or							OR
+heHasIns					● He has Insured the consigment
+partyConNo					Party No. 
+truckNo						Truck No.
+from						From
+to							To							
+consignorNameAddress		Consignor's Name & Address
+consigneeNameAddress		Consignee's Name & Address
+desc						Description
+pkg							Packages
+actual						Actual
+charged						Charged
+wtInKg						Weight in Kg.
+rate						Rate
+amountType					Amount/To Pay/Paid/Due
+rs							Rs.
+freight						Freight
+hamali						Hamali
+gst							GST @
+stCharge					St. Charge
+total						TOTAL
+invNo						Invoice No. : 
+invDate						Invoice Date : 
+noResponse					No Responsibility for Leakage & Breakag
+toPayDash					To Pay____________________
+valueRs						Value Rs.
+ewayBill					E-Way Bill : 
+ewayBillExp					E-Way Bill Exp.
+sign						Signature of the Transport._________________________

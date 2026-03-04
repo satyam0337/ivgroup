@@ -1,0 +1,13 @@
+ {
+	"tooltipName": "Dispatch Quantity",
+	"labelId":"dispatchQuantity",
+	"elementType":"number",
+	"elementId":"dispatchQtyEle",
+	"elementName":"dispatchQtyEle",
+	"elementDefaultValue":"0"
+	,"parentDivCss":"col-xs-10"
+	,"showLabel":false
+	,"primaryIdDtoName":"consignmentDetailsId"
+	,"dataDtoKey":"consignmentDetailsQuantity"
+	
+}

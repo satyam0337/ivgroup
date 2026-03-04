@@ -1,0 +1,135 @@
+@charset "ISO-8859-1";
+
+#groupNameWithArea {font-size: 14px; font-weight: bold; display: inline; color: #00681C;position: relative;}
+#branchPrepaidAmount {font-size: 20px; font-weight: bold; display: inline-block; color: red;  background-color: yellow; height: 21px; line-height: 17px;margin-left: 10px;}
+.groupLogo h3 {font-size: 15px;text-shadow: 0 1px 0 #ccc,0 2px 0 #c9c9c9,0 3px 0 #bbb,0 4px 0 #b9b9b9,0 5px 0 #aaa,0 6px 1px rgba(0,0,0,.1),0 0 5px rgba(0,0,0,.1),0 1px 3px rgba(0,0,0,.3),0 3px 5px rgba(0,0,0,.2),0 5px 10px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.2),0 20px 20px rgba(0,0,0,.15);}
+#timeWithno {font-size: 13px; font-weight: bold; display: inline; color: red; font-family: arial;top: 22px;padding-top: 2px;}
+#waybillTypesList {font-size: 13px; font-weight: bold; color: #203C54; margin-left: 10px; padding-bottom: 5px;}
+#PAID {background-color: #0073BA; color: #FFF ; cursor: hand; cursor: pointer; padding: 2px;}
+#TOPAY {background-color: #E77072; color: #FFF; cursor: hand; cursor: pointer; padding: 2px;}
+#CREDITOR {background-color: #52AEC6; color: #FFF; cursor: hand; cursor: pointer; padding: 2px;}
+#FOC {background-color: #2CAE54; color: #FFF; cursor: hand; cursor: pointer; padding: 2px;}
+#MANUAL {background-color: #FFAA55; color: #FFF; cursor: hand; cursor: pointer; padding: 2px;}
+#LOCALBOOKING {background-color: #D662F0; color: #FFF; cursor: hand; cursor: pointer; padding: 2px;}
+#FTLBOOKING {background-color: red; color: #FFF; cursor: hand; cursor: pointer; padding: 2px;}
+#waybillTypesList a {padding-right: 5px;}
+#supportNo {padding-left: 70px;	}
+* {box-sizing: border-box;}
+/* Clear floats after the columns */
+.row:after {content: "";clear: both;}
+#Logout {height: 30px;margin-top: 10px;}
+.caption {font-size: 13px;font-weight: bold;color: red; font-family: arial;margin-top: 12px;}
+#wrapper {display: flex;}
+#waybillTypesList {flex: 0 0 66%;padding-top: 5px;}
+#othersection {flex: 1;float: right;}
+#logoutSection {padding-left: 10px;float: right;}
+#othersection span {float: right;padding: 0 5px;}
+.SearchBoxWrapper{background : transparent url(../../images/SearchTextBox.png) no-repeat scroll 0 0;float: left;margin-left : 1px;margin-top : 2px;}
+.search_button{background :transparent  url(../../images/SearchTextBox.png) no-repeat scroll right -19px;border:medium none;color:#113691;cursor:pointer;display:inline;font-size:1px;height:20px;letter-spacing:-1em;margin-left:-3px;vertical-align:middle;width:20px;}
+.Search{display:block;float: left;margin-left:5px;white-space:nowrap;	}
+#upper-menu{background-color:#4967ae;position:relative;width:100%;}
+#upper-menu .collapse {display: block}
+#header {width: 100%;/* background-image: url(../../../images/hdr-bg-a.gif); */background-repeat: repeat-x;background-size: 100%;background:#82d5f0;}
+.navbar {padding: 5px 5px 0;margin-bottom: 0px;}
+.navbar-nav li:hover > ul.dropdown-menu {display: block;}
+.dropdown-submenu {position:relative;}
+.dropdown-submenu>.dropdown-menu {top: 0;left: 100%;margin-top:-6px;}
+/* rotate caret on hover */
+.dropdown-menu > li > a:hover:after {text-decoration: underline;transform: rotate(-90deg);} 
+#groupName {color: red; text-align: center;font-size: 24px;}
+@media (min-width: 768px) {.navbar-nav.navbar-center {position: absolute;left: 35%;/* transform: translatex(-50%); */}}
+.contact_support {text-align: left;color: red;font-weight: bold;font-size: 14px;}
+#accordion .panel-title .glyphicon-minus, #accordion .panel-title .glyphicon-plus {float: right !important;}
+#accordion h2 {color: #ff9800;}
+#accordion a {text-decoration: none;display: block;}
+#accordion .panel-primary>.panel-heading {color: #fff;background-color: #408080;border-color: #337ab7;}
+.report_list {padding: 5px;}
+.report_list a::first-letter {font-size: 150%;color: #8A2BE2;}
+.panel-title {font-size: 13px;font-weight: bold;}
+.applemenu {width: 100%;border: none;margin-top: 10px;-webkit-box-shadow: 0px -1px 9px 0px rgba(0, 0, 0, 0.75);-moz-box-shadow: 0px -1px 9px 0px rgba(0, 0, 0, 0.75);box-shadow: 0px -1px 9px 0px rgba(0, 0, 0, 0.75);}
+#accordion .panel-title .fa {float: right;}
+
+#waybillTypesNewList {width: 40%;font-weight: bold;font-size: 14px;margin-top: 5px;}
+#waybillTypesNewList li {padding-right: 5px;}
+@media (min-width: 768px) {.navbar-nav.navbar-center-new {position: absolute;left: 30%;/* transform: translatex(-50%); */}}
+.navbar-center-new > li > ul > li {list-style-type: none; display: inline-block}
+#supportNoNew {padding-left: 30px;	}
+.hide {display: none;}
+
+@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icomoon.eot");
+  src: url("../fonts/icomoon.eot?#iefix") format("embedded-opentype"), url("../fonts/icomoon.woff?10si43") format("woff"), url("../fonts/icomoon.ttf?10si43") format("truetype"), url("../fonts/icomoon.svg?10si43#icomoon") format("svg");
+}
+
+.glyphicon-chevron-down::before {
+	content: "\e114";
+}
+.glyphicon {
+	font-family: "Glyphicons Halflings";
+	font-style: normal;
+	line-height: 1;
+}
+
+@font-face {
+	font-family: "Glyphicons Halflings";
+	src: url("../fonts/glyphicons-halflings-regular.eot");
+	src: url("../fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+}
+
+.report_list a:hover{text-decoration: underline;}
+.fa-stack[data-count]:after{position:absolute;right:0%;top:1%;content: attr(data-count);font-size:30%;padding:.6em;border-radius:999px;line-height:.75em;color: black;text-align:center;min-width:2em;font-weight:bold;}
+
+/* ============ desktop view ============ */
+@media all and (min-width: 992px) {
+	.dropdown-menu li{position: relative;}
+	.dropdown-menu .submenu{display: none;position: absolute;left:100%; top:-7px;}
+	.dropdown-menu .submenu-left{right:100%; left:auto;}
+	.dropdown-menu > li:hover{ background-color: rgb(128, 128, 192) }
+	.dropdown-menu > li:hover > .submenu{display: block;-webkit-transition-delay: 0s;
+		-o-transition-delay: 0s;
+		transition-delay: 0s;
+		margin-top: 0px;
+		visibility: visible;
+		opacity: 1;
+	}
+}	
+/* ============ desktop view .end// ============ */
+
+/* ============ small devices ============ */
+@media (max-width: 991px) {
+	.dropdown-menu .dropdown-menu{margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;}
+}	
+/* ============ small devices .end// ============ */
+
+.nav-link {display: inline;}
+.navbar-nav .dropdown-menu {position: absolute;}
+#menu li a, #menu li svg {color: #fff;}
+#waybillTypesList a {color: #fff;}
+.mainmenucolor {background-color: #9b59b6;}
+.submenucolor {background-color: #e74c3c;}
+		
+.dropdown-menu {
+	-webkit-box-shadow: 0px -1px 9px 0px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 0px -1px 9px 0px rgba(0, 0, 0, 0.75);
+	box-shadow: 0px -1px 9px 0px rgba(0, 0, 0, 0.75);
+	background-color: #008B8B;
+	border-top: 5px solid #007bff;
+}
+
+.dropdown-item{color: #FFF}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+	color: #262626;
+	text-decoration: none;
+	background-color: #9370DB;
+}
+
+.nav > li > a:focus, .nav > li > a:hover, .nav > li > ul > li > a:hover {
+	text-decoration: none;
+	background-color: #9370DB;
+}
+
+.fa-wand-magic-sparkles {
+	color: yellow;
+}

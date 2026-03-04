@@ -1,0 +1,12 @@
+ {
+	"labelId"					:	"doorDelivery",
+	"dataDtoKey"				:	"doorDelivery",
+	"columnDisplayCssClass"					:	"column-data-left-align",
+	"displayColumnTotal"			:	"false",
+	"elementConfigKey"			:	"DoorDelivery",
+	"columnPrintWidthInPercentage"	:	"10",
+	"columnWidth"				:	100,
+	"dataType"					:	"input",
+	"buttonCss"					:	"form-control doorDelivery",
+	"maxLength"					:	"5"
+}

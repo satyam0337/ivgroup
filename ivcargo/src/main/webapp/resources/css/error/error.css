@@ -1,0 +1,116 @@
+.message {
+	-webkit-background-size: 40px 40px;
+	-moz-background-size: 40px 40px;
+	background-size: 40px 40px;
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(.25, rgba(255
+		, 255, 255, .05)), color-stop(.25, transparent),
+		color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .05)),
+		color-stop(.75, rgba(255, 255, 255, .05)),
+		color-stop(.75, transparent), to(transparent));
+	background-image: -webkit-linear-gradient(135deg, rgba(255, 255, 255, .05)
+		25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%,
+		rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
+	background-image: -moz-linear-gradient(135deg, rgba(255, 255, 255, .05)
+		25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%,
+		rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
+	background-image: -ms-linear-gradient(135deg, rgba(255, 255, 255, .05)
+		25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%,
+		rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
+	background-image: -o-linear-gradient(135deg, rgba(255, 255, 255, .05)
+		25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%,
+		rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
+	background-image: linear-gradient(135deg, rgba(255, 255, 255, .05) 25%,
+		transparent 25%, transparent 50%, rgba(255, 255, 255, .05) 50%,
+		rgba(255, 255, 255, .05) 75%, transparent 75%, transparent);
+	-moz-box-shadow: inset 0 -1px 0 rgba(255, 255, 255, .4);
+	-webkit-box-shadow: inset 0 -1px 0 rgba(255, 255, 255, .4);
+	box-shadow: inset 0 -1px 0 rgba(255, 255, 255, .4);
+	/* height: 50px; */
+	width: 100%;
+	border: 1px solid;
+	color: #fff;
+	padding: 15px;
+	position: fixed;
+	_position: absolute;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, .5);
+	-webkit-animation: animate-bg 5s linear infinite;
+	-moz-animation: animate-bg 5s linear infinite;
+	z-index: 99999;
+}
+
+.info {
+	background-color: #4ea5cd;
+	border-color: #3b8eb5;
+}
+
+.error {
+	background-color: #de4343;
+	border-color: #c43d3d;
+}
+
+.warning {
+	background-color: #eaaf51;
+	border-color: #d99a36;
+}
+
+.success {
+	background-color: #61b832;
+	border-color: #55a12c;
+}
+
+.hideElemnt {
+	display: none;
+}
+
+.showElemnt {
+	display: block;
+}
+
+@-webkit-keyframes animate-bg {
+	from { 
+		background-position:00;
+	} to {
+		background-position: -80px 0;
+	}
+}
+
+@-moz-keyframes animate-bg {
+	from { 
+		background-position:00;
+	} to { 
+		background-position: -80px 0; 
+	}
+}
+
+.text-red {
+	color : #dd4b39 !important;
+}
+
+.nod-error-message{
+	position: absolute;
+	border-radius: 5px;
+	color: #B11515;
+	font-size: medium;
+	font-weight: bold;
+	z-index: 50;
+	box-shadow: 10px 10px grey;
+	background: antiquewhite;
+	padding: 5px;
+	line-height: 25px;
+	/* display: table-cell; */
+	vertical-align: middle;
+}
+
+.error-boder{
+	border: 1px solid #B11515 !important;
+	-webkit-animation: pulse-border 1s infinite;
+}
+
+@-webkit-keyframes pulse-border {
+	from, to {
+	moz-box-shadow: 0 0 0 0 #B11515;
+	box-shadow: 0 0 0 0 #B11515;}
+	50% {box-shadow: 0 0 0 1px #B11515; 
+	moz-box-shadow: 0 0 0 1px #B11515; 
+	}
+}

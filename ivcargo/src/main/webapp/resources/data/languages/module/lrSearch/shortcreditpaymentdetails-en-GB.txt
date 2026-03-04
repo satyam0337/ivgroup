@@ -1,0 +1,17 @@
+header					Short-Credit Payment Detail
+receivedBy				Received By
+receivedDateStr			Received Date
+receivedBranchName		Received Branch
+collectionPerson		Collection Person
+paymentMode				Payment Mode
+chequeNo				Cheque Number
+chequeDate				Cheque Date
+bankName				Bank Name
+paymentStatus			Payment Status
+receivedAmount			Received Amt
+tdsAmount				TDS Amt
+totalAmount				Total Amt
+txnAmount				TXN Amt
+remark					Remark
+mrPrint					MR Print
+statementNo				Statement No

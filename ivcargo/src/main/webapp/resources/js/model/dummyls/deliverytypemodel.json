@@ -1,0 +1,9 @@
+ {
+	"labelId":"deliveryTo",
+	"dataDtoKey":"wayBillDeliveryPlace",
+	"columnDisplayCssClass":"column-data-left-align",
+	"displayColumnTotal":"false",
+	"elementConfigKey":"DeliveryType",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+}

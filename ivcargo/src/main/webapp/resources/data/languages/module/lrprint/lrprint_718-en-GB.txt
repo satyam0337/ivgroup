@@ -1,0 +1,77 @@
+panNo	PAN NO:
+hsnCode		HSN CODE
+payType		PAY<br>TYPE
+stPaidBy	GST PAID BY
+deliveryAt	Delivery At
+delivery    Delivery Address
+shipMode	SHIP<br>MODE
+bookingtype  Booking Type
+from	FROM
+to	TO
+add		ADD
+gstin	GST No
+totalArt	TOTAL ARTICLE
+actualWt	Actual Wt.
+chargeWeight	Charged Wt.
+serviceTaxPaidBy      G.S.T Paid By
+chargeArt	CHARGED ARTICLE
+invVal		INVOICE VALUE
+value         VALUE
+vehicleType		VEHICLE TYPE
+consignor		Consignor
+consignee		Consignee
+mobile          Mobile No
+remark	     Remark
+eWayBill	Ewaybill No.
+invNo		INVOICE NUMBER
+inv         INV
+partNo		PART NO
+actualArt	Actual Article
+artType		Article Type
+description	DESCRIPTION
+qty		 Qty.
+totalqty    Total Qty
+termsCondition	Terms & Conditions
+recSign			RECEIVER'S SIGN & STAMP
+empid		EMP ID & TIME
+lrNo		LR NO
+lrQr	LR QR CODE
+vehNo	VEHICLE NO:
+date	Date
+freight		  FREIGHT 
+freightltype  Freight type 
+fov			  FOV
+hamali		  HAMALI
+mathadi		  MATHADI
+lrcharge	  LR CHARGE
+collection		COLLECTION
+doordelivery		DOOR DELIVERY
+katta				KATTA
+toll			TOLL
+extrarunning	EXTRA RUNNING
+expresscharge		EXPRESS CHARGE
+e-waybill		E-WAYBILL
+detention		DETENTION
+godowncharge		GODOWN CHARGE
+receipt		RECEIPT(MR)
+other				OTHER
+total				TOTAL
+consignorcopygrey		CONSIGNOR COPY GREEN 
+consigneecopypink 		CONSIGNEE COPY PINK 
+lorrycopyyellow			LORRY COPY YELLOW
+recordcopyblue  RECORD COPY BLUE  
+hocopywhite		HO COPY WHITE
+
+
+
+
+
+
+
+
+
+
+
+
+
+

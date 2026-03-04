@@ -1,0 +1,12 @@
+ {
+	"elementId":"transportModeSearchEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"transportModeSearchEle",
+	"elementType":"text",
+	"tooltipName": "Select Transport Mode",
+	"labelId":"transportMode",
+	"divRegion":"SearchRegion",
+	"parentDivCss":"col-xs-5",
+	"labelCss":"col-xs-3",
+	"elementDivCss":"col-xs-8 validation-message"
+}

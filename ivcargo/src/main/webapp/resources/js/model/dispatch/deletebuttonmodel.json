@@ -1,0 +1,7 @@
+{
+	"buttonName":"deleteBtn",
+	"buttonId":"deleteBtn",
+	"buttonClass":"btn btn-danger",
+	"tooltipName":"Delete",
+	"buttonSpanId":"DeleteLabel"
+}

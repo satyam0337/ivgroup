@@ -1,0 +1,285 @@
+.alignLeft {
+	padding-left: 10px;
+}
+
+.alignRight {
+	padding-right: 10px;
+}
+
+.width100per {
+	width: 100%;
+}
+
+
+.Width90per {
+	 width: 90%; 
+}
+
+.BorderBottom {
+	border-bottom: 1px solid black;
+}
+
+.BorderLeft {
+	border-left: 1px solid black;
+}
+
+.BorderRight {
+	border-right: 1px solid black;
+}
+
+.BorderTop {
+	border-top: 1px solid black;
+}
+
+.Font22Size {
+	font-size: 22px;
+}
+
+.Font18Size {
+	font-size: 18px;
+}
+
+.Width95per {
+	width: 95%;
+}
+
+.Width50per {
+	width: 50%;
+}
+
+.Width25per {
+	width: 25%;
+}
+
+.Width33per {
+	width: 33%;
+}
+
+.Width35per {
+	width: 35%;
+}
+
+.aligncenter {
+	text-align: center
+}
+
+.alignright {
+	text-align: right;
+}
+
+.verticalalignbottom {
+	vertical-align: bottom;
+}
+
+.alignleft {
+	text-align: left;
+}
+
+.height28px {
+	height: 28px;
+}
+
+.height30px {
+	height: 30px;
+}
+
+.height50px {
+	height: 50px;
+}
+.height100per {
+	height: 100%;
+}
+
+
+.width30per {
+	width: 30%;
+}
+
+.Width40per {
+	width: 40%;
+}
+
+.Width60per {
+	width: 60%;
+}
+
+.width20per {
+	width: 20%;
+}
+
+.width15per {
+	width: 15%;
+}
+
+.font14px {
+	font-size: 14px;
+}
+
+.font15px {
+	font-size: 15px;
+}
+
+.font16px {
+	font-size: 16px;
+}
+
+.font12px {
+	font-size: 12px;
+}
+
+.fontStyle {
+	font: 15px Courier New
+}
+
+.biggerfontStyle {
+	font: 16px Courier New
+}
+
+.height100px {
+	height: 100px;
+}
+
+.Width7per {
+	width: 7%;
+}
+
+.Width80per {
+	width: 80%;
+}
+
+.Width75per {
+	width: 75%;
+}
+
+.Width70per {
+	width: 70%;
+}
+
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+.fontsmall {
+	font-size: 11px;
+}
+
+.upperCase {
+	text-transform: uppercase;
+}
+
+td {
+	padding: 0px;
+	word-break: keep-all;
+	white-space: nowrap;
+}
+
+.alignleft {
+	float: left;
+}
+
+.textalignleft {
+	text-align: left;
+}
+
+.width30per {
+	width: 35%
+}
+
+.verticalAlignTop {
+	vertical-align: top;
+}
+
+.textalignright {
+	text-align: right;
+}
+
+.fontBreakWord {
+	word-wrap: break-word;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.lrFont {
+	font: 17px;
+}
+
+.height20px {
+	height: 20px;
+}
+.height28px {
+	height: 28px;
+}
+
+.height18px {
+	height: 15px;
+}
+
+.height25px {
+	height: 25px;
+}
+
+.height23px {
+	height: 23px;
+}
+
+.height30px {
+	height: 30px;
+}
+
+.paddingLeftLabel {
+	 padding-left: 5px; 
+}
+
+.paddingRightLabel {
+	 padding-right: 5px; 
+}
+
+.pageBreakNeeded{
+word-break: normal;
+white-space: normal;
+}
+
+.ui-autocomplete {
+	max-height: 200px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	cursor: default;
+	z-index: 9999;
+	max-width: 150px;
+}
+
+.confirm {
+font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60%;
+  min-width: 370px;
+  max-width: 370px;
+  height: 250px;
+  background: #E2E2E2;
+  border-radius: 10px;
+  padding-top: 50px;
+  margin: 0;
+  border-top: 1px solid white;
+  animation: fade 1s ease 1 forwards;
+  
+}
+
+.ChargesTable tr td:first-child {
+	height : 22.3px;
+	vertical-align: text-top;
+	width: 59%;
+}
+.ChargesTable tr td:last-child {
+	height : 16px;
+	vertical-align: text-top;
+	width: 41%;
+}

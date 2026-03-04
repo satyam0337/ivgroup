@@ -1,0 +1,12 @@
+header				Godown Master
+region				Region
+subRegion			Sub-Region
+branch				Branch
+search				Find
+name				Name
+address				Address
+branchName			Branch
+pincode				Pincode
+contactPersonName	Contact Person
+mobileNumber		Mobile Number
+phoneNumber			Phone Number

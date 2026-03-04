@@ -1,0 +1,32 @@
+header					Fuel Hisab Settlement
+vehicleNumber			Vehicle Number
+driver					Driver
+date					Date
+search					Search
+serialnumberheader		SR. No.
+
+lrNumber				LR Number
+from					From
+to						To
+kilometer				Kilometer
+remark					Remark
+append					Append
+startKilometer			Start KM
+endKilometer			End KM
+average					Average
+fuelConsumption			Consumption
+totalFuelLtr			Total Fuel
+balanceFuel				Balance Fuel
+deduction				Adjustment
+deductionRemark			Adj. Remark
+finalFuelClosing		Final Closing
+submit					Submit
+kilometerDifference		Kilometer Diff.
+fuelHisabDate			Fuel Hisab Date
+lastHisabDate			Last Hisab Date
+uptoDate				Hisab Upto Date
+closingFuelBalance		Fuel Op. Balance
+averageRemark			Average Remark
+remove					Remove
+runningKilometer		Running KM
+voucherTotalKilometer	Voucher KM

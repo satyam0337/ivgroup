@@ -1,0 +1,57 @@
+branchPhoneNumberLabel			CONTACT :-  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To Branch : 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+freight							Freight
+extraLabel						Extra
+totalAmtLabel					Total 
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							Sr<br>No 
+gst								GST
+stateCode						State Code : 
+billNo							Invoice No : 
+date							LR Date 	
+lrNo							LR No
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Particulars
+qty								Qty
+other							Other
+total							Total
+gst5							GST 5%
+note							Note
+lrDestination  					To 
+chargeweight					Ch. Wt.
+iandsCharge						IandS
+other 							Other
+partyName 						Party Name:-
+partyAddress 					Party Address:-
+gstNo 							GSTIN :
+invoicedate						Invoice Date :-
+pickupCharge					pickup
+doorDelivry						DoorDelivery
+hamali							Hamali
+panNo							PAN :
+articles						Articles
+Wght							Weight
+rateLable						Rate
+Pickup&Dd						Pickup<br>&DD
+lrCharges						LR <br> Charges
+formDate						Form Date : 
+toDate							To Date : 
+pickup							Pickup
+dd								DD

@@ -1,0 +1,32 @@
+header 							Delivery Stock Clear Master
+date 							Date
+discountOn						Discount On
+subHeader						Add Discount
+subHeader1						Discount Details
+branch							Branch
+region							Region
+subRegion						Sub Region
+executive						Executive
+wayBillType						LR Type
+
+save							Deliver
+update							View
+
+edit							Edit
+add								Add
+view							View All
+selectAll						Select All
+
+partialheader					Update
+
+append							Append
+delete							Delete
+cashStmtEffect					Cash Statement<br>Effect
+discount						Delivery<br>Discount
+crNo							CR<br>Number
+deliveryType					Delivery Type
+lrNoField						LR Numbers
+receiveDate						Receive Date
+lrDeliveryType					Deliver as
+destBranch						Destination Branch <br> Wise Delivery?
+deliveryDate					Delivery Date

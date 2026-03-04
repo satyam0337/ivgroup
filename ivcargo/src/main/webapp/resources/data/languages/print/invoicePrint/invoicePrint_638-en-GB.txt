@@ -1,0 +1,54 @@
+branchPhoneNumberLabel			Ph :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+chargeWeight					Kg<br>Round <br>Of For<br> Next <br>  10
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				Source 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					Place 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+rate							Rate
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							SNo 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							Date : 	
+lrNo							LR Number
+bookingStation					Booking<br>Station
+consignor						Consignee Name
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+total							Total<br> Cost <br>As Per <br>TPT
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GST NO -
+invoiceno						INV <br>No.
+invoiceNo						invoice No :
+bookingdate						Booking<br>Date
+particulars						Particulars
+articles						No Of<br> Articles
+weightLabel						Gross wt 
+note							Subject to Hyderabad Jurisdiction only.			
+note1							Bill towards Freight and Other Charges of your consignments transported as under
+gccharge						GC <br>Char<br>ges
+Cw								Cost as <br> per<br>  TPT <br>Before <br>  Adjust<br>ement
+hamali							Ham<br>ali <br>Char<br>ges

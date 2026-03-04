@@ -1,0 +1,40 @@
+Remark			Remark
+Delivery 		Delivery At.
+Credited 		Credited To Your A/C
+FrtShare		Frt.Share (D.G)
+FirstFreight	First Freight
+DriverSign		Driver Sign &nbsp; :
+CheckedBy		Checked By &nbsp; :
+ReceiveTOTAL	Receive TOTAL
+Pkgs			Pkgs.
+PleaseOur 		Please Our A/ C With Rs.
+Less			Less
+ToPay			To Pay
+FrtShareCG		Frt.Share (C.G)
+Hamali			Hamali
+DoorDeliChg		Door Deli. Chg.
+ExtraBulky		Extra Bulky
+BALANCE			BALANCE ( DR. )
+Prepared		Prepared By &nbsp; :
+Total			Total
+Gr				Gr. Total : 
+BkDt			Bk. Dt.
+From			From
+MTR				MTR
+Pkgs			Pkgs
+To				To
+Contents		Contents
+Weight			Weight
+Freight			Freight
+Driver			Driver
+Owner			Owner
+LicNo			Lic. No.
+Page			Page
+TptName			Tpt Name
+ToStat			To Stat.
+CHNo			CH. No
+Date			Date
+MVNo			MV. No.
+PhoneNo			Phone No. :
+GOODS			GOODS DESPATCH MEMO
+Subject			Subject to Ahmedabad Jurisdiction Only.

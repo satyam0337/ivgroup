@@ -1,0 +1,82 @@
+header 						Loading Sheet Commission Report
+subHeader					LS Details
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+lsType						Type Of LS
+crossingLS					Crossing Type
+toArea						To Area
+toBranch					To Branch
+vehicle						Truck Number
+billSelection				Bill Selection
+save						Find
+
+serialnumberheader			SR. No
+lsNumber   					LS No
+lhpvNumber   				LHPV No
+lsDate   					LS Date
+vehicleNumber				Truck No
+srcBranch 					From
+destBranch					To
+typeOfLs  					Type Of LS
+typeOfCroosing				Crossing Type
+totalLRs  					LR's
+totalArt  					Art.
+totalWgt  					Wght
+totalToPay					To Pay
+totalPaid					Paid
+totalTBB 					TBB
+refundAmount				Refund Amt
+bookingTimeServiceTax		GST
+grandTotal					Grand Total
+doorDel  					DD's
+crossingOthers				Crossing Other Charges 
+crossingTotal				Crossing Freight
+bookingOthers				Branch Other Charges
+bookingTotal				Freight
+totalForms					Forms
+totalDag					Total Dag
+bookingGrandTotal			Total
+commission					Comm
+busName						Bus Name
+lsRemark					Remark
+lorryHireAmount				Lorry Hire
+totalBookingToPay			Booking Topay
+totalCrossingTopay			Crossing Topay
+operationalBranch			Operational Branch
+lorryHireAdvance			Advance
+lorryHireBalance			Balance
+GenerateConsolitadeReport	Generate Consolitade Report
+DeliveryDiscount			Dly. Disc.
+ConsolidateEwaybillNo		Con.EwaybillNo
+totalLorryHireAmount		Total Lorry Hire
+transhipmentDetails		   	Transhipment Details
+ddCharge					DD Charge
+chargeWeight				Charge Weight
+actualWeight				Act Weight
+srcBranchCity				Source City
+destBranchCity				Destination City
+billSelection				Bill Selection
+vehicleAgent				Vehicle Agent
+staticalCharge				Statical Charge
+lateNightCharge				Late Night Charge 
+hamali						Hamali
+excel						Excel
+otherCharge					Other
+aoc							AOC
+CommissionPercentage		Commission %
+commissionAmount			Commission Amount
+lsExpense					Expense
+netAmount					Net Amount
+dueAmount					Amount Due
+toPayAmount					To Pay Amount
+companyDue					Company Due
+vehicleType					Vehicle Type
+crossingAgent               Crossing Agent
+balance						Balance
+connectingAmt				Connecting Amt
+crossingAmount				Crossing Charge
+serviceCharge				Service Charge
+lrCharge					LR Charge
+vehicleAgentName			Vehicle Agent Name

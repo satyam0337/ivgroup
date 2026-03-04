@@ -1,0 +1,10 @@
+ {
+	"labelId":"chargeWeight",
+	"dataDtoKey":"consignmentSummaryChargeWeight",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":"true",
+	"elementConfigKey":"chargeWeight",
+	"columnPrintWidthInPercentage":"15",
+	"columnWidth":130
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                        

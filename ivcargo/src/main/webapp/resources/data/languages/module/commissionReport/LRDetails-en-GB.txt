@@ -1,0 +1,20 @@
+serialnumberheader				SR.no.
+waybillNumber					LR no.
+bookingDate						Booking Date
+waybillType						LR Type
+sourceBranch					From
+destinationBranch				To
+consignor						Consignor
+consignee						Consignee
+noOfArt							No.of Art.
+grandTotal						Amount
+commission						Commission
+doorDlyCharge					Door Dly Charge
+deliveryDiscount				Delivery Discount
+discountOn						Discount On
+ChargesDetails					Commission Charges
+businessTypeName				Business Type
+BasicFreight					Basic Freight
+PfChargeAmount					Pf Charge
+CartageAmount					Cartage Amount
+OtherCharges					OtherCharges

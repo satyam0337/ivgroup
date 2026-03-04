@@ -1,0 +1,41 @@
+header 							Branch Commission Master
+subHeader						Add Branch Commission
+subHeader1						Branch Commission Details
+subHeader2						Add Labour Charge
+branch							Agent Branch
+destinationBranch				Applicable On Branch
+txnType							Txn Type
+wayBillType						LR Type
+chargeTypeMaster				Applicable On Charges
+commissionValue					Comm. Value
+bookingType						Booking Type
+isPercentage					isPercentage
+commissionType					Comm. Type
+packingType						Packing Type
+vehicleType						Vehicle Type
+weightConfig					Weight Config
+agentBranch						Agent Branch
+save							Save
+update							View
+delete							Delete
+edit							Edit
+add								Add
+view							View All Commission
+selectAll						Select All
+bookingTypeString				Bkg Type
+partialheader					Update
+updateBtn						Update			
+labourCharge					Add Labour Charge
+saveLabour						Add Labour
+transportationMode				Transportation Mode
+transportationMode				Transportation Mode
+prepaidAmountHeader				PrePaid Amount Master
+branchNameForPrepaidAmount		Branch
+rechargeAmount					Recharge Amount
+prepaidAmountTab				PrePaid Amount
+updateBtn						Update
+currentAmountLb					Current Amount : 
+addbalance						Add Bal
+removebalance					Deduct Bal
+applicableChargeType            Charge Type
+businessType		            Business Type

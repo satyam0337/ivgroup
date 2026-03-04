@@ -1,0 +1,59 @@
+branchPhoneNumberLabel			Tel No :-  
+branchAddressLabel				Address :
+C.N.NumberLabel					C.N.No
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						WEIGHT
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				FROM 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					TO
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							Sr<br>No 
+gst								GST No :-
+stateCode						State Code : 
+billNo							BILL NO : 
+date							BILL DATE :- 	
+lrNo							LR No
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Particulars
+qty								Qty
+other							Other
+freight							Freight
+total							Total
+gst5							GST 5%
+note							Note
+partyname						PARTY NAME : M/S
+address							ADDRESS :
+line1							WE HEREBY SUBMIT OUR BILL FOR GOODS TRANSPORTED AS UNDER :	
+freightbillno					BILL NO : 
+lrdate							DATE
+invoiceno						INVOICE NO
+pkg								PKG
+rate							RATE
+amount							AMOUNT
+line2							ENCLOSED :- 
+line3							Sign.Ack.
+line4							PAN NO :-
+line5							AACFC0163A
+line6							GST NO :-
+line7							19AACFC0163A1Z5
+line8							REG NO :-
+line9							850/TGBR/SB-01/KOL/2004-05  Dtd: 11/02/2005
+line10							SERVICE TAX PAYABLE :-
+line11							CONSIGNOR/CONSIGNEE
+line12							24% INTEREST WILL BE CHARGED ON OUTSTANDING BILL IF PAYMENT IS NOT MADE ON DUE DATE.			 
+HOLabel							H.O.
+BOLabel							B.O.

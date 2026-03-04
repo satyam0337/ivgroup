@@ -1,0 +1,16 @@
+deliveredAtGodown				Delivered At Godown
+consignee						Consignee
+deliveredTo						Delivered To
+bkgBranch						Bkg Branch
+lrNo							LR No
+bkgDate							Bkg Date
+article							Article
+item							Item
+arrival							Arrival
+remark							Remark
+crNo							CR No
+paymentType						Payment Type
+date							Date
+freight							Freight
+unloading						Unloading
+totalAmt						Total Amt

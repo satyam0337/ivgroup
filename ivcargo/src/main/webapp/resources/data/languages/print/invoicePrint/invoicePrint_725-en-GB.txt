@@ -1,0 +1,28 @@
+billOfSupply				Bill Of Supply
+branchLabel					Branch:&nbsp;
+phoneLabel					Phone:&nbsp;
+emailLabel					Email:&nbsp;
+panLabel					PAN :&nbsp;
+gstNoLabel					GST No.:&nbsp;
+mobNoLabel					Mobile No.:&nbsp;
+ms							M/s&nbsp;
+panNoLabel					PAN No.:&nbsp;
+stateLabel					State:&nbsp;
+billNo						Bill No.
+billDate					Bill Date
+sac							SAC
+sn							SN
+cnNo						CN. No.
+date						Date
+pkgs						Pkgs
+from						From
+to							To
+weight						Weight
+freight						Freight
+othChg						Oth. Chg
+amount						Amount
+total						Total
+grandTotalRs				Grand Total Rs
+preparedBy					Prepared By
+checkedBy					Checked By
+authorisedSignatory			Authorized Signatory

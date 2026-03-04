@@ -1,0 +1,45 @@
+issue						ISSUING OFFICE
+date						Date 
+consignor					consignor
+source						From :
+delivery					Del.To
+bbranch						Bkg.Branch
+consignee					Consignee :
+arrivingDate				Arr.Date
+booking						Bkg.Date
+totalArticles				Total Articles
+bookngTotal					Booking Total
+articles					Article
+total						TOTAL :
+remark						Remark
+user						User :
+time						Time:
+consinorCopy				Consinor Copy
+consineeCopy				Consinee Copy
+discount					Discount
+gstn						GSTN :
+address						Address of Branch :
+truckno						Truck No.
+freight						Freight
+octroi						Octroi
+oct.ser						Oct.Ser
+oct.form					Oct-Form
+hamali						Hamali
+bfc							BFC
+r/c							R/C
+demurrage					Demurrage
+others						Others
+gst							GST
+less:tds					Less:TDS
+cashmemo					Cash Memo
+paymode						Pay Mode
+gcno						G.C.No.
+stordays					stor.Days
+freedays					Free Days
+demodays					Dem.Days
+weight						Weight
+rupees						Rupees :
+paidby						PaidBy :
+phoneB1						Phone.No of Branch:
+phoneB2						Phone.No2 of Branch:
+contact						Contact.No:

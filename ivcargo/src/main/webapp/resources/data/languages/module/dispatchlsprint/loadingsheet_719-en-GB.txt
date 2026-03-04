@@ -1,0 +1,61 @@
+srNumberLabel					SL.NO.
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						AMOUNT
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF ARTICLES
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				AMOUNT
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						Art
+gst								GST no.
+saidToContain					Packing Type
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WEIGHT
+totalLrChargeLabel				LR Charge
+ConsolidateEwaybillNo		Con.EwaybillNo :
+address						Admin Office : D.No. 21-107/2, Pantakaluva Road, Mailurai Center, Gollapudi - 521225.
+email						7416455516, 8143452588, 9390420852, E-mail : matparcelserviceap@gmail.com
+bookingAddress				Booking Office : 83, Kazi Sayad Street, Below New Syndicate Bank,
+bookingAddress2				Masjid Bunder, MUMBAI-400 003. Ph : (022)23462699, 40232699, Cell : 9323657254 
+inv							Inv Value

@@ -1,0 +1,24 @@
+header 						Invoice and GST Details
+header1						<b>Lr Details</b>
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+find						Find
+selectType					Tax Type
+
+serialnumberheader			SR. No
+billNo						Bill No
+billDate 					Date of Invoice
+billBranch					Branch Name
+lrno						LR No.
+consignorName				Consignor Name
+consignorGstNo				GST No.
+consigneeName				Consignee Name
+consigneeGstNo				GST No.
+invoiceNo					Invoice
+bookingFreight				Booking Freight
+sgstAmount					SGST
+cgstAmount					CGST
+igstAmount					IGST
+grandTotal					Grand Total

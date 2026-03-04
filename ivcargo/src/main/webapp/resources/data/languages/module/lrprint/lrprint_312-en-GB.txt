@@ -1,0 +1,32 @@
+wayBillNumber				L. R. No  
+bookingDateTime				Bkg Time : 
+srcBranch					From : 
+destBranch					To 		  
+from						From	  
+receiverNumber				Receiver No : 
+wayBillType                 LR Type : 
+bookingTotal				Total :
+bookedBy					Booked By :
+printedBy					Printed By :
+printDateTime 				Print Time :
+loading						Loading :
+doorDeLivery				Door dly. :
+luggagereceipt				L U G G A G E   R E C E I P T
+mailInfo					www.maharajabus.com
+consignor					Consignor 
+telephone					Tel. No.  
+consignee					Consignee 
+date						Date	  
+invoiceNo					Invoice No. 
+weight						Weight(Kg) 
+remark						Remark 		
+noOfPkg						Articles#   
+freight						Freight 	 	
+hamali						Hamali  	 	
+lrcharge					L.R. Charges 	
+statistical					Statistical	 	
+others						Others		 	
+servicetax					GST	
+grandtotal					Grand Total Rs.	
+declaredvalue				Value RS.		
+description					Description 

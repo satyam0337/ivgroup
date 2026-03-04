@@ -1,0 +1,11 @@
+ {
+	"elementId":"wayBillSourceBranchNameEle",
+	"elementName":"wayBillSourceBranchNameEle",
+	"tooltipName": "Source Branch",
+	"labelId":"WayBillSourceBranchName",
+	"elementDefaultValue":"",
+	"dataDtoKey":"wayBillSourceBranchName",
+	"elementConfigKey": "WayBillSourceBranchName",
+	"columnPrintWidthInPercentage": "40",
+	"parentDivCss": "col-xs-4"
+}

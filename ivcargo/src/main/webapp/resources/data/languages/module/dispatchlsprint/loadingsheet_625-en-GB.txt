@@ -1,0 +1,77 @@
+srNumberLabel					SL.NO.
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	NO. OF PKGS
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						TOTAL
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Lorry No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF PKGS.
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				Total
+driverNameLabel					Driver Name/Mobile:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						NO.OF PKGS.
+gst								GST no.
+saidToContain					CONTAINS
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WEIGHT
+ewayBillNumber                  EWayBill.No.
+
+
+
+dwbNo						DWB No.
+DwbDate						DWB Date
+from						From Branch
+DelArea						Delivery Area/<br> Branch Name
+totalPac					Total Package
+Actwt						Actual Weight
+Chwt						Charged <br>Weight
+EwayBill					EwayBill <br>No.
+EwayBillDate				Eway Bill <br>Date
+declaration					Declaration by Driver	
+frombranchCode				From Branch Code :
+toBranchCode				To Branch Code:	
+chalanNo					Chalan No & Date:
+chalanNoDate				Chalan Date & Time :
+CwbNo						CWB No:
+CwbDate						CWB Date:
+hpa							HPA/TCS No. & Date
+
+

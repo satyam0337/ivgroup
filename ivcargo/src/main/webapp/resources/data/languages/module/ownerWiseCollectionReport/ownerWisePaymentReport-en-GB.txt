@@ -1,0 +1,13 @@
+header 					Owner Wise Payment Report
+date					Date
+fromRegion				From Region
+fromSubRegion			From Sub Region
+fromBranch				From Branch
+toRegion				To Region
+toSubRegion				To Sub Region
+toBranch				To Branch
+search					Search
+subHeader1				Owner Wise Payment Report Details
+selectType				Select Type
+toArea					To Area
+

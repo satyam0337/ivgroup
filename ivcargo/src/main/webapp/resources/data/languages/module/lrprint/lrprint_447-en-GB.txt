@@ -1,0 +1,10 @@
+lrNo.				LR No. :
+date				Date :
+lrType				LrType :
+bookedBy			BookedBy :
+origin				Origin :
+destination			Destination :
+senderName			Sender Name(Number) :
+receiverName		Receiver Name(Number) :
+items				Item(Quantity) :
+netAmount			NetAmount :

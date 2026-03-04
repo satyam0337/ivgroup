@@ -1,0 +1,13 @@
+freight						Freight
+loading						Loading
+doorDly						Door Dly
+insurance					Insurance
+builtyCharge				Builty Chg
+doorPickup					Door Pickup
+sgst						SGST
+cgst						CGST
+igst						IGST
+invoiceNo					Invoice No
+declaredValue				Declared Val
+convenience					Convenience
+GST							GST

@@ -1,0 +1,6 @@
+
+creationDateTimeStr				Date
+incOrExpName					Income Type
+branchName						Added Branch
+amount							Amount
+executiveName					User

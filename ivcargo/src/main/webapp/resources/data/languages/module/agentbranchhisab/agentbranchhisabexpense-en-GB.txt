@@ -1,0 +1,5 @@
+paymentVoucherNumber		Paymant Voucher Number
+branchName					Branch
+expenseDateTimeStr			Expense date
+expenseName					Expense Name
+amount						Expense Amount

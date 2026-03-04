@@ -1,0 +1,33 @@
+header 						POD LR Status Report
+subHeader					Search Details
+region						Region
+subRegion					Sub-Region
+branch						Branch 
+partyName					Party Name
+wayBillNumberSearch			LR No.
+find						Find Details
+
+serialnumberheader			SR. No.
+wayBillNumber				LR No.
+partyName					Party Name
+podBranchName				POD Branch
+podReceived					POD Received
+podReceivedBy				Received By
+podReceivedByBranch			Received By Branch
+podUploaded					POD Uploaded
+podUploadedBy				Uploaded By
+podUploadedByBranch			Uploaded By Branch
+bookingDateString			Booking Date
+deliveryDateString			Delivery Date
+pendingDays					Pending Days
+partialheader				History
+ReceiveButton				Receive POD
+Consignor					Consignor
+Consignee					Consignee
+FromBranch					FromBranch
+ToBranch					ToBranch
+LrType						LrType
+PODStatus					Status
+History						History
+PodDispatchLedgerNumber     DispatchNumber
+viewBy						View By

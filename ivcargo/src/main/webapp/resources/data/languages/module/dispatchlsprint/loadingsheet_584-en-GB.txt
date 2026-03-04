@@ -1,0 +1,25 @@
+srNumberLabel					#
+lrNumberLabel					LR No.
+bkgDateLabel					Booking Date
+totalArticleLabel				NOA
+lrDestinationBranchLabel		Destination
+consignorLabel					Consignor
+consigneeLabel					Consignee
+totalLabel						Total
+dispatchNumberLabel				Dispatch No : 
+vehicleNumberLabel				Vehicle No : 
+toBranchLabel					To : 
+fromBranchLabel					From : 
+dispatchDateLabel				Date : 
+driverNameLabel					Driver : 
+preparedByLabel					Prepared By :
+loadedByLabel					Loaded By :
+lrTypeLabel						LR Type
+lrCategoryLabel					LR Type
+totalAmountLabel				Amount
+amountLabel						Amount
+totalNoOfLr						No Of LRs
+totalLRLabel					Total LRs
+driverMobileNumberLabel			Mobile No : 
+packingTypeNameLabel			Type Of Material
+lsRemarkLabel					Remark : 

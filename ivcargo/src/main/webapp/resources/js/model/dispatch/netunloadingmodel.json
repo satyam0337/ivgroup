@@ -1,0 +1,12 @@
+ {
+	"labelId"					:	"netUnLoading",
+	"dataDtoKey"				:	"netUnloading",
+	"columnDisplayCssClass"					:	"column-data-left-align",
+	"displayColumnTotal"			:	"false",
+	"elementConfigKey"			:	"NetUnLoading",
+	"columnPrintWidthInPercentage"	:	"10",
+	"columnWidth"				:	100,
+	"dataType"					:	"input",
+	"buttonCss"					:	"form-control netUnLoading hide",
+	"maxLength"					:	"5"
+}

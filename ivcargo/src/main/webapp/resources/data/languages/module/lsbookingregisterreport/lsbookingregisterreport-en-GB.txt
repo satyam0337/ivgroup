@@ -1,0 +1,92 @@
+serialnumberheader			SR. No
+lsNumber   					LS No
+lhpvNumber   				LHPV No
+lsDate   					LS Date
+vehicleNumber				Truck No
+srcBranch 					From
+destBranch					To
+typeOfLs  					Type Of LS
+typeOfCroosing				Crossing Type
+totalLRs  					LR's
+totalArt  					Art.
+totalWgt  					Wght
+totalToPay					To Pay
+totalPaid					Paid
+totalTBB 					TBB
+refundAmount				Refund Amt
+bookingTimeServiceTax		GST
+grandTotal					Grand Total
+doorDel  					DD's
+totalForms					Forms
+totalDag					Total Dag
+bookingGrandTotal			Total
+commission					Comm
+busName						Bus Name
+lsRemark					Remark
+lorryHireAmount				Lorry Hire
+totalBookingToPay			Booking Topay
+totalCrossingTopay			Crossing Topay
+operationalBranch			Operational Branch
+lorryHireAdvance			Advance
+lorryHireBalance			Balance
+GenerateConsolitadeReport	Generate Consolitade Report
+DeliveryDiscount			Dly. Disc.
+ConsolidateEwaybillNo		Con.EwaybillNo
+totalLorryHireAmount		Total Lorry Hire
+transhipmentDetails		   	Transhipment Details
+ddCharge					DD Charge
+chargeWeight				Charge Weight
+actualWeight				Act Weight
+srcBranchCity				Source City
+destBranchCity				Destination City
+billSelection				Bill Selection
+vehicleAgent				Vehicle Agent
+staticalCharge				Statical Charge
+lateNightCharge				Late Night Charge 
+hamali						Hamali
+excel						Excel
+otherCharge					Other
+aoc							AOC
+CommissionPercentage		Commission %
+commissionAmount			Commission Amount
+lsExpense					Expense
+netAmount					Net Amount
+dueAmount					Amount Due
+driverName					Driver Name
+doorDeliveryAmount			DDC
+grandTotalWithoutDoorDelivery		Grand Total
+aoc							AOC
+collectionToPay				Collection To Pay
+handling                    Handling Charge
+LC                          LC
+freight                     Freight
+connectingAmt				Connecting Amount
+directAmt					Direct Amount
+lrChargeAmount				LR Charge
+fuelSurcharge				Fuel Surcharge
+declaredValue				Declared Value				
+documentCharge				Document
+cartage						Cartage
+driver1MobileNumber1		Driver Contact No.
+tripSheetNumber				TS No.
+tripSheetStatusName			TripSheet Status
+bataLhpvCharge				Bata
+dieselLhpvCharge			Diesel
+municipalityGateLhpvCharge 	Municipality Gate
+extraCuttingLhpvCharge		Extra Cutting
+deliveryCartridgeCharge		Delivery Cartridge
+pickupCartageCharge			Pickup Cartage
+valuation					Valuation
+bkgCrossing					Crossing Charge
+doorPickup					Door Pickup
+other						Other
+surCharge					Sur Charge
+lsStatusName				LS Status
+crossingAmntQtyBased		Crossing Amount
+totalPayble					Total Payble
+amountSettleStr				Settle
+grandTotalWithoutDlyDiscount	Net Amount
+transhipmentCharge			Transhipment Charge	
+flightName					Flight Name
+flightNumber				Flight No	
+							

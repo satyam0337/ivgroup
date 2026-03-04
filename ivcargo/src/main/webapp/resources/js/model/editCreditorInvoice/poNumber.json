@@ -1,0 +1,9 @@
+{
+	"elementId"			: "poNumber",
+	"elementName"		: "poNumber",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "PONumber",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: auto"
+}

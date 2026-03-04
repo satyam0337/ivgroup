@@ -1,0 +1,11 @@
+ {
+	"elementId":"packingTypeMasterNameEle",
+	"elementName":"packingTypeMasterNameEle",
+	"tooltipName": "Packing Type",
+	"labelId":"PackingTypeMasterName",
+	"elementDefaultValue":"",
+	"dataDtoKey":"packingTypeMasterName",
+	"elementConfigKey": "PackingTypeMasterName",
+	"columnPrintWidthInPercentage": "40",
+	"parentDivCss": "col-xs-4"
+}

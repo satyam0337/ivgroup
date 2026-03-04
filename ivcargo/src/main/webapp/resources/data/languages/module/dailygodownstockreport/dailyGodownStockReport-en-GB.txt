@@ -1,0 +1,26 @@
+header 						Daily Godown Stock 
+date						Date
+region						From Region
+subRegion					From Sub Region
+branch						From Branch
+search						Search
+subHeader1					Booking Godown Stock Details
+subHeader2					Delivery Godown Stock Details
+subHeader3					Godown Stock Summary
+lrNumber					LR No.
+bookingDate					Booking Date
+deliveryDate				Delivery Date              
+BranchName               	Branch Name
+GodownName					Godown
+Date                     	Date
+OpeningStock             	Opening Stock
+BookedArticles           	Booked Articles
+DispatchArticles         	Dispatch Articles
+CrossingDispatchArticles 	Crossing Articles
+ToBeCrossedArticles      	To Be Crossed Arts
+PendingReceiveArticles		Pending Receive
+ReceivedArticles			Received Articles
+DeliveredArticles			Delivered Articles
+TotalActualWeight     		Total Actual Weight   
+TotalChargedWeight       	Total Charged Weight
+ClosingStock           		Closing Stock

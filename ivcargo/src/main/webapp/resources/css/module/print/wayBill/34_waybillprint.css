@@ -1,0 +1,116 @@
+@CHARSET "ISO-8859-1";
+
+
+table {
+	width: 100%;
+	border-collapse : collapse;
+	border: 0px solid black;
+}
+td{
+	border: 0px solid black;
+}
+.captil {
+  text-transform: uppercase;
+ }
+
+table100{
+	width: 100%;
+	border-spacing: 1px;
+}
+
+table200{
+	width: 100%;
+	border-spacing: 1px;
+}
+.trpadding{
+ padding: 0px;	
+}
+
+.rightpadding{
+  text-align: right;
+  padding-right: 10px;	
+}
+
+.td10{
+	height: 70px;
+	border-spacing: 0px;
+}
+.td15{
+	width: 40%;
+	height: 30px;
+	border-spacing: 0px;
+	
+}
+.td20{
+	width: 40%;
+	height: 30px;
+}
+
+.td30{
+	width: 50%;
+	border-spacing: 0px;
+}
+
+.nos{
+	width: 30%;
+	border-spacing: 0px;
+	vertical-align: top;
+}
+.td40{
+	width: 40%;
+	border-spacing: 0px;
+	
+}
+.td60{
+	width: 60%;
+}
+.td70{
+	width: 70%;
+	border-spacing: 0px;
+}
+
+
+.td1{
+	padding-top: 0px;
+	border-spacing: 0px;
+	
+}
+
+.fontft{
+		font-size:13.5px;
+}
+
+.fontft12{
+		font-size:12px;
+}
+.fontft11{
+		font-size:11px;
+}
+
+.namefont{
+		
+		font-size:22px;
+		font-weight: bold;
+		padding-left:25px;
+		font-type: Arial Narrow;
+		
+		/* text-align:center; */
+}
+.Remarks{
+		font-weight: bold;
+		font-size:16px;
+		padding-top: 15px;
+}
+
+#grandTotal{
+	padding-top: 1px;
+}
+
+.footer{
+		
+		font-size:21px;
+		font-weight: bold;
+		font-type: Arial Narrow;
+		
+		/* text-align:center; */
+}

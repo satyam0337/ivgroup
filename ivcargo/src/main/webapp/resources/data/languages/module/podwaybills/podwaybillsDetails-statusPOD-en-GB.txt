@@ -1,0 +1,25 @@
+header 						Receive POD LR
+subHeader					Search Details
+region						Region
+subRegion					Sub-Region
+branch						Branch 
+partyName					Party Name
+wayBillNumberSearch			LR No.
+find						Find Details
+
+serialnumberheader			SR. No.
+wayBillNumber				LR No.
+partyName					Party Name
+podBranchName				Delivery Branch
+podReceived					POD Received
+podReceivedBy				Received By
+podReceivedByBranch			Received By Branch
+podUploaded					POD Uploaded
+podUploadedBy				Uploaded By
+podUploadedByBranch			Uploaded By Branch
+deliveryDateString			Delivery Date
+pendingDays					Pending Days
+partialheader				Receive
+ReceiveButton				ReceiveButton
+PodDispatchBy				Dispatch By
+PodDispatchByBranch			Dispatch By Branch

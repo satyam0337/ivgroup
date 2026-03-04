@@ -1,0 +1,10 @@
+ {
+	"labelId":"privateMark",
+	"dataDtoKey":"consignmentSummaryPrivateMark",
+	"columnDisplayCssClass":"column-data-left-align",
+	"elementConfigKey":"PrivateMark",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100,
+	"columnMinWidth":50,
+	"displayColumnTotal":false
+}

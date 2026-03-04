@@ -1,0 +1,11 @@
+{
+	"elementId"			: "driverName",
+	"elementName"		: "driverName",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "Driver Name",
+	"divRegion"			: "driverNameDiv",
+	"parentDivCss"		: "col-xs-10",
+	"elementStyle" 		: "width: auto",
+	"labelId"			: "driverNameSelect"
+}

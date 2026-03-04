@@ -1,0 +1,52 @@
+-----------------SCM delivery print---------------
+branch						Branch
+IssuingOffice				Issuing Office
+CRNo						CR No : 
+Date						Date
+LRNO						LR No. : 
+LRDate						LR Date
+CRDate						CR Date : 
+FromCity					From City
+LRType						LR Type : 
+Consignee					Consignee: 
+DeliveredTo					Delivered To
+cmpNo						Phone No
+gst							GST No : 
+ReceiveDate					Receive Date
+BookingDate					Booking Date : 
+BookingCharges				Booking Charges  
+DeliveryCharges				Delivery Charges
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					Lr. Amount
+crCharge					Cr Charge
+source						From : 
+Destination					To : 
+Consignor					Consignor :   
+paymenttype					Payment Type:
+email						Email
+mob							Mobile No. : 
+invNo						Inv No. : 
+invVal						Inv Value : 
+packingType					Packing Type : 
+art							No. of Art : 
+weight						Weight : 
+remarks						Remarks : 
+qrLine						Please Scan the QR <br> to Make Payment
+grand						Grand Total : 
+sign						For Authorized Sign. 
+chargeName14				Door Delivery

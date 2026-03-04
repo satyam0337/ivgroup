@@ -1,0 +1,18 @@
+header					Expense Voucher Config
+add-header				Add Configurations
+sub-header				View Configurations
+branchWisePanel			Branch Wise Details
+deliveryChargesPanel	Delivery Charges
+previouslyAddedCharges	Previously Added Charges
+chargeName				Chg Name
+sequenceNo				Seq No.
+chargeName				Charge Name
+addCharge				Add Charge
+branchName				Branch Name
+expenseType				Expense Type
+add						Add
+view					View
+limit					Limit
+ChargeAllowed			
+partyName				Party Name
+creationDate			Config Date

@@ -1,0 +1,33 @@
+telPhoneNo					 Tel:
+branchgstno					 GSTIN:
+invoiceDate					 Date of Issue:
+state						 State: 
+stateCode					 State Code:
+nameofConsignor              Name of Consignor 
+nameofConsignee              Name of Consignee
+billingPartyName			 Bill To Party:
+name                         Name:
+address						 Address:
+gst							 GSTIN/UIN:
+state                        State:
+code                         Code:
+placeOfOrigin				 Place of<br>origin
+placeOfdestination			 Place of<br>destination
+lorryNo						 Lorry No.:
+particulars					 PARTICULARS
+hsnCode						 HSN CODE
+lrNo						 BILTY NO.
+date						 DATE
+quantity					 QUANTITY
+weight						 WEIGHT(KG)
+rate						 RATE
+amount						 AMOUNT(Rs)
+otherCharges				 OTHER CHARGES
+remark						 Remarks:
+roundOff					 ROUND OFF
+grandTotal					 GRAND TOTAL
+note1						 Goods and Service Tax is  Payable under Reverse Charge Mechanism Vide Section 9(3) of The Act
+amountInWord				 Total  Invoice Amount (In words) :
+bankDetails					 Bank Details
+note2						 Ceritified that the particular given above are true and correct
+totalGst					 GST

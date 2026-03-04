@@ -1,0 +1,21 @@
+toLabel						To,
+srNo						Sr<br/>No.
+bkgDate						Bkg Date
+lrNo						LR No.
+invoiceNo					Invoice No.
+chWt						Ch WT
+pkgs						Pkgs
+consignor					Consignor
+consignee					Consignee
+freight						Freight
+other						Other
+total						Total
+billNo						Bill No.
+billDate					Bill Date
+bankName					Bank Name
+acNo						A/c No.
+ifsc						IFSC
+branch						Branch
+receiverSignature			Receiver Signature
+termsAndCondition			Terms & Condition
+destination 				Destination

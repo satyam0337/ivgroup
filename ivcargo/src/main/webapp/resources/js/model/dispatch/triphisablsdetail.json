@@ -1,0 +1,10 @@
+ {
+	"elementId"			: "tripHisabLSDetailsEle",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementName"		: "tripHisabLSDetailsEle",
+	"elementType"		: "text",
+	"divRegion"			: "vehicleRegion",
+	"parentDivCss"		: "col-xs-4 hide",
+	"labelCss"			: "col-xs-5",
+	"elementDivCss"		: "col-xs-7 validation-message"
+}

@@ -1,0 +1,8 @@
+ {
+	"labelId":"sourceBranch",
+	"dataDtoKey":"wayBillSourceBranchName",
+	"columnDisplayCssClass":"column-data-left-align",
+	"elementConfigKey":"SourceBranch",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+}

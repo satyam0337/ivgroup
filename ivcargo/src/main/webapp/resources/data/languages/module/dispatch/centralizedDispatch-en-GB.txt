@@ -1,0 +1,24 @@
+header 						Centralized Loading Sheet
+subHeader					LS Details
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+lsType						Type Of LS
+crossingLS					Crossing Type
+toArea						To Area
+toBranch					To Branch
+vehicle						Truck Number
+billSelection				Bill Selection
+save						Find
+singleLR					Single LR
+vehicleNumber				Vehicle Number
+driverLicence				Driver Licence Number
+driverName					Driver Name
+driverNumber				Driver Mobile Number
+cleanerName					Cleaner Name
+remark						Remark
+unloadingPoint				Unloading Point
+crossingAgent				Crossing Agent
+vehicleAgent				Vehicle Agent
+sourceBranch				Source Branch

@@ -1,0 +1,31 @@
+header 						<b>Credit/Debit Note Report</b>
+
+date						Date
+region						Region
+subRegion					Sub Region
+branch						Branch
+bank						Account No
+
+search						Search
+
+subHeader1					<b>Bank Account Statement Details<b>
+
+serialnumberheader			Sr No
+AccountName					Account Name
+Details						Detail
+PaymentType					Payment Type
+TxnNumber					Txn Number
+BankName					Bank Name
+Debit						Debit
+Credit						Credit
+branchName					Branch
+txnDateTimeStr				Date
+executiveName				Username
+remark						Remark
+paymentTypeName			    Payment Type
+amount						Amount
+txnTypeName				    Txn-Type
+sequenceNumber		        Sequence-No
+chequeNO                    Cheque No
+chequeDate             	    Cheque Date
+issueBank                   Bank Name

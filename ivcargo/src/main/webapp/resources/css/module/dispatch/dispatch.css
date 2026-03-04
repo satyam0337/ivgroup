@@ -1,0 +1,7 @@
+.roundBorderDiv {
+	border: 2px solid #a1a1a1;
+	padding: 10px 40px;
+	width: 99%;
+	border-radius: 10px;
+	float: right;
+}

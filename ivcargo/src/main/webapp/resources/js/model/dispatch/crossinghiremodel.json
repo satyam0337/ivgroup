@@ -1,0 +1,12 @@
+ {
+	"labelId"					:	"crossingHire",
+	"dataDtoKey"				:	"crossingHire",
+	"columnDisplayCssClass"					:	"column-data-left-align",
+	"displayColumnTotal"			:	"false",
+	"elementConfigKey"			:	"CrossingHire",
+	"columnPrintWidthInPercentage"	:	"10",
+	"columnWidth"				:	100,
+	"dataType"					:	"input",
+	"buttonCss"					:	"form-control crossingHire hide",
+	"maxLength"					:	"5"
+}

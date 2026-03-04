@@ -1,0 +1,33 @@
+header 						Said To Contain Master
+addHeader					Add Material
+editHeader					Edit Material
+deleteHeader				Delete Material
+viewHeader					View Material
+consignmentHeader			Material Details
+
+saidToContainNameAuto		Said To Contain
+saidToContainName			Name
+isExempted					Is GST Exempted
+isEWayBillExempted			Is E-Way Bill Exempted
+
+serialnumberheader			#
+consignmentName				Material Name
+exemptedStr					GST Exempted
+eWayBillExemptedStr			E-Way Bill Exempted
+createdOnStr				Added On
+createdByName				Added By
+lastEditedOnStr				Last Edited On
+partialheader				Edit History
+
+previousName				Before Edit
+name						After Edit
+modifiedOnStr				Edited On
+modifiedByName				Edited By
+								
+
+edit						Edit
+save						Save
+update						Save
+delete						Delete
+viewBtn						View
+viewAllBtn					View All

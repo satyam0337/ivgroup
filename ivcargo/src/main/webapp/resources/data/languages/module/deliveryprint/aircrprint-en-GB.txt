@@ -1,0 +1,46 @@
+----------------- delivery print---------------
+branch						Branch
+IssuingOffice				Issuing Office
+CRNo						MR No
+Date						DATE
+LRNO						LR No.
+LRDate						LR Date
+FromCity					FROM
+ToCity						TO
+LRType						LR Type:
+consignee					CONSIGNEE : 
+consignor					CONSIGNOR : 
+DeliveredTo					Delivered To
+cmpNo						Phone No
+gst							GST No. :
+GST							GST
+Remark						Remark
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				ARTICLE
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					FREIGHT 
+crCharge					Cr Charge
+source						From
+Destination					To 
+paymenttype					Payment Type:
+header						ALL INDIA ROADWAYS
+mobile						MOBILE :
+grandTotal					GRAND TOTAL
+desc						DESCRIPTION

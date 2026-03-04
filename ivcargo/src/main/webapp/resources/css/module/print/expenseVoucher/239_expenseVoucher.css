@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+table,td,th {
+}
+
+#Issuing{
+	  font-weight: bold;
+}
+#Voucher {
+	 font-weight: bold;
+}
+#tDate {
+	 font-weight: bold;
+}
+
+#Expense {
+	 font-weight: bold;
+}
+#rmk {
+	 font-weight: bold;
+}
+#amt {
+	 font-weight: bold;height :75px; 
+}
+#Stamp,#sign {
+	 font-weight: bold;
+}
+
+#VoucherNo {
+	font-weight: normal; margin-left: 20px;
+}
+#IssueBranch {
+	font-weight: normal; 
+}
+#ExpenseName {
+	font-weight: normal;
+}
+#Remark {
+	font-weight: normal;
+}
+#Amount {
+	font-weight: normal; padding-left: 10px;
+}
+#VoucherNo {
+	font-weight: normal;
+}
+#totalAmt {
+	 font-weight: bold; 
+}

@@ -1,0 +1,23 @@
+header 						Pending Cheque Bounce Report
+
+date						Date
+selectionType				Selection Type 
+branch						Branch
+region						Region
+subRegion					Sub Region
+search						Search
+subHeader1					Pending Cheque Bounce Data
+
+selectionTypeStr			Operation Type
+chequeDateStr				Cheque Date
+operationNumber				Operation Number
+chequeNumber				Cheque Number
+branchName					Branch
+partyName					Party Name
+issueBank					Bank Name
+chequeAmount				Amount
+remark						Remark
+bookingHeader				Pending Booking Details
+deliveryHeader				Pending Delivery Details
+invoiceHeader				Pending Invoice Details
+shortCreditHeader			Pending Short Credit Details

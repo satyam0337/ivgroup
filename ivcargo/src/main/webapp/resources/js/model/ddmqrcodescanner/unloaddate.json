@@ -1,0 +1,8 @@
+ {
+	"labelId":"UnloadDate",
+	"elementConfigKey":"UnloadDate",
+	"dataDtoKey":"wayBillCreationDateTimeStampString",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

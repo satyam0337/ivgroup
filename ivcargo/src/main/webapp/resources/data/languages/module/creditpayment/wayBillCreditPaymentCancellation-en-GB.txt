@@ -1,0 +1,8 @@
+header 						LR Credit Payment Cancellation
+subHeader					Search Details
+billNumberLabel				LR Number
+branchNameLabel				Txn Type
+find						Find Details
+cancel						Cancel Bill
+crossingAgentLabel			Crossing Agent
+crossingAgentTypeLabel		Type

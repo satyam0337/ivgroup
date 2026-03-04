@@ -1,0 +1,9 @@
+{
+	"elementId"			: "sacCode",
+	"elementName"		: "sacCode",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "SACCode",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: auto"
+}

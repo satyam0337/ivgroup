@@ -1,0 +1,23 @@
+address                                   Address :
+mobileNo                                  Mobile No :
+gstn                                      GSTN :
+creditorGstn                               GSTN :
+creditorAddress                            Address :
+creditorName                              Billing Party Name :
+creditorMobileNumber                       Mobile No:
+srNo                                      S No
+date                                      Date
+lrNo                                      LR No.
+vehicleNo                                 Vehicle No.
+art                                       Art
+rate                                      Rate
+freight                                   Freight
+hamali                                    Hamali
+pickUp                                    Pickup
+lrCh                                      LR Ch
+ln                                        LN
+wp                                        WP
+gst										  GST
+total                                     Total
+billNo                                   Bill No :
+billDate                                 Bill Date:

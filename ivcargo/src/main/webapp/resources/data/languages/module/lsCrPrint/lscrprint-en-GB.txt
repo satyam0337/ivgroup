@@ -1,0 +1,26 @@
+header 						<b>LS CR Print</b>
+lsNumber					LS No.
+branch						Branch
+find						Find
+
+subHeader1					<b>LS Details</b>
+
+lsNumber					LS No.
+date						Date
+from						From
+to							To
+truckNumber					Truck No.
+driverName					Driver Name
+wayBillNumber				LR No
+consignorName				ConsignorName
+consigneeName				ConsigneeName
+wayBillType					LR Type
+packageDetails				Package Details
+bkgAmount					Booking Total
+deliveryAmount				Delivery Amount
+
+subHeader2					<b>LR Details</b>
+printMultiCR				Print Selected CR
+printDDM					Print DDM
+partialheader				Print CR
+

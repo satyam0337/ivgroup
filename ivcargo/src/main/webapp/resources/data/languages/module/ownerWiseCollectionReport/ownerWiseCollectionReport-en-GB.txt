@@ -1,0 +1,27 @@
+header 					Owner Wise Collection Report
+date					Date
+fromRegion				From Region
+fromSubRegion			From Sub Region
+fromBranch				From Branch
+toRegion				To Region
+toSubRegion				To Sub Region
+toBranch				To Branch
+search					Search
+subHeader1				Owner Wise Collection Report
+serialnumberheader		Sr No
+sourceBranchName			From City
+destinationBranchName		To City
+paidTotal					Paid Amount
+topayTotal					Topay Amount
+tbbTotal					TBB Amount
+paidServiceChargeTotal		Paid Service Charge
+topayServiceChargeTotal		Topay Service Charge 
+tbbServiceChargeTotal		TBB Service Charge
+paidOtherCharges			Paid Other Charge
+toPayOtherCharges			toPay Other Charge
+tbbOtherCharges				TBB Other Charge
+doorDeliveryTotal			Door Delivery
+hamaliTotal					Hamali
+totalAmount					Total
+selectType					Select Type
+toArea						To Area

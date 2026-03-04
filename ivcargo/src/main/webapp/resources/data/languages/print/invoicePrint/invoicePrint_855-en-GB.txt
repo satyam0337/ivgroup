@@ -1,0 +1,16 @@
+invoice							Invoice
+ms								M/S, 
+gstNoLabel						GST No.:
+dateLabel						Date : 
+invoiceNoLabel					Invoice No.:
+billingBranchLabel				Billing Branch: 
+srNo							Sr No.
+gcDate							GC Date
+gcNo							GC No.
+invoiceNo						Invoice No.
+consignee						Consignee
+destination						Destination
+qty								Qty
+rate							Rate
+amount							Amount
+total							Total

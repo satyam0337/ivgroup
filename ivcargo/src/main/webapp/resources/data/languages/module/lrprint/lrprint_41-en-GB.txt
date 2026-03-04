@@ -1,0 +1,13 @@
+LR_number					LR No :
+LR_type						LR Type :
+consignor					Consignor :
+consignee					Consignee :
+Bkg_time					Bkg Time :
+Bkd_by						Bkd By :
+form						Form :
+pkg_details					Pkg Details :
+pkgs						Pkgs :
+printed_by					Printed By :
+print_time					Print Time :
+to							To :
+total						Total :

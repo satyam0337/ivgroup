@@ -1,0 +1,55 @@
+-----------------SCM delivery print---------------
+branch						Branch
+IssuingOffice				Issuing Office
+CRNo						CR No
+Date						Date
+LRNO						LR No.
+LRDate						Date
+FromCity					From City
+LRType						LR Type:
+Consignee					Consignee: 
+DeliveredTo					Delivered To
+cmpNo						Phone No
+gst							GST No
+Remark						Remark
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Frgt
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						TOTAL
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				Art
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					Lr. Amount
+crCharge					Cr Charge
+source						From
+Destination					Destination
+consignor					Consignor: 
+paymenttype					Payment Type:
+customerName				Customer Name:
+billNo						Bill No:
+address						Address:
+srNo						Sr No:
+bookingDate					Booking Date:
+invNo						Invc  No:
+consignee					Consignee
+billTotal					BillTotal
+servicePAid					(Service Tax Directly Payable By Customer)<br>PLEASE PAY BY A/C PAYEE CHEQUE ONLY
+for							For
+e.o							E. & O.E.
+accountsManger				Accounts Manager
+
+
+

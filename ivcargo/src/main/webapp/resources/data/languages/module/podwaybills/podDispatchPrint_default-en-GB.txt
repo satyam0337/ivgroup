@@ -1,0 +1,17 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+lrTypeLabel						LR Type
+bookingDateLabel				Booking Date
+consignorLabel					Consignor
+consigneeLabel					Consignee
+lrTypeLabel						LR Type
+lrSourceBranchLabel				From 
+lrDestinationBranchLabel		To 
+
+podNumberLabel					POD Number :
+podDispatchDateLabel			Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To Branch : 

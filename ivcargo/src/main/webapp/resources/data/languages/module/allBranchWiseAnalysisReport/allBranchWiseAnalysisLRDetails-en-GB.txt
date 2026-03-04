@@ -1,0 +1,9 @@
+wayBillNumber			LR No.
+bookingDate				Booking Date				
+sourceBranchName 		From
+destinationBranchName	To
+consignor				Consignor
+consignee				Consignee
+lrType					LR Type
+noOfArticle				No of Art
+bookingTotal			Booking Total

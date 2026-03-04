@@ -1,0 +1,44 @@
+lrnumber				LR No : 
+date					Date :
+consignorName			Consignor : 
+consigneeName			Consignee : 
+lrSource				From : 
+lrDestination			To : 
+phone					Mobile No. : 
+lrType					LR Type : 
+declaredValue			Value of the Parcel : 
+NoOfPkgs				No. of Pkgs : 
+freight					Freight : 
+loading					Loading : 
+grandTotal				Total : 
+bookedby				Booking By : 
+printDate				Print Date : 
+sign					Sign : 
+deliverAt				Delivery Address : 
+dlyContact				Delivery Contact : 
+fgst					GST No. From:
+tgst					GST No. To:
+eWayBillNo				E-WayBill No. :
+invocieNo               Invoice No :
+remark                  Remark :
+pickUpcartage			Pickup Charges :
+hamali					Hamali :
+other 					Other :
+note					For Booking Queries Contact :
+branchCopy				Branch Copy
+receipt					Booking Receipt   
+dropcartage				Drop Charges :
+customerCopy            Customer Copy
+printedBy				Printed By :
+noparcel                No. of Parcel
+partyAmnt               Party Amount:
+bale                    Bale/Case/Roll No. :
+labour                  LR Charge :
+totalamt                Total Amount:
+inWord                  Amount in Words:
+note1                   At owner's risk. Subjected to terms & conditions on overleaf. Received the <br> above noted consignment in order & condition.
+note11                  At owner's risk. Subjected to terms & conditions on overleaf. Received by.
+note2                   Name: _________________________
+signature               Consignee Signature with Stamp
+note3                   Booking Incharges
+cmsnagent               On Commission Agent

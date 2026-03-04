@@ -1,0 +1,15 @@
+ {
+	"elementId":"godownEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"godownEle",
+	"elementType":"text",
+	"tooltipName": "Select Godown",
+	"labelId":"godown",
+	"elementDefaultValue":"",
+	"dataDtoKey":"godownName",
+	"divRegion":"Godown",
+	"elementConfigKey":"Godown",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

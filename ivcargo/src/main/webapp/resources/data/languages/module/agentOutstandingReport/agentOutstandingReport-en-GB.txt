@@ -1,0 +1,21 @@
+lrNo			LR Number
+bkgDate			Bkg Date
+lrSource		Source
+lrDest			Destination
+lrType			LR Type
+paid			Paid
+topay			ToPay
+tbb				TBB
+lrStatus		Current Status
+header			Agent Outstanding Details
+date			Date
+branch			Agent
+viewAll			View All
+subHeader1		Agent Oustanding Details
+wayBillNumber	LR No.
+freightAmt		Freight	
+commReceivable	Receivable
+commPayable		Payable
+noOfDays		No. Of Days
+totalCommission Total Commission
+billNo			Bill No

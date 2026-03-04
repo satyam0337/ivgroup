@@ -1,0 +1,58 @@
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Details of goods
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				Freight
+loadingChargeLabel				LDG.
+amountLabel						Freight
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Memo :
+vehicleNumberLabel				Vehicle No.
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				Article
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Freight
+driverNameLabel					Driver:
+preparedByLabel					Through :
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		Destination
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+actualWeightLabel				Weight
+totalActualWeightLabel			Weight
+bkgDateLabel					BKG DATE
+dispatchRawanaLabel				Rawana(Rs):
+odometerLabel					Odometer(KM):
+dieselLabel						Diesel(Ltr):
+owner							Owner :
+info1							For Abbas Transport Co.
+noOfPakages						Pkgs
+advance							Adv.
+balance							Bal.
+info2							Consigment Details
+rawanaVoucherNo					Rawana Voucher No :

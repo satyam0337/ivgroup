@@ -1,0 +1,22 @@
+header 						Expense Voucher Approval Report
+
+date						Date
+selectionType				Selection Type 
+branch						Branch
+region						Region
+subRegion					Sub Region
+download					Download Excel
+search						Search
+
+paymentVoucherNumber		Voucher Number
+creationDateTimeStr			Voucher Date
+executiveName				Created By
+branchName					Branch
+chargeName					Expense head
+totalAmount					Total
+remark						Remark
+approveByExecutiveId		Approved By User
+approveByBranchName			Approved By Branch
+approveDateTimeStr			Approved Date
+voucherApproveStatus		Voucher Status
+

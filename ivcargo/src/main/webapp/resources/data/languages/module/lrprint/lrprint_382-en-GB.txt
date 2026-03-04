@@ -1,0 +1,50 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery At :
+deliveryContact				Contact :
+sourceBranch				FROM :
+destinationBranch			TO :
+lrType						TYPE :
+bookingDate					Date :
+actualWeight			  	ACTUAL WT:
+chargedWeight			  	CHARGED WT:
+lrNumber					L.R.NO :
+consignorName				CONSIGNOR :
+consigneeName				CONSIGNEE :
+declaredValue				Parcel Value :
+remark						REMARK :
+weight						Weight
+serviceTax					S.T
+other						OTHER
+grandTotal					Total
+tinNo						TIN No : 
+chargeName1					FREIGHT
+chargeName49				Handling
+chargeName25				Door Delivery
+chargeName6					Door Pickup
+chargeName48				Unloading
+chargeName29				LR Charge
+chargeName7					Octroi
+chargeName100				FUELSURCHARGE
+chargeName160				DOCKET CHARGE
+chargeName27				FOV
+chargeName39				COLLECTION
+chargeName200				DLY. CHARGE
+chargeName18				HANDLING
+chargeName22				SERVICE CHARGE
+number						Ph : 
+consignorCopy				Consignor Copy
+consigneeCopy				Consignee Copy
+grnumber					GR NO : 
+mobile						MOBILE : 
+gstNo						GST NO : 
+nop							NOP
+pkgtype						PKG TYPE
+description					DESCRIPTION
+invno						INV. NO :
+invvalue					INV VALUE :
+delat						DEL AT :
+bookedby					BOOKED BY
+sgst						SGST
+igst						IGST
+cgst						CGST

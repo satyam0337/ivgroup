@@ -1,0 +1,31 @@
+header 						Source Destination Wise LHPV Sequence
+add							Add
+view						View/Edit Sequence
+subHeader1					<b>System Generated Sequence</b>
+sourceBranchLabel			Source Branch
+destinationRegionLabel		Destination Region
+destinationSubRegionLabel	Destination Sub-Region
+destinationBranchLabel		Destination Branch
+minRangeLable				Min Range
+maxRangeLable				Max Range
+nextValue					Next Value
+save						Save
+
+partialheader				Update
+
+subHeader2					<b>Manual LHPV Sequence</b>
+manualMinRangeLable			Min Range
+manualMaxRangeLable			Max Range
+
+region						Region
+subRegion					Sub-Region
+branch						Branch
+find						Find
+
+sourceBranch				Src Branch
+destinationRegion			Dest Region
+destinationSubRegion		Dest SubRegion
+destinationBranch			Dest Branch
+minRange					Min Range
+maxRange					Max Range
+nextValue					Next Value

@@ -1,0 +1,20 @@
+issuing					ISSUING<br>OFFICE
+cashMemo				Cash Memo 
+date					Date 
+Consignee				Consignee
+Consignor				Consignor
+Delivered				Delivered To
+Chargedwt				Charge Wt
+noOfArt					No of Art. 
+truckNo					Truck No. 
+BkgBranch				Bkg.Branch
+Remark					Remark
+Others					Others
+PayMode					Pay Mode
+lrNo					LR.No
+BkgDate					Bkg.Date
+ArrDate					Arr. Date
+StorDays				Stor. Days
+FreeDays				Free Days 
+DemDays					Dem. Days
+freeDaysNumber			7

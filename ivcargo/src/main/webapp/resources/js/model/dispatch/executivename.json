@@ -1,0 +1,9 @@
+ {
+	"labelId":"executiveName",
+	"dataDtoKey":"executiveName",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":false,
+	"elementConfigKey":"Amount",
+	"columnPrintWidthInPercentage":"15",
+	"columnWidth":100
+}

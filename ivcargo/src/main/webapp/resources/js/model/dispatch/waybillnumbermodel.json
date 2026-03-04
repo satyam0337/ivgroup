@@ -1,0 +1,8 @@
+ {
+	"labelId":"wayBillNumber",
+	"dataDtoKey":"wayBillNumber",
+	"columnDisplayCssClass":"column-data-right-align",
+	"elementConfigKey":"WaybillNumber",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":200
+}

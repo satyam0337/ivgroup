@@ -1,0 +1,35 @@
+invoice							INVOICE
+customerName					Customer Name
+customerGSTN					Customer GSTN
+address							Address
+billNo							Bill No. 
+date							Date
+branch							Branch
+lrNo							LR NO 	
+date1							DATE 	
+destination						DESTINATION 	
+art								ART 	
+weight							WT 	
+rate							RATE 	
+fright							FRGT 	
+Collection						COLL 	
+DoorDly							DD 	
+Statistical						Stat. 	
+Hamali							HML 	
+Other							OTH 	
+amount							AMT 	
+invoiceNo						INV NO 	
+remark							Remark
+total							Total
+amountInWord					Amount in Words
+additionalCharge                Additional Charge
+billTotal 						Total Amount
+remark							Remark
+termsAndCondition            	Terms and Condition
+for 							For, Suraj Carrying Corporation
+authorizedSignatory				Authorized Signatory
+#								#
+note1							*Subject to Vapi Jurisdiction
+note2							*Please pay A/c Payee cheque only / Cash against Receipt
+note3							*All payment should be paid within 15 Days from Bill Submission date or billing date.
+note4							*Bank details enclosed below. :

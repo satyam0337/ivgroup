@@ -1,0 +1,56 @@
+branchAddressLabel				Address : 
+branchPhoneNumberLabel			Phone No : 
+srNumberLabel					Sr no.
+lrNumberLabel					WB No.
+bkgDateLabel					LR Date
+lrSourceBranchLabel				Origin
+lrDestinationBranchLabel		Destination
+consignorLabel					Sender
+consigneeLabel					Receiver
+invoiceNoLabel					INV. NO
+consignmentPackingDetailsLabel	Pkgs <br> Details
+totalArticleLabel				NAG
+weightLabel						WGT
+amountLabel						AMT
+totalLabel						Total
+dispatchNumberLabel				Dispatch No :
+vehicleNumberLabel				Vehicle No :
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+
+lsRemarkLabel					Remark : 
+driverNameLabel					Driver Name:
+preparedByLabel					Memo Prepared By:
+checkedByLabel					Memo Checked By:
+receiverNameLabel				Receiver Name:
+consigneenumber				 	Receiver <br >No.
+dateTimeLabel					Date & Time:
+cleanerNameLabel				Cleaner Name:
+dispatchRoute					Route No: 
+freightChargeLabel				Freight
+otherChargeLabel				Others
+lrTypeLabel						WB <br> Type
+serviceTaxLabel					S.Tax
+lrCategoryLabel					CATEGORY
+totalFreightLabel				Freight
+totalAmountLabel				Amount
+totalLoadingLabel				Loading
+totalFOVLabel					FOV
+totalOtherLabel					Other
+totalServiceTaxLabel			S.Tax
+totalNoOfLr						No Of LRs
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+totalLRLabel					Total LRs
+accountheader2					Dwarakanagar, 3rd Lane, Near Diamond Park,  Visakhapatnam - 530 016.
+accountheader1					Regd. No.: AGYPV 2687 CSD001
+accountheader3					Ph : 2521799, Cell 7799955025
+declaredValued					Declared Value
+consigneeContactLabel			Mobile
+receiverSign					Receiver Sign
+totalHamaliLabel				Hamali
+loadingAmount					Loading
+unloadingAmount					UnLoading
+doorDly							Door Dly

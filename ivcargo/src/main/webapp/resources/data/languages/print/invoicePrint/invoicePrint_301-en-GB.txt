@@ -1,0 +1,44 @@
+m/s							M/s. : 
+srNo						Sr<br>No 
+gst							GST
+stateCode					State Code : 
+billNo						Bill No : 
+date						Date 
+billingPeriod				Billing Period : 
+billingBranch				Billing Branch :
+previousOutstanding			Previous Outstanding : 
+lastPaymentReceived			Last Payment Received : 	
+lrNo						LR No
+bookingStation				Booking<br>Station
+consignee					Consignee
+particulars					Particulars
+qty							Qty
+other						Other
+freight						Freight
+total						Total
+gst5						GST 5%
+note						Note
+gstNo						GSTIN No.: 27ABRPK1349J2Z8
+serviceNo					Service No.: 996519
+bankAdd						ICICI BANK, Mahatma Nagar, Branch Nashik.
+bankAdd2                    HDFC Bank,Bhujbal Farm Branch, Nashik
+panNo						PAN No.: ABRPK1349J
+accountDetails				A/C No.: 108805500260 IFSC Code : ICIC0001088
+accountDetails1				A/C No.: 50200032581476 IFSC Code : HDFC0000878
+grandTotal					Grand Total :
+gstTotal					Total GST Amount :
+totalExcludingGst			Bill Total Excluding GST :
+dd							D.D
+lrCharge					LR<br>Charge
+hamali						Hamali
+detention					Detention<br>Charge
+amountInWords				Amount In Words : 
+destination					Destination
+crNo						CR No :
+remark						Remark :
+lrNo1						LR No :
+invno						Inv.No.
+vehicleNumberLabel			Vehicle Number
+actualWeightLabel			 Weight
+party						Consignee/Consignor
+additionalCharge			AdditionalCharge					

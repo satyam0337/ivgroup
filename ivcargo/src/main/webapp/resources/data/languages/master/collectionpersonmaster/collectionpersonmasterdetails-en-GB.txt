@@ -1,0 +1,6 @@
+header					Collection Person Detail
+name					Name
+address					Address
+mobileNumber			Mobile Number
+phoneNumber				Phone Number
+branchName				Branch Name

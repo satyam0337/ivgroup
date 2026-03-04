@@ -1,0 +1,65 @@
+invoiceNumber				INVOICE NO. 
+declaredValue				GOODS VALUE 
+deliveryTo					DELIVERY AT :
+sourceBranch				FROM : 
+destinationBranch			TO : 
+lrType						FREIGHT BY
+lrnumber					LR No. 
+bookingDate					DT :
+consignmentQuantity			Qty
+description				  	Description Of Goods(Said To contain)
+consignmentSaidToContain  	Said To contain
+actualWeight			  	ACT.WT.
+chargeWeight			  	CHG.WT.
+serviceTaxPaidBy			GST Paid By
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					Net Amount
+consignorname				CONSIGNOR : 
+consigneename				CONSIGNEE :
+at							AT
+printedby					Printed By : 
+freight						FREIGHT
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					OF
+remark						REMARK : 
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						RATE 
+insuredby					Insured By : 
+deliveryType				DELIVERY TYPE : 
+mobileno					MOB : 
+tinno						TIN NO. : 
+billingParty				BILLING PARTY : 
+forCompanyName				For, AAKASH ROADWAYS
+freight						FREIGHT
+bc							B.C.
+pf							P/F
+lc							L/C
+dd							D/D
+accountheader				GOWTHAM CARGO
+accountheader2				DAILY PARCEL SERVICE
+accountheader1				Dr.No:47-9-1,DWARAKA NAGAR, 3RD LANE, NEAR DIAMOND PARK, VISAKHAPATNAM-16
+accountheader3				Regd. No.: AGYPV 2687 CSD001
+accountheader4				Ph : 0891-2521799, Cell 7799955025
+info						BOOKED AT OWNER RISK
+discount					Discount (-)		
+signature					Receiver Signature	
+printedDateTime				Printed On	
+phone						Phone
+total						Total
+executiveSign				Signature of Clerk/Agent
+gstn						GSTN : 
+info1						"Door delivery service will be provided for Ground floor only".
+type						LR Type :
+EwaybillNo					E-wayBill No :

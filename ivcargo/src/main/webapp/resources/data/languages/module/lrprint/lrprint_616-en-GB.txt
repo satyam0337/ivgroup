@@ -1,0 +1,64 @@
+invoiceNumber				INVOICE NO:
+deliveryAt					Delivery At :
+sourceBranch				FROM :
+destinationBranch			TO :
+lrType						Type
+bookingDate					CONSIGNMENT DATE :
+actualWeight			  	WEIGHT
+chargedWeight			  	Charged Wt:
+lrNumber					CONSIGNMENT NOTE NO:
+consignorname				CONSIGNOR'S NAME :
+consigneename				CONSIGNEE'S NAME  :
+declaredValue				VALUE :
+weight						WEIGHT
+serviceTax					G.S.T
+other						Other
+grandTotal					Total
+tinNo						TIN No : 
+chargeName1					Freight
+chargeName49				Handling
+chargeName25				Door Dly.
+chargeName6					Door Pickup
+chargeName48				Unloading
+chargeName29				LR Charge
+chargeName7					Octroi
+number						Ph : 
+chargeName23				Stationary	
+printedby					Printed By : 
+seperator					Of
+serviceTaxPaidBy			G.S.T Paid By :
+mobilenumber				Mobile No :
+consignmentQuantity			QUANTITY.
+totalQty					Tot.
+description					DESCRIPTION(SAID TO CONTAIN)
+consignorcopy				Consignor Copy		
+info1						Party's Signature
+info2						Booked at Owner's Risk.
+info3						For Aditya Roadlines.
+vehicleCopy					Vehicle Copy
+consigneeCopy				Consignee Copy
+consignorCopy				Consignor Copy
+partycopy					Party Copy
+gstin						GSTIN : 
+freight						Freight
+ddc							DDC
+hamali						Hamali
+service						Service
+sc							S.C
+cover						Cover
+mobno						MOBILE NO.
+gstNo						GST No :
+sgst						SGST
+cgst						CGST
+igst						IGST
+freighttype					Freight type : 
+remark						Remark : 
+privateMark					Remark :
+bookingType					BOOKING TYPE
+consignmentArticleRate      VALUE OF GOODS:
+lrCharge					Lr Charge
+LOADING						LOADING LABOUR
+vehicleNo					VEHICLE NO
+ewayBillNo					EWAY BILL NO:
+lrsource					BRANCH :
+grandTotal					Grand Total

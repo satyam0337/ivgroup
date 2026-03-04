@@ -1,0 +1,159 @@
+#printMainTable {
+	table-layout: fixed;
+	width: 100%;
+	border: 1px dotted black;
+	text-align: center;
+}
+
+#innerTable {
+	table-layout: fixed;
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+	border-spacing: 0.5rem;
+}
+
+.alignCenter {
+	text-align: center;
+}
+.alignLeft {
+	text-align: left;
+}
+
+.alignRight {
+	text-align: right;
+}
+
+@media print {
+	.page-break {
+		page-break-before: always;
+	}
+}
+
+td,th{
+	white-space: nowrap;
+  overflow: hidden;
+//  text-overflow: ellipsis;
+  position:relative;
+}
+
+.width15per{
+	width: 15%;
+}
+.width25per{
+	width: 25%;
+}
+.width12per{
+	width: 12%;
+}
+.width11per{
+	width: 11%;
+}
+.width10per{
+	width: 10%;
+}
+.width8per{
+	width: 8%;
+}
+.width7per{
+	width: 7%;
+}
+.width25per{
+	width: 25%;
+}
+.width30per{
+	width: 30%;
+}
+.divTable {
+	display: table;
+	width: 100%;
+}
+
+.divTableRow {
+	display: flex;
+}
+
+.width20per{
+	width: 20%;
+}
+.width18per{
+	width: 18%;
+}
+.width30per{
+	width: 30%;
+}
+	
+.divTableCell, .divTableHead {
+/* 	/* border: 1px solid #999999; */ */
+/* 	display: -webkit-inline-box; */
+/* 	/* padding: 3px 10px; */ */
+/* 	vertical-align:top; */
+}
+
+.divTableHeading {
+	/* background-color: #EEE; */
+	display: table-header-group;
+	font-weight: bold;
+}
+
+.fontbold{
+	font-weight: bold;
+}
+
+.divTableFoot {
+	/* background-color: #EEE; */
+	display: table-footer-group;
+	font-weight: bold;
+}
+
+.divTableBody {
+	display: table-row-group;
+}
+.pageInfo{
+	float: right;
+}
+.fontlarge{
+	font-size: xx-large;
+}
+.fontsmall{
+	font-size: small;
+}
+
+.fontmedium {
+	font-size: large;
+}
+
+.singleline{
+	white-space: nowrap;
+  	overflow: hidden;
+/*   	text-overflow: ellipsis; */
+  	display: inline-block;
+}
+.currentDateTime{
+	float: left;
+}
+
+.marging-top-10px {
+	margin-top: 10px;
+}
+
+.marging-top-20px {
+	margin-top: 20px;
+}
+
+.verticalAlignTop{
+	vertical-align: top;
+}
+
+.borderAll{
+	border: 1px solid black;
+}
+
+.height25px{
+	height: 25px;	
+}
+
+.pageBreakNeeded{
+word-break: normal;
+white-space: normal;
+}

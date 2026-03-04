@@ -1,0 +1,12 @@
+ {
+	"labelId"					:	"crossingLrNumber",
+	"dataDtoKey"				:	"crossingLrNumber",
+	"columnDisplayCssClass"					:	"column-data-left-align",
+	"displayColumnTotal"			:	"false",
+	"elementConfigKey"			:	"crossingLrNumber",
+	"columnPrintWidthInPercentage"	:	"10",
+	"columnWidth"				:	120,
+	"dataType"					:	"input",
+	"buttonCss"					:	"form-control crossingLrNumber",
+	"maxLength"					:	"8"
+}

@@ -1,0 +1,66 @@
+srNumberLabel					Sr.<br>No.
+lrNumberLabel					LR <br>No.
+consignorLabel					C/nor Name
+consigneeLabel					C/nee Name
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR<br>Type
+consignmentPackingDetailsLabel	NO. OF PKGS
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRIGHT
+loadingChargeLabel				LDG.
+amountLabel						AMT
+amountLabel2					TO PAY
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Dispatch No :
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				No.<br>Pkt.
+totalFreightLabel				Frt
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				Total
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Origin
+lrDestinationBranchLabel		Destination
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						Bkg.<br>Date
+packages						No.Pkt.
+gst								GST no.
+art				            	Pkgs<br>Details
+drivingLicenseLable				Transporter:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WEIGHT
+totalLrChargeLabel				LR<br>Charge
+service					       	Service<br>Charge
+csCharge						C.S.<br>Charge
+otherNTCS						Other
+lsExpense						Expenses (-)
+grandTotal						NET Amount
+balance							NET PAY/Company Due
+commission						Commission
+net                             Net
+total1                          Total
+weight							Weight
+loading							Loading

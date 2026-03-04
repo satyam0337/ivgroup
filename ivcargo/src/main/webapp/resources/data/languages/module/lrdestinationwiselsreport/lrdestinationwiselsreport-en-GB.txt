@@ -1,0 +1,20 @@
+header 						LR Destination Wise LS Report
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+search						Search
+subHeader1					LR Destination Wise Report LS Details
+
+vehicleNumber				Vehicle Number
+lsNumber					LS Number
+tripDateTimeString			LS Date
+destinationBranchName		Destination Branch
+totalPaidAmount				Paid
+totalTopayAmount			Topay
+totalTbbAmount				TBB
+totalDddvAndTruckDeliveryAmount		DDDV & Truck Delivery
+totalQuantity						Quantity
+totalWeight							Weight
+lhpvNumber							LHPV Number
+totalLorryHire						Lorry Hire

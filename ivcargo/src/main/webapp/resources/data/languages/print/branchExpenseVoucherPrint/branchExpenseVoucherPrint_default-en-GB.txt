@@ -1,0 +1,17 @@
+srNo					Sr. No.
+area					Area :
+voucherNo				Voucher No :
+voucherDate				Voucher Date :
+remark					remark
+expenseName				Expense Name
+amount					Amount
+total					Total
+preparedBy				Prepared By :
+checkedBy				Checked By :
+passedBy				Passed By :
+stamp					Revenue Stamp Signature
+lhpvNo					LHPV No.:
+truckNo		 			Truck No. : 
+from					From:
+dest					Dest:
+panNo					Pan No:

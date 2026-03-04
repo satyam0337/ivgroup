@@ -1,0 +1,12 @@
+ {
+	"labelId"					:	"lrCommission",
+	"dataDtoKey"				:	"lrCommission",
+	"columnDisplayCssClass"					:	"column-data-left-align",
+	"displayColumnTotal"			:	"true",
+	"elementConfigKey"			:	"lrCommission",
+	"columnPrintWidthInPercentage"	:	"10",
+	"columnWidth"				:	100,
+	"dataType"					:	"input",
+	"buttonCss"					:	"form-control lrCommission hide",
+	"maxLength"					:	"5"
+}

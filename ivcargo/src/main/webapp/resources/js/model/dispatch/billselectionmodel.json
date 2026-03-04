@@ -1,0 +1,10 @@
+ {
+	"elementId":"billSelectionEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"billSelectionEle",
+	"elementType":"text",
+	"tooltipName": "Bill Selection",
+	"labelId":"billSelection",
+	"divRegion":"billSelection",
+	"elementDefaultValue":""
+}

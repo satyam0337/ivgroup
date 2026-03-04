@@ -1,0 +1,15 @@
+ {
+	"elementId":"regionSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"regionSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Region",
+	"labelId":"regionSelect",
+	"elementDefaultValue":"",
+	"dataDtoKey":"regionName",
+	"divRegion":"branchRegion",
+	"elementConfigKey":"Region",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

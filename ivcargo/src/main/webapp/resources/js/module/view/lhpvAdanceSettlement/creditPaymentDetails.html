@@ -1,0 +1,53 @@
+<!-- Modal content -->
+<div class="modal-content">
+  <div class="modal-header">
+    <span id="creditSpan" class="close">&times;</span>
+    <h2>LHPV Credit Details</h2>
+  </div>
+  <div class="modal-body">
+  	<div class="row" id="lhpvCreditDateRow">
+  		<div class="col-xs-12">
+			<label class="col-xs-3">Date</label>
+			<div class="col-xs-9 validation-message">
+				<div class="left-inner-addon col-xs-12">
+					<input class="form-control" type="text" name="creditdatepicker" data-tooltip="Select Credit Date" id="creditdatepicker"/>
+				</div> 
+			</div>
+		</div>
+  	</div>
+  	<div class="row" style="padding-top : 10px;">
+		<div class="col-xs-12">
+			<label class="col-xs-3">Amount</label>
+			<div class="col-xs-9 validation-message">
+				<div class="left-inner-addon col-xs-12">
+					<input class="form-control" type="text" name="creditAmount" data-tooltip = "Credit Amount" onkeypress="return noNumbers(event);" onkeydown="resetError(this); removeError('amount');" onblur="validateReceiveAmount(this);if(this.value=='0')this.value='';clearIfNotNumeric(this,0);" onkeyup="validateReceiveAmount(this);if(this.value=='0')this.value='';"
+						onfocus="if(this.value=='0')this.value='';" placeholder="Amount" id="creditAmount"/>
+				</div> 
+			</div>
+		</div>
+  	</div>
+  	<div class="row" style="padding-top : 10px;" id="lhpvCreditNumberRow">
+		<div class="col-xs-12">
+			<label class="col-xs-3">Credit Slip Number</label>
+			<div class="col-xs-9 validation-message">
+				<div class="left-inner-addon col-xs-12">
+					<input class="form-control" type="text" name="creditSlipNumber" data-tooltip = "Credit Slip Number" placeholder="Credit Slip Number" id="creditSlipNumber"/>
+				</div> 
+			</div>
+		</div>
+  	</div>
+  	<div class="row" style="padding-top : 10px;">
+		<div class="col-xs-12">
+			<label class="col-xs-3">Credit A/C</label>
+			<div class="col-xs-9 validation-message">
+				<div class="left-inner-addon col-xs-12">
+					<input class="form-control" type="text" name="creditAccount" placeholder="Credit Account Name" id="creditAccount"/>
+				</div> 
+			</div>
+		</div>
+  	</div>
+  </div>
+  <div class="modal-footer">
+		<button type="button" id="lhpvAdvanceCreditDetailsBtn" class="btn btn-primary">OK</button>
+  </div>
+</div>

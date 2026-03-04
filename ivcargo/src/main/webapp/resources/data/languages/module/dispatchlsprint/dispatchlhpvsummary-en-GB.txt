@@ -1,0 +1,10 @@
+wayBillSourceCode						STN.
+wayBillArticleQuantity					Article
+totalNumberOfLR							LR
+wayBillVasuliAmount						VASULI
+wayBillOtherAmount						OTHER
+wayBillActualWeight						WEIGHT
+wayBillServiceTaxAmount					S_TAX
+wayBillCarrierRiskAmount				C_RISK
+wayBillBalanceAmount					BALANCE
+chargeAmount							HIRE

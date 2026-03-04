@@ -1,0 +1,17 @@
+consignorname		Consignor
+consigneename		Consignee
+date				Date
+lrno				LR.NO.
+from				FROM
+to					TO
+noofokg				Qty
+packingtype			Packing Type
+desc				Description 
+weight				Weight
+chgwt				Chg. WT 
+declaredvalue		Declared Value
+remarks				Remarks :
+invno				Inv No :  
+charges				Charges
+amount				Amount
+total				Total

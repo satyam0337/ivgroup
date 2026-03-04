@@ -1,0 +1,56 @@
+lrNO						LR No :
+lrType						LR Type:
+receipt						--Delivery Receipt--
+sourceBranch				From :
+destinationBranch			To :
+consignor					Consignor :
+consignee					Consignee :
+gstn						GSTIN :
+gst							GST
+bookingDate					Bkg Dt :
+bookedBy					Booked By :
+saidToContain				Said To Contain :
+paidHamali					Paid Hamali :
+deliveredTo					Delivered To :
+declaredValue				Declared Value :
+deliveryCharge				Delivery Chrg :				
+remark						Remark :
+pkgs						Pkgs :
+packages					Packages :
+total						Total:
+bookingTotal				Booking Total
+printTime					Print Time :
+deliveryTime				Delivery Time :
+printedBy					Printed By 
+deliveredBy					Delivered By :
+deliveredToNumber			Delivered To Number :
+chargesDetails				--Charges Details--
+consignmentDetails			--ConsignmentDetails--
+discount					Discount :
+branchPhNo					Office Phone :
+receivedFrom				Received From :
+deliveryTo 					Delivery To :
+packingType					Packing Type
+declaredValue				Declared Value :
+sign						Read and Accepted 
+sign1						Consignor Signature
+rules						--RULES & REGULATIONS--
+rule1						1.Parcel/s is/are transported at the sole risk of the Consignor/s, The transporter shall not be liable or  responsible in any breakage, demurrage, theft, robbery, dacoity, fire, accidents, flood, earth quack, riot, terrorist act etc, or any other reasons beyond the control of the transporter.
+rule2						2.Parcel should not contain any prohibited, hazardous, or contraband goods or articles.
+rule3						3.The consignor/s shall report in writing non delivery of the parcel/s, if any to the transporter within 7 days of booking of consignment. Any complaint of non delivery after 7 days shall not to be entertained.
+rule4						4.Consignor/s are advised to take cover of insurance in view of clauses limited total liability of the transporter in event to Rs.1000/-(Rupees One thousand only).
+rule5						5.Consignor / Consignee is liable to pay all the government dues like GST, Octroi, Sales tax etc. Transporter is not liable to bear any amount due on government department.
+rule6						6.Cash, Gold or any other valuable items are not accepted. Since we deliver the parcel at our counter without any proof or identity of the consignee, we do not hold any responsibility for any wrong delivery of the parcel.
+rule7						7.All disputes are under the jurisdiction of Bangalore Court only.
+rule8						8.As per Notification No. 13/2017 - Central Tax Dt. 28th June, 2017. Liability of GST on this consignment has to be paid by Consignor/Consignee.
+
+
+info1						RECOGNISED BY THE GOVT. OF INDIA
+info2						H. O : 321,T.S.P. ROAD, OPP BANGALORE MEDICAL COLLEGE, KALASIPALYAM, BANGALORE - 560002
+info3						Contact : 9900034552, 9900034557, 9008122755, 9900010671, 9972511311, 9880394059
+info4						FAX : 080-26703308 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email : mails@srstravels.net
+info5						For Logistics helpline and complaints in IT, Contact no. 9900034664.
+
+info0						Managed By Pan India Travels and Logistics
+consolidateEWaybillNumber	Consolidate Eway bill number : 
+rupee						&#x20B9

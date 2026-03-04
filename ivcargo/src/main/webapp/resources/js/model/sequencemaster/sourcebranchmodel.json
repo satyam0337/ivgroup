@@ -1,0 +1,9 @@
+ {
+	"elementId":"sourceBranchSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"sourceBranchSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Branch",
+	"labelId":"sourceBranchSelect",
+	"elementDefaultValue":""
+}

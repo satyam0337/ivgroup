@@ -1,0 +1,9 @@
+header							Short Receive Settlement Detail
+wayBillNumber					LR Number
+settlementType					Settlement With
+excessNumber					Excess Number
+claimAmount						Claim Amount
+settlementDate					Settlement Date
+settlementRemark				Settlement Remark
+settledByBranch					Settlement At
+settledByExecutive				Settled By

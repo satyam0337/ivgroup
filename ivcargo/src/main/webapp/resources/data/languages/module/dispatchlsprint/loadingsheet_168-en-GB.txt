@@ -1,0 +1,49 @@
+branchAddressLabel				Address : 
+branchPhoneNumberLabel			Phone No : 
+srNumberLabel					#
+lrNumberLabel					LR No.
+bkgDateLabel					LR Date
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+consignorLabel					Consignor
+consigneeLabel					Consignee
+invoiceNoLabel					INV. NO
+consignmentPackingDetailsLabel	CONTAINS
+totalArticleLabel				Items
+weightLabel						WGT
+amountLabel						AMT
+totalLabel						Total
+dispatchNumberLabel				Dispatch No :
+vehicleNumberLabel				Vehicle No :
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+
+lsRemarkLabel					Remark : 
+driverNameLabel					Driver:
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+dispatchRoute					Route : 
+freightChargeLabel				Freight
+otherChargeLabel				Others
+lrTypeLabel						LR Type
+serviceTaxLabel					S.Tax
+lrCategoryLabel					LR Type
+totalFreightLabel				Freight
+totalAmountLabel				Amount
+totalLoadingLabel				Loading
+totalFOVLabel					FOV
+totalOtherLabel					Other
+totalServiceTaxLabel			S.Tax
+totalNoOfLr						No Of LRs
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+totalLRLabel					Total LRs
+accountheader2					Dwarakanagar, 3rd Lane, Near Diamond Park,  Visakhapatnam - 530 016.
+accountheader1					Regd. No.: AGYPV 2687 CSD001
+accountheader3					Ph : 2521799, Cell 7799955025
+declaredValued					Declared Value

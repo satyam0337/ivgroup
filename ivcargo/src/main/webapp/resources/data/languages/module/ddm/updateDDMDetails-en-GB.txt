@@ -1,0 +1,14 @@
+header 						<b>DDM Update</b>
+subHeader					<b>LR Details</b>
+ddmNumberLabel				DDM Number
+branchNameLabel				Branch
+find						Find Details
+lrNumberLabel				LR Number
+append						Append LRs
+header1						<b>Append LR in DDM</b>
+findBtnForAppendLR			Find
+remarkSelect				Remark
+driverNameSelect			Driver Name
+driverNumberSelect			Driver No.
+lorryHireAmountSelect		Lorry Hire
+delete						Delete

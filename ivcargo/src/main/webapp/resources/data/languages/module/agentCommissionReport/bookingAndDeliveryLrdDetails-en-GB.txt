@@ -1,0 +1,27 @@
+header1 						Booking Details
+header2 						Delivery Details
+
+branchName						Branch Name
+bookingTimeCommissionOnAmount	Booking Feright
+bookingTimeCommission			Bkg. Comm
+deliveryTimeCommission			Dly. Comm
+bookingDateString				Bkg Date
+commissionOnAmount				Commision On Amt
+deliveryCharge					Dly. Chrgs.
+deliveryDateString				Dly. Date
+consignor						Consignor
+consignee						Consignee
+actualWeight					Actual Weight
+chargedWeight					Charged Weight
+noOfArt							No.of Art.
+other							Other
+crNumber						Cr Number
+grandTotal						Grand Total
+waybillNumber					LR no.
+destinationBranchName			To branch
+toPayAmount						ToPay
+serialnumberheader				SR.No.
+bookingFright                   Booking Feright
+tdsTxnOnAmount					Tds On Amount
+tdsTxnAmount					Tds Amount
+unloading						Unloading

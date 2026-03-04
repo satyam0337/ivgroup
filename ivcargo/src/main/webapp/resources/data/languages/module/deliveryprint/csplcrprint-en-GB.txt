@@ -1,0 +1,63 @@
+invoiceNumber				Invoice No.
+declaredValue				Dec.Value:
+deliveryTo					Delivery At :
+sourceBranch				Origin :
+destinationBranch			Dest :
+lrType						Type
+bookingDate					Date :
+actualWeight			  	Act WHT:
+chargedWeight			  	Charged Wt:
+lrNumber					LR NO :
+consignorname				Sender :
+consigneename				Recipient :
+declaredValue				Dec.Value:
+remark						Remark :
+weight						Weight
+serviceTax					GST
+other						Other
+grandTotal					Total
+tinNo						TIN No : 
+fre							Freight 	
+ham							Hamali 	
+col							Collection 	
+stat						Statistical 	
+doorDelivery				Door Delivery 	 	
+ot							Other 	
+printedby					Printed By : 
+seperator					of 
+serviceTaxPaidBy		    Paid By :
+mobilenumber				Mobile :
+consignmentQuantity			QTY
+description					Description
+gstin						GSTN :  
+consigneeAddr				Address:
+consignorAddr				Address:
+lrnumber					LR.No
+destAddr					Dest.Address:
+deliveryaddress             Delivery Address:
+total						Total
+addr						Address Br:
+pvtmark						Pvt Mark :
+godown						Godown :
+builtycharge				Builty Charge
+cartage						Cartage
+taxpaidby					GST Payable By :&nbsp;
+seperator					of
+demurage				   Demurrage
+deliverytime               Delivery Time:
+bookingtime                Booking Time:
+invoicevalue               Invoice Value:
+articletype                Art Type   
+contains                   Contains
+rate                       Rate
+unloading                  UnLoading
+Servicecharge              ServiceCharge
+handling                   Handling
+express                    Express
+gstno                      Gst No:
+grosstotal                 Gross Total:
+gstdetail                  Gst Detail
+pm                         P.M.
+bookingtype					Booking Type
+mobile						Mobile :
+amount						Amt

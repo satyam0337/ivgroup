@@ -1,0 +1,17 @@
+wayBillNumber				LR No :
+bookingDateTime				Bkg Time : 
+srcBranch					From : 
+destBranch					To : 
+from						From :
+to							To :
+receiverNumber				Receiver No : 
+wayBillType                 LR Type : 
+remark						Remark :
+noOfPkg						No. of Pkgs :
+bookingTotal				Total :
+bookedBy					Booked By :
+printedBy					Printed By :
+printDateTime 				Print Time :
+freight						Freight :
+loading						Loading :
+invoiceNo					Invoice No:

@@ -1,0 +1,6 @@
+ {
+	"tooltipName": "Quantity",
+	"labelId":"quantity",
+	"dataDtoKey":"consignmentDetailsQuantity",
+	"elementType":"text"
+}

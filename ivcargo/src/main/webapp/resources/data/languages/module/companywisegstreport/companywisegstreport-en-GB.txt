@@ -1,0 +1,44 @@
+header 						Company Wise GST Report
+
+date						Date
+companyName					Company Name
+srcState					From State
+srcBranch					From Branch
+toState						To State
+toBranch					To Branch
+GSTPaidBy					GST Paid By
+GSTN						GSTN : 
+
+subHeader1					Booking Details
+subHeader2					Delivery Details
+subHeader3					Booking Details Summary
+subHeader4					Delivery Details Summary
+
+bkgDate						Bkg Date
+wayBillNumber				LR NO
+name						PartyName
+sourceBranch				From
+destinationBranch			To
+freight						Freight
+taxOn						TaxOn
+wayBillType					LR Type
+CancelDt					CancelDt
+tax							Tax
+cgstAmount					CGST
+sgstAmount					SGST
+igstAmount					IGST
+totalTax					Total GST
+billNumber					BillNo
+creditorName				TBB Party
+isLrModified				IsLrModified
+deliveryDateTime			Dly Date
+dlyAmt						Dly Amt
+crNumber					CrNo
+crCancelDt					CRCancelDt
+save						Find
+consigneeName				ConsigneeName
+consignorName				ConsignorName
+serialnumberheader			SR. No.
+consignorGSTN				C/nor GSTN
+consigneeGSTN				C/nee GSTN
+billSelectionStr			Bill Type

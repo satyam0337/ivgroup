@@ -1,0 +1,7 @@
+{
+	"buttonName":"printBtn",
+	"buttonId":"printBtn",
+	"buttonClass":"btn btn-primary",
+	"tooltipName":"Print",
+	"buttonSpanId":"print"
+}

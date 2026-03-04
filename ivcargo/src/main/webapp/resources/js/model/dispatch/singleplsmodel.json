@@ -1,0 +1,10 @@
+ {
+	"elementId":"singleplsEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"singleplsEle",
+	"elementType":"text",
+	"tooltipName": "PLS Number",
+	"labelId":"singlepls",
+	"divRegion":"SearchRegion",
+	"elementDefaultValue":""
+}

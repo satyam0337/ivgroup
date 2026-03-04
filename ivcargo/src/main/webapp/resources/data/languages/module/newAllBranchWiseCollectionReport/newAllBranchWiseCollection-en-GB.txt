@@ -1,0 +1,24 @@
+header 						ALL Branch Wise Collection
+date						Date
+region						From Region
+subRegion					From Area
+ownBranchLabel				Own Branch
+agentBranchLabel			Agent Branch
+allBranchLabel				Branch
+selectType					Select Type
+search						Search
+branchName                  Branch
+paidBookingTotal			Paid
+toPayBookingTotal			To Pay
+lrCharge					L R Charge
+totalFreight				Freight Total
+paidBookingComm				Paid Commission
+toPayBookingComm			To Pay Booking Commission
+toPayDeliveryComm			To Pay Delivery Commission
+totalComm					Commission Total
+tdsAmount					TDS
+grandTotal					To Pay delivery
+cashLessAmount				UPI
+cashAmount					Cash
+cashOnHandAmount			Cash On Hand
+sendRequest					Request

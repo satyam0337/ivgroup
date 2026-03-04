@@ -1,0 +1,78 @@
+seperator			OF
+invoiceNumber		INVOICE NO.
+weight				WEIGHT
+actualWeight		ACTUAL
+chargeWeight		CHARGED
+declaredValue		Value : 
+vehicleNo			Truck No.
+freight				FREIGHT 
+hamali				Hamali
+lrCharge			L.R. Chgs.
+collection			COLLECTION
+ddcharge			D.D. CHARGE
+loading				LOADING
+unloading			UNLOADING
+lrcharge			L.R. CHARGE
+doordly				Door Dly.
+detention			Detention
+union				UNION
+others				OTHERS
+crossinghire		CRS. Hire*
+serviceTax			GST By
+grandTotal			TOTAL
+article				Article
+description			Description
+totalArticle		Total-
+deliveryat			Delivery At : 
+remark				Remark : 
+forLabel			For: Jayram Transport Corp.
+marathimsg			डोअर डिलिव्हरी व क्रॉसींग मालाबाबत काही तक्रार असल्यास ७ दिवसांचे आत तक्रार करावी त्यानंतर केलेली तक्रार विचारात घेतली जाणार नाही
+consignor			Consignor : 
+consignee			Consignee : 
+charges				Charges
+servicetaxNumber	GST NO. : 
+signNstamp			SIGN & STAMP:
+msg1				TRANSIT INSURANCE NECESSARY BY THE OWNER OF GOODS. OWNER'S RISK - WE ARE NOT RESPONSIBLE 
+msg2				FOR LEAKAGE & BREAKAGE.
+lrlabel				G.C.Note No.
+datelabel			Date : 
+lrSource			From : 
+lrDestination		To : 
+lrFreightUpto		Frt. Upto:
+kg					Kg.
+gstno				GSTN : 
+lrDetails			LR Details
+podRequied			POD Req.
+bookingType			Bkg.Type
+eWayBillNo			E-WayBill No.
+ewaybillid			E-WayBill Id-27AAKFJ1001C2Z1
+chequeNo				Chq no:
+bankName			Bank Name:
+time				Time:
+address				Address :
+mobno				Mob No. : 
+noofarticle			No. of Article			
+note				No Cash Payment.<br>Pay Only By A/c. Payee Cheque/NEFT/RTGS Only.<br>Cheque Return Charges Rs.350 Extra.
+line1				THIS G.C NOTE IS ISSUED ONLY SUBJECT TO TERMS AND CONDITIONS PRINTED OVERLEAF
+line2				Bank Details
+line3				ICICI BANK LTD. VAPI BRANCH
+line4				A/C NO.: 017905000040 IFSC CODE : ICIC0000170
+line5				GST PROVISIONAL ID NO. 24ANDPS8001M1ZV
+line6				PAN NO.: ANDPS8001M
+line7				For KALPTARU XPRESS CARGO PVT LTD
+line8				TRANSIT INSURANCE MUST BE BY THE CONSIGNOR OR CONSIGNEE, ALL MATERIAL BOOKED UNDER "OWNER RISK" ONLY. WE ARE NOT RESPONISBLE FOR ANY TYPE OF CLAIM REGARDING MATERIAL DAMAGE, THEFT, ROBBERY, FIRE, RAIN OR VEHICLE ACCIDENT CASE.
+info1				Name and Address of Issuing Office :
+name				Name : 
+address				Address : 
+info2				THIS GOODS CONSIGNMENT NOTE
+info3				IS ISSUED ONLY
+info4				SUBJECT TO TERMS & CONDITIONS
+info5				PRINTED OVERLEAF
+info6				GOODS CONSIGNMENT NOTE
+no					NO. : 
+invoice				Invoice : 
+noofarticles		NO. OF<br>ARTICLES
+natureodgoods		NATURE OF GOODS SAID TO CONTAIN
+note				(Not Responsible for Leakage & Breakages)
+typeofcharge		TYPE OF CHARGES
+freight1			FREIGHT

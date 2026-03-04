@@ -1,0 +1,22 @@
+header 							Branch Operation Locking Configurations
+date 							Date
+discountOn						Discount On
+subHeader						Add Discount
+subHeader1						Branch Locking Configurations
+branch							Select Branch
+bookingType						Booking Type
+save							Save
+update							View
+delete							Delete
+edit							Edit
+add								Add
+view							View
+branchHeading					Branch
+status							Status
+configurationType				Configuration Type
+viewAllBranchConfig				View All
+subHeader2						All Branch Locking Configurations
+partialheader					Edit
+booking							Booking
+openingTime						Openign Time
+closingTime						Closing Time

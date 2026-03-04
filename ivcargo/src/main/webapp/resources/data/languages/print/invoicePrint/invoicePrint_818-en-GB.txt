@@ -1,0 +1,35 @@
+taxInvoice					T A X  I N V O I C E
+to							To
+billNo						Bill No
+billDate					Bill Date
+srNo						Sr No
+lrNo						LR No
+date						Date
+destination					Destination
+vehicleNo					Vehicle<br/>No
+invoiceNo					Invoice<br/>No
+chargedWeightGross			Charged<br/>Weight<br/>(Gross)
+approval					Approval
+rate						Rate
+weightCategory				Weight<br/>Category
+amount						Amount
+grossTotal					Gross Total
+gstDetails					GST Details
+sgstLabel					SGST 2.5%
+cgstLabel					CGST 2.5%
+totalGst					Total GST
+totalFreightLabel			Total Freight :-
+rupeesWordsLabel			Rupees (words) - 
+ourPanNoLabel				OUR PAN No:
+gstNoLabel					GST NO : 
+qty							QTY
+vehicleType					Veh type
+chargedWeight				Charged<br/>Weight
+ratePerTonn					Rate per<br/>Tonn
+diffCost					Diff Cost
+unloading					Unloading
+detention					Detention
+partyName					Party Name
+cutting						Cutting
+placeOfSuppyLabel			Place of Supply - 
+gstNo						GST No

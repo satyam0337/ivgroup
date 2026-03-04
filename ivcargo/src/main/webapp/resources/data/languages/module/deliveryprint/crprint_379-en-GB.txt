@@ -1,0 +1,14 @@
+cutstNo						Customer Care - 
+cashMemo					CASH MEMO
+cmNo						CM No:
+date						Date:
+party						Party:
+bkgst						BKG STN
+lrNo						L.R.No.
+art							Art.
+consignor					Consignor
+amt							Amount
+totalArt					Total Article. 
+recSign						Receiver Sign
+totalAmt					Total Amount 
+disc						Discount 

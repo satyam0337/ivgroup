@@ -1,0 +1,10 @@
+header 						<b>Edit Invoice</b>
+subHeader					<b>Search Details</b>
+billNumberLabel				Bill Number
+branchNameLabel				Branch
+find						Find Details
+lrNumberLabel				LR Number
+append						Append LRs
+header1						<b>Append LR in Bill</b>
+findBtnForAppendLR			Find
+billDetails					BILL Details

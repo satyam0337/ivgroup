@@ -1,0 +1,15 @@
+ {
+	"elementId":"destinationBranchSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"destinationBranchSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Destination Branch",
+	"labelId":"destinationBranchSelect",
+	"elementDefaultValue":"",
+	"dataDtoKey":"destinationBranchName",
+	"divRegion":"branchRegion",
+	"elementConfigKey":"DestinationBranchName",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

@@ -1,0 +1,106 @@
+header 							Loading Sheet
+sourceSubRegoinSelect			Source Area
+sourceSelect					Source Branch
+areaSelect 						Select Area
+branchSelect 					Select Branch
+serialnumberheader 				SR No.
+StatusButtonEle 				Activate/Deactivate
+incomingDateTimeStamp			Bkg/Unload Dt
+wayBillNumber					LR Number
+sourceBranch					Source
+destinationBranch				Destination
+consignorName					Consignor
+consigneeName					Consignee
+totalArticles					Loaded Art
+articleDetails					Articles
+totalWeight						Weight
+amount							Amount
+waybilltype						LR Type
+deliveryTo						DD
+freightUptoBranch				Freight Upto
+vehicleNumber					Vehicle Number
+cleanerName						Cleaner Name
+driverLicenceNumber				Driver Licence Number
+driverMobileNumber				Driver Mobile Number
+driverName						Driver Name
+driver2MobileNumber				Driver Mobile Number 2
+driverName2						Driver Name 2
+remark							Remark
+truckDestination				Unloading Point
+executiveSelect					Executive
+DispatchLabel					Dispatch
+excessEntryLabel				Excess Entry
+viewExcessEntryLabel			View Excess Entry
+DeleteLabel						Delete
+removeheader					Remove
+removeLabel						Remove
+partialheader					Partial
+quantity						Quantity
+packingType						Packing Type
+dispatchQuantity				Dispatch Quantity
+singlelr						Single LR
+driverNumber					Mobile No.
+reprintBtnLabel					Reprint
+reprintMsg						Previous LS Number
+actualtotalArticles				Total Art
+crossingAgentSelect				Crossing Agent
+destinationAreaSelect			Destination Area
+crossingHire					Crossing Hire
+netLoading						Net Loading
+netUnLoading					Net Unloading
+doorDelivery					Door Delivery
+localTempo						Local Tempo
+lorryHireNumber					Truck Engagement Slip Number
+manualLSSequence				Manual LS
+manualLSDate					LS Date
+transportMode					Transport Mode
+supervisor						Loaded By
+manualDate						Manual LS Date
+ravanaExpense					Rawana Expense
+kilometerReading				Odometer<br> Reading (KM)
+dieselLiter						Diesel
+dieselRatePerLiter				Diesel Rate
+dieselLiterBy					Diesel By
+tripHisabRemark					Remark
+vehicleAgent					Vehicle Agent
+vehicleOwner					Vehicle Owner
+vehicleType						Vehicle Type
+capacity						Capacity
+RegisterdOwner					Registerd Owner
+panNumber						Pan Number
+lrNumber						LR Number
+srcBranch						From
+destBranch						To
+weight							Weight
+addExcess						Add Excess
+dispatchRoute					Route
+crossingLrNumber				Crossing Lr No.
+lrRemark						LR Remark
+consigneeNumber					Receiver No.
+chargeWeight					Charged Weight
+actualWeight					Actual Weight
+docketNumber					Docket Number
+deliveryAt						Delivery At
+topayAmount						ToPay
+paidAmount						Paid
+
+
+DelCharges						Del Charges
+openingkilometer				Opening Kilometer
+weighBridge						Weigh Bridge
+searchSelect					Search By : 
+singlepls						PLS Number :
+singlelabel						<h4>Please Press Enter Button For PLS Details !!</h4>
+billSelection					Bill Selection 
+Freight							Freight
+truckSource						Source Point		
+privateMark                     Private Mark
+packingGroup					Packing Group
+commission						Commission (%)
+lsExpense						Expense
+lrCommission					Commission
+isCommissionPercentage			Percentage
+packingGroup					Packing Group
+crossingBranch					Unloading <br>Crossing Branch
+executiveName					Executive Name
+lsHamali						Loading Hamali

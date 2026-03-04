@@ -1,0 +1,37 @@
+subHeader1					LR Paid Statement Details 
+header 						LR Paid Statement Details
+
+dateAndTime					Date and Time
+region						Region
+subRegion					Sub Region
+branch						Branch
+type						Type
+searchBy					Search By
+search						Search
+wayBillNumber				LR No.
+branchName					Branch
+bookingDateTimeStr			Added Date
+quantity					Qty.
+incomeAmount				Income
+expenseAmount				Expense
+executiveName				User Name
+consignorName				C/nor
+consigneeName				C/nee
+paymentTypeString			Payment Mode
+cash						Cash Amt
+cashLess					Cashless Amt
+gst							GST
+credit						Credit
+total						Total
+chequeNumber				Chq No
+statusString				Status
+paymentStatusName			Credit Payment Details
+bankName					Bank Name
+mrNumber					MR No.
+sourceBranchName			Source
+destinationBranchName		Destination
+chargeWeight				Charge Wght
+totalWithoutCommission		Total Without Commission
+commission					Commission
+shortCreditPaymentDate		Payment Date
+shortCreditBankName			Received Bank Name

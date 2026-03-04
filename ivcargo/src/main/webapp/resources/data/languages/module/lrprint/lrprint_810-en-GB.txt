@@ -1,0 +1,36 @@
+consignmentNotesNo				Consigment Notes No.
+date							Date
+from							From
+to								To
+packages						Packages
+mode							Mode
+consignorsName					Consignor&rsquo;s Name
+address							Address
+gstNo							GST No.
+consigneesName					Consignee&rsquo;s Name
+sacHsnCode						SAC HSN Code
+contain							Contain
+pMarks							P. Marks
+actualWeight					Actual Weight
+chargesWeight					Charges Weight
+value							Value
+invoiceNo						Invoice No.
+type							Type
+freight							Freight
+hamali							Hamali
+hd								H.D.
+fov								F.O.V.
+labourCharges					Labour Charges
+otherCharges					Other Charges
+total							Total
+gst								GST
+gTotal							G. Total
+goodsConsignmentNotes			GOODS CONSIGNMENT NOTES
+atOwnersRisk					AT OWNER'S RISK
+consignorCopy                   CONSIGNOR COPY
+consigneeCopy					CONSIGNEE COPY
+gstinLabel						GSTIN :&nbsp;
+ewaybillNoLabel					E-Way Bill No. :
+
+
+

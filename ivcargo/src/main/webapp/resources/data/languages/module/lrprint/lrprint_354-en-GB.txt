@@ -1,0 +1,27 @@
+date					 DATE :
+lrType					 TYPE :
+lrNumber				 LR NO. :
+sourceBranch			 FROM :
+destBranch				 TO :
+consignor				 Consignor :
+consignee				 Consignee :
+consignorGstn			 GSTN :
+consigneeGstn			 GSTN :
+quantity				 QTY. 
+description				 Description 
+totalQuantity			 Tot. :
+actualWeight			 Actual.Wt :
+chaergeWeight			 Charged.Wt :
+invoiceNO				 Inv NO. :
+remark					 Remark :
+grandTotal				 Total :
+deliveryType			 Delivery Type :
+receiverSign			 Receiver Signature
+clerkSign				 Signature of Clerk/Agent
+privateRemark			Private Mark :
+time					Time :
+PhNO			Mobile No :
+value					Value : 
+deliveryAt				Delivery At :
+freightType				Freight Type : 
+eWayBillNo				Ewaybill No :

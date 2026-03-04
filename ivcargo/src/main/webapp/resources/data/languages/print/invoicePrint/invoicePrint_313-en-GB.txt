@@ -1,0 +1,52 @@
+m/s							M/s. : 
+srNo						Sr.No. 
+gst							GST
+stateCode					State Code : 
+billNo						Bill No : 
+date						Date : 
+billingPeriod				Billing Period : 
+billingBranch				Billing Branch :
+previousOutstanding			Previous Outstanding : 
+lastPaymentReceived			Last Payment Received : 	
+lrNo						LR No
+bookingStation				Booking<br>Station
+consignee					Consignee
+particulars					Particulars
+qty							Qty
+other						Other
+freight						Freight
+total						Total
+gst5						GST 5%
+note						Note
+gstNo						GSTIN No.: 27ABRPK1349J2Z8
+serviceNo					Service No.: 996519
+bankAdd						ICICI BANK, Mahatma Nagar, Branch Nashik.
+panNo						PAN No.: ABRPK1349J
+accountDetails				A/C No.: 10805500260 IFSC Code : ICIC0001088
+grandTotal					Grand Total :
+gstTotal					Total GST Amount :
+totalExcludingGst			Bill Total Excluding GST :
+dd							D.D
+lrCharge					LR<br>Charge
+hamali						Hamali
+detention					Detention<br>Charge
+rInWords			     	Amount In Words : 
+destination					Destination
+crNo						CR No :
+remark						Remark :
+lrNo1						LR No :
+to							To :
+address                     Address :
+gstno                       GST No. :  
+docketdate                  Doc_Dt
+docketno                    Doc_No  
+from                        From
+cargomode                   Cargo Mode
+pkgs                        Pkgs
+weight                      Weight
+rate                        Rate
+totalamount                 Amount
+billTotal					Bill Total :
+docketCharge                Doc_Charge
+totalGSTAmount  	        Total GST Amount : 
+additionalCharge            Additional Charge :

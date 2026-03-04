@@ -1,0 +1,41 @@
+partyName					Party Name :
+partyAddress				Party Address :
+gstNo						GSTN :
+billNo						BillNo :
+invoicedate					BillDate :
+date						LR Date
+lrNo						LR No
+qty							PKG
+lrSourceBranchLabel			From
+invoiceNo					Invoice No .:
+wegt						Ch.Wt.
+freight						FRT
+hamali						Hamali
+sTax						S_TAX
+oct							OCT
+otChrg						OT_CHA
+total						TOTAL
+srNumberLabel				SrNo.
+lrDestination				To
+consignor					Consignor
+consignee					Consignee
+bcCharge					B.C.	
+invoiceLabel                Invoice
+billingBranchLabel          Billing Branch :
+addressLabel                Address  :
+wbNoLabel                   WB Number
+bookingDateLabel            Booking Date
+destinationLabel            Destination
+packagesLabel               Packages
+remarkLabel                 Remark
+amountLabel                 Total
+billTotalLabel              Bill Total :
+invoiceDateLabel            Invoice Date:               
+wayBillDetailsLabel         Way Bill Details
+netAmountLabel              Net Payable Amount :
+printDateTimeLabel          Print DateTime :
+RemarkLabel                 Remark :
+totalLabel                  Total
+phoneNoLabel                Phone Number  :
+totalFrieghtLabel           Total Freight :
+rupees							RUPEES 

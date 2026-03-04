@@ -1,0 +1,8 @@
+header							Damage Receive Settlement Detail
+wayBillNumber					LR Number
+settlementTypeName					Settlement With
+settledDateStr					Settlement Date
+settlementRemark				Settlement Remark
+settledByBranch					Settlement At
+settledByExecutive				Settled By
+claimAmount						Claim Amount

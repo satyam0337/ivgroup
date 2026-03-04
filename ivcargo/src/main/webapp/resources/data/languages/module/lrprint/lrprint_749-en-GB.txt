@@ -1,0 +1,31 @@
+bkgDate					Date
+from					From
+to						To
+bkgTime					Booking Time
+consignor				Consignor
+consignee				Consignee
+gst						GSTIN
+lrNo					LR No.
+consignmentQuantity		No. Of<br>ARTICLES
+description				Description <br>(Said to be contained)
+value					VALUE<br>Rs.
+weight					WEIGHT ACTUAL<br>Kgs.
+charged					CHARGED<br>Kgs.
+inv						Invoice No.
+consignorNo				Consignor Ph. No.
+consigneeNo				Consignee Ph. No.
+rate					RATE<br>PER Kg.
+topay					TO-PAY<br>Rs.
+grandTotal				TOTAL
+sgst						SGST (2.5%)
+cgst						CGST (2.5%)
+igst						IGST (5%)
+Freight                     Freight
+DoorDly                     Door Delivery
+DoorCollection              Door Collection
+LrCharge                    L R Charge  
+Hamali                      Hamali
+Other                       Other  
+EWayBill                    E-Waybill
+gst                         GST
+lrtype						LR Type

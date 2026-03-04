@@ -1,0 +1,29 @@
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+packagesLabel					Pkgs
+branchPhoneNumberLabel			Phone No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From : 
+toBranchLabel					To : 
+dispatchDateLabel				Date: 
+lrDestinationBranchLabel		Destination
+destinationBranchLabel			Branch
+lsRemarkLabel					Remark : 
+lrRemarkLabel					Remark
+driverNameLabel					Driver :
+totalLabel						Total
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			To Pay
+tbbFreightChargeLabel			TBB
+branchAddressLabel				Address:
+freightChargeLabel				Freight
+saidtocontain					Description
+consignmentPackingDetailsLabel	Total</br>Parcel
+lrTypeLabel						LR TYPE
+noOfPkgs						NO OF PKGS
+amount							AMOUNT
+prepared						Prepared by : 
+gdmno							GDM NO	:
+actualWeight					Act. wt.

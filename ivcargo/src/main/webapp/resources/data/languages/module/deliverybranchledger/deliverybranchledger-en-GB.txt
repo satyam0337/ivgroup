@@ -1,0 +1,11 @@
+header 						Delivery Branch Ledger
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+search						Search
+
+subHeader1					SEARCH DETAILS
+
+details						ACCOUNT NAME
+amount						AMOUNT

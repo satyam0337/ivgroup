@@ -1,0 +1,28 @@
+srNo                               S.N.
+date                               LR<br>Date
+lrNo                               LR<br>No
+invoiceNumber                      Invoice<br> No.
+particulars                        Particulars
+pkgs                               Qty
+from                               From
+station                            Destination 
+ratePerBox                         Rate Per<br>Box
+basicAmount                        Basic<br>Amount
+hamali                             Hamali
+doorDelivery                       Door <br>Delivery 
+lrCharges                          Other<br>Charge
+totalAmount                        Total
+Hamali 							   Hamali
+DD								   DD
+Freight							   Freight
+localCharge						   Local
+otherCharge						   Other
+bcCharge                           B.C Charge
+wtrate								Wt.<br>Rt
+fright								Freight
+lrCh								LR<br>Ch
+dp									DP
+dd									DD
+ld									LD
+unld								UN<br>LD	
+chargeweight                     Ch<br>W

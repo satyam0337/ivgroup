@@ -1,0 +1,14 @@
+{
+	"elementId":"dateEle",
+	"elementGlyphicon":"glyphicon glyphicon-calendar",
+	"elementName":"dateEle",
+	"elementType":"text",
+	"tooltipName": "Date",
+	"labelId":"date",
+	"dataDtoKey":"actualArrivalDateTimeStr",
+	"divRegion":"dateRegion",
+	"elementConfigKey":"Date",
+	"columnPrintWidthInPercentage":"13",
+	"columnWidth":80,
+	"columnMinWidth":60
+}

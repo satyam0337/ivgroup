@@ -1,0 +1,11 @@
+{
+	"elementId"				: "remark",
+	"elementName"			: "remark",
+	"elementGlyphicon"		: "glyphicon glyphicon-none",
+	"elementType"			: "text",
+	"tooltipName"			: "Remark",
+	"elementValueMaxLength"	: 250,
+    "parentDivCss"			: "col-xs-10",
+    "elementStyle"			: "width: auto; height: 40px;",
+	"labelId"				: "remarkSelect"
+}

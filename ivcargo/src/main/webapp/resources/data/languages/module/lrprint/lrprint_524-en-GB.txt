@@ -1,0 +1,118 @@
+invoiceNumber				INVOICE NO. 
+declaredValue				GOODS VALUE 
+deliveryTo					DELIVERY AT :
+sourceBranch				FROM : 
+destinationBranch			TO : 
+lrType						FREIGHT BY
+lrnumber					LR No. 
+bookingDate					Date :
+consignmentQuantity			Qty
+description				    SAID TO CONTAIN
+consignmentSaidToContain  	Said To contain
+actualWeight			  	WEIGHT
+chargeWeight			  	CWEIGHT
+serviceTaxPaidBy			GST Paid By
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					NET AMOUNT
+consignorname				CONSIGNOR : 
+consigneename				CONSIGNEE :
+at							AT
+printedby					Printed By : 
+freight						FREIGHT
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					OF
+remark						Remark : 
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						RATE 
+insuredby					Insured By : 
+deliveryType				DELIVERY TYPE : 
+mobileno					MOB : 
+tinno						TIN NO. : 
+billingParty				BILLING PARTY : 
+forCompanyName				For, AAKASH ROADWAYS
+freight						FREIGHT
+bc							B.C.
+pf							P/F
+lc							L/C
+dd							D/D
+accountheader				SRI SAMBASIVA CARGO CARRIERS
+accountheader1				DOOR NO.15-6/132, JAMES GARDEN, NEAR VIJAYAMAHAL CENTER, NELLORE-524001, A.P.
+Ph                          Ph:	
+info						BOOKED AT OWNER RISK
+discount					Discount (-)		
+signature					Receiver Signature	
+printedDateTime				Printed On	
+phone						PHONE:
+total						TOTAL
+executiveSign				Signature of Clerk/Agent
+gstn						GSTN : 
+type						LR Type 
+lrcharge                    LR CHARGE
+art.charges                 ART. CHARGES
+surcharge                   SURCHARGE
+withpass                    WITHPASS
+luc                         LUC
+delivery                 	Dly :
+address                     Address :
+source                      SOURCE 
+destination                 DESTINATION
+paymentMode                 PAYMENT MODE  
+valueOfGoods                VALUE OF GOODS
+eWayBill                    E WAY BILL
+noOfPkg                     NO OF PKG
+weight                      WEIGHT
+cWeight                     C WEIGHT
+baleNo                      BALE NO
+notification                NOTIFICATION 
+service                     SERVICE
+date                        DATE
+chargeName                  CHARGE NAME
+amount                      AMOUNT
+freightCharge               FREIGHT CHARGE
+docketCharge                DOCKET CHARGE
+otherChagre                 OTHER CHARGE
+igst                        IGST
+cgst                        CGST
+sgst                        SGST
+total                       TOTAL
+forVlgLogistics             FOR : VLJ LOGISTICS  
+number                      NUMBER:
+remark                      Remark
+
+
+lrnumberW				C.No. : 
+dateW					Date : 
+lrSourceW				Origin
+lrDestinationW			Destination 
+consignorNameW			Consignor 
+consigneeNameW			Consignee 
+phoneW					Phone : 
+lrTypeW					Payment Type : 
+declaredValueW			Value of the Parcel : 
+NoOfPkgsW				Pkg 
+freightW				Freight : 
+loadingW				Loading : 
+grandTotalW				Total : 
+bookedbyW				Booked By : 
+printDateW				Print Date : 
+signW					Sign : 
+deliverAtW				Delivery At : 
+gstNoW					GSTN:
+eWayBillNoW				E-WayBill :
+invocieNoW              Invoice Number
+remarkW                 Remark :
+weightW					Weight
+totalW					Total
+	    

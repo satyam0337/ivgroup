@@ -1,0 +1,25 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To Branch : 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire : 
+consignerName					Consignor
+consigneeName					Consignee
+wayBillTypeName					LRType
+paid							PAID
+toPay							TOPAY
+tbb								BILLED
+lrDestination					Station

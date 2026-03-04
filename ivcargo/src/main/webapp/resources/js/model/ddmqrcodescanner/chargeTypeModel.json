@@ -1,0 +1,10 @@
+ {
+	"labelId":"charge",
+	"elementConfigKey":"charge",
+	"dataDtoKey":"chargeValue",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"dataType":"input",
+	"buttonCss":"inputElementForSlick form-control"
+}

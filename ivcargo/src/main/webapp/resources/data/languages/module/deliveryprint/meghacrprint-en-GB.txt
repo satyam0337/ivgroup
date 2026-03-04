@@ -1,0 +1,38 @@
+dm						    DM :
+date						Date :
+consignorName1				consignorName
+source						From :
+destination					To :
+branch						Branch :
+consignee					Consignee :
+bookingDate					Bkg.<br/>Date
+lrNo						Lr. No. :
+totalAmount					Total<br/>Amt
+totalArticles				No. of Articles
+freightTotal			    Freight Charge
+articlesDetails				Packing
+total						Total 
+remark						Remarks
+user						User :
+printTime					Print Time:
+consinorCopy				Consinor Copy
+consineeCopy				Consinee Copy
+discount					Discount
+gst							GST
+contact						Contact :
+vehicleNo					Tempo No. :
+cNumber						C/N No. :
+recieverName 				Receiver Name :
+lrType						Payment Mode :
+mrNo						MR No. :
+date						Date :
+bookingDate					Booking Date :
+weight						Weight 
+rate						Rate
+description					DESCRIPTION
+amount						AMOUNT
+modeOfDelivery				Mode Of Delivery
+recievedsign                Received Sign With Stamp
+info						For MEGHA PARCEL LLP
+recieverNumber				Receiver No. :
+invoiceNumber				Invoice No. : 

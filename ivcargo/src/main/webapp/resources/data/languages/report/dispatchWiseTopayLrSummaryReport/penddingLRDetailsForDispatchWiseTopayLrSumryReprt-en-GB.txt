@@ -1,0 +1,21 @@
+header 					DispatchWise ToPayLR Summary Report
+date					Date
+region					Region
+subRegion				Sub Region
+branch					Branch
+toatalToPay				TotalToPay
+cash					Cash
+cashLess				CashLess
+shortCredit				ShortCredit
+Weight					Weight	
+pendingAmnt				PendingAmnt
+search					Search
+dataType				DataType
+branchName				BranchName
+totalToPay				TotalToPay
+cash					Cash
+cashLess				CashLess
+shortCredit				ShortCredit
+pendingAmnt				PendingAmount
+lrNumber				LRNo
+lrStatus				LRStatus

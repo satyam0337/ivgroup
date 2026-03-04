@@ -1,0 +1,44 @@
+seperator			OF
+invoiceNumber		Invoice No. : 
+weight				Weight
+actualWeight		Actual
+chargeWeight		Charge
+declaredValue		Value
+vehicleNo			Truck No.
+freight				Freight
+hamali				Hamali
+lrCharge			L.R. Chgs.
+collection			Collection
+doordly				Door Dly.
+detention			Detention
+others				Others
+crossinghire		CRS. Hire*
+serviceTax			GST
+grandTotal			TOTAL
+article				Article
+description			Description
+totalArticle		Total-
+deliveryat			DELIVERY AT :
+remark				Remark : 
+forLabel			For: Jayram Transport Corp.
+marathimsg			डोअर डिलिव्हरी व क्रॉसींग मालाबाबत काही तक्रार असल्यास ७ दिवसांचे आत तक्रार करावी त्यानंतर केलेली तक्रार विचारात घेतली जाणार नाही
+consignor			Consignor:
+consignee			Consignee:
+charges				Charges
+servicetaxNumber	GST NO. : 
+signNstamp			SIGN & STAMP:
+msg1				TRANSIT INSURANCE NECESSARY BY THE OWNER OF GOODS. OWNER'S RISK - WE ARE NOT RESPONSIBLE
+msg2				FOR LEAKAGE & BREAKAGE , PTO for more T&C, E&OE
+lrlabel				G.C.No.
+datelabel			Date:
+lrSource			From:
+lrDestination		To:
+lrFreightUpto		Frt. Upto:
+kg					Kg.
+gstno				GSTN : 
+lrDetails			LR Details
+podRequied			POD Req.
+bookingType			Bkg.Type
+eWayBillNo			E-WayBill No.
+ewaybillid			E-WayBill Id-27AAKFJ1001C2Z1
+gstpaidby           GST Payable By:

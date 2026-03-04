@@ -1,0 +1,36 @@
+mobileno                     Mobile No:
+gstn                         GSTN:
+luggageRceeipt               LUGGAGE RECEIPT 
+lrNo                         LR No.
+date                         DATE
+deliveryType                 DELIVERY TYPE
+origin                       ORIGIN
+destination                  DESTINATION
+payment                      PAYMENT
+copyFor                      COPY FOR
+consignor                    CONSIGNOR
+consignee                    CONSIGNEE 
+gst                          GST:
+pan                          PAN:
+invoiceNo                    INVOICE NO:
+value                        VALUE:
+eWayBillNo                   E-WAY BILL NO:
+privateMark                  PRIVATE MARK:
+remarks                      REMARKS:   
+subTotal                     SUB TOTAL
+cgst                         CGST 0.0%
+sgst                         SGST 0.0%
+item                         ITEM
+pkgType                      PKG TYPE
+nwt                          N.WT
+gwt                          G.WT
+rate                         RATE
+type                         TYPE
+amount                       AMOUNT
+quantity                     Quantity   
+total                        Total
+otherCharges                 OTHER CHARGES
+insurance                    Insurance 
+qty                          Qty
+grandTotal                   Grand Total
+transporter                  TRANSPORTER	

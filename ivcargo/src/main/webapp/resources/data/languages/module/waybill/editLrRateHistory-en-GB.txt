@@ -1,0 +1,14 @@
+header 						LR Rate History
+creationDate				Date-Time
+wayBillNumber				LR No 
+chargeName					Charge       
+chargeValue					Charge Amt     
+previousChargeValue			Prev.Charge Amt  
+taxAmount					GST       
+previousTaxAmount			Prev.GST
+bookingTotal				Booking Total    
+previousBookingTotal		Prev.Booking Total
+grandTotal					Grand Total
+previousGrandTotal			Prev.Grand Total
+executiveName				Executive
+moduleName					Module Name

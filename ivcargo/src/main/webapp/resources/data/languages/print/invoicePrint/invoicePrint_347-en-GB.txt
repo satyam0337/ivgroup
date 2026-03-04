@@ -1,0 +1,50 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch :  
+toBranchLabel					To Branch : 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							Sr<br>No 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							DATE 	
+lrNo							LR No
+bookingStation					Booking<br>Station
+consignee						CONSIGNEE
+consignor						CONSIGNOR
+particulars						DESCRIPTION
+qty								PKGS
+aoc								A.O.C
+freight							FRT.
+total							TOTAL
+gst5							GST 5%
+note							Note
+LrMt						    L.RAMT.
+lod								LOD.
+companyName					    FOR PRABHAT ROADWAYS
+authoritySignature				Authority Signature	
+name							Name :
+address							Address :
+inv.No.							Inv.No.
+inv.Date.				        Inv.Date.
+lrCharge						LR.
+cgst						CGST
+sgst						SGST
+igst						IGST

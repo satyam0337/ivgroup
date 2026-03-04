@@ -1,0 +1,44 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery To :
+sourceBranch				From : 
+destinationBranch			To :
+lrType						LR Type :
+lrnumber					LR No. :
+bookingDate					Date :
+consignmentQuantity			Qty
+description				  	Article Details
+consignmentSaidToContain  	Said To contain
+actualWeight			  	Actual Weight :
+chargeWeight			  	Charge Weight :
+serviceTaxPaidBy			S.Tax Paid By :
+rupee						&#x20B9
+serviceTax					S.Tax
+grandTotal					TOTAL : 
+consignorname				From : 
+consigneename				To :
+at							AT
+printedby					Printed By : 
+freight						Freight :
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery :
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					Of
+remark						Remark :
+privateMark					Pvt Mark
+loading						Loading :
+receipt						Receipt
+collection					Collection
+bookingDateTime				Bkd on:
+NoOfPkgs					No. of Pkgs :
+unloading					Unloading :
+receiverphone				Receiver No :
+customercopy				Customer Copy
+consignorgstn				C/nor:
+consigneegstn				C/nee:
+gstNumber					GSTN:

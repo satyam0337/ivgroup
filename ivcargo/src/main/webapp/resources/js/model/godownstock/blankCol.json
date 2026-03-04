@@ -1,0 +1,12 @@
+ {
+	"elementId":"blankColEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"blankColEle",
+	"elementType":"text",
+	"labelId":"blankCol",
+	"elementDefaultValue":"",
+	"dataDtoKey":"",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":800,
+	"columnMinWidth":800
+}

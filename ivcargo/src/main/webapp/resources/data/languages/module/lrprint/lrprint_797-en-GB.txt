@@ -1,0 +1,66 @@
+consignmentNote					CONSIGNMENT NOTE
+lrno							LR. No.:
+date							Date :
+consignmentDetails             CONSIGNMENT DETAILS
+invNo							Invoice No.
+invDate							Invoice Date
+invValue						Invoice Value
+partNo							Part No. 
+qty								Quantity
+modvat						    Modvat Copy
+freightDetails					FREIGHT DETAILS
+freight							Freight
+docket							Docket Charges
+handling						Handling Charges
+hamali							Hamali
+fov								F.O.V.
+dc								Door Collection
+dd								Door Delivery
+oth								Other Charges
+cgst							CGST @ &nbsp; %
+sgst							SGST @ &nbsp; %
+igst							IGST @ &nbsp; %
+totalrs							TOTAL Rs.
+forArbLogistic					FOR- A.R.B. LOGISTICS
+authSign						Authorised Signature
+contactNo						Contact No.
+email							Email : 
+transportId					    Transport ID : 
+consigneeCopy					CONSIGNEE COPY
+consignorCopy					CONSIGNOR COPY
+podCopy							POD COPY
+consignorDetails				Consignor Details
+consigneeDetails				Consignee Details
+name							Name : 
+address							Address : 
+gst								GST No.:  
+mob								Mobile No.: 
+from 							FROM : 
+to								TO : 
+noOfPackages					No. of<br>Packages
+typeOfPackages					Type of<br>Packages
+actWt							Actual<br>Weight
+chrgWt							Charged<br>Weight
+dimension						Dimension
+l								L
+w								W
+h								H
+cft								CFT
+paymentTerm     				PAYMENT TERMS
+topay							To Pay
+paid							Paid
+tbb								TBB
+freightMode						FREIGHT MODE
+billingStation					Billing Party Name
+dispatchMode                    DISPATCH MODE
+train							Train
+byAir							By Air
+express							Express
+road							Road
+ftl								FTL
+acknowledge						Acknowledgment
+aknowledgeBelowline				Received Above Consignment <br> in Good Order Condition.
+signWithSeal					Signature With Seal
+remark							REARKS / SPECIAL INSTRUCTIONS : 
+ewaybill						E-way Bills No.:
+

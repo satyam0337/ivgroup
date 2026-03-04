@@ -1,0 +1,20 @@
+bookingTotal						Booking Charges 
+bookingType							LR Type
+discount							Discount
+grandTotal							Total
+lrNo								LR No. 
+crSource							From 
+crDestination						To 
+consigneeName						Consignee
+deliveryTo							Delivered To
+quantity							No.of Pkgs
+consignorName						Delivered By
+deliveryTime						Dly on
+bookingDate							Booking Date
+printTime							Print Time
+printedBy							Printed By
+deliveredBy							Delivered By
+unloading							Unloading
+doorDelivery						Door Delivery
+demurrage							Demurrage
+deliveredto							Delivered To

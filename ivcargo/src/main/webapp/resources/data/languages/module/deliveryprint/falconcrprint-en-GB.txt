@@ -1,0 +1,36 @@
+lrNo					LR No :
+lrType					LR Type :
+deliveryTime			Delivery Time :
+sourceBranch			From :
+destBranch				To :
+consignor				Consignor :
+consignee				Consignee :
+consignorGstn			GSTN :
+consigneeGstn			GSTN :
+consignorNo				Consignor No :
+consigneeNo				Consignee No :
+noOfConsignments		No.OfCongs :
+noOfPackages			No.of Pkgs :
+gstn					GSTN :
+gst						GST :
+natureOfPackage			Nature Of Pkg :
+freight					Freight :
+discount				Disc :
+sgst					SGST :
+cgst					CGST :
+igst					IGST :
+total					Total
+deliveredBy			 	Delivered By :
+printedBy				Printed By :
+printTime				Print Time:
+deliverTo				Delivered To:
+deliveredToNo			Delivered To Number:
+articleType				Nature Of Pkg:	
+octroi					Octroi:
+unloading				Unloading:
+demurrage				Demurrage:
+bookingAmt				Booking Amt:
+deliveryAmt				Delivery Amt:
+deliveryDiscount		DeliveryDisc:
+total					Total:	
+info2					If anybody asks service charge more than 20 Rs per parcel, please contact 022 28919944.		

@@ -1,0 +1,97 @@
+lrnumber			L.R.No : 
+datelabel			Date : 
+truckno				Truck No : 
+info1				AT OWNER'S RISK INSURANCE
+lrSource			From : 
+lrDestination		To : 
+head1				The Customer has stated that : 
+head2				-He has not insured the Consignment OR
+head3				-He has insured the Consignment
+head4				Company_______________
+head5				Policy No.________  Date:________
+head6				Amount:________  Risk:________
+taxpaidby			GST Tax To Be Paid By
+consignor			Consignor's Name & Address M/s : 
+consignee			Consignee's Name & Address M/s : 
+noofpack			No. Of<br>Packages
+desc				Description Of Goods Said To Contain
+rate				Rate
+tobebill			To Be Billed
+freight				Freight
+handling			Handling Charges
+dd					Door Delivery
+stcharge			St.Charge
+total				Total
+grandtotal			Grand Total
+actwght				Actual Weight<br>Qt./Kgs.
+wghtchg				Weight<br>Charged
+declaredvalue		Declared Value : 
+line1				Note : Not responsible for Breakage, Leakage & Damage
+line2				Goods booked entirely at owners risk
+line3				For SEABIRD EXPRESS CARGO 
+invoiceNumber				INVOICE NO. 
+declaredValue				GOODS VALUE 
+deliveryTo					DELIVERY AT :
+sourceBranch				FROM : 
+destinationBranch			TO : 
+lrType						FREIGHT BY
+lrnumber					LR No. 
+bookingDate					Date :
+consignmentQuantity			Qty
+description				  	Description Of Goods(Said To contain)
+consignmentSaidToContain  	Said To contain
+actualWeight			  	ACTUAL WEIGHT
+chargeWeight			  	CHARGED WEIGHT
+serviceTaxPaidBy			GST Paid By
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					Net Amount
+consignorname				CONSIGNOR : 
+consigneename				CONSIGNEE :
+at							AT
+printedby					Printed By : 
+freight						FREIGHT
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					OF
+remark						Remark : 
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						RATE 
+insuredby					Insured By : 
+deliveryType				DELIVERY TYPE : 
+mobileno					MOB : 
+tinno						TIN NO. : 
+billingParty				BILLING PARTY : 
+forCompanyName				For, AAKASH ROADWAYS
+freight						FREIGHT
+bc							B.C.
+pf							P/F
+lc							L/C
+dd							D/D
+accountheader				GOWTHAM CARGO
+accountheader2				DAILY PARCEL SERVICE
+subLineInfo                 Division Of Seabird Tourists Center 
+accountheader1				Dr.No:47-9-1,DWARAKA NAGAR, 3RD LANE, NEAR DIAMOND PARK, VISAKHAPATNAM-16
+accountheader3				Regd. No.: AGYPV 2687 CSD001
+accountheader4				Ph : 0891-2521799, Cell 7799955025
+info						BOOKED AT OWNER RISK
+discount					Discount (-)		
+signature					Receiver Signature	
+printedDateTime				Printed On	
+phone						Phone
+total						Total
+executiveSign				Booked By
+gstn						GSTN : 
+info1						"Door delivery service will be provided for Ground floor only".
+info2						"NO INSURANCE OPTED CLAIMS WILL NOT BE ENTERTAINED".
+type						LR Type :

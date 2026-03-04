@@ -1,0 +1,19 @@
+header 						<b>Consolidated BLHPV</b>
+subHeader					<b>Details</b>
+lhpvNumberLabel				LHPV Number
+find						Find
+lrNumberLabel				BLHPV Number
+generateConsolidatedBLHPV  	Save
+header1						<b>LHPV Details</b>
+searchType					Search Type
+vehicleNumberLabel			Vehicle Number
+dateLabel					Date
+vehicleAgentLabel			Vehicle Agent
+paymentType					Payment Type
+save						Save
+agentVehicleLabel			Agent Vehicle Number
+totalBalanceAmount			Total Balance
+totalRefundAmount			Total Refund
+remark						Remark
+paymentmadeto				Payment Made To
+manualDate					Manual Date

@@ -1,0 +1,13 @@
+srNo					Sr. No.
+area					Area :
+voucherNo				Voucher No :
+voucherDate				Voucher Date :
+remark					remark
+incomeName				Income Name
+amount					Amount
+total					Total
+preparedBy				Prepared By :
+checkedBy				Checked By :
+passedBy				Passed By :
+stamp					Revenue Stamp Signature
+

@@ -1,0 +1,29 @@
+lrnumber				LR No : 
+date					Booking Date : 
+lrSource				From : 
+lrDestination			To : 
+organization            Org :
+destination          	Dest :
+consignorName			Sender : 
+consigneeName			Receiver : 
+phone					Phone : 
+lrType					LR Type : 
+declaredValue			Value of the Parcel : 
+NoOfPkgs				No. of Pkgs : 
+freight					Freight : 
+loading					Loading : 
+grandTotal				Total : 
+bookedby				Booked By :
+printedby				Printed By : 
+printDate				Print Date : 
+sign					Sign : 
+deliverAt				Delivery At : 
+deliveryTime			Delivery Time :
+deliveryTiming          9 AM to 5 PM
+gstNo					GSTN:
+eWayBillNo				E-WayBill :
+branchGstn				Branch Gstn :
+time					Bkg Time :
+hamali                  Hamali :
+consingerNumber         Sender No :
+consingeeNumber         Receiver No :

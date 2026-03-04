@@ -1,0 +1,55 @@
+-----------------SCM delivery print---------------
+branch						Branch
+IssuingOffice				Issuing Office
+CRNo						CR No
+Date						Date :
+LRNO						LR No.
+LRDate						LR Date
+FromCity					From City
+LRType						LR Type
+Consignee					Consignee
+DeliveredTo					Delivered To
+cmpNo						Phone No
+gst							GST No
+Remark						Remark
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				No. of Articles :
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmountkcm					Lr. Amount
+crCharge					Cr Charge
+station						Station :
+ShortName					M/s :
+dated						Dated :
+to							To :
+rupees						Rupees :
+Payment						Cash/Cheque :
+ArriveDate					Date of Arrival :
+freight						Freight
+loading						Loading
+unloading					Unloading
+ins.						Ins.
+serviceCh					ServiceCh.
+stch						St.Ch
+total						TOTAL
+header						MONEY RECEIPT
+dataInfo1					Kerala Cargo Movers
+dataInfo2					Head Office:B-122,DDUTTL,Industrial Suburb,Yeshwanthpur,
+dataInfo3					Bangalore-560 022 Ph:41136998/40924998		
+dataInfo4					E-mail:info@keralacargo.com Web:www.keralacargo.com

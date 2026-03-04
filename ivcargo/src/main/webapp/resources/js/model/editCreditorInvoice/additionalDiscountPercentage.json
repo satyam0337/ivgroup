@@ -1,0 +1,10 @@
+{
+	"elementId"				: "additionalDiscountPercentage",
+	"elementName"			: "additionalDiscountPercentage",
+	"elementGlyphicon"		: "glyphicon glyphicon-none",
+	"elementType"			: "checkbox",
+	"tooltipName"			: "Percentage",
+	"parentDivCss"			: "col-md-6",
+	"elementStyle" 			: "width: 120px;"
+}
+

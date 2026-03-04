@@ -1,0 +1,32 @@
+srNumberLabel					#
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+lrTypeLabel						LR Type
+quantityLabel					Art
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				GDM No. : 
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+totalArticleLabel				Article
+totalFreightLabel				Freight
+totalAmountLabel				Amount
+driverNameLabel					Driver:
+preparedByLabel					Prepared By:
+dateTimeLabel					Date:
+lrDestinationBranchLabel		Destination
+lsRemarkLabel					Remark :
+lsHead							GOODS DISPATCH MEMO
+bkgDateLabel					Bkg. Date
+info							For KNS logistics.(R.)
+lrCategoryLabel					LR Type
+AmountLabel						Total
+summaryAmountLabel				Amount
+FocFreightChargeLabel			FOC
+ceWayNoLabel					CEWayNo :

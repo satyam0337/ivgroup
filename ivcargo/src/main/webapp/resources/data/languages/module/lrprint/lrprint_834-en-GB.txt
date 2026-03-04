@@ -1,0 +1,49 @@
+addressLabel					(Head Off.) KOLKATA :
+mobLabel						Mob. :
+phLabel							Ph. :
+emailLabel						E-mail : 
+gstinLabel						GSTIN :
+doorDelivery					Door Delivery
+godownDelivery					Godown Delivery 
+consignor						Consignor
+consignee						Consignee
+consignmentNoteNo				Consignment Note No.
+dateLabel						Date :
+from							From
+to								To
+seperator						of
+noOfPkg							No. of<br/>Pkg.
+descriptionOfGoods				Description of Goods<br/>said to contain
+actualWeight					Sender's<br/>Weight Kg.
+chargedWeight					Charged<br/>Weight Kg.
+declaredValueRs					DECLARED VALUE RS.
+ownersRisk						OWNER'S RISK 
+deliveryAt						DELIVERY AT : 
+privateMarka					PRIVATE MARKA / SIZE
+transportation					TRANSPORTATION
+sacNo							SAC No.
+modeOfPayment					MODE OF PAYMENT
+road							ROAD
+paid							PAID
+toPay							TO PAY
+tbb								TBB
+invoiceNo						Invoice No.
+dt								DT
+invoiceAmt						Invoice Amt
+ratePerKg						Rate per<br/>Kg.
+freightRs						Freight<br/>Rs.
+localCharge						Local Charge
+doorDelivery					Door Delivery
+labourCharges					Labour Charges
+parking							Parking
+totalCharge						Total Charge
+grTotal							Gr. Total
+ewaybillNo						e-Way Bill No. :
+collection                      Collection
+builtyCharge                    Builty Charge
+extraFreight                    Extra Freight
+delhiCollection                 Delhi Collection
+discount                        Discount
+
+
+

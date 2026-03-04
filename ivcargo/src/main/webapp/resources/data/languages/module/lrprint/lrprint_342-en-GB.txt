@@ -1,0 +1,65 @@
+invoiceNumber				Inv.No :
+declaredValue				Dec.Value:
+deliveryAt					Delivery At :
+sourceBranch				From :
+destinationBranch			To :
+bookingDate					Date :
+actualWeight			  	Act. Wt
+chargedWeight			  	Charged Wt
+consignorname				Consignor :
+consigneename				Consignee :
+remark						Remark :
+other						Other
+grandTotal					Total
+freight						FREIGHT 	
+hamali						HAMALI 	
+lrCharge					BILTY
+other						Other 
+lateNight					Late Night 	
+waiting						Waiting 	 	
+printedby					Printed By : 
+seperator					Of 
+serviceTaxPaidBy			GST Paid By :
+mobilenumber				Mobile :
+consignmentQuantity			Qty.
+description					Description
+gstNo						GST No. :
+consigneeAddr				Address:
+consignorAddr				Address:
+lrNumber					LR.No : 
+destAddr					Dest.Address:
+total						Total
+amount:						Amount :
+sgst						SGST
+cgst						CGST
+igst						IGST
+totalQty					Tot.
+address						Address :
+amount						Amount
+lrType						Type :
+noofpackage 				NO.OF<br>PKGS.
+description					NAME OF GOODS
+weight						WEIGHT KGS.
+charges						CHARGES
+rs							RS.
+ponumber					P.O.NO.
+challanno					CHALLAN NO.
+bilty						BILTY
+aoc							A.O.C.
+collection      			COLLECTION
+servicetax					S.Tax
+doordly						DOOR DLY
+paymentMode					PaymentMode:
+transporter					Transporter:
+sgstprcnt					SGST %
+cgstprcnt					CGST %
+igstprcnt					IGST %
+amt							AMT
+regardingcompany			For DASHMESH ROADLINES
+instruction1				DELIVERY COPY AT OWNER'S RISK
+instruction2				SUBJECT TO MUMBAI JURISDICTION
+instruction3				GOODS SUPPLIED AS PER TERMS OVERLEAF
+name						Name :
+time						Time :
+bookingBranchNo				Booking Branch Contact Number:
+deliveryBranchNo			Delivery Branch Contact Number:

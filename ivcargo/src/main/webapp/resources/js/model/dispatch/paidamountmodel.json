@@ -1,0 +1,9 @@
+ {
+	"labelId":"paidAmount",
+	"dataDtoKey":"paidAmount",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":true,
+	"elementConfigKey":"PaidAmount",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+}

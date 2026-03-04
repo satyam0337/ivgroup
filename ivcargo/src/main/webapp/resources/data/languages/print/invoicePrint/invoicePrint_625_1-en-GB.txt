@@ -1,0 +1,105 @@
+branchPhoneNumberLabel			Ph :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				Source 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					Destination 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							SNo 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							Date : 	
+lrNo							LR Number
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+total							Amount
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GST NO -
+invoiceno						Invoice No.
+bookingdate						LR Booking<br>Date
+particulars						Particulars
+articles						Articles
+weightLabel						Weight<br>Kgs
+cinNo							Cin No:
+taxInvoice						Tax Invoice
+controllingCode					Controlling Code :
+branchCode						Branch Code :
+branchGstin						Branch GSTIN :
+invoiceNo						Invoice No:
+invoiceDate						Invoice Date :
+billType						Bill Type:
+gstCharged						GST Charged :
+dwbNum							DWB<br>Number
+dwbDate							DWB<br>Date
+consigneeName					Consignee<br>Name
+pickupLocation					Pickup<br>Location
+deliveryLocation				Delivery<br>Location
+invNum							Invoice<br>Number
+totalPkgs						Total<br>Pkgs
+chargedWeight					Charged<br>Weight
+freightRate						Freight<br>Rate
+freight							Basic<br>Freight
+fuelAmt							Fuel<br>Amt
+DWBAmt							DWB<br>Amt
+fovAmt							Fov<br>Amt
+handlingAmt						Handling<br>Amt
+codAmt							COD<br>Amt
+pickupAmt						Pickup<br>Amt
+doorDly							Door<br>Dly
+unloadingAmt					Unload<br>Amt
+totalAmt						Total<br>Amt
+rfqNo							RFQ NO
+shipmentNo						SHIPMENT NO
+vehicleNo						VEHICLE NO.
+grossWt							GROSS WEIGHT
+rate							RATE/MT
+freightAmt						FREIGHT AMT
+deduction						DEDUCTION
+from							FROM
+to								TO
+pkg								PKG
+lrDate							LR Date
+fromStation							From Station
+toStation								To Station
+qtyInBox						Qty in /box.
+vehicleType						Vehicle Type
+totalAmount						Total Amount
+invNO							Invoice No
+subTotal						Sub Total
+cgst							Cgst
+igst							Igst
+sgst							Sgst
+grossAmt					Gross Amount							
+taxAmt						Taxable Amount
+
+
+
+
+
+

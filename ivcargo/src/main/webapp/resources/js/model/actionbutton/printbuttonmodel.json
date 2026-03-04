@@ -1,0 +1,8 @@
+{
+	"buttonName":"printBtn",
+	"buttonId":"printBtn",
+	"buttonClass":"btn btn-primary",
+	"tooltipName":"Print",
+	"buttonSpanId":"printLabel",
+	"glyphiconClass":"glyphicon glyphicon-print"
+}

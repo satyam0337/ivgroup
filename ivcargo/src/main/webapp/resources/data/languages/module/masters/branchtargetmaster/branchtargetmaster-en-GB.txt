@@ -1,0 +1,20 @@
+header						Branch Target Master
+amount						Booking Total :
+chgWeight					Charge Weigth :
+actWeigth					Actual Weigth :
+save						Save
+lRtype						Lr Type :
+actualWeight				Actual Weight
+chargedWeight				Charged Weight
+bookingTotal				Booking Total
+waybillType					LR Type
+fromDateString				From Year
+toDateString				To Year
+createdBy					CreatedBy
+createdDateString			CreatedDate
+sourceBranch				Branch
+delete						Delete
+subHeader					Branch Target Details
+deleteheader				Delete
+deactivate					Delete
+View						View All Target

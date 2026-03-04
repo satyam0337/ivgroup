@@ -1,0 +1,42 @@
+consignorname		CONSIGNOR NAME :
+gstnlabel			GSTN :
+consigneename		CONSIGNEE NAME :
+qty					QTY
+articledetails		Article Details
+actwgt				Actual Weight
+chrgwgt				Charged Weight 
+invno				Invoice No
+decval				Declared Value
+delto				Delivery To
+risk				Risk
+podrq				POD Required
+remarks				Remarks :
+delat				Delivery At :
+stampandsgn			Stamp and Signature.
+date				DATE :
+lrnum				G.C. NOTE NO. :
+src					Source :
+time				TIME :
+dest				Destination :
+chrges				Charges
+amt					Amount
+paymode				Payment Mode
+gstpayby			GST Payable By
+freight				Freight
+cnCharge			C.N.Charge
+loading				Loading
+unloading			Unloading
+halting				Halting
+other				Other
+octroi				Octroi
+doorcollection      Door Collection
+doordelivery		Door Delivery
+subtotal			Total
+cgst				C.GST
+gst					GST
+igst				I.GST
+netamt				Grand Total
+notice   			Notice : 1.Booked at owner's risk. / Subject to Bangalore Jurisdiction.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.We are not responsible for any leakage and brokage, delivery against payment.
+authsign			Authorized Signature
+address				ADDRESS :
+total				TOTAL :

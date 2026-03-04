@@ -1,0 +1,12 @@
+ {
+	"labelId"					:	"netLoading",
+	"dataDtoKey"				:	"netLoading",
+	"columnDisplayCssClass"					:	"column-data-left-align",
+	"displayColumnTotal"			:	"false",
+	"elementConfigKey"			:	"NetLoading",
+	"columnPrintWidthInPercentage"	:	"10",
+	"columnWidth"				:	100,
+	"dataType"					:	"input",
+	"buttonCss"					:	"form-control netLoading hide",
+	"maxLength"					:	"5"
+}

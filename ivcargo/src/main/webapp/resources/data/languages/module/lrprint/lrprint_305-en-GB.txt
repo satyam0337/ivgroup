@@ -1,0 +1,25 @@
+deliberyBranch				DELIVERY BRANCH :
+destination					DESTINATION
+lrType						Type
+bookingDate					Date : 
+actualWeight			  	ACTUAL<br>WEIGHT(KGS)
+chargedWeight			  	CHARGE<br>WEIGHT(KGS)
+lrNumber					WAY BILL<br>NO : 
+consignorname				CONSIGNOR (FROM) :
+consigneename				CONSIGNEE (TO) :
+declaredValue				GOODS VALUE 
+grandTotal					TOTAL AMOUNT 
+number						Ph : 
+consignmentQuantity			NO OF PARCEL
+description					DESCRIPTION	
+gstNo						GST No :
+cgstSgst					CGST + SGST 
+privateMark					PRIVATE MARK :
+partyBillNo					PARTY BILL NO
+amountInWord				AMOUNT IN WORDS	
+methodsOfPck				METHOD OF PACKING
+total 						Total
+transportarId               Transportar ID :
+mobileNo					Mobile No :
+
+

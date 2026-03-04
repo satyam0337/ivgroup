@@ -1,0 +1,9 @@
+{
+	"elementId"			: "collectionPersonName",
+	"elementName"		: "collectionPersonName",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "Collection Person Name",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: auto"
+}

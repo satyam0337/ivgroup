@@ -1,0 +1,7 @@
+ {
+	"elementId"				:	"agentDestinationAreaEle",
+	"elementGlyphicon"		:	"glyphicon glyphicon-th",
+	"elementName"			:	"agentDestinationAreaEle",
+	"elementType"			:	"hidden",
+	"elementDefaultValue"	:	""
+}

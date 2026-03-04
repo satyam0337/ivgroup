@@ -1,0 +1,8 @@
+serialnumberheader				SR.no.
+waybillNumber					LR No
+waybillTypeName					LR Type
+sourceBranchName				From
+destinationBranchName			To
+quantity						Quantity
+consignee						Consignee
+totalfrght						Total Freight

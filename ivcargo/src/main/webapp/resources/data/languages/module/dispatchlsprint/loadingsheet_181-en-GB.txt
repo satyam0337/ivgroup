@@ -1,0 +1,90 @@
+srNumberLabel					Sr No
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art. Detail
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						Grand Total
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone Number:
+dispatchNumberLabel				Dispatch No :
+vehicleNumberLabel				Vehicle No :
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				Nag
+totalFreightLabel				Frgt
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amt
+driverNameLabel					Driver Name:
+preparedByLabel					Memo Prepared By:
+checkedByLabel					Memo Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date & Time:
+cleanerNameLabel				Cleaner Name:
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		Dest. Branch
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						NO.OF PKGS.
+gst								GST no.
+saidToContain					CONTAINS
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WEIGHT
+destination                     Destination 
+reciver                         Reciever
+qty                             Qty
+handlng                         Hndlng
+doorDelivery                    DrDlvry
+doorPickup                      DrPkp
+unloadingCharge                 unldg         
+lrChrg                          LrChrg
+destination                     Destination                      
+reciever                        reciever
+lrType        					LR Type
+qty                             Qty
+freight                         Frgt
+handlig                         Hndlng
+doorDelivery                    DrDlvry
+doorPickup                      DrPkp
+actualWght                     ActWt
+chargeWght                     ChrWt
+unchg                           Unchg
+lrcharge                        LRChrge
+total                           Total
+category                        Category
+doorDelivery                    DrDelivery
+doorPickup                      DrPickup
+nag                             NAG
+unloading                       Unloading
+discount                        Discount
+amount                          AMT
+handling                        Handling  
+lrCharge                        LrCharge
+actualWeight                    ActWt
+chargedWeight                   ChrWt                          
+doorDlivry                      DrDlvry
+doorPkp                         DrPkp
+totalPaidHamaliLabel			Paid Hamali

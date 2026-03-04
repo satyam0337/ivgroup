@@ -1,0 +1,63 @@
+<!-- Modal content -->
+	<div class="modal-content">
+	  <div class="modal-header">
+	    <span id="chequeSpan" class="close">&times;</span>
+	    <h2>Cheque Details/Txn Details</h2>
+	  </div>
+	  <div class="modal-body">
+	  	<div class="row" id="chequeDateRow">
+	  		<div class="col-xs-12">
+				<label class="col-xs-4">Cheque Date/Txn Date</label>
+				<div class="col-xs-8 validation-message">
+					<div class="left-inner-addon col-xs-12">
+						<input class="form-control" type="text" name="chequedatepicker" data-tooltip="Select Cheque/Txn Date" id="chequedatepicker"/>
+					</div> 
+				</div>
+			</div>
+	  	</div>
+	  	<div class="row" style="padding-top : 10px;">
+			<div class="col-xs-12">
+				<label class="col-xs-4">Amount</label>
+				<div class="col-xs-8 validation-message">
+					<div class="left-inner-addon col-xs-12">
+						<input class="form-control" type="text" name="chequeAmount" data-tooltip="Amount" onkeypress="return noNumbers(event);" onkeydown="resetError(this); removeError('amount');" onblur="validateReceiveAmount(this);if(this.value=='0')this.value='';clearIfNotNumeric(this,0);" onkeyup="validateReceiveAmount(this);if(this.value=='0')this.value='';"
+							onfocus="if(this.value=='0')this.value='';" placeholder="Amount" id="chequeAmount"/>
+					</div> 
+				</div>
+			</div>
+	  	</div>
+	  	<div class="row" style="padding-top : 10px;">
+			<div class="col-xs-12">
+				<label class="col-xs-4">Cheque Number/Txn No.</label>
+				<div class="col-xs-8 validation-message">
+					<div class="left-inner-addon col-xs-12">
+						<input class="form-control" type="text" data-tooltip="Cheque/Txn Number" name="chequeNumber" maxlength="16" onkeypress="return noNumbers(event);" placeholder="Cheque/Txn Number" id="chequeNumber"/>
+					</div> 
+				</div>
+			</div>
+	  	</div>
+	  	<div class="row" style="padding-top : 10px;">
+			<div class="col-xs-12">
+				<label class="col-xs-4">Bank Name</label>
+				<div class="col-xs-8 validation-message">
+					<div class="left-inner-addon col-xs-12">
+						<input class="form-control" type="text" data-tooltip="Bank Name" name="bankName" placeholder="Bank Name" id="bankName"/>
+					</div> 
+				</div>
+			</div>
+	  	</div>
+	  	<div class="row" style="padding-top : 10px;" id="chequeGivenToRow">
+			<div class="col-xs-12">
+				<label class="col-xs-4">Cheque Given To</label>
+				<div class="col-xs-8 validation-message">
+					<div class="left-inner-addon col-xs-12">
+						<input class="form-control" type="text" name="chequeGivenTo" data-tooltip = "Cheque Given To" placeholder="Cheque Given To" id="chequeGivenTo"/>
+					</div> 
+				</div>
+			</div>
+	  	</div>
+	  </div>
+	  <div class="modal-footer">
+		<button type="button" id="chequeDetailsBtn" data-tooltip = "Cheque Details" class="btn btn-primary">OK</button>
+	  </div>
+	</div>

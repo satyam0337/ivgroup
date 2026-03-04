@@ -1,0 +1,40 @@
+booking_office					Booking Office :
+gc_no							GC No.
+bkg_date_and_time				BKG Date & Time
+delivery_office					Delivery Office:
+delivery_office_phNum			Phone No.
+form							Form :
+to								To :
+consignorname					Consignor
+consigneename					Consignee
+address							Address
+phone_number					Ph No.
+gstin							GSTIN
+payment_type					Payment Type :
+pickup_type						Pickup Type :
+booking_type					Booking Type :
+delivery_type					Delivery type :
+invoice_no						Invoice No. :
+declared_value					Declared Value :
+actual_weight					ACTUAL WEIGHT :
+charge_weight					CHARGE WEIGHT :
+is_dod_booking					IS DOD BOOKING :
+is_oda_booking					IS ODA BOOKING :
+material_insured				Material Insured :
+pod_required					POD Required :
+ack								Acknowledgment :
+consignerOrReceiver				Consigner / Receiver :
+freight_details					Freight Details
+amount							Amount
+login_executive_name			Executive Name:
+total							TOTAL
+sgst							SGST
+cgst							CGST
+igst							IGST
+grand_total						Grand Total
+consignment_quantity			QTY
+article							Description of goods (said to contain)
+visitUsAt						Visit us at :
+group							Group :
+username						Username :
+password						Password :

@@ -1,0 +1,30 @@
+createDateTimeString				Date
+fuelPump							Fuel Pump
+vehicleNumber						Vehicle Number
+region								Region
+subRegion							Area
+branch								Branch
+ReportSort							Report Sorting
+header								Lhpv Fuel Details Report
+search								Search
+serialnumberheader					SR. No.
+pumpReceiptNumber					Slip Number
+fuelToFillUp						Fuel Liter
+fuelUnitRate						Rate
+fuelTotalRate						Amount
+destinationBranchName				Destination
+totalKilometer						K.M.
+pumpName							Pump Name
+branchName							Branch
+lhpvNumber							Lhpv Number
+lorryHire							Lorry Hire
+dieselAmount						Diesel Amount
+liter								Liter
+perLiterRate						Per Liter Rate
+driverMobileNumber					Driver Number
+driverName							Driver Name
+advanceAmount						Advance Amount
+lhpvDate							Lhpv Date
+createdBranchName					Created Branch
+identifire							Type
+blhpvNumber							Blhpv Number

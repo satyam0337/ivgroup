@@ -1,0 +1,19 @@
+srNumbe		Sr.No.
+to			TO
+address		Address
+gstNo		GST NO :
+billNo		Bill No :
+date		Date 
+branch		Branch :
+lrNo		LR NO
+from		FROM
+dmNo		DM NO
+art			ARTICLE
+wt			WEIGHT
+amount		AMOUNT
+karnatakaGst	KARNATAKA GST NO: 29AERFS6978Q1ZD    PAN NO: AERFS6978Q	
+total		TOTAL
+rupees		RUPEES :
+info1		1. Please pay by Chequess only <br><br><br>2. Payment should be made within 7 days & <br>    kindly handover the cheque to the branch <br>    authorized person.
+sign		<br>Receiver's Signatory with Seal	
+autSign		Authorised Signatory	

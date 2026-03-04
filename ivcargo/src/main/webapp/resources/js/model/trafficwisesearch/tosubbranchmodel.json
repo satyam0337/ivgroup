@@ -1,0 +1,16 @@
+ {
+	"elementId"				: "branchesSelectEle",
+	"elementGlyphicon"		: "glyphicon glyphicon-grain",
+	"elementDivCss"			: "col-xs-6 validation-message",
+	"elementName"			: "branchesSelectEle",
+	"elementType"			: "text",
+	"tooltipName"			: "Select Sub Branches",
+	"labelId"				: "toSubBranchSelect",
+	"elementDefaultValue"	: "",
+	"dataDtoKey"			: "branchesName",
+	"divRegion"				: "branchRegion",
+	"elementConfigKey"		: "Branches",
+	"columnPrintWidthInPercentage": "18",
+	"columnWidth"			: 100,
+	"columnMinWidth"		: 60
+}

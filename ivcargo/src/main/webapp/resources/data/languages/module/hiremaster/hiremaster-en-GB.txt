@@ -1,0 +1,21 @@
+header 							Hire Master
+branch							Source Branch
+destinationBranch				Dest. Branch
+amount							Amount
+bookingType						Booking Type
+isWeightType					Is weight Type
+agentBranch						Source Branch
+save							Save
+update							View
+delete							Delete
+edit							Edit
+add								Add
+view							View All
+selectAll						Select All
+bookingTypeString				Bkg Type
+partialheader					Update
+updateBtn						Update	
+crossingBranch					Crossing Branch
+typeOfHire						Type Of Hire
+hireTypeId						Hire Number		
+

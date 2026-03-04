@@ -1,0 +1,46 @@
+@CHARSET "ISO-8859-1";
+.width-90per {
+	width: 90%;
+}
+
+.height-70px {
+	height: 70px;
+}
+.height{
+	height: 24px;
+}
+.border-bottom{
+	border-bottom:1pt solid black;
+}
+.border-top{
+	border-top:1pt solid black;
+}
+.fontSize-16px{
+	font-size: 16px;
+}
+
+.fontSize-14px{
+	font-size: 14px;
+}
+
+.fontSize-12px{
+	font-size: 12px;
+}
+
+.fontWeight-bold{
+	font-weight: bold;	
+}
+
+.border-collapse{
+	border-collapse: collapse;
+}
+
+.paddingleft-10px{
+	padding-left: 10px;
+}
+.paddingleft-0.5px{
+	padding-left: 0.5px;
+}
+.paddingRight-0.5px{
+	padding-right: 0.5px;
+}

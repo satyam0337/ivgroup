@@ -1,0 +1,52 @@
+srNumberLabel					#
+lrNumberLabel					L.R.No.
+consignorLabel					Sender
+consigneeLabel					CONSIGNEE
+consigneeContactLabel			Receiver no.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	PKGS
+paidFreightChargeLabel			PAID
+toPayFreightChargeLabel			TOPAY
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						AMT.
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				GOOD DISPATCH MEMO NO.:&nbsp;
+vehicleNumberLabel				Vehicle No.:&nbsp;
+fromBranchLabel					From :&nbsp;
+toBranchLabel					To : &nbsp; 
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+noOfLRLabel						No Of LRs
+totalArticleLabel				Article
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amount
+driverNameLabel					Driver :&nbsp;
+preparedByLabel					Prepared By :&nbsp;
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name:
+dispatchDateLabel				DATED :
+dispatchTimeLabel				TIME :
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		DESTINATION
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark
+receiveLabel					Receiver Sign
+note							Owner of the Vehicle is responsible for safe and sound delivery of the goods located in the truck as details below :
+ackLabel						ACKNOWLEDGMENT
+saidToContain					DESCRIPTION
+lRremark						Remark
+ceWayNo							CEWayNo :

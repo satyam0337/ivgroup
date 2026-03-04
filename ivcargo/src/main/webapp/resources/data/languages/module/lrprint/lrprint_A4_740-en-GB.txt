@@ -1,0 +1,53 @@
+bkgDate					Date
+from					From : 
+to						To : 
+bkgTime					Booking Time
+consignor				CONSIGNOR'S
+consignee				CONSIGNEE'S
+gst						GSTIN
+lrNo					LR No.
+consignmentQuantity		No. Of<br>ARTICLES
+description				Description <br>(Said to be contained)
+value					VALUE<br>Rs.
+weight					WEIGHT ACTUAL<br>Kgs.
+charged					CHARGED<br>Kgs.
+inv						Invoice No.
+consignorNo				Consignor Ph. No.
+consigneeNo				Consignee Ph. No.
+rate					RATE<br>PER Kg.
+topay					TO-PAY<br>Rs.
+grandTotal				TOTAL
+sgst						SGST (2.5%)
+cgst						CGST (2.5%)
+igst						IGST (5%)
+Freight                     Freight
+DoorDly                     Door Delivery
+DoorCollection              Door Collection
+LrCharge                    L.R. Charge  
+hc                          H.C.
+stcharge                    S.T. Charge
+ins							Insurance
+aoc							A.O.C.
+dd                          D.D.Charg.
+oth							Others  
+EWayBill                    E-Waybill
+gst                         GST
+grNo                       G.R. No.
+eway                       E-Way
+gst                        GST No. 
+saidtocontain              SAID TO CONTAIN
+date					   Date
+noOfArticle                NO OF<br>ARTICLE
+pvt							P.M. NO.
+inv							Invoice No
+actwt						ACTUAL WEIGHT
+chrgwt						CHARGED WEIGHT
+topay						To Pay:
+disOfGood					Dis. of Good:
+value 						Value:
+gtotal						G. TOTAL
+consigneecopy               CONSIGNEE COPY
+consignorcopy               CONSIGNOR COPY
+drivercopy                  DRIVER COPY
+atownrisk 				    At Owner's Risk
+

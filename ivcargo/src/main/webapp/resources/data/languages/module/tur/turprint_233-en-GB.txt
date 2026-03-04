@@ -1,0 +1,43 @@
+truckUnloadingReport						Truck Unloading Report
+from										From
+to											To
+truckNo										Truck No
+lsDate										LS Date
+turDate										TUR Date
+lsNo										LS No
+goodsUnloadedAsUnderTUR						Goods Unloaded as under TUR
+doorDeliveryArticles						Door Delivery Articles
+crossingArticles							Crossing Articles
+godownDeliveryArticles						Godown Delivery Articles
+totalArticlesAsPerLS						Total Articles as per LS
+articlesFoundShort							Articles Found Short
+articlesFoundExcess							Articles Found Excess
+articlesFoundDamaged						Articles Found Damaged
+totalWeight									Total Weight
+preparedBy									Prepared By
+truckArrivalTime							Truck Arrival Time
+unloadingTime								Unloading Time
+unloadedBy									Unloaded By
+lrWiseDetails								LR wise Details
+srNo										SR No
+lrNo										LR No
+bkgDt										Bkg Dt
+from										From
+noOfArt										No Of Art
+actWght										Act Wght
+shortArt									Short Art
+damageArt									Damage Art
+lossAmt										Loss Amt
+remark										Remark
+total										Total
+lrWiseShortDetails							LR wise Short Details
+shortDate									Short Date
+lrWiseDamageDetails							LR wise Damage Details
+lrWiseExcessDetails							LR wise Excess Details
+lrType										LR Type
+articleType									Article Type
+excessArt									Excess Art
+excessDate									Excess Date
+excessWght									Excess Wght
+to											To
+saidToContain								Said To Contain

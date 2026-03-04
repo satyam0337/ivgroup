@@ -1,0 +1,93 @@
+@CHARSET "ISO-8859-1";
+table{
+	border: 0px solid black;
+	color: black;
+	font-size: 17px;;
+	border-collapse: collapse;
+   
+}
+#table1{
+	width: 350px;
+	color: black;
+	border-collapse: collapse;
+	
+}
+#table2{
+	width: 1200px;
+	border-collapse: collapse; 
+}
+.table100{
+	width: 100%;
+	border-spacing: 0px;
+}
+td{
+	border: 0px solid black;
+}
+.trpadding{
+ padding: 0px;	
+}
+.rightpadding{
+  text-align: right;
+  padding-right: 10px;	
+}
+td{
+	padding-top: 5px;
+	padding-bottom: 9px;
+	padding-left: 2px;
+}
+.td1{
+	padding-top: 5px;
+	
+}
+.text1{
+	padding-left: 5px;
+}
+.text2{
+	padding-left: 15px;
+}
+.center{
+	text-align: center;
+}
+.td10{
+	width: 10%;
+}
+.td15{
+	width: 15%;
+}
+.td25{
+	width: 25%;
+}
+.td20{
+	width: 30%;
+}
+.td30{
+	width: 35%;
+}
+.td40{
+	width: 40%;
+}
+.td45{
+	width: 45%;
+}
+
+.td50{
+	width: 35%;
+	padding: 0px;
+}
+.td60{
+	width: 65%;
+	padding: 0px;
+}
+
+.td70{
+	width: 70%;
+}
+
+
+.cell{
+	display: table-cell;
+	
+} 
+.rightalign{
+	text-align: right;
+}

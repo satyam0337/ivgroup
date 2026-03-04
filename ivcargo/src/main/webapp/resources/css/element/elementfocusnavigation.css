@@ -1,0 +1,87 @@
+.uneditable-input:focus {
+	border-color: rgba(0, 0, 255, 0.3);
+	box-shadow: 0 1px 1px rgba(0, 0, 255, 0.3) inset, 0 0 8px
+		rgba(0, 0, 255, 0.3);
+	outline: 0 none;
+	/* width: 265px; */
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+#info {
+	background: #1496bb;
+	bottom: 100%;
+	color: #fff;
+	font-size: 10px;
+	height: 25px;
+	border-radius: 5px 5px 0px 0px;
+	left: -25px;
+	margin-bottom: 15px;
+	padding: 4px 10px;
+	pointer-events: none;
+	position: absolute;
+	-webkit-transform: translateY(10px);
+	-moz-transform: translateY(10px);
+	-ms-transform: translateY(10px);
+	-o-transform: translateY(10px);
+	transform: translateY(10px);
+	-webkit-transition: all .25s ease-out;
+	-moz-transition: all .25s ease-out;
+	-ms-transition: all .25s ease-out;
+	-o-transition: all .25s ease-out;
+	transition: all .25s ease-out;
+	-webkit-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+	-moz-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+	-ms-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+	-o-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+	box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+	z-index: 10050;
+}
+
+.padding-elements {
+	padding-top: 10px;
+}
+
+.left-inner-addon {
+	position: relative;
+	padding-bottom: 5px;
+}
+
+.left-inner-addon input {
+	padding-left: 30px;
+}
+
+.left-inner-addon select {
+	padding-left: 30px;
+}
+
+.left-inner-addon i {
+	position: absolute;
+	padding: 9px 7px;
+	pointer-events: none;
+	z-index: 10;
+}
+
+.left-inner-addon img {
+	position: absolute;
+	padding: 5px 5px;
+	pointer-events: none;
+	height: 30px;
+	width: 30px;
+}
+
+.right-inner-addon {
+	position: relative;
+}
+
+.right-inner-addon input {
+	padding-right: 30px;
+}
+
+.right-inner-addon i {
+	position: absolute;
+	right: 0px;
+	padding: 10px 12px;
+	pointer-events: none;
+}

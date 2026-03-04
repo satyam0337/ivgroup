@@ -1,0 +1,33 @@
+partyName					Party Name :
+partyAddress				Address :
+gstNo						GSTN :
+billNo						Tax Invoice No :
+invoicedate					Bill Date :
+date						LR Date
+lrNo						LR No
+qty							PKG
+lrSourceBranchLabel			From
+invoceNo					Invoice No
+wegt						Ch.Wt.
+freight						FRT
+hamali						Hamali
+sTax						S_TAX
+oct							OCT
+otChrg						OT_CHA
+total						TOTAL
+srNumberLabel				SrNo.
+lrDestination				To
+consignor					C/nor
+consignee					C/nee
+bcCharge					B.C.	
+sacCode						SAC CODE :
+vCode						V CODE :
+poNo						PO NO :
+poDate						PO DATE :
+panNO						PAN NO :	
+gst							GST NO :
+partyGst					PARTY GST NO:
+sgst						SGST
+cgst						CGST
+igst						IGST
+

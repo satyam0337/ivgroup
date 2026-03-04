@@ -1,0 +1,23 @@
+header 						<b>Truck Analyzing Report</b>
+subHeader					<b>Search Details</b>
+LSNo						LS Number 
+
+destinationBranchName		
+totalActualWeight			WEIGHT
+average						AVERAGE
+topayBookingTotal			VASULI
+paidBookingTotal			PAID
+Hire1						HIRE1						
+Hire2						HIRE2						
+Hire3						HIRE3						
+Hire4						HIRE4						
+Hire5						HIRE5
+bookingCommision			B.COM
+deliveryCommision			D.COM
+DDM1						DDM1						
+DDM2						DDM2						
+DDM3						DDM3						
+DDM4						DDM4						
+DDM5						DDM5
+balance						BALANCE	
+companyCommission			D.COM					

@@ -1,0 +1,10 @@
+ {
+	"elementId":"sourceSubRegionSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"sourceSubRegionSelectEle",
+	"elementType":"text",
+	"divRegion":"SearchRegion",
+	"tooltipName": "Select Source Area",
+	"labelId":"sourceSubRegoinSelect",
+	"elementDefaultValue":""
+}

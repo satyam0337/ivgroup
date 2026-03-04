@@ -1,0 +1,22 @@
+header 						Dispatch Route
+
+dispatchRouteLabel			Dispatch Route
+add							Add
+view						View All
+
+subHeader1					<b>Add / Update Dispatch Route</b>
+
+dispatchRouteTime			Time
+dispatchRouteName			Route Description
+partialheader				History
+
+save						Save
+update						Update
+delete						Delete
+
+subHeader2					<b>Dispatch Route Details</b>
+
+preDispatchRouteName		Pre Route Name
+preDispatchRouteTime		Pre Route Time
+modificationDateTimeStr		Modified On
+modifiedByExecutiveName		Modified By

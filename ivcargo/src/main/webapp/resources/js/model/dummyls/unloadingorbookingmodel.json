@@ -1,0 +1,8 @@
+ {
+	"labelId":"incomingDateTimeStamp",
+	"dataDtoKey":"wayBillCreationDateTimeStampString",
+	"columnDisplayCssClass":"column-data-right-align",
+	"elementConfigKey":"BookingOrUnloading",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":110
+}

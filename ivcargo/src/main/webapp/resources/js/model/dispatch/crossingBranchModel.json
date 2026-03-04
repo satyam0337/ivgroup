@@ -1,0 +1,10 @@
+ {
+	"elementId":"crossingBranchEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"crossingBranchEle",
+	"elementType":"text",
+	"tooltipName": "Unloading Crossing Branch",
+	"labelId":"crossingBranch",
+	"divRegion":"crossingBranch",
+	"elementDefaultValue":""
+}

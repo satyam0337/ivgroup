@@ -1,0 +1,62 @@
+branchPhoneNumberLabel			Ph :  
+branchAddressLabel				Address : 
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							SL<br>No.
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							Invoice Date : 	
+lrNo							LR NO
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+total							Total
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GST NO -
+invoiceno						Invoice No.
+bookingdate						LR Booking<br>Date
+particulars						Particulars
+articles						Articles
+weightLabel						Weight
+note							Subject to Hyderabad Jurisdiction only.	
+pannumberlable                  PAN NO.: 
+remarklable                     Remark : 
+lrbookingdatelable              LR Booking<br>Date
+packagelable                    Pkg
+freightlable                    Freight
+haltinglable                    Halting
+loadinglable				    Loading
+unloadinglable                  Unloading
+statisticallable                Statistical 
+rtochalanlable                  RTO<br>Challan
+otherlable                      Other 
+
+
+
+

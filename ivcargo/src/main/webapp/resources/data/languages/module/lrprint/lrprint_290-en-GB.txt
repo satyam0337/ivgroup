@@ -1,0 +1,25 @@
+lrnumber				LR NO : 
+date					B Date : 
+lrSource				From : 
+lrDestination			To : 
+consignorName			Sender : 
+consigneeName			Receiver : 
+phone					Mob : 
+lrType					LR Type : 
+declaredValue			Goods Value : 
+NoOfPkgs				Item Types : 
+freight					Freight : 
+quantity				Total Items : 
+grandTotal				Total Amt : 
+bookedby				Booked By : 
+printDate				Print Date : 
+sign					Sign : 
+deliverAt				Delivery At : 
+invoiceNo				Bill No :
+actualWeight			Weight :
+otherCharge				Other Chrg :
+vehicleNo				Bus No :
+delBranch				Destination :
+gst						GST :
+consignorGst			Consignor GST : 
+consigneeGst			Consigee GST :

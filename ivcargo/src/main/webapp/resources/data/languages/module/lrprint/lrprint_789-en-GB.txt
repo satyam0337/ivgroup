@@ -1,0 +1,20 @@
+L.R. No.				L.R. No.
+Invoice No.				Invoice No.
+Date					Date
+way Bill No.			Way Bill No.
+Consignor				Consignor : 
+GST No.					GST No. : 
+Mo. No.					Mo. No. : 
+Consignee				Consignee : 
+From					From : 
+To						To : 
+Lr Type					Lr Type : 
+Pkgs.					Pkgs.
+Description				Description (Said To Contain)
+Private Mark			Private Mark
+Weight					Weight
+Actual					Actual
+Charged					Charged
+Value					Value
+Rate					Rate
+Freight					Freight

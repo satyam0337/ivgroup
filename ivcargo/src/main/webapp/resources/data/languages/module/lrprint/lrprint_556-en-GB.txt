@@ -1,0 +1,30 @@
+lrnumber					AIRWAY BILL REFERENCE
+bookingDate					Received
+bookingType					Type
+weight						Total Weight
+lrSource					Departure Terminal
+lrDestination				Destination Terminal
+CnorName					Name
+CnorPhone					Phone
+CnorEmail					Email
+CnorAddr					Address
+CnorCity					City
+CnorState					State
+CneeName					Name
+CneePhone					Phone
+CneeEmail					Email
+CneeAddr					Address
+CneeCity					City
+CneeState					State
+totalCost					Total Shipping Cost
+amountpaid					Amount Paid
+Srno						S/N
+type						Type
+description					Description
+weight						Weight
+article						Piece
+declaredvalue				Declared Value
+shippingcost				Shipping cost
+rate						Rate
+
+

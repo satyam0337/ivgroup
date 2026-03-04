@@ -1,0 +1,74 @@
+invoiceNumber				Invoice No
+declaredValue				Declared Value 
+deliveryTo					Delivery To :
+sourceBranch				From :  
+destinationBranch			To : 
+lrType						LR Type : 
+lrnumber					LR NO : 
+bookingDate					Booking Date : 
+consignmentQuantity			Qty
+description				  	Description
+consignmentSaidToContain  	Said To contain
+actualWeight			  	Actual Weight 
+actualWeightConsignor	  	Actual Weight :
+actualWeightConsignee	  	Actual Weight :
+chargeWeight			  	Charge Weight 
+chargedWeightConsignor	  	Charge Weight :
+chargedWeightConsignee	  	Charge Weight :
+serviceBy					GST Paid By :
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					Grand Total 
+consignorname				Consignor 
+consigneename				Consignee 
+at							AT
+printedby					Printed By : 
+freight						Freight
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					Of
+remark						Remark :
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						Rate  
+rateConsignor				Rate : 
+rateConsignee				Rate : 
+insuredby					Insured By : 
+builty						Builty Charge
+aoc							AOC
+collection					Collection
+doorChg						Door Dly
+oloc						OL / OC
+crinsure					CR/INSUR
+other						Other
+carrierrisk					Carrier Risk
+bhchg						B.H.Chg
+cartage						Cartage
+sgst						SGST
+cgst						CGST
+igst						IGST
+formNameWithNumber			Form Type :
+totalQuantity				Total Qty : 
+supplyInfo					Supplies Attracting Reverse Charge Mechanism Under GST >>
+gstn                        GSTIN : 
+phone                       Phone No : 
+ewaybill                    E-Waybill No:
+deliveryat                  Delivery At:
+officeAdd					Office Add.:
+acknowledgement			    Acknowledgement
+recievethe					Receive the consignment in Good Condition
+reciever                   	Receiver Signature, Name & Seal	
+bankDetails                 Bank Details For NEFT/RTGS
+bankNameAc                  HDFC Bank A/C No:50200068868916
+bankIfsc                   	IFSC CODE:HDFC0002566	
+
+

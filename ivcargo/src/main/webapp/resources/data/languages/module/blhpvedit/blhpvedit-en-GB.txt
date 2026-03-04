@@ -1,0 +1,10 @@
+header					<b>Edit BLHPV Charges</b>
+subHeader				<b>LHPV Charges</b>
+updateBtn				Update Charges
+subHeader1				<b>Update BLHPV Date</b>
+subHeader2				<b>Update BLHPV Payment Mode</b>
+blhpvDateLabel			BLHPV Date
+updateDateBtn			Update Date
+blhpvPaymentModeLabel	Payment Mode
+updatePaymentBtn		Update Payment Mode
+viewPaymentDetails		View Payment Details

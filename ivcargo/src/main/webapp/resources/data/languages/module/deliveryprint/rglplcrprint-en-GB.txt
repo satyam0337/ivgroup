@@ -1,0 +1,89 @@
+lrNO						LR No :
+mrNo						MR No 
+date						Date :
+lrDate						LR Date :
+bookedFrom					Booked From :
+bookedTo					To :
+nosOfArticles				No.Of Art 
+packing						Packing
+saidToContain				Description Of Goods
+weight						Weight
+description					Description
+rs							Rs.
+freight						Freight
+hamali						Hamali
+octroiCharge				Octroi Charge
+serviceCharge				Service Charge
+gic							G.I.C.
+demurrage					Demurrage
+detention					Detention
+doorDelivery				Door Delivery
+grandTotal					Grand Total:
+modeOfDelivery				Mode Of Delivery
+modeOfPayment				Payment Mode
+info3						Reg.STC.No.: AASPT 1754EST001<br/>PAN NO.: AASPT 1754 E
+info4						Rubber Stamp and Signature of     Consignee
+totalInWord					Rupees in Words :
+vehicleNo					Vehicle No 
+driverName					Driver Name
+deliveredToNo				Delivered To Number.
+deliveredToName				Delivered To Name
+
+time						Time :
+consigneeName				Consignee Name :
+lrType						LR Type:
+receipt						--Delivery Receipt--
+sourceBranch				From :
+destinationBranch			To :
+consignor 					Consignor :
+consignee					Consignee :
+branch						Branch :
+gstn						GSTIN :
+gst							GST
+bookingDate					Bkg Dt :
+bookedBy					Booked By :
+
+bookingTotal				Freight
+paidHamali					Paid Hamali :
+deliveredTo					Delivered To :
+declaredValue				Declared Value :
+deliveryCharge				Delivery Chrg :				
+remark						Remark :
+pkgs						Pkgs :
+packages					Packages :
+total						Total:
+bookingTotal				Booking Total
+printTime					Print Time :
+deliveryTime				Delivery Time :
+printedBy					Printed By 
+deliveredBy					Delivered By :
+deliveredToNumber			Delivered To Number :
+chargesDetails				--Charges Details--
+consignmentDetails			--ConsignmentDetails--
+discount					Discount :
+branchPhNo					Office Phone :
+receivedFrom				Received From :
+deliveryTo 					Delivery To :
+packingType					Packing Type
+declaredValue				Declared Value :
+sign						Read and Accepted 
+sign1						Consignor Signature
+deliveryBy					Delivery Officer
+
+website						Website: www.sccorporation.in
+info1						"APPLING THOUGHT TO CARGO SERVICES FOR GUJARAT" 
+info2						"SURAJ HOUSE"Plot No.2905/1,Behind Telephone Exchange,GIDC,Char rasta, VAPI-396 195.<br/>Tel (0260) 2432734,2436897,Fax :(0260)2410267 E-mail:delivery_vapi@sccorporation.in
+branch                      Branch
+mrdate&time                 MR Date & Time
+mrtype                      MR Type
+from                        From:
+noofart                     No of Art
+articledescription          Article Description
+tempono                     Tempo No
+contactno                   Contact No     
+preparedby                  Prepared By           
+sgst                        S.GST:
+cgst                        C.GST:
+igst                        I.GST:
+amountInWords				Amount in Words
+other						Other:

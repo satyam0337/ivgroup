@@ -1,0 +1,41 @@
+sourceBranch				From :
+destinationBranch			To :
+lrNO						LR NO:
+consignor					CONSIGNOR :
+consignee					CONSIGNEE :
+date						Date:
+lrType						LR Type:
+quantity					Total
+noOfPackages				No.Of Pkgs :
+quantityType				Goods
+saidToContain				Description
+deliveryOffc				Delivery Office :
+remark						Remark:
+freight						Freight :
+loading						Loading:
+total						Total:
+bookedBy					Booked By :
+printTime					Time:	
+pvtMark						Pvt Marka:
+source						Source:
+gst						    GST :
+receiverSign				Receivers Sign
+total						TOTAL :
+source						Booking -
+declaredValue				Declared Value :
+charges						Charges
+info2						( Rules Read & accepted )
+signature					Signature
+phoneNo						Phone :
+doorPickUp					Door PickUp :
+stationary					Stationary :
+gstin						GSTIN -
+remark						Remark :
+delivery					Delivery:
+rupee						&#x20B9
+sgst						SGST:
+cgst						CGST:
+igst						IGST:
+dd							Door Dly
+invoiceno					Invoice No. : 
+fov							FOV :

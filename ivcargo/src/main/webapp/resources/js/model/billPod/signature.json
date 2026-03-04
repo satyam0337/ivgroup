@@ -1,0 +1,8 @@
+{
+	"elementId"			: "signature",
+	"elementName"		: "signature",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "file",
+	"tooltipName"		: "Name",
+	"parentDivCss"		: "col-xs-6"
+}

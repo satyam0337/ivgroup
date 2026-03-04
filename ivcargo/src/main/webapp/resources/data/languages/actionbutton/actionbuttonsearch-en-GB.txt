@@ -1,0 +1,5 @@
+search							Search
+printLabel 						Print
+find							Find
+save							Save
+update							Update

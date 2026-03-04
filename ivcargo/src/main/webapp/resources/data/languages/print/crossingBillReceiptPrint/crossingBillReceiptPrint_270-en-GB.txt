@@ -1,0 +1,9 @@
+crossingReceipt                  CROSSING RECEIPT 	
+branch							 Branch -
+srNo							 SR No. -
+receiptDate						 RECEIPT Date -
+crossingAgentName                CrossingAgentName :
+paymentReceivedBy				 Payment Received By
+amountInWord                     The Sum Of Rupees (In Words) : 
+paymentMode					     PaymentMode
+ 

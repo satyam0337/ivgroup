@@ -1,0 +1,30 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+hisabNumberLabel				Hisab No.
+TotalHisabLabel					Total Hisab
+settledHisabLabel				Settled Hisab
+balanceHisabLabel				Balance Hisab
+amountPaidByBranchLabel			Amount Paid By Branch 
+remarkLabel						Remark
+agentBranchHisabNumberLabel		Agent Branch Hisab Number :
+hisabDateLabel					Date :  
+agentBranchNameLabel			Agent Branch : 
+hisabDoneByBranchLabel			Hisab By Branch : 
+summaryHeaderLabel				Summary Header
+amountSummaryLabel				Amount
+lastOutStandingLabel			Last Outstanding
+finalAmtLabel					Balance Amt Payable To Company 
+bookingCommisison             	Booking Commisison 
+bookingPFCharge					PF
+bookingCartageCharge			Cartage
+TotalBkgCommisison             	Total Bkg Commisison 
+dlyCommisison					Dly Commission 
+unloading						Unloading
+crossingHamali					Crossing Hamali	
+totalCommission 				Total Comission Payable
+doorDeliveryAmt  				Door Delivery Amt
+totalDeliveryCommission         Total Delivery Commission
+totalPaidBookingAmt 			Total Paid Booking Amt
+totalTopayDeliveryAmt			Total Topay Delivery Amt.
+totalCollectedAmtbyAgency  		Total Collected Amt by Agency
+totalLorryHirePaidbyAgency  	Total Lorry Hire Paid by Agency 

@@ -1,0 +1,15 @@
+ {
+	"elementId":"branchSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"branchSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Branch",
+	"labelId":"branchSelect",
+	"elementDefaultValue":"",
+	"dataDtoKey":"sourceBranchName",
+	"divRegion":"branchRegion",
+	"elementConfigKey":"SourceBranch",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

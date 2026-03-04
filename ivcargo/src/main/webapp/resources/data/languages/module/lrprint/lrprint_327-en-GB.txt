@@ -1,0 +1,24 @@
+lrnumber				LR No: 
+bookingTime				Bkg Time: 
+lrSource				Source: 
+lrDestination			Destination: 
+consignorName			Consignor : 
+consigneeName			Consignee: 
+consignorPhone			Consignor No: 
+ConsigneePhone			Consignee No: 
+lrType					LR Type: 
+contactNo				Contact No.:
+NoOfPkgs				No.of Pkgs: 
+freight					Freight: 
+loading					Loading: 
+otherCharge				Other: 
+discount				Disc:
+grandTotal				Total: 
+bookedby				Booked By: 
+printTime				Print Time: 
+printBy					Printed By:
+sign					Sign: 
+deliverAt				Delivery At: 
+remark					Remark: 
+deliveryBranchCont		Delivery Branch Contact:
+gst						GST:

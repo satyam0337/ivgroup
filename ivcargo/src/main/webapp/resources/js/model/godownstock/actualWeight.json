@@ -1,0 +1,13 @@
+ {
+	"elementId":"actualWeightEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"actualWeightEle",
+	"elementType":"text",
+	"labelId":"actualWeight",
+	"elementDefaultValue":"",
+	"dataDtoKey":"actualWeight",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

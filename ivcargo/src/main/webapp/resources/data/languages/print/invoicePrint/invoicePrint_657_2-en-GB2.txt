@@ -1,0 +1,45 @@
+invoiceNo					Invoice No:
+date						Date :
+branchPhoneNumberLabel		Mobile No. :
+state						STATE :
+stateCode					STATE CODE :
+gst							GSTIN :
+dateTable					Date
+lrNo						L/R No.
+poNo						PO No.
+doNo						DO No.
+from						From
+to							To
+vehicleNo					Vehicle No.
+invoiceNo					Invoice No.
+weight						Weight	
+rate						Rate	
+freight						Freight	
+adv							Adv.	
+netFreight					Net Freight
+srNumber					Sr No.
+amtInWords					AMOUNT IN WORDS
+taxableAmount				Taxable Amount
+cgst						CGST Amount @ 2.5%
+sgst						SGST Amount @ 2.5%
+total						Total....
+panNo						PAN No.  :
+advance						Adavnce....
+netAmt						Net Amount....
+bankDetails					Bank Details
+accTitle					Account Title in Bank
+accNo						Account No
+bankName					Bank Name
+branchName					Branch Name	
+rtgs						RTGS
+neft						NEFT	
+micr						MICR
+forKutchHighway				For KUTCH HIGHWAY TRANSPORT CO.
+sign						Authorised Signatory
+totall						TOTAL
+gstin						GSTIN :	
+hsn/sac						HSN/SAC :	
+state						STATE :
+stateCode					STATE CODE:
+
+								

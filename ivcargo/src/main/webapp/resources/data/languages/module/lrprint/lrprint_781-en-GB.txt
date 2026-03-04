@@ -1,0 +1,28 @@
+gcNoLabel				G.C.No :
+dateLabel				Date : 
+fromLabel				From :
+toLabel					To :  
+consignorLabel			Consignor : 
+gstinLabel				GSTIN :
+addressLabel			Address :
+mobLabel				MOB :   
+consigneeLabel			Consignee : 
+totalArticlesLabel		Total Articles :
+dValueRsLabel			D.Value Rs : 
+freightLabel			Freight : 
+invoiceNoLabel			Invoice No :
+noOfArticles			No. of Art.
+description				Description
+rate					Rate
+weight					Weight
+actual					Actual
+charged					Charged
+freightCharges			Freight Charges
+rs						Rs.
+freightBasic			Freight Basic
+ddCharges				D.D Charges
+handlingCharges			Handling Charges
+stationaryCharges		Stationary Charges
+total					Total
+gstAmt					GST AMT
+grandTotal				Grand Total

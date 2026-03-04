@@ -1,0 +1,89 @@
+bookingTotal						Freight
+bookingType							LR Type
+discount							Discount
+grandTotal							TOTAL AMOUNT
+crNo								CASH RECEIPT NO.:
+crSource							From 
+crDestination						To 
+consigneeName						Consignee : 
+quantity							No.of Pkgs
+consignorName						Delivered By
+deliveryTime						Delivery Time
+bookingDate							Booking Date. : 
+printTime							Print Time
+deliveredAt							Godown :
+paymentType							Payment mode : 
+deliveredTo							Received with thanks from M/s.
+deliverydate						Date : 
+srcbranch							Bkg Branch : 
+lrNo								G.C.No. :
+quantity							Articles  
+packingType							Packing Type  
+receiveDateTime						Arrival Dt : 
+remark								Remark : 
+actualweight						Actual Wgt
+chargeweight						Charge Wgt
+stpaidby							S.Tax Paid By :
+rupee								&#x20B9 
+lrtype								LR Type : 
+deloffice							DELIVERY OFFICE :
+truckno								Truck No.: 
+receiptno							Octroi Receipt no.:
+rs									RS. :
+info1								GROW WITH US
+executive							Booked By : 
+deliveryTime						Time : 
+acknolwledge						Consignee/Receiver:(Signature/Rubber Stamp/Date)
+signature							Signature
+chargeType							AMOUNT
+chargeAmount						Rs.
+hamali								Hamali
+demurrage							Demurrage
+detention							Detension 
+local								Local 
+gi									G.I 
+other								Octroi 
+octroiform							Octroi Form 
+octroiservice						Octroi Service 
+octroi								Octroi
+lessabatement						Less Abatement @7.5% Charge Freight
+companyname							NEW ERA TRANSPORT		
+freight								Basic Freight
+statisticalCharges					Statistical Charges
+fov									FOV
+c.c/g.c.n							C.C/G.C.N
+ddCharges							D.D.Charges
+otherCharges						Other Charges
+total								TOTAL
+10%Aoc								10% A.O.C.
+totalFreight						TOTAL FREIGHT
+lrType								LR Type :
+deliveryDestination					Delivery At :
+invoiceNo							Invoice No :
+pvtMark								PVT MARK
+srcBranch							FROM :
+destinationBranch					TO :
+saidToContains						Goods Description
+declaredValue						VALUE :
+consignorName						CONSIGNOR :
+consigneeName						CONSIGNEE :
+consignorContactNo					PHONE :
+consigneeContactNo					PHONE :
+srcBranchAddress					BOOKING OFFICE :
+lrNo								LR NO :
+totalArticalValue					Total 
+serviceTax							GST @5%
+totalGCAmount						Grand Total
+description							Package Details
+seperator							Of
+data&time							Date:
+consignorCopy						CONSIGNOR COPY
+consigneeCopy						CONSIGNEE COPY
+transporterCopy						TRANSPORTER COPY
+contact								HELP DESK NO : 022-23468000
+gstn								GSTN :
+gstPaidBy							GST Paid By : 
+transport							TRANSPORT
+newera								NEW ERA TRANSPORT CARRIER
+gstNo                               GSTN:   
+rcharge								Road Charges                   

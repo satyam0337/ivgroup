@@ -1,0 +1,140 @@
+#printMainTable {
+	table-layout: fixed;
+	width: 100%;
+	border: 1px dotted black;
+	text-align: center;
+}
+
+#innerTable {
+	table-layout: fixed;
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+	border-spacing: 0.5rem;
+}
+
+.alignCenter {
+	text-align: center;
+}
+.alignLeft {
+	text-align: left;
+}
+
+@media print {
+	.page-break {
+		page-break-before: always;
+	}
+}
+
+td,th{
+	white-space: nowrap;
+  overflow: hidden;
+//  text-overflow: ellipsis;
+  position:relative;
+}
+
+.width15per{
+	width: 15%;
+}
+.width25per{
+	width: 25%;
+}
+.width23per{
+	width: 23%;
+}
+.width10per{
+	width: 10%;
+}
+.width50per{
+	width: 50%;
+}
+.divTable {
+	display: table;
+	width: 100%;
+}
+
+.divTableRow {
+	display: flex;
+}
+
+.width18per{
+	width: 18%;
+}
+
+.width20per{
+	width: 20%;
+}
+	
+.divTableCell, .divTableHead {
+	/* border: 1px solid #999999; */
+	display: -webkit-inline-box;
+	/* padding: 3px 10px; */
+	vertical-align:top;
+}
+
+.divTableHeading {
+	/* background-color: #EEE; */
+	display: table-header-group;
+	font-weight: bold;
+}
+
+.fontbold{
+	font-weight: bold;
+}
+
+.divTableFoot {
+	/* background-color: #EEE; */
+	display: table-footer-group;
+	font-weight: bold;
+}
+
+.divTableBody {
+	display: table-row-group;
+}
+.pageInfo{
+	float: right;
+}
+.fontlarge{
+	font-size: xx-large;
+}
+.fontsmall{
+	font-size: small;
+}
+
+.fontmedium {
+	font-size: x-large;
+}
+
+.singleline{
+	white-space: nowrap;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	display: inline-block;
+}
+.currentDateTime{
+	float: left;
+}
+
+.marging-top-10px {
+	margin-top: 10px;
+}
+
+.marging-top-20px {
+	margin-top: 20px;
+}
+
+.borderTop {
+	border-top: 1px solid;
+}
+
+.borderBottom {
+	border-bottom: 1px solid;
+}
+
+.borderRight {
+	border-right: 1px solid;
+}
+
+.borderLeft {
+	border-left: 1px solid;
+}

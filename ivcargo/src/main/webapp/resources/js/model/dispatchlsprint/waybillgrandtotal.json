@@ -1,0 +1,11 @@
+ {
+	"elementId":"wayBillGrandTotalEle",
+	"elementName":"wayBillGrandTotalEle",
+	"tooltipName": "Grand Total",
+	"labelId":"WayBillGrandTotal",
+	"elementDefaultValue":"",
+	"dataDtoKey":"wayBillGrandTotal",
+	"elementConfigKey": "WayBillGrandTotal",
+	"columnPrintWidthInPercentage": "40",
+	"parentDivCss": "col-xs-4"
+}

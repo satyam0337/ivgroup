@@ -1,0 +1,25 @@
+lrType   						WB No. :
+deliveryTime					Delivery Time :
+source							Source :
+destination						Destination :
+deliveredTo						Delivered To :
+noofconsig						No.OfCongs :
+noofarticle						No.OfPkgs :
+PrintTime						Print Time :
+deliveredBy						Delivered By :
+PrintedBy						Printed By :
+Lrtype							WB Type :
+deliveryDisc					Delivery Disc :
+deliveryAmt						DeliveryAmt :
+BookingAmt						BookingAmt :
+TotalAmt						TotalAmt :
+unloading                       Unloading :
+crNo							CR NO. :
+Date							Delivery Date :
+lrNo							LR NO 
+baleNo							BALE NO 
+noOfParcel						NO OF PARCEL 
+amount							AMOUNT 
+gstn							GST No.
+amount							Amount
+srNo							Sr NO.

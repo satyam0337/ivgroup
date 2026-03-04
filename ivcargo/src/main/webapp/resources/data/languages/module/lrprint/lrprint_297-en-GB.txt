@@ -1,0 +1,24 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery To :
+sourceBranch				From :
+destinationBranch			To :
+lrType						Type
+lrnumber					G.C.No. :
+bookingDate					Date :
+consignmentQuantity			Qty
+consignmentPackingType  	Packing Type
+consignmentSaidToContain  	Said To Contain
+actualWeight			  	Actual Weight
+chargeWeight			  	Charge Weight
+serviceTaxPaidBy			GST Paid By
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					TOTAL
+consignorname				Consignor : 
+consigneename				Consignee :
+at							AT
+printedby					Printed By : 
+consignorcopy				Consignor Copy 
+consigneecopy				Consignee Copy
+gstno						GSTN 

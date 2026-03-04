@@ -1,0 +1,22 @@
+branchPhoneNumberLabel				Phone No :  
+branchAddressLabel					Address : 
+
+srNumberLabel						Sr.
+lrNumberLabel						LR No.
+bookingDateTimestampStrLabel		Bkg Date
+sourceBranchNameLabel				From
+destinationBranchNameLabel			To
+wayBillTypeNameLabel				LR Type
+freightAmtLabel						Freight
+commissionReceivableLabel			Receivable
+commissionPayableLabel				Payable
+totalCommissionLabel				Commission
+
+agentCommisionBillingBranchLabel								Agent Name : 
+agentCommisionBillingNumberLabel								Bill No. : 
+agentCommisionBillingCollectionPersonNameLabel					Collection Person Name : 
+agentCommisionBillingCreationDateTimeStrLabel					Date : 
+agentCommisionBillingExecutiveNameLabel							Executive : 
+agentCommisionBillingRemarkLabel								Remark : 
+agentCommisionBillingFromDateLabel								From Date : 
+agentCommisionBillingToDateLabel								To Date : 

@@ -1,0 +1,50 @@
+
+gstTaxInvoice		GST TAX INVOICE
+branchAdd			Branch Address : 
+phone				Mob:
+email				Email:
+branchgstno			GST No:
+sacCode				SAC Code:
+add					Add: 
+gstn				GSTIN:
+invoiceNo			Invoice No:
+invoiceDate			Invoice Date:
+duoDate				Due Date:
+remark      		Remark:
+totalAmount			Total Amount
+CGST				CGST
+SGST				SGST
+IGST				IGST
+UGST				UGST
+invoiceNetAmount 	Invoice Net Amount
+ourBankDetails		Our Bank Details:-
+termsConditions		Terms & Conditions:-
+authorizedSignature Authorized Signature 
+sn					S.N.
+grDate				GR Date
+grNO				GR No.
+invoiceNo			Invoice No.
+consignorName		Consignor Name
+consigneeName		Consignee Name	
+from				From 
+to					To	
+pkg 				Pkg	
+weight				Weight	
+rate 				Rate 	
+freight 			Freight 	
+pickup				Pickup	
+hamali				Hamali 	
+docket 				Docket 	
+delivery			Delivery 	
+other				Other 	
+subTotal 			Sub Total 
+lrDetails			LR Details
+rupeesInWords    	Rupees In Words:
+rsPer					 (%) Rs. 
+rs						Rs.
+totalBillAmount		Total Bill Amount
+Signature			Signature
+for					For
+Authorized			Authorized
+
+

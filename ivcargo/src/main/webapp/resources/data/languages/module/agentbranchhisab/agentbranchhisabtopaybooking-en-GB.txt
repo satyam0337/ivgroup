@@ -1,0 +1,5 @@
+wayBillNumber						LR No
+wayBillSourceBranchName				Source Branch
+wayBillDestinationBranchName		Destination Branch
+wayBillCreationDateTimeStampString	Booking Date
+bookingTotal						Booking Total

@@ -1,0 +1,14 @@
+header 						<b>Fund Cancellation</b>
+subHeader					<b>LR Details</b>
+fundTransferNumberLabel		FundTransfer Number
+branchNameLabel				Branch
+find						Find
+lrNumberLabel				LR Number
+cancelFuntransfer			Cancel
+header1						<b>FundTransfer Details</b>
+remarkSelect				Remark
+driverNameSelect			Driver Name
+driverNumberSelect			Driver No.
+lorryHireAmountSelect		Lorry Hire
+delete						Delete
+executiveSelect				Select Executive

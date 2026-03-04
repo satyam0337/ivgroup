@@ -1,0 +1,6 @@
+header 								Party Expense Module
+partyNameLabel						Party Name
+amountLabel								Amount
+remarkLebel								Remark
+save								Save
+find								Find

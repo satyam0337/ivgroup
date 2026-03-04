@@ -1,0 +1,82 @@
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+bookingDateLabel				LR Date
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	No.of<br/>Art.
+packingTypeLabel				Packing<br/>Details
+packingTypeLabel1				Goods Contain
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				Freight
+loadingChargeLabel				LDG.
+amountLabel						Booking Total
+amountLabel1					Amount
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Dispatch No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From Branch :
+toBranchLabel					To Branch :
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalLrLabel					Nos.of LRs
+totalArticleLabel				No.of Art
+totalWeightLabel				Weight
+totalFreightLabel				Booking Total
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Total
+driverNameLabel					Driver:
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From 
+lrDestinationBranchLabel		To 
+lrDestinationBranchLabel1		Destination
+loadingClerkSignLabel			Loading Clerk Signature
+driverSignLabel					Driver Signature
+branchInchargeSignLabel			Prepared By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door<br/>Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+lrRemarkLabel					Remark
+bkgDateLabel					Date
+doorPickupLabel					Door<br/>Pickup
+doorDeliveryLabel				Door<br/>Delivery
+otherChargeLabel				Others
+totalDoorPickupLabel			Door<br/>Pickup
+totalOtherLabel					Others
+weightLabel						Weight
+weightLabel1					Act	Weight
+ownerNameLabel					Owner Name :
+driverNameLabel					Driver Name :
+engineNumberLabel				Engine Number :
+permitNumberLabel				Permit Number :
+licenseNoLabel					License No. :
+chasisNumberLabel				Chasis Number :
+validityLabel					Validity
+noOfDoorDeliveryLabel			No.of Door Dly.
+crossingChargeLabel				Crossing<br/>Amount
+payable							Payable
+receivable						Receivable
+crossingAgentName				Crossing Agent Name :
+ceWayNo							CEWayNo :
+totalCrossingLRWeight			Crossing LR Wt.
+doorDeliveryLr					DDLR
+driverContactLabel				Driver Phone No.:
+vehicleAgentName				Agent Name :
+ownerPhoneNo					Owner Phone NO.:
+gst								GST No.
+branchAddress					Address: 

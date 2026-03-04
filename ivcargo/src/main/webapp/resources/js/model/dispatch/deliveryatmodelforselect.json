@@ -1,0 +1,12 @@
+ {
+	"elementId":"deliveryAtSearchEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"deliveryAtSearchEle",
+	"elementType":"text",
+	"tooltipName": "Select Delivery At",
+	"labelId":"deliveryAt",
+	"divRegion":"SearchRegion",
+	"parentDivCss":"col-xs-5",
+	"labelCss":"col-xs-3",
+	"elementDivCss":"col-xs-8 validation-message"
+}

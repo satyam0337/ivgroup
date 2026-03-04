@@ -1,0 +1,75 @@
+invoiceNumber				INVOICE NO. 
+declaredValue				GOODS VALUE 
+deliveryTo					DELIVERY AT :
+from						From : 
+to							To : 
+lrType						FREIGHT BY
+lrnumber					LR No. 
+bookingDate					Date :
+consignmentQuantity			Qty
+description				  	Description Of Goods(Said To contain)
+consignmentSaidToContain  	Said To contain
+actualWeight			  	Act. Weight
+chargeWeight			  	Chrg. Wt.
+serviceTaxPaidBy			GST Paid By
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					NET AMOUNT
+consignorname				Consignor : 
+consigneename				Consignee :
+at							AT
+printedby					Printed By : 
+freight						Freight
+
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					OF
+remark						Remark : 
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						RATE 
+insuredby					Insured By : 
+deliveryType				DELIVERY TYPE : 
+mobileno					Mobile No : 
+tinno						TIN NO. : 
+billingParty				BILLING PARTY : 
+forCompanyName				For, AAKASH ROADWAYS
+
+bc							B.C.
+pf							P/F
+lc							L/C
+dd							D/D
+accountheader				SRI SAMBASIVA CARGO CARRIERS
+accountheader1				DOOR NO.15-6/132, JAMES GARDEN, NEAR VIJAYAMAHAL CENTER, NELLORE-524001, A.P.
+Ph                          Ph:	
+info						BOOKED AT OWNER RISK
+discount					Discount (-)		
+signature					Receiver Signature	
+printedDateTime				Printed On	
+phone						PHONE:
+total						TOTAL
+executiveSign				Signature of Clerk/Agent
+gstn						GSTN : 
+type						LR Type 
+lrcharge                    LR Charge
+art.charges                 ART. CHARGES
+surcharge                   SURCHARGE
+withpass                    WITHPASS
+luc                         LUC
+delivery                 	Delivery At -
+ewayBillNo					E-way Bill No-
+billNo						Bill No-
+declared					Dec. Value
+InvN						Inv. No.-
+userName					User Name
+rec							Receiver Stamp and Sign
+lrcharges                    LR Charge

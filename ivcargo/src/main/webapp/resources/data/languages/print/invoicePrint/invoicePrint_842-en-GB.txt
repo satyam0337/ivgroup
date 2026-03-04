@@ -1,0 +1,28 @@
+branchPhoneNumberLabel			CELL -  
+branchEmailLabel				E-MAIL : 
+gstLabel						GSTIN : 
+panLabel						PAN    :
+partyName						PARTY NAME : 
+partyAdd						PARTY ADD. : 
+mobLabel						MOB No. : 
+invNo							Invoice No : 
+invDate							Invoice Date : 
+srNo							S No.
+lrNo							LR No.
+bookingdate						Date
+invoiceno						Invoice No.
+lrConsigneeNameLabel			Customer
+articles						Art
+articleRateLabel				Rate
+toBranchLabel					Destination
+lrFreightLabel					Freight
+lrHamaliLabel					Hamali
+lrStChargeLabel					St Chg
+lrTotal							Total
+ExcFrgtHamaliSt					Other
+grandTotal						GRAND TOTAL 
+amountInwords					Rupees In Words : 
+regOffice						REG OFFICE - 
+
+
+ 

@@ -1,0 +1,22 @@
+srNo						Sr No.
+lrDate						LR Date		
+lrNo						LR No	
+vehicleNo					 Vehicle No
+from						From
+to							To
+party						Party
+invNo						Invoice <br>No.
+shipmentNo					Shipment<br> No.
+shipmentEndDate 			Shipment<br> End Date
+noOfPlates					 No of <br>Plates/Coil
+invQty						 Invoice Qty.
+charebleQty					 Chargable Qty.
+rate						Rate
+freightAmt					 Freight Amount
+rtoCharges					RTO Charges
+netFreight					 Net Freight
+panNo						PAN NO. :-
+gstnNo						GSTIN NO.- 
+hsnSac						HSN/SAC:- 
+
+								

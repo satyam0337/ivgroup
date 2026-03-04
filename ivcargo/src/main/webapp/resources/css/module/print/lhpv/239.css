@@ -1,0 +1,298 @@
+@CHARSET "ISO-8859-1";
+
+#registerdAtName, #makeName, #ModelName, 
+#colorName, #chasisNoName, #engineNoName, 
+#fitnessValidUptoName, #permitNoName,
+#dateName, #validUptoName, #insuredWithName,
+#divnNoName, #policyNoName, #policyDateName,
+#policyValidUptoName, #toName,
+#addressName,#licenseNoName,
+#licenseDateName, #issuedByName, #licenseValidUptoName,
+#lorryNoName, #challan-contractName, #lhpvNoName, 
+#lhpvDateName, #recievingPkgsName, #noInWordsName {
+	font-size: 13px; 
+}
+
+#from {
+	font-size: 14px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 10px;
+}
+
+#to {
+	font-size: 16px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 10px;
+}
+#toName {
+	font-size: 18px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 20px;
+}
+#sourceSubRegion {
+	font-size: 14px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Calibri'; font-style: normal;
+}
+#destSubRegion {
+	font-size: 16px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 5px;
+}
+#issueCity {
+	font-size: 14px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; 
+}
+#registerdAt {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+#heading {
+	font-size: 24px; color: #000000; font-weight: bold;  font-family: 'Cambria '; font-style: normal;vertical-align:bottom;text-align:center;
+}
+
+#lhpvDateName {
+	font-size: 16px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal; 
+}
+
+#destAddress {
+	font-size: 14px; font-family: 'Calibri'; font-style: normal; margin-left: 100px;
+}
+
+#make {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#model {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#color {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#chasisNo {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#engineNo {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#vehiclePerticularTitle {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal;
+}
+
+#fitnessValidUpto {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#permitNo {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#date {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#validUpto {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#insuredWith {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#divnNo {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#policyNo {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#policyDate {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#policyValidUpto {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#driverPerticularTitle {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#driverName {
+	font-size: 17px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 10px;
+}
+
+#driverNameName {
+	font-size: 17px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#mobileNoName {
+	font-size: 17px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#address {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#mobileNo {
+	font-size: 17px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 10px;
+}
+
+#licenseNo {
+	font-size: 17px; color: #000000; font-weight: ; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 10px;
+}
+
+#licenseDate {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#issuedBy {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#licenseValidUpto {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#lorryNoName {
+	font-size: 16px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 10px;
+}
+
+#lorryNo {
+	font-size: 16px; color: #000000; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 10px;
+}
+
+#challan-contract {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#lhpvNo {
+	font-size: 18px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Cambria '; font-style: normal; margin-left: 40px;
+}
+
+#lhpvNoName {
+	font-size: 18px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Cambria '; font-style: normal; margin-left: 40px;
+}
+
+#lhpvDate {
+	font-size: 16px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Cambria'; font-style: normal; margin-left: 10px;
+}
+
+/* #lorryHireRate {
+	font-size: 15px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+} */
+
+#noOfPoint {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#recievingPkgs {
+	font-size: 14px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#noInWords {
+	font-size: 14px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#issuedBranch {
+	font-size: 14px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Calibri'; font-style: normal; float: right;
+}
+
+#createdBy {
+	padding-left: 100px;
+}
+
+#lorryHireAmt {
+	text-align: center;
+}
+
+#crossingHire {
+	text-align: center;
+}
+
+#advancedPaid {
+	text-align: center;
+}
+
+#deliveryCommission {
+	text-align: center;
+}
+
+#balanceAmt {
+	text-align: center;
+}
+
+#otherCharge {
+	text-align: center;
+}
+
+#totalCollection {
+	text-align: center;
+}
+
+#pleasePayRuppesInWords {
+  margin-left: 100px;
+}
+#pleasePayRuppes {
+  margin-left: 35px;
+}
+#debitCredit {
+  margin-left: 150px;
+}
+
+#totalPayable {
+	text-align: center;
+}
+
+#borderBottom {
+	border-bottom: 1px dashed black;
+}
+
+#borderRight {
+	border-right: 1px solid black;
+}
+
+#paymentAgainstOriginal {
+	font-size: 11px; color: #000000; font-weight: bold; text-decoration: none; font-family: 'Calibri'; font-style: normal; margin-left: 10px;
+}
+
+#noPaymentUnderContract {
+	font-size: 11px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Calibri'; font-style: normal; padding-left: 2px;
+}
+
+#lorryHireRate {
+	font-size: 15px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#crossingRateName {
+	font-size: 15px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#advancedPaidName {
+	font-size: 15px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#deliveryCommissionName {
+	font-size: 15px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#balanceAmtName {
+	font-size: 15px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#otherChargeName {
+	font-size: 15px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#totalCollectionName {
+	font-size: 15px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}
+
+#loadingAmt {
+	font-size: 11px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Calibri'; font-style: normal;
+}
+
+#unloadingAmt {
+	font-size: 11px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Calibri'; font-style: normal;
+}
+
+#lsdetails {
+	font-size: 15px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;padding-right: 200px;
+}
+
+#registeredOwner {
+	font-size: 17px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Cambria'; font-style: normal;
+}

@@ -1,0 +1,30 @@
+ms						M/S.
+gstinNo					GSTIN NO.
+billNo					Bill No.
+dateLabel				Date : 
+srNo					Sr.No
+lrNo					G.R.No
+date					Date
+from					From
+to						To
+consignor				Consignor
+consignee				Consignee
+vehicleNo				Vehicle No.
+load					Load
+qty						Qty
+weight					Weight
+invNo					INV.NO
+amount					Amount
+grnNo					GRN No.
+total					Total
+cgst9per				CGST 9%
+sgst9per				SGST 9%
+igst18per				IGST 18%
+grandTotal				Grand Total
+amountInWordsLabel		AMOUNT IN WORDS : 
+ourPanNo				OUR PAN NO : 
+gstNo					GST NO.
+hsnNo					HSN NO
+authorisedSignatory		Authorised Signatory
+for						For, 
+rate					RATE

@@ -1,0 +1,5 @@
+seperator					of
+gstPaidByLabel				GST Paid By : 
+invoiceNo					INVOICE NO. :
+freightupto					Frt. UpTo :
+gstinLabel					GSTIN: 

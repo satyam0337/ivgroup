@@ -1,0 +1,16 @@
+header 						Credit Limit Usage Report
+subHeader					Search Details
+region						Region
+subRegion					Sub-Region
+branch						Branch 
+find						Find Details
+
+branchName					Branch Name
+cityName					City
+stateName					State
+branchLimit					Limit
+rechargeAmount				Usage
+currentBalance				Current Balance
+parentBranchName			Parent Branch
+branchType					Branch Type
+branchStatus				Branch Status

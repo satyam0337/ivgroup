@@ -1,0 +1,29 @@
+lrnumber				LR No : 
+date					Bk Dt : 
+lrSource				From : 
+lrDestination			To : 
+address					Address :
+packingType				Packing Type 
+noOfArticles			No of Articles 
+freight					Freight :
+loading					Loading :
+grandTotal				Total : 
+destBranch				Dest Address :
+bookedBy				Booked By :
+phone					Phone :
+lrType					LR Type : 
+declaredValue			Parcel Value : 
+NoOfPkgs				No. of Pkgs : 
+printDate				Print Time : 
+sign					Sign :
+printedBy				Printed By :
+noOfPkg					No. of Pkgs :
+diliveryAt				Dilivery at :
+material				Material :
+rupee					Rs
+consignorgstn			Consignor GSTIN :
+consigneegstn			Consignee GSTIN :
+branchgstn				GSTIN	:
+bookingServicetax		GST	:
+octroi                  Octroi :
+other                   Other :

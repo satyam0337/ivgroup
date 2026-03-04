@@ -1,0 +1,10 @@
+ {
+	"labelId":"actualtotalArticles",
+	"dataDtoKey":"totalQuantity",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":true,
+	"elementConfigKey":"TotalArticles",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

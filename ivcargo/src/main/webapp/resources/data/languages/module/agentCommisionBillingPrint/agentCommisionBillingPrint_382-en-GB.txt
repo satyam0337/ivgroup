@@ -1,0 +1,34 @@
+branchPhoneNumberLabel				Phone No :  
+branchAddressLabel					Address : 
+
+srNumberLabel						Sr.
+lrNumberLabel						LR No.
+bookingDateTimestampStrLabel		Bkg Date
+sourceBranchNameLabel				Origin
+destinationBranchNameLabel			Dest.
+wayBillTypeNameLabel				LR Type
+freightAmtLabel						Freight Amount
+commissionReceivableLabel			Receivable
+commissionPayableLabel				Commission
+totalCommissionLabel				Commission
+
+agentCommisionBillingBranchLabel								Agent Name : 
+agentCommisionBillingNumberLabel								Bill No. : 
+agentCommisionBillingCollectionPersonNameLabel					Collection Person Name : 
+agentCommisionBillingCreationDateTimeStrLabel					Date : 
+agentCommisionBillingExecutiveNameLabel							Executive : 
+agentCommisionBillingRemarkLabel								Remark : 
+
+consignorNameLabel					Consignor Name
+consigneeNameLabel					Consignee Name
+crNumberLabel						MR NO
+deliveryDateLabel					Delivery Date
+quantityLabel						NOPakgs
+weightLabel							Weight
+commissionTypeLabel					LR Type
+fromDate							From Date : 
+toDate								To Date : 
+branchName							Branch :  		
+rate								Weight/per kgs
+handlingLabel						Handling charges
+collectionLabel						Collection Charges

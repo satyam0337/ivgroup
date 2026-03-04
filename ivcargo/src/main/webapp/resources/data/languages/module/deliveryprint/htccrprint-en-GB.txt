@@ -1,0 +1,19 @@
+title				***** DELIVERY RECEIPT *****
+
+crNo				CR No :
+lrNo				LR No :
+article				Article :
+bookingStation		BookingStation :
+lrType				LR Type :
+time				Time :
+date				Date :
+phoneNo				Ph :
+item				Item :
+agent				Agent :
+m/s					M/s :
+remark				P Marka :
+freight				Freight
+hamali				Hamali
+demurrage			Demurrage
+service				Service
+totalAmt			Total Amt

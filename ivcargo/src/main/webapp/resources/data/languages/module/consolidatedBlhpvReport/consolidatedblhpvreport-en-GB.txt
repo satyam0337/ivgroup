@@ -1,0 +1,20 @@
+createDateTimeString				Date
+region								Region
+subRegion							Sub Region
+branch								Branch
+ReportSort							Report Sorting
+header								Consolidated BLHPV Report
+subHeader1							Consolidated BLHPV Report
+search								Search
+serialnumberheader					SR. No.
+creationDateTimeString				Date
+consolidatedBLHPVNumber				Cons. Blhpv No.
+fromBranchName						From
+balanceAmount						Balance
+refund								Refund
+vehicleNumber						Truck No.
+paymentModeString					Payment Mode
+chequeNumber						Cheque No.
+chequeAmount						Cheque Amt.
+date								Date
+finalAmount							Final Amount

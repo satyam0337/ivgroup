@@ -1,0 +1,23 @@
+forBooking						For Booking Queries Contact :
+lrNumber						Lr Number :
+bookingTime						Booking Time :
+lrType							Lr Type :
+invoiceNumber					Invoice No.:		
+from							From :
+to								To :
+receiverContactSign				Receiver Contact Number :	
+org								Org :
+dest							Dest :
+noOfPkgs						No. Of Pkgs :
+bookingCharges					Freight :
+pickUpCharge					PickUp Charge :
+doorCharge						Door Charges	:
+total							Total :
+bookedBy						Booking By :
+printedBy						Printed By :
+printTime						Print Time :
+deliveryAddress					Delivery Address :
+deliveryContact					Delivery Contact :
+serviceCharge                   Service Charge : 
+lrcharge                        L R Charge : 
+crossingCharge                  Crossing Charge : 

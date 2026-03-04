@@ -1,0 +1,21 @@
+phone				Ph : 
+deliveryDate		Date :
+crno				C.R No. : 
+from				From : 
+to					Branch : 
+consignee			Consignee :
+bookingdate			Bkg Date 
+lrno				LR No.
+articles			Art.
+total				Total Amt
+totalarticles		Total Articles : 
+hamali				Hamali
+crcharge			C.R Chrg.
+undercharge			Under Chrg.
+misccharge			Misc Chrg.
+grandtotal			Total : 
+remark				Remark : 
+executive			User : 
+printtime			Print Time : 
+consignorcopy		Office Copy
+consigneecopy		Consignee Copy

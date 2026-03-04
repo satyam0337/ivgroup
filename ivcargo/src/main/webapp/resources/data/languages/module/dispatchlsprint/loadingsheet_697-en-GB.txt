@@ -1,0 +1,84 @@
+srNumberLabel					SR<br>NO
+lrNumberLabel					LR<br>No.
+consignorLabel					Consignor<br>Name
+consigneeLabel					Consignee<br>Name
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	PKGS
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						TOTAL
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Mobile :
+dispatchNumberLabel				Challan No.
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From
+toBranchLabel					To
+dispatchDateLabel				Date
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF PKGS.
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				Total
+driverNameLabel					Driver Name
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						NO.OF PKGS.
+gst								GST no.
+saidToContain					CONTAINS
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							Weight
+totalLrChargeLabel				LR Charge
+packing                         Packing
+destination                     Destination
+packages                        pkgs    
+consolidateEwayBill             CEwayBill Number :                            
+privateMarkLabel                PVT MARK    
+deliveryCommission				DS Amt.
+totalLRsLabel					Total LR
+quantity						PKG
+wgt								Weight 
+paidAmt							Paid Amt.
+topayAmt						Topay Amt. 
+crossingAgentName				Crossing Agent Name :
+kantLabel						Kant
+balanceLabel					Blance
+RRNumber                        RR Number :
+transportationMode              Transportation Mode :
+deliveryAt						Del At
+Email							E-Mail : 
+lorry							Lorry No
+office							Office O.T. 
+mobile							Mobile No
+through							Through
+lorryOwner						Lorry Owner
+vehicalType						Method of<br>Vehicle
+artqty							Art/<br>Qty
+lorryFrght						Freight
+diesel							Diesel
+advance							Cash<br>Advance
+balance							Balance

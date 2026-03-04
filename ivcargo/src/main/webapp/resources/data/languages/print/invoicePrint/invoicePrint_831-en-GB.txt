@@ -1,0 +1,26 @@
+privateMark					Private Mark :
+srNo					S.No.
+bookingdate				Booking Date
+lrNo					Invoice/LR no
+description				Description
+unit					Unit
+actWt					Actual<br>Weight
+chWt					Charged<br>Weight
+qty						Qty.
+rate					Rate Per<br>Unit
+billLr					Billed LR<br>Charge
+delivery				Delivery <br>Charge
+total					TOTAL 
+privateMark					Private Mark :
+srNo					S.No.
+bookingdate				Booking Date
+description				Description
+unit					Unit
+actWt					Actual<br>Weight
+chWt					Charged<br>Weight
+qty						Qty.
+rate					Rate Per<br>Unit
+billLr					Billed LR<br>Charge
+delivery				Delivery <br>Charge
+other					Other
+total					TOTAL

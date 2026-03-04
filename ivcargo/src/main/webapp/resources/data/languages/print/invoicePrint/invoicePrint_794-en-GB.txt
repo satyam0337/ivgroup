@@ -1,0 +1,48 @@
+branchPhoneNumberLabel			Ph :  
+branchAddressLabel				Address : 
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				Form
+fromBranchLabel					From Branch : 
+toBranchLabel					To
+extraLabel						Extra
+m/s								M/s. : 
+srNo							Sr. No. 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No. :  
+date							Bill Date :  	
+lrNo							LR Number
+bookingStation					Booking<br>Station
+consignee						Consignee
+consignor						Consignor
+particulars						Particulars
+qty								Qty
+other							Other
+freight							Amount
+total							Total
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GST NO -
+contains						Contains
+invoiceno						INV<br>No
+bookingdate						Booking Date
+particulars						Particulars
+articles						Qty
+weightLabel						Weight
+RUPEES							Amount In Words :  
+branchState						Branch State : 			
+vehicleNo						Truck No
+partyINVNO						Invoice No
+rate							Rate
+hamali							Hamali
+netAmount						GRAND TOTAL
+subTotal						GROSS TOTAL
+roundOf							ROUND OFF
+additional						ADDITIONAL CHARGE

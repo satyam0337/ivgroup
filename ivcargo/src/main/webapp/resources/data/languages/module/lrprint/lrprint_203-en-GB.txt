@@ -1,0 +1,56 @@
+invoiceNumber				Invoice No. :
+declaredValue				Declared Value :
+deliveryTo					Delivery To :
+sourceBranch				From :
+destinationBranch			To :
+lrType						Type
+lrnumber					LR No. :
+bookingDate					Date :
+consignmentQuantity			Qty
+consignmentPackingType  	Packing Type
+consignmentSaidToContain  	Said To Contain
+actualWeight			  	Actual Weight
+chargeWeight			  	Charge Weight
+serviceTaxPaidBy			GST Paid By :
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					TOTAL
+consignorname				Consignor : 
+consigneename				Consignee :
+at							at
+printedby					Printed By : 
+consignorcopy				Consignor Copy 
+consigneecopy				Consignee Copy
+remark						Remark : 
+vehicleNumber				Vehicle No .:
+vehicleNumber1				Truck No. :
+gstno						GSTN : 
+gstno1						GSTIN : 
+branchgstn					GSTN : 
+address						Address :
+articles					Articles 
+saidToContaint				PERTICULARS SAID TO CONTAIN
+articleRate					Rate Per<br/>To Kg.
+freightColumn				Freight <br/>Rs.&nbsp;Ps.
+seperator					Of
+info1						GST(Mah.) : 27ADMPR9796D2ZO				
+info2						GST(Guj.)  : 24ADMPR9796D1ZV
+deliveryAt					Delivery at :
+info3						BOOKED ON OWNER'S RISK
+eCharge						A.O.C. 10%
+lrnumberManual				G.C. Note<br/>M.
+info4						Delivery "SELF" consignement will be given on "duplicate" Insurance by Party and to<br/>be send on owner's risk. Content not checked. Consignement Booked subject to terms<br/>and conditions mentioned overleaf. Door Delivery/ Godown Delivery Full Load/ Part Load/ Parcel
+info5						For, Maharaja Transliner
+bookingby					Booking Clerk
+ingo7						નામ જેગ ડાયરેક્ટ ડીલીવરી  આપવામા આયશે. આવેલ માલની ડીલીવરી ત્રણ મહીના પહેલા લેવીએ.<br/> ત્રણ  મહીના  પછીની જવાળદારી કંપનીની રહેશે નહી.
+chargeName1					Freight
+chargeName49				Handling
+chargeName58 				Door Dly.
+chargeName3					Statistical
+chargeName57 				Surcharge
+chargeName59 				Cartage
+chargeName56 				Risk Chg	
+chargeName39 				Collection
+decalredValue				Declared Value :
+EWaybillNo					E-WayBill No :
+info6						<center><b>Email : maharajatransport@hotmail.com www.mharajatronsport.com</b></center><b>MASJID BUNDAR:- H/O-</b>  317. Narsi Natha Street, Kharek Bazaar,Mumbai:-4000009.<br> Ph-23441753 /48260644  MOB NO: +91 9638694583.<br/><b>BHIWANDI:-</b> Gala NO: A-5, Doulat Compound Opp. Rahnal Gate, Rehnal Bhiwandi -421302 <br> Mob No. 7506042705/9638694583<br/><b>BHUJ :- R/O-</b> Shop No.111/112, Geeta Market, of Market Yard, Bhuj Madhapar Highway <br> MOB NO :- +91 9638694583/9033951662/7043804230.<br/><b>GANDHIDHAM:-</b>  S.R.C Godown No 7, Near Gurudwara, Khanna Market, Gandhidham - 370201 <br> Phone No. 02836 238419/9638694583/9913563283.<br/><b>VAPI:- </b> God No. 37, Nirmal Chamber Plot No 163/A 2nd Phase Near Sayyed Paper Mill GIDC Vapi-396195 <br> Mob No.+91 7043660767/9638694583<br/>

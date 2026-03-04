@@ -1,0 +1,9 @@
+ {
+	"labelId":"consigneeNumber",
+	"dataDtoKey":"consigneeNumber",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":"false",
+	"elementConfigKey":"consigneeNumber",
+	"columnPrintWidthInPercentage":"30",
+	"columnWidth":120
+}

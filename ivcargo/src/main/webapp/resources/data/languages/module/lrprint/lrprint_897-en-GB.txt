@@ -1,0 +1,21 @@
+gst						GST : 
+gstNo					09AARFV0390H1ZP
+consignorCopy			Consignor Copy
+consigneeCopy			Consignee Copy
+allDisputes				All disputes subject to Varanasi Jurisdiction only.
+helpline				Help Line No. - 0542-4068493  
+lrNo					LR No. : 
+from					From : 
+to						To : 
+consignorMs				Consignor M/s. 
+consigneeMs				Consignee M/s. 
+contactNo				Contact No. 
+gstin					GSTIN : 
+date					Date :  
+lrType					LR Type :  
+pm						P.M.
+total					TOTAL
+ewayBill				E WAY BILL NO. : 
+remark					Remark : 
+invoice					Invoice
+declareValue			Declared

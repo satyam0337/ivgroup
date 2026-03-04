@@ -1,0 +1,9 @@
+ {
+	"labelId":"articleDetails",
+	"dataDtoKey":"articleDetails",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":"false",
+	"elementConfigKey":"ArticleDetails",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+}

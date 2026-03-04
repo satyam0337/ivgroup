@@ -1,0 +1,23 @@
+contactNoLabel					Contact No.:
+lrNoLabel						LR No:
+sourceLabel						Source: 
+consignorLabel					Consignor:
+consignorNoLabel				Consignor No:
+noOfPkgsLabel					No. of Pkgs:
+artTypeLabel					Art Type:
+freightLabel					Freight:
+doorPickupLabel					Door Pickup:
+doorDeliveryLabel				Door Delivery: 
+otherLabel						Other:
+remarkLabel						Remark: 
+bookedByLabel					Booked By: 
+deliveryBranchContactLabel		Delivery Branch Contact:
+lrTypeLabel						LR Type:
+destinationLabel				Destination:
+consigneeLabel					Consignee: 
+consigneeNoLabel				Consignee No:
+loadingLabel					Loading:
+totalLabel						Total:
+bkgTimeLabel					Bkg Time: 
+printTimeLabel					Print Time: 
+printedByLabel					Printed By: 

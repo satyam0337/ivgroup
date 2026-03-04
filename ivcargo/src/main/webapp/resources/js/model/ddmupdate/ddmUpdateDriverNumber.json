@@ -1,0 +1,12 @@
+{
+	"elementId"				: "driverNumber",
+	"elementName"			: "driverNumber",
+	"elementGlyphicon"		: "glyphicon glyphicon-none",
+	"elementType"			: "text",
+	"tooltipName"			: "Driver Number",
+	"divRegion"				: "driverNumberDiv",
+	"parentDivCss"			: "col-xs-10",
+	"elementValueMaxLength" : 10,
+	"elementStyle" 			: "width: auto",
+	"labelId"				: "driverNumberSelect"
+}

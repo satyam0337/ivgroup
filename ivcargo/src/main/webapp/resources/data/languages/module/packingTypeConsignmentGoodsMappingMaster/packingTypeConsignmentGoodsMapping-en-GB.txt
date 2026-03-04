@@ -1,0 +1,10 @@
+header 							Article Mapping Master
+subHeader1						Add Said To Contain
+subHeader2						Delete Said To Contain
+subHeader4						Details
+packingType						Select Packing Type
+saidToContain					Select Said To Contain
+selectedSaidToContain			Selected Said To Contain	
+deleteCheckBox					Delete All
+packingTypeName					Packing Type
+consignmentGoodsName			Said To Contain

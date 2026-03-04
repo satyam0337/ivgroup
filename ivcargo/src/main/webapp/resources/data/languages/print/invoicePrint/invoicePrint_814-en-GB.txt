@@ -1,0 +1,32 @@
+invoice						INVOICE
+ms							M/S
+gstNo						GST No.
+ph							PH:
+email						Email:
+billFrom					Bill From
+billNo						Bill No.
+billDt						Bill Dt.
+month						Month
+dueDt						Due Dt.
+sr							Sr.
+grNo						G.R No.
+date						Date
+pMark						P. Mark
+pkgs						Pkgs
+wght						Wght.
+bills						Bills
+station						Station
+rate						Rate
+frt							Frt.
+grCh						GR Ch.
+other						Other
+total						Total
+cgst						CGST
+sgst						SGST
+igst						IGST
+billAmount					Bill Amount :
+for							For 
+authorisedSignatory			Authorised Signatory
+additionalCharge			Additional Charge
+totalgst                    Round Off Amt.
+additionaldiscount          AdditionalDiscount

@@ -1,0 +1,11 @@
+{
+	"elementId"				: "lorryHireAmount",
+	"elementName"			: "lorryHireAmount",
+	"elementGlyphicon"		: "glyphicon glyphicon-none",
+	"elementType"			: "text",
+	"tooltipName"			: "Amount",
+	"elementValueMaxLength" : 8,
+	"parentDivCss"			: "col-xs-10",
+	"elementStyle" 			: "width: auto",
+	"labelId"				: "lorryHireAmountSelect"
+}

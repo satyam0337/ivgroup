@@ -1,0 +1,63 @@
+srNumberLabel					S NO.
+lrNumberLabel					GR No.
+consignorLabel					CONSIGNOR
+consigneeLabel					CONSIGNEE
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	PKGS
+dispPakgs						DISP PKGS
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						AMOUNT
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Menifest : 
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					Dispatch From : 
+toBranchLabel					Dispatch To : 
+dispatchDateLabel				Manifest Date : 
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF ARTICLES
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				AMOUNT
+driverNameLabel					Driver Name : 
+driverMobLabel					Driver Mobile No. : 
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				ORIGIN
+lrDestinationBranchLabel		DESTINATION
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						GR DATE
+packages						Art
+gst								GST no.
+saidToContain					CONTENTS
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Owner Name :
+weight							WEIGHT
+totalLrChargeLabel				LR Charge
+ConsolidateEwaybillNo		Consolidate EWAY BILL :
+broker						Broker : 
+ewayBill					EWAY BILL No.
+privateMark					PVT MARKA
+loadByLabel					Loaded By : 
+Ewaydate					EWAY Bill Date : 

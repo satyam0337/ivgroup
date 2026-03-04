@@ -1,0 +1,9 @@
+{
+	"elementId"			: "hsnCode",
+	"elementName"		: "hsnCode",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "HSNCode",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: auto"
+}

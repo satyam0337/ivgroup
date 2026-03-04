@@ -1,0 +1,92 @@
+srNumberLabel					Sl<br>No.
+lrNumberLabel					C n.no.
+quantityLabel					Quantity
+weight							Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				From 
+fromBranchLabel					Branch : 
+toBranchLabel					To 
+m/s								M/s. : 
+srNo							Sr.<br>No 
+gst								GST No. :
+stateCode						State Code : 
+billNo							Invoice No : 
+date							Date: 	
+lrNo							CN No.
+bookingStation					Booking<br>Station
+partyName                       Bill To:
+particul						Particulars
+qty								Qty
+other							Other
+freight							Freight
+total							Bkg.<br>Total
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+gstno							GST No :
+invoiceNo						Bill No.
+bookingdate						Date
+articles						Articles
+lrNumber						LR Number
+lrSourceBranchlabel				Source
+destination						Destination
+sNo								SNo
+particularss					Particulars
+totalamount						Net<br>Amount
+gstn                            GSTN :
+freight                         FREIGHT
+cgst                            CGST 2.5%
+sgst                            SGST 2.5%
+igst                            IGST 5%
+total                           TOTAL
+gr                              GR
+consignor                       Name & Address of Billing Party:
+from                            From
+to                              To
+pkg                             PKG
+wt                              WT
+rate                            Rate
+dc                              DC
+otc                             OTC   
+invno                           Inv No.   
+chargewt                        Chrg Wt 
+freight                         Freight 
+cnNo							CN.No.    
+pkgs							No.of <br>Pkgs
+ddcharge						DD.Ch
+bilNo							Inv No :
+totalArticle					Packing
+LrCharge						GC Ch
+OtherCharge						Others
+fromDt                          From Dt:
+toDT                            To Dt:
+bookingDate                     B.Date
+partyBill                       Party Bill No
+station                         Dst.
+item                            Item
+pkg                             Pkgs
+wgt                             Wgt
+bcharge                         B.ch
+bank                            Bank
+ifs                             IFS Code
+accNo                           Account No
+bankno                          AXIS BANK LTD.                           
+accNono                         922020007926539
+ifsno                           UTIB0002741
+transId                         Trans Id:
+remark                          Remarks:
+invoiceValue                    Invoice Value
+totlegst                        Total GST
+tollTotal                       Space(1)& "Total Toll Tax"
+DeliveryDate    				Del Date 
+crNo							CR No
+pan								PAN NO :
+sac								SAC :
+consignee						Consignee
+src								Ori
+mode							Mode
+other							Other

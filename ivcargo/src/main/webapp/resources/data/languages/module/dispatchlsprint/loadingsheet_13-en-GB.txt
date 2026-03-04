@@ -1,0 +1,29 @@
+branchAddressLabel				Address : 
+branchPhoneNumberLabel			Phone No : 
+srNumberLabel					#
+lrNumberLabel					LR No
+bkgDateLabel					Date
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+consignorLabel					Consignor
+consigneeLabel					Consignee
+totalArticleLabel				Articles
+weightLabel						Weight
+amountLabel						Freight
+lrRemarkLabel					Remark
+totalLabel						TOTAL
+dispatchNumberLabel				Dispatch No :
+vehicleNumberLabel				Vehicle No :
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+
+lsRemarkLabel					Remark : 
+driverNameLabel					Driver:
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+driverMob						Driver Contact:
+lrCategoryLabel					LR Type

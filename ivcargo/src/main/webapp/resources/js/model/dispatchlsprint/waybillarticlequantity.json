@@ -1,0 +1,11 @@
+ {
+	"elementId":"wayBillArticleQuantityEle",
+	"elementName":"wayBillArticleQuantityEle",
+	"tooltipName": "Article Quantity",
+	"labelId":"WayBillArticleQuantity",
+	"elementDefaultValue":"",
+	"dataDtoKey":"wayBillArticleQuantity",
+	"elementConfigKey": "WayBillArticleQuantity",
+	"columnPrintWidthInPercentage": "40",
+	"parentDivCss": "col-xs-4"
+}

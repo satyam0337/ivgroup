@@ -1,0 +1,7 @@
+header 						Crossing Agent Invoice Modification
+subHeader					Search Details
+find						Find Details
+billNumberLabel				Bill Number
+branchNameLabel				Branch
+crossingAgentLabel			Crossing Agent
+crossingAgentTypeLabel		Type

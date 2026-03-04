@@ -1,0 +1,38 @@
+phNoLabel				Ph.No:
+gstNoLabel				GST No:
+lrNo					LR No
+from					From
+to						To
+date					Date
+lrType					LR Type
+fromBranch				From Branch
+toBranch				To Branch
+wayBillNo				WayBill No.
+senderName				Sender Name
+senderNumber			Sender Number
+receiverName			Receiver Name
+receiverNumber			Receiver Number
+itemDescription			Item Description
+quantity				Quantity
+kgs						Kgs 
+freightCharge			Freight Charge (₹)
+totals					Totals
+valueOfTheGoods			Value Of the Goods
+loading					Loading
+unloading				Unloading
+doorCollection			Door Collection
+doorDly					Door Dly.
+other					Other
+otherCharges			Other Charges (₹)
+conditionOfTheGoods		Condition of the Goods
+netAmountPayable		Net Amount Payable (₹)
+modeOfTransport			Mode of Transport
+vehicleNumber			Vehicle Number
+vehicleCopy				Vehicle Copy
+signature				Signature
+bookedBy				Booked By
+at						at
+receiverCopy			Receiver Copy
+senderCopy				Sender Copy
+lrCharge				LR Charge
+saidToContainLabel		Said to Contain - 

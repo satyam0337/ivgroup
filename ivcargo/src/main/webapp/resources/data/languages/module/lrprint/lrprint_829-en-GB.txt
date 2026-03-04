@@ -1,0 +1,20 @@
+LRNO		LR NO : 
+toCity		To City :  
+sender		Sender : 
+receiver	Receiver : 
+itemType	Item Type : 
+weight		Weight : 
+qty			Quantity : 
+rate		Rates : 
+freight		Freight : 
+hamali		Hamali Charges : 
+amount		Amount : 
+bookedBy	Booked By :
+bookedTime	Booking Date Time : 
+dest		Destination Branch Address : 
+gstpaidBy	GST PAID BY : 
+senderMob	Sender Mob No. : 
+receiverNo	Receiver Mob No. : 
+gst			GST : 
+declared	Declared Value : 
+invoice		Invoice No : 

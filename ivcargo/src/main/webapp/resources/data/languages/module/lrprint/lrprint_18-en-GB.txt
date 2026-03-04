@@ -1,0 +1,31 @@
+branchAddress		N.H. 66, Hanglur, Kundapur - 576 217, Udupi District, Karnataka
+header				PARCEL / LUGGAGE BOOKING RECEIPT
+bookingDate			Booking Date : 
+wayBillNumber		WayBill No : 
+consignmentHeader	-- Consignment Details --
+srcBranch			From :
+destBranch			To :
+consignorName		Received From :
+consigneeName		Delivery To :
+packingTypes		Packing Type :
+qtyTotal			Total :
+deliveryAddress		Delivery Address :
+liability			(Our liability is only for Rs. 300/-) 
+chargesHeader		-- Charges Details --
+bookingTotal		Total
+ruleHeader			-- RULES & REGULATIONS --
+rule2				Parcel/Luggage are carried at owner's risk.
+rule3				In case the parcels are lost or damaged on transit the company will not take any liabilities on it.
+rule5				We do not hold any responsibility on the late arrival of Luggage / Parcel.
+rule6				Any enquiry regarding the Luggage / Parcel should be made within 2 days.
+rule7				In case the Luggage / Parcel is not collected within 4 days demurrage will be charged as per rule.
+rule8				If the luggage or parcel / cover damaged or misplaced our liability is upto Rs. 300/- only.
+rule9				All disputes are under the jurisdiction of Kundapura Court only.
+rule10				Consignor assure the Parcel / Carrier that the Parcel does not contain any contraband goods / article.
+readnaccept			Read and Accepted
+sign				Consignor Signature
+printedBy			Printed By
+customerCopy		Customer Copy
+officeCopy			Office Copy
+noOfPkgs			No. of Pkgs :
+serviceTax			GST

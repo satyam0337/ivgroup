@@ -1,0 +1,40 @@
+branchPhoneNumberLabel			Ph :  
+branchAddressLabel				Address : 
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				FORM 
+fromBranchLabel					From Branch : 
+toBranchLabel					TO
+lorryHireAmtLabel				FREIGHT
+extraLabel						Extra
+m/s								M/s. : 
+srNo							S No. 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No. : 
+date							Invoice Date : 	
+lrNo							LR No.
+bookingStation					Booking<br>Station
+consignee						CONSINGNEE NAME
+particulars						Description
+qty								Qty
+other							Other
+freight							FREIGHT
+total							TOTAL
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GST NO -
+contains						Contains
+invoiceno						INV<br>No
+bookingdate						B. DATE
+particulars						Particulars
+articles						ART
+weightLabel						WEIGHT
+note1							Please Collect The Oncredit Statement Please Realease The Payment In A Week
+RUPEES							Amount In Words :  

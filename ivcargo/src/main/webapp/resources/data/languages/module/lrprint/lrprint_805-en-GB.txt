@@ -1,0 +1,29 @@
+lrnumber				WB No:
+date					Bkng Time: 
+lrSource				Org: 
+lrDestination			Dest: 
+consignorName			Sender: 
+consigneeName			Receiver: 
+consigneeNamephone		Receiver No:
+NoOfpkg					No. of Pkgs:
+phone					Sender No: 
+lrType					WB Type: 
+declaredValue			Value of the Parcel : 
+NoOfPkgs				Packing Dtls: 
+freight					Freight : 
+loading					Loading : 
+grandTotal				Total: 
+bookedby				Booked By: 
+printDate				Print Date : 
+sign					Sign : 
+deliverAt				Delivery At : 
+gstNo					GSTN:
+eWayBillNo				E-WayBill :
+invocieNo               Invoice No :
+remark                  Remarks:
+hamali					Hamali : 
+cartage					Cartage :
+other					Other : 
+deliveryAdd				Branch:
+mob						Mobile : 
+destination				Destination:

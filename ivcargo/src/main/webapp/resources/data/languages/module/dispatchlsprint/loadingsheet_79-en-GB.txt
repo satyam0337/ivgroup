@@ -1,0 +1,78 @@
+srNumberLabel					SL.NO.
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	NO. OF PKGS
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						TOTAL
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loory No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				PKG
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				Total
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+noOfLr                          No. of LRs
+weight							Weight
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lrRemarkLabel					Remark
+receiveLabel					Receiver Sign
+bookingDate						LR.DATE
+packages						NO.OF PKGS.
+gst								GST no.
+saidToContain					CONTAINS
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Owner : 
+weight							ACTUAL WEIGHT
+challanNo						Challan No:
+lorryNo							Lorry No:
+height 							Height:
+agent							Broker :
+driverNo1 						Cont. No 1:
+driverNo2 						Cont. No 2:
+ownerNo1						Cont. No 1:
+ownerNo2						Cont. No 2:
+engineNo						Engine No:
+chasisNo  						Chasis No:
+driverLic						Lic No :
+agentNo							Check Post Agent Name:
+destinationContactNo			Destination Contact No:
+telNo							Tel No:
+driverSign						Driver's Signature ________
+driverCopy						DRIVERCOPY
+cci								FOR CALCUTTA CARRIERS OF INDIA
+notes							The Goods should be delivered within...............days otherwise penalty will be deducted Rs.500/- per days.
+trucktype						Truck Type :
+ewaybill						E-Way Bill
+ownercontactno					Owner cont. No:-
+lsRemarkLabel					Remark : 

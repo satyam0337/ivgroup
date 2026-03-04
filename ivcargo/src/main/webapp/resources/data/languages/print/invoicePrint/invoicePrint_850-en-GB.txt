@@ -1,0 +1,47 @@
+taxInvoice					TAX INVOICE
+mobileLabel					Mobile :
+emailLabel					E-Mail: 
+gstino						GSTINo:
+billTo						BILL TO
+nameLabel					Name:
+addressLabel				Address:
+phoneNoLabel				Phone No:
+gstNoLabel					GST No:
+invoiceDetails				INVOICE DETAILS
+invoiceNoLabel				Invoice No:
+invoiceDateLabel			Invoice Date:
+hsnCodeLabel				HSN Code:
+sNo							S.No
+date						Date
+lrNo						LR No
+companyName					Company Name
+vehicleNo					Vehicle No
+noBox						No<br/>Box
+weight						Weight
+amount						Amount
+bankDetails					BANK DETAILS
+bankNameLabel				BANK NAME:
+acNameLabel					A/c NAME:
+acNoLabel					A/c No:
+ifscCodeLabel				IFSC Code:
+branchLabel					BRANCH:  
+totalQtyLabel				Total Qty:
+totalAmtLabel				Total Amt:
+loadingChrgLabel			Loading Chrg:
+unloadingChrgLabel			Unloading Chrg:
+doorDlyChrgLabel			Door Dly Chrg:
+doorPickupLabael			Door Pickup Chrg:
+lrChrgLabel					LR Chrg:
+totalLabel					Total:
+cgstLabel					CGST : 6.00 %
+sgstLabel					SGST : 6.00 %
+igstLabel					IGST : 12.00 %
+totaldlycharge				Door Dly.
+totalPickupCharge			Door Pickup
+rndOffLabel					Rnd.Off:
+amountInWordsLabel			Amount in<br/>words:
+grandTotalLabel				Grand Total: 
+customerSignature			Customer Signature
+remarksLabel				Remarks:
+for							For
+excessCharge				EXCESS CHARGES

@@ -1,0 +1,60 @@
+srNumberLabel					SR
+lrNumberLabel					CHALLAN<br>NO.
+consignorLabel					SENDER NAME
+consigneeLabel					RECEIVER NAME
+consigneeContactLabel			RECEIVER<br>CONTACT NO.
+consignorContactLabel           SENDER<br>CONTACT NO. 
+lrTypeLabel						PAYMENT TYPE
+consignmentPackingDetailsLabel	ITEM TYPE(QTY)
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						TOTAL
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					Dispatch By Branch : 
+toBranchLabel					Destination Branch :  
+dispatchDateLabel				Transaction Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF ARTICLES
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				AMOUNT
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		TO BRANCH
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						Art
+gst								GST no.
+saidToContain					DESCRIPTION
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WEIGHT
+totalLrChargeLabel				LR Charge
+ConsolidateEwaybillNo		Con.EwaybillNo :
+dispatchTimeLabel                Report Generation Time : 
+freightLabel                    FREIGHT
+hamaliLabel                      HAMALI

@@ -1,0 +1,83 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To Branch : 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							Sr<br>No 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							LR Date 	
+lrNo							LR No
+bookingStation					Booking<br>Station
+consignee						CONSIGNEE
+particulars						DESCRIPTION
+qty								Qty
+other							OTHER
+freight							FRT
+total							TOTAL
+gst5							GST 5%
+note							Note
+hamali							HAMALI
+LrMt							LR
+consignor						CONSIGNOR
+name							Name :
+address							Address :
+inv.No.							Inv.No :
+inv.Date.				        Inv.Date :
+
+
+
+
+
+
+
+partyNameLable 								Party's Name:
+billNumberLable								Bill No.
+addressLable								Address:
+gstNumberLable								GST No.
+dateLable									Date - 
+
+
+srNumberLable								SR. No.
+lrNumberLable								L.R.No.
+dateTableLable								Date
+fromLable									From
+toLable										To
+quantityLable								Quantity
+descriptionSaidContentLable					Description/Said Content
+freightChargeLable							Freight
+lrChargeLable								L R<br> Charge
+hamaliChargeLable							Hamali
+aocChargeLable								AOC
+collectionChargeLable						Collection
+doorDeliveryChargeLable						Door Dly
+totalAmountLable							Total Amount
+
+grandTotalLable								Total
+rupeesInWords 								Rupees in words - 
+
+
+gstDetailsForServicesLable					GST Details For Services
+rateOfTaxLable								Rate Of Tax
+amountLable									Amount 
+cgstLable									CGST
+sgstLable									SGST
+igstLable									IGST/UTGST

@@ -1,0 +1,33 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery At :
+sourceBranch				From :
+destinationBranch			To :
+bookingDate					Date :
+actualWeight			  	Actual Wt:
+chargedWeight			  	Charged Wt:
+consignorname				Consignor :
+consigneename				Consignee :
+remark						Remark :
+serviceTax					GST
+other						Other
+grandTotal					Total
+tinNo						TIN No : 
+number						Ph : 
+chargeName23				Stationary	
+printedby					Printed By : 
+seperator					Of
+serviceTaxPaidBy			GST Paid By :
+mobilenumber				Mobile :
+consignmentQuantity			Qty.
+description					Description
+gstin						GSTIN -  
+lrNo						LR No :
+srcBranchNo            		Phone No :
+destBranchNo           		Phone No :
+srcBranchGstn				Branch GSTIN :
+freight						Freight
+hamali						Hamali
+stationary					Stationary
+doorDelivery				Door Dly
+other						Other

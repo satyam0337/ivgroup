@@ -1,0 +1,8 @@
+{
+	"elementId"			: "photo",
+	"elementName"		: "photo",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "file",
+	"tooltipName"		: "Name",
+	"parentDivCss"		: "col-xs-6"
+}

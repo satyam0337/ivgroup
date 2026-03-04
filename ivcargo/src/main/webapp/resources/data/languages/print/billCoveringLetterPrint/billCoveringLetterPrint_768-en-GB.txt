@@ -1,0 +1,36 @@
+
+toLabel							To,  
+phoneNumberLabel				PHONE :  
+emailLabel						Email : 
+gstnLabel						GSTN : 
+billCoverLetterNumberLabel		Doc No :
+billCoverLetterDateLabel		Date :  
+date							BILL DATE  
+amountLabel						AMOUNT
+lrSourceBranchLabel				FROM 
+lrDestBranchLabel				DESTINATION 
+lrNumberLabel					BILL NO
+billTypeLabel					BILL TYPE
+header1							COVERING LETTER
+header2							OUTGOING BILLS
+dataInfo1						Dear Sir/Madam,
+dataInfo2						Authorised Signatory
+dataInfo3Email					sharmalks@srikrishnalogistics.in
+dataInfoMsg1					We are submitting the following bills for your reference. Kindly verify and acknowledge after checking. These bills have been submitted along with hard copies of the POD (Proof Of Delivery).
+dataInfoMsg2					We Shall be highly obliged if you kindly pass our bills and remit us the payment at your earliest
+dataInfoMsg3					Thanking you<br>Your's Faithfully<br>Sri Krishna Logistics
+
+bankDetails						Bank Details
+accountNameLabel                ACC. NAME
+bankNameLabel                   BANK NAME
+accountNoLabel                  ACC. No.
+ifsCodeLabel                    IFS CODE 
+branchLabel                     BRANCH
+accountName                     : M/s. Sri Krishna Logistics
+bankName                        : ICICI Bank (India)
+accountNo                       : 603505500630
+ifsCode                         : ICIC0006035
+branchAddressLabel				ADDRESS : 
+srNo							SR NO
+remark							REMARK
+                            

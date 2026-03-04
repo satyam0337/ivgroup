@@ -1,0 +1,54 @@
+invoiceNumber				INVOICE NO. : 
+declaredValue				VALUE :
+deliveryTo					DELIVERY AT :
+sourceBranch				FROM : 
+destinationBranch			TO : 
+lrType						FREIGHT BY
+lrnumber					LR NO. :
+bookingDate					DATE :
+consignmentQuantity			ARTICLE
+description				  	SAID TO CONTAIN
+consignmentSaidToContain  	Said To contain
+actualWeight			  	WEIGHT
+chargeWeight			  	Charge Weight :
+serviceTaxPaidBy			GST Paid By :
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					GRAND TOTAL
+consignorname				CONSIGNOR : 
+consigneename				CONSIGNEE :
+at							AT
+printedby					Printed By : 
+freight						FREIGHT
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					OF
+remark						REMARK : 
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						RATE 
+insuredby					Insured By : 
+deliveryType				DELIVERY TYPE : 
+mobileno					MOB : 
+tinno						TIN NO. : 
+gstn						GST - 
+billingParty				BILLING PARTY : 
+info1						1. This GC note is issued to the Condition printed overlef to the consignor& consignee too.
+info2						2. Subject to Rajkot jursidiction only 3 E & O E 
+forCompanyName				For, AAKASH ROADWAYS
+freight						FREIGHT
+bc							B.C.
+pf							P/F
+lc							L/C
+dd							D/D
+
+eWayBillNo					E WayBill No : 

@@ -1,0 +1,53 @@
+branchGstnNumberLabel                       GSTIN:-
+branchPanNumberLabel                        PAN No.:-
+cinNumberLabel                              CIN No.:-
+billedToLabel                               Billed To:-
+billedBranchGstnNumberLabel                 GSTIN/Unique ID :-
+billedPlaceLabel                            PLACE OF SERVICE :-
+invoiceNumberLabel                          Invoice No.:-
+invoiceDatedLabel                           Invoice Dated :-
+hsnCodeLabel                                HSN Code :-
+billPeriodLabel                             Bill Period :-           
+serialNumberLabel                           Sr No.
+bookingDateLabel                            BOOKING<br> DATE
+lrNumbreLabel                               CN NO 
+lrInvoiceNumberLabel                        INVOICE<br> NUMBER
+lrConsignorLabel                            CONSIGNOR
+fromLabel                                   FROM
+lrConsigneeLabel                            CONSIGNEE
+lrDestinationLabel                          DESTINATION
+numberOfPackage                             PCS
+weightItemLabel                             WEIGTH
+itemLabel                                   SAID TO <br> CONTAIN
+lrAmountLabel                               AMOUNT
+odaChargesLabel                             ODA 
+otherChargeLabel                            OTHER<br>CHARGES
+finalAmountLabel                            FINAL<br> AMOUNT
+subTotalLabel                               Sub Total
+totalLabel                                  Total
+centralGstLabel                             Central GST
+stateGstLabel                               State GST
+integratedGstLabel                          Integrated GST
+roundOffLabel                               Round Off
+grabdTotalLabel                             Grand Total
+amountInWordLabel                           Amount Chargeable (in words)
+textLabel                                   E & O.E
+bankDetailsLabel                            Bank Details 
+bankNameLabel                               Bank Name
+acountLabel                                 A/C Name
+accountNumberLabel                          A/C  No (Current) 
+ifscCodeLabel                               IFSC Code 
+bankBranchLabel                             Branch
+perPcsRateLabel                             PER PCS<br> RATE
+ratePerPieceLabel                           RATE PER<br> PIECE
+freightLabel                                FREIGHT
+laborChargeLabel                            LABOUR<br> CHARGES
+builtyChargeLabel                           BUILTY<br> CHARGES
+chargeWeightLabel                           CHARGED<br> WEIGHT
+perPackLabel                                PER PCS
+additionalChargeLabel 						Additional Charge
+additionalDiscountLabel						Additional Discount
+docket										DOCKET 
+dd											DOOR DLY 
+handling									HANDLING 
+pickup										PICKUP 

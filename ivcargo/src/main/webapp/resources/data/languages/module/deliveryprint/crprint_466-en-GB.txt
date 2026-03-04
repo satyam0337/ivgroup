@@ -1,0 +1,74 @@
+
+branch						Branch
+IssuingOffice				Issuing Office
+CRNo						SR No. 
+date						Date   
+LRNO						LR No. 
+LRDate						LR Date
+FromCity					From City
+LRType						LR Type:
+Consignee					Consignee: 
+DeliveredTo					Delivered To
+cmpNo						Phone No
+gst							GST No
+Remark						Remark
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				No. of Articles
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					LR Amount
+crCharge					CR Charge
+source						From
+Destination					To 
+consignor					Consignor: 
+paymenttype					Payment Type:
+deliverySlip                Delivery Slip
+e-WayBillStatus             EWD Status 
+transporterID               TransporterID 
+from                        From Station 
+sender                      Consignor 
+receiver                    Consignee 
+noofparcel                  No. of Parcel 
+demurrageAmt                Demurrage Amt. 
+handling                    Handling Amt. 
+delivery                    Delivery Chg. 
+toPay                       ToPay Amt. 
+totalAmount                 TotalAmount  
+delivered By                Delivered By 
+totalAmount                 TotalAmount 
+deliveredby                 Delivered By :
+deliveryTo					DeliveryTo
+toStation					To Station
+fromBranch                  From Branch
+toBranch                    To Branch               
+lrType                      LR Type
+lrNo                        LR No
+consignorName               Consignor
+ewdStatus                   Ewd Status
+handlingCharges             Handling Charges
+tempo                       Tempo  
+topayAmount                 ToPayAmount
+totalAmount                 Total Amount
+memoNumber                  SR NO:
+consigneename               Consignee Name:
+memoDate                    Delivery Date :
+srNo                        SR No
+handling                    Handling
+demurrage                   Demurrage
+tempo						Tempo

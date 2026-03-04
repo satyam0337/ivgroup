@@ -1,0 +1,18 @@
+reportSelection			Report Type
+vehicleNumber			Vehicle Number
+region					Region
+subRegion				Area
+branch					Branch
+header					Vehicle Track Report
+search					Search
+serialnumberheader		SR. No.
+lastBranchName			Last Branch
+nextBranchName			Next Branch
+routeFromBranchName		Route From
+routeToBranchName		Route To
+tesNumber				T.E.S No.
+lhpvDateString			LHPV Date
+lhpvNumber				LHPV No.
+currentBranchName		Current Branch
+currentTimestampString	Last Date-Time
+previousTimestampString	Previous Date-Time

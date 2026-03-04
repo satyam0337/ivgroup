@@ -1,0 +1,37 @@
+header 						E-Waybill Details Module
+date						Date
+ewaybillNo					E-Waybill No&emsp;
+failedLs					Failed Ls
+successLs					Success Ls :
+search 						Find E-Waybill Details
+searchBy					Search By : 
+searchOtherParty			Search Other Party
+consignorGstNo				GSTIN&emsp;
+tripSheetDetails			Trip Sheet Details
+consignorGstnDetails		Party Details
+transporterDetails			Transporter Details
+document_date				E-WayBill Date
+eway_bill_number			E-WayBill Number
+gstin_of_consignee			Consignee GSTN
+gstin_of_consignor			Consignor GSTN
+legal_name_of_consignee		Consignee
+legal_name_of_consignor		Consignor
+actual_from_state_name		From
+actual_to_state_name		To
+eway_bill_status			Status
+eway_bill_valid_date		Valid date
+subHeaderEwaybillNoWise		E-Waybill Details
+subHeaderDateWise			All E-Waybill Details
+document_number				LR No
+pincode_of_delivery			Dest.Pincode
+state_name_of_delivery		Address
+reject_status				RejectStatus
+eway_bill_valid_date		Valid Date
+lrGenerated					LR Generated
+eway_bill_date				Date/Time
+waybillNumber				LR Number
+waybillStatusName			LR Status
+consolidatedEwaybillNumber	Consolidate E-WayNo
+vehicleNumber				VehicleNo
+upload						Upload Image
+state						Search State

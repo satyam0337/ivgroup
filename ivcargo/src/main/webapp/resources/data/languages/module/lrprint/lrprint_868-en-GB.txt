@@ -1,0 +1,44 @@
+info1					OFFICE COPY : 
+branchGst				Kalpana Travels Gst No:
+officeparcel   			PARCEL / LUGGAGE BOOKING RECEIPT
+info3					CUSTOMER COPY :
+customerparcel          PARCEL / LUGGAGE BOOKING RECEIPT
+lrType					LR Type :
+lrNo					LR No :
+bookingTime				Bkg Time :
+sourceBranch			From :
+destBranch				To :
+consignor				Consignor :
+consignee				Consignee :
+consignorGstn			GSTN :
+consigneeGstn			GSTN :
+consignorNo				Consignor No :
+consigneeNo				Consignee No :
+noOfConsignments		No.OfCongs :
+noOfPackages			No.of Pkgs :
+gstn					GSTN :
+gst						GST :
+natureOfPackage			Nature Of Pkg :
+freight					Freight :
+loading					Loading :
+other					Other :
+hamali				Hamali :
+discount				Disc :
+sgst					SGST :
+cgst					CGST :
+igst					IGST :
+total					Total :
+bookedBy			 	Booked By :
+printedBy				Printed By :
+printTime				Printed:
+info2					If anybody asks service charge more than 20 Rs per parcel, please contact 022 28919944.
+gstn					GSTIN -
+deliveryBranch			Delivery Branch : 
+deliveryAt				Delivery At : 
+contact					Contact
+invoicenumber  		    Inv.No:
+declaredvalue           Dec.Value:
+gstPaidBy				GST Paid By:
+bookedAtOwner			Note: PARCEL BOOKED AT OWNER'S RISK.
+unloading				Unloading
+grandTotal				Grand Total

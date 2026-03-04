@@ -1,0 +1,28 @@
+mslable							M/s.
+addressLable					Address  
+gstNumberLable					GST.No. 
+panNumberLable					PAN.No.
+
+invoiceNumberLable				Invoice No.
+invoiceDateLable				Invoice Date.
+sacCodeLable					SAC Code.
+
+srNumberLable					S.No.
+lrDateLable						DATE
+lrNumberLable					LR NO.
+fromLable						FROM
+toLable							TO
+quantityLable					QTY.
+transportationModeLable			MODE
+weightLable						WEIGHT Kgs.
+rateLable						RATE
+freightLable					FREIGHT
+otherLable						OTHERS
+totalLable						TOTAL
+grandTotalLable					Total
+cgstLable						CGST
+sgstLable						SGST
+igstLable						IGST
+grandTotalRsLable				Grand Total Rs.
+amountInWordsLable				Amount in words :
+remark                          Remarks

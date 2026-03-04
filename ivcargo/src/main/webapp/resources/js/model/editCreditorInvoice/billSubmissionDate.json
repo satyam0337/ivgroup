@@ -1,0 +1,9 @@
+{
+	"elementId"				: "billSubmissionDate",
+	"elementName"			: "billSubmissionDate",
+	"elementGlyphicon"		: "glyphicon glyphicon-none",
+	"elementType"			: "text",
+	"tooltipName"			: "Date",
+	"parentDivCss"			: "col-xs-6",
+	"elementStyle" 			: "width: auto"
+}

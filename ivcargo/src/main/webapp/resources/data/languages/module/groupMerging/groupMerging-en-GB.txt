@@ -1,0 +1,12 @@
+header 						Group Merging
+subHeader1					Merge Groups
+subHeader2					Edit / View
+
+fromRegion					Region
+fromSubRegion				Sub Region
+fromBranch					Branch
+
+toAccountGroup				Group
+toRegion					Region
+toSubRegion					Sub Region
+toBranch					Branch

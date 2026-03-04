@@ -1,0 +1,23 @@
+consignor					Consignor : 
+consignee					Consignee : 
+grNo						G.R. No.
+dt							Dt.
+from						From
+time						Time
+to							To
+noOfPkgs					No. of<br/>Pkgs.
+descriptionSaidToContain	Description (Said To Contain)
+seperator					of
+weightSlashKg				Weight / Kgs
+actual						Actual
+charged						Charged
+charges						Charges
+billNo						Bill No
+value						Value
+gTotal						G. Total
+atOwnersRisk				At Owner's Risk
+deliveryAt					Delivery at : 
+consigneeCopy				Consignee Copy
+signature					Signature
+driverCopy					Driver Copy
+remark						Remark : 

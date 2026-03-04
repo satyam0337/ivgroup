@@ -1,0 +1,9 @@
+ {
+	"labelId":"amount",
+	"dataDtoKey":"amount",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":true,
+	"elementConfigKey":"Amount",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+}

@@ -1,0 +1,44 @@
+phoneNo							Ph:
+panNo							Pan no:
+gstNo							GST No.
+customerName					Customer Name : 
+billNo							BILL No.:
+address							Address :
+vehicleNo						Vehicle No. : 
+date							Date :
+srNo							Sr.No. 	
+bookingDate						Bk.date 	
+lrNo							LR.No. 	
+crNo						 	CR.No.
+destination						Destination 	
+freight							FRGT 	
+other							OTH 	
+consignee						Consignee 	
+packages						PKGS
+amount						 	Amount
+lrCount							L.R.(s)
+additionalAmount				Additional Amount :
+billTotal						Bill Total :
+total							TOTAL RUPEES 
+remark							Remark :
+for 							For
+accountsManager					Accounts Manager
+invoice							INVOICE
+vehicleNo					 	Vehicle No. :
+gstNo							GSTIN :		
+emailId							Email ID :
+gstByCustomer					(GST Directly Payable By Customer )
+payByCheque						PLEASE PAY BY A/C PAYEE CHEQUE ONLY
+eoe								E. & O.E.
+accountManager					Accounts Manager
+invoiceNo						Invc.No
+gstPayByConsignee				GST TO BE PAID BY CONSIGNEE
+tax								Tax 	
+rate							Rate 	
+taxAmount						Tax Amt
+cgst							CGST
+sgst							SGST
+totalTax						Total Tax
+taxPercentage					2.5%
+gstNumber						GSTIN :
+sac								SAC - 9967

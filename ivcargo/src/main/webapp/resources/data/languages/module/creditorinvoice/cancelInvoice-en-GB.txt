@@ -1,0 +1,12 @@
+header 						Cancel Invoice
+subHeader					<b>Search Details</b>
+partyNameLabel				Creditor Name
+find						Find
+cancel						Cancel
+
+billNumber					Bill Number
+branchName					Done At
+createdDateString			Created On
+grandTotal					Grand Total
+referenceBillNumber			Ref. Bill Number
+billType					Bill Type

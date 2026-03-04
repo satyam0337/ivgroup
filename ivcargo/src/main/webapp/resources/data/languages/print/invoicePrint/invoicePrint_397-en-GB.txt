@@ -1,0 +1,69 @@
+m/s							M/s. : 
+srNo						SR.No. 
+gst							GST NO :
+stateCode					State Code : 
+billNo						Bill No. 
+date						Date 
+billingPeriod				Billing Period : 
+billingBranch				Billing Branch :
+previousOutstanding			Previous Outstanding : 
+lastPaymentReceived			Last Payment Received : 	
+lrNo						LR.No.
+bookingStation				Booking<br>Station
+consignor					Consignor
+consignee					Consignee
+particulars					Particulars
+qty							Qty
+other						Other
+freight						Freight
+total						Total
+gst5						GST 5%
+note						Note
+gstNo						GSTIN No.: 27ABRPK1349J2Z8
+serviceNo					Service No.: 996519
+bankAdd						ICICI BANK, Mahatma Nagar, Branch Nashik.
+bankAdd2                    HDFC Bank,Bhujbal Farm Branch, Nashik
+panNo						PAN No.: ABRPK1349J
+accountDetails				A/C No.: 108805500260 IFSC Code : ICIC0001088
+accountDetails1				A/C No.: 50200032581476 IFSC Code : HDFC0000878
+grandTotal					Grand Total :
+gstTotal					Total GST Amount :
+totalExcludingGst			Bill Total Excluding GST :
+dd							D.D
+lrCharge					LR<br>Charge
+hamali						Hamali
+detention					Detention<br>Charge
+amountInWords				Amount In<br>Words  
+source						From
+destination					To
+crNo						CR No :
+remark						Remark :
+lrNo1						LR No :
+invno						Inv.No.
+vehicleNumberLabel			Vehicle Number
+actualWeightLabel			 Weight
+party						Consignee/Consignor			
+mob							MOB :
+email						EMAIL :
+state						State :
+invoiceno					Invoice No
+partyinvoiceno				Party<br>Invoice<br>No
+chargeweight				CH<br>WT.
+hamali						Hamali
+dd							Door Delivery
+docket						Docket Charge
+article						Art
+packagetype					Package Type
+rate						Rate
+line1						Terms And Conditions
+line2						(1) Mode of Payment Should Be By Cheque / DD In Favour Of M/s. "KALPTARU LOGISTICS" Only.
+line3						(2) Any Dispute Regarding Bills And Delivery Of Materials Entertained Within 10 Days.
+line4						(3) Subject To Ahmedabad Jurisdiction Only
+line5 						(4) GST Is Not Payable By Us But Liable To Service Receiver.	 
+line6						For,
+line7						<b>KALPTARU LOGISTICS</b>
+line8						AUTHORISED SIGNATORY
+banketails					Bank Details : -
+kalpatru					"KALPATRU LOGISTICS
+accountno					A/C NO. 346505500165
+branchifsc					BRANCH AND IFSC CODE :- BOPAL & ICIC0003465

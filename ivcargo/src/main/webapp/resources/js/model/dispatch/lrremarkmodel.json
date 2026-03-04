@@ -1,0 +1,9 @@
+ {
+	"labelId":"lrRemark",
+	"dataDtoKey":"bookingRemark",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":"false",
+	"elementConfigKey":"lrRemark",
+	"columnPrintWidthInPercentage":"15",
+	"columnWidth":100
+}

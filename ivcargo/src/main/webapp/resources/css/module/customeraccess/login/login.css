@@ -1,0 +1,211 @@
+@import url(https://fonts.googleapis.com/css?family=Ruda);
+*, *:after, *:before {
+  box-sizing: border-box;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+body {
+ background: #e9dfc4;
+  background: -moz-linear-gradient(left, #e9dfc4 0%, #e9dfc4 1%, #ede3c8 2%, #ede3c8 24%, #ebddc3 25%, #e9dfc4 48%, #ebddc3 49%, #e6d8bd 52%, #e6d8bd 53%, #e9dbc0 54%, #e6d8bd 55%, #e6d8bd 56%, #e9dbc0 57%, #e6d8bd 58%, #e6d8bd 73%, #e9dbc0 74%, #e9dbc0 98%, #ebddc3 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #e9dfc4), color-stop(1%, #e9dfc4), color-stop(2%, #ede3c8), color-stop(24%, #ede3c8), color-stop(25%, #ebddc3), color-stop(48%, #e9dfc4), color-stop(49%, #ebddc3), color-stop(52%, #e6d8bd), color-stop(53%, #e6d8bd), color-stop(54%, #e9dbc0), color-stop(55%, #e6d8bd), color-stop(56%, #e6d8bd), color-stop(57%, #e9dbc0), color-stop(58%, #e6d8bd), color-stop(73%, #e6d8bd), color-stop(74%, #e9dbc0), color-stop(98%, #e9dbc0), color-stop(100%, #ebddc3));
+  background: -webkit-linear-gradient(left, #e9dfc4 0%, #e9dfc4 1%, #ede3c8 2%, #ede3c8 24%, #ebddc3 25%, #e9dfc4 48%, #ebddc3 49%, #e6d8bd 52%, #e6d8bd 53%, #e9dbc0 54%, #e6d8bd 55%, #e6d8bd 56%, #e9dbc0 57%, #e6d8bd 58%, #e6d8bd 73%, #e9dbc0 74%, #e9dbc0 98%, #ebddc3 100%);
+  background: -o-linear-gradient(left, #e9dfc4 0%, #e9dfc4 1%, #ede3c8 2%, #ede3c8 24%, #ebddc3 25%, #e9dfc4 48%, #ebddc3 49%, #e6d8bd 52%, #e6d8bd 53%, #e9dbc0 54%, #e6d8bd 55%, #e6d8bd 56%, #e9dbc0 57%, #e6d8bd 58%, #e6d8bd 73%, #e9dbc0 74%, #e9dbc0 98%, #ebddc3 100%);
+  background: -ms-linear-gradient(left, #e9dfc4 0%, #e9dfc4 1%, #ede3c8 2%, #ede3c8 24%, #ebddc3 25%, #e9dfc4 48%, #ebddc3 49%, #e6d8bd 52%, #e6d8bd 53%, #e9dbc0 54%, #e6d8bd 55%, #e6d8bd 56%, #e9dbc0 57%, #e6d8bd 58%, #e6d8bd 73%, #e9dbc0 74%, #e9dbc0 98%, #ebddc3 100%);
+  background: linear-gradient(to right, #e9dfc4 0%, #e9dfc4 1%, #ede3c8 2%, #ede3c8 24%, #ebddc3 25%, #e9dfc4 48%, #ebddc3 49%, #e6d8bd 52%, #e6d8bd 53%, #e9dbc0 54%, #e6d8bd 55%, #e6d8bd 56%, #e9dbc0 57%, #e6d8bd 58%, #e6d8bd 73%, #e9dbc0 74%, #e9dbc0 98%, #ebddc3 100%);
+  background-size: 120px;
+  background-repeat: repeat; 
+  font-family: Ruda;
+  /* font-family: arial;
+  background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%); */
+
+}
+
+.panel-withoutBg{
+	margin-bottom:20px;
+}
+
+.panel-login {
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 26px 12px 15px rgba(0, 0, 0, 0.15);
+  margin: auto;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
+  position: static;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 300px;
+  overflow: hidden;
+}
+
+.btn-login{
+	font-weight: bold;
+}
+
+.lockscreen-wrapper {
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.panel-login h1 {
+  font-size: 60px;
+  margin: 25px 0 15px;
+  display: inline-block;
+  width: 100%;
+  font-weight: 200;
+  color: #3c8dbc;
+  font-family: 'Arial';
+  text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.15);
+}
+.panel-login h4 {
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  color: #ff9e02;
+  border-bottom: 1px solid #ffbe02;
+}
+
+.btn-login {
+  border: 1px solid #d3f2f9;
+  padding: 10px;
+  border-radius: 20px;
+  width: 100%;
+  margin-top: 15px;
+  background: #3b8eb5;
+  font-size: 16px;
+  font-weight: 400;
+  cursor: pointer;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.formset {
+  padding: 25px;
+  max-width: 320px;
+  margin: auto;
+}
+
+.form-group-login {
+  border-bottom: 1px solid #ffbe02;
+  position: relative;
+  margin-bottom: 30px;
+}
+.form-group-login:after {
+  content: '';
+  position: absolute;
+  height: 2px;
+  background: #fff;
+  width: 0px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  bottom: -2px;
+  opacity: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+.form-group-login .form-control-label {
+  border: none;
+  height: 40px;
+  position: relative;
+  z-index: 2;
+  padding: 5px;
+  background: none;
+  color: #FE5F01;
+  width: 100%;
+  box-shadow: none;
+}
+.form-group-login .form-control-label:focus, .form-group-login .form-control-label:active {
+  box-shadow: none;
+  outline: none;
+ }
+.form-group-login .form-label {
+  font-weight: bold;
+  color: #ff8801;
+  font-size: 14px;
+  min-height: 17px;
+  text-align: left;
+  position: absolute;
+  top: 10px;
+  left: 5px;
+  right: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  z-index: 1;
+}
+.form-group-login.focus:after {
+  opacity: 1;
+  width: 100%;
+  background: #3b8eb5;
+}
+html{
+     height: 100%;
+}
+
+.form-group-login.focus .form-label, .form-group-login.filled .form-label {
+  top: -13px;
+  font-size: 10px;
+  color: #0c3dd3;
+  font-weight: bold;
+  text-shadow: 0px 1px #295552;
+  letter-spacing: 1px;
+}
+
+.ripple {
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(221, 74, 58, 0.5);
+  -webkit-transform: scale(0, 0);
+  transform: scale(0, 0);
+  position: absolute;
+  opacity: 1;
+}
+
+.box{
+	box-shadow: 10px 10px 25px #383763;
+    border-radius: 3%;
+    margin: 5px;
+	background: rgba(255, 255, 255, 0.8);
+}
+
+h1{
+	text-align: center;
+}
+
+.widget-user-image{
+	margin-left: 75px;
+	padding-top:20px;
+}
+
+.rippleEffect {
+  -webkit-animation: rippleDrop 0.5s ease-in;
+  animation: rippleDrop 0.5s ease-in;
+}
+@-webkit-keyframes rippleDrop {
+  to {
+    -webkit-transform: scale(2.5);
+            transform: scale(2.5);
+    opacity: 0;
+  }
+}
+@keyframes rippleDrop {
+  to {
+    -webkit-transform: scale(2.5);
+            transform: scale(2.5);
+    opacity: 0;
+  }
+}
+
+.groupLogo{
+	width: 100%;
+	height: 80px;
+	
+}

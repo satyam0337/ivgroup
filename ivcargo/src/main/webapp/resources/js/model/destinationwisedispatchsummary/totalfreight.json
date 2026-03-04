@@ -1,0 +1,16 @@
+ {
+	"elementId":"TotalFreightEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"TotalFreightEle",
+	"elementType":"text",
+	"labelId":"TotalFreight",
+	"elementDefaultValue":"",
+	"dataDtoKey":"totalFreight",
+	"elementConfigKey":"TotalFreight",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true,
+	"columnDisplayCssClass":"column-data-right-align",
+	"dataType":"number"
+}

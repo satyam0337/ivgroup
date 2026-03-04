@@ -1,0 +1,25 @@
+heading							Delivery Receipt
+branchGstn						GSTN :
+crNo							MR No :
+date							Date :
+from							From :
+to								To :
+consignee						Consignee :
+lrType							LR Type :
+cneeGstin						C'nee GSTIN :
+lrNo							LR No :
+bkgDate							B. Date :
+pkgs							Pkgs :
+saidToContain					Desc :
+chgWeight						Weight :
+freight							Freight :
+hamali							Hamali :
+grCharges						GR Charges :
+demurrage						Demurrage :
+misc							Misc : 
+doorDly							Door Dly :
+st								ST Charges :
+sgst							SGST :
+cgst							CGST :
+igst							IGST :
+grandTotal						G. Total :

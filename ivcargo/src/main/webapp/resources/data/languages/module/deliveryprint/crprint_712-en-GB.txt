@@ -1,0 +1,24 @@
+billNo						Bill No.
+deliveryDate				Delivered Date : 
+date						Date : 
+received					Received with thanks from
+address						Address
+gst							GSTin No : 
+lrNo						LR No.
+bookingdate					Booking<br> Date
+art							No. of <br>Articles
+wt							Articles Wt.
+ratePerKG					Rate <br>per Kg
+freight						Freight<br>Amount
+sgst						SGST
+cgst						CGST
+igst						IGST
+total						Total
+grandTotal					Grand Total
+freight						Freight
+doorDly						Door Dly
+doorCollection				Door Collection
+lrCharge					L R Charge
+hamali						Hamali
+other						Other
+eWaybill					E-Waybill

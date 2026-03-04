@@ -1,0 +1,37 @@
+-----------------jayram delivery print linux---------------
+
+IssuingOffice				Issuing Office
+CRNo						CR No :
+Date						Date :
+LRNO						LR No         :
+LRDate						LR Date
+FromCity					From City
+LRType						LR Type
+Consignee					Consignee :
+DeliveredTo					Delivered To  :
+MobileNo					Mobile No
+Remark						Remark :
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Item          : 
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+unloading					Unloading
+doorDelivery				D D
+godown 						Godown
+demurrage					Demurrage
+Other						Other
+crCharge					C R Charge
+Discount					Discount
+TotalAmt					Total Amt
+DeliveryReceipt				Delivery Receipt
+of							of
+BkgDate						Bkg Date      :
+Article						Article       :
+BkgBranch					Bkg Branch    :
+Arrival 					Arrival       :
+paymentType					Payment Type :
+deliveredAt					Delivered At Godown
+recvSign					Rec. Sign

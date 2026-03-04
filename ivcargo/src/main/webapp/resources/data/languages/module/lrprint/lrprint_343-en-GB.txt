@@ -1,0 +1,56 @@
+lrNo.				LR No. :
+date				Date :
+lrType				LrType :
+bookedBy			BookedBy :
+origin				Origin :
+destination			Delivery Office :
+senderName			Consignee :
+receiverName		Receiver Name(Number) :
+items				Item Type :
+netAmount			Total Amount :
+from				From :
+toCity				To :
+issuedOffice		Booking Office :
+consignor			Consignor :
+phone				Phone :
+gstin				GSTIN :
+quantity			Quantity :
+weight				Weight :
+ewaybillno			EWayBillNo :
+ewaybilldate		EWayBillDate :
+bookingdateandtime  Booking Date Time :
+freight				Freight :
+item				Item Type :
+docCharge			Document Chg :
+itemDetails			Item Details :
+collChg				Coll Chg :
+actWeight			Act Weight :
+hamaliChg			Hamali Chg :
+billNo				Bill No / Amt :
+valuation			Valuation :
+goodsValue			Goods Value :
+cartageAmt			Cartage Amt :	
+itemDetails			Item Details :	
+collChargs			Coll Chg :
+actWeight			Act Weight :
+hamalichg			Hamali Chg :
+billNoAmt			Bill No / Amt :
+chgWeight			Chrg Weight :
+valuation			Valuation :
+collChrgs			Coll Chg :
+cartageAmt			Total Cartage Amount :
+cartageDelAmt		Cartage Del. Amount :
+goodsVal			Goods Value :
+bkgDateTime			Booking Date Time :
+delBranch			Delivery Branch :
+delBranchContact	Delivery Office Contact :
+bookBranchContact	Booking Office Contact :
+lrNo				LR NO	
+anount				Amount :
+surChrgAmt			Fuel SurCharge :
+bookedAt			Booked At Owner's Risk
+dlyCartage			Dly Cartage 
+loadingCharge       Loading :
+cartage             Cartage :
+valuation           Valuation :
+document            Document :

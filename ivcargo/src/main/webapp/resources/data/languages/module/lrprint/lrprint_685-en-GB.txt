@@ -1,0 +1,36 @@
+phoneNumberLabel                  Ph.: 
+branchMobileNumberLabel           Mob.:
+atOwnersRiskLabek                 AT OWNER'S RISK
+lorryCopyLabel				      LORRY COPY
+noticeLabel					      NOTICE :
+coutionLabel					  COUTION
+consignorNameLabel  			  Cnor : 
+consignorNumberLabel			  CNOR MOB :
+consignorGSTLabel				  GST No :
+consigneeNameLabel                Cnee :
+consigneeNumberLabel			  CNEE MOB : 
+consigneeGSTLabel                 GST No :
+lrNumberLabel         			  Gr No :
+lrDateAndTimeLabel                Dt :
+fromLabel                         From
+destinationLabel                  To :
+consignmentQuantityLabel          Quantity
+saidToContainLabel				  Pkg.Mode-Said To Contain
+lrTypeLabel                       Gr Pay :
+grandTotalLabel                   Gr.Total
+actualWeightLabel                 Wt.
+chargeWeightLabel                 Ch.Wt.
+preparedByLabel                   Prepared By :
+forLabel                          For :
+totalQuantityLabel                ..Total Qty
+amountInWordsLabel                Amount in Words - 
+remarkLabel                       Remark-
+deliveryAddressLabel              Del.Add.
+sgstLabel                         SGST
+cgstLabel                         CGST
+igstLabel                         IGST
+deliveryTypeLabel                 Delivery Type - 
+
+
+
+

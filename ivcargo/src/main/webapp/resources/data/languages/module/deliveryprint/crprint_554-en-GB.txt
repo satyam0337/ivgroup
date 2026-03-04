@@ -1,0 +1,16 @@
+CRNo                             Delivery Statement No.
+name                             Party Name
+number                           Party Phone
+Date                             Delivery Date
+deliveryBranchAdd                Branch
+srNo                             Sr No.
+LRNO                             Lr No.
+bookingDate                      Booking Date
+fromBranch                       From Branch
+consigneeName                    Consignee Name
+noofarticles                     Packages
+other                            Other
+et                               ET
+service                          Service
+totalAmount                      Total Amount
+topayAmount                      Booking Amount

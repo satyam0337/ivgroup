@@ -1,0 +1,34 @@
+lsNumberLable                        Challan No.:
+toBrnLable                           To BRN: 
+awbNumberLable                       AWB No.:
+remarkLable                          Remark:
+modeLable                            Mode
+vehicleFltTrainNumberLable           Vehl/ Flt/ Train No.:
+sealNumberLable                      Seal No.
+chalanDateLable                      Challan Date:
+fromBRNLable                         From BRN:
+tcsNumberLable                       TCS No.:
+vehicleType                          Vehicle Type
+serialNumberLable                    S/No
+dwbNumberLable                       DWB No.
+bookingDateLable                     Booking Date
+manualBookDateLable                  Manual Book Date
+basisLable                           Basis
+sourceBranchLable                    From
+destinationBranchLable               To
+consignorLable                       C/Nor
+consigneeLable                       C/Nee
+actualArticleLable                   ACT PKG
+actualWeightLable                    Weight
+rcvpkgLable                          RCV PKG
+remarksLable                         Remarks
+saidToContainLable                   Part No. (QTY)
+totalWeightLable                     Total Weight:
+totalPackageLable                    Total Pkgs:
+totalRcvPackageLable                 Total Rcv Pkgs:
+preparedByLable                      Prepared By:-
+receivedByLable                      Received By:-
+authorisedSignatoryLable             Authorised Signatory
+sealAndStampLabke                    Seal & Stamp
+cewaybill							 CEwaybill No:
+preparedByLabel						 Created By : 

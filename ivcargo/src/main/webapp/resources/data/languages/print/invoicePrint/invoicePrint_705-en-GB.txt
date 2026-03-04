@@ -1,0 +1,41 @@
+mslable							M/s.
+addressLable					Address  
+gstNumberLable					GST.No. 
+panNumberLable					PAN.No.
+
+invoiceNumberLable				Invoice<br>Number
+invoiceDateLable				Inv Date
+sacCodeLable					SAC Code.
+
+srNumberLable					Sl No
+lrDateLable						Booking<br>Date
+lrNumberLable					Docket No
+fromLable						Bkg Stn
+toLable							Dly Stn
+quantityLable					No Of<br>Art
+transportationModeLable			MODE
+weightLable						Charged<br>Weight
+weightLableActual				Actual<br>Weight
+rateLable						Rate Per kg/<br>Per Art.
+freightLable					FREIGHT
+otherLable						OTHERS
+totalLable						Total<br>Charges
+grandTotalLable					Total
+cgstLable						CGST &nbsp; 9% 
+sgstLable						SGST &nbsp; 9% 
+igstLable						IGST &nbsp; 18% 
+grandTotalRsLable				Grand Total Rs.
+amountInWordsLable				Amount in words :
+remark							Remarks : 
+roundof							Round Off
+gstOP							GST Output 18%
+roundOff						Round Off
+freight							Freight
+docketCharge					Docket Charge
+doorCollection					Door Collection
+doorDly							Door Dly.
+oda								ODA
+fov								FOV
+handling						Handling
+fuel							Fuel Surcharge
+other							Other

@@ -1,0 +1,44 @@
+.lbhUnitElelabel {
+    position : relative ;
+    display : inline-block;
+    width : 105px;
+    height : 52px;
+    background-color: #1878f3;
+    border-radius: 30px;
+    border: 2px #2196F3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+       
+.lbhUnitElelabel:after {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    top: 1px; 
+    left: 1px;
+    transition:  all 0.5s;
+}
+       
+.unit {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+       
+.checkbox:checked + .lbhUnitElelabel::after {
+    left : 54px; 
+}
+       
+.checkbox:checked + .lbhUnitElelabel {
+    background-color: red;
+}
+       
+.checkbox { 
+    display : none;
+}

@@ -1,0 +1,39 @@
+header 							Dummy LS
+search	 						Search
+lsNumber						LS Number
+wayBillNumber					LR Number
+wayBillSourceBranchName			Source
+incomingDateTimeStamp			Date
+wayBillDestinationBranchName	Destination
+wayBillArticleQuantity			Quantity
+quantity						Quantity
+wayBillConsignorName			Consignor
+wayBillConsigneeName			Consignee
+packingTypeString				Articles
+wayBillGrandTotal				Grand Total
+waybilltype						LR Type
+wayBillType						LR Type
+serialNumber					SR. No.
+addNewLR						Add New LR
+removeheader					Remove
+printheader						Print
+printLS							Print LS
+SumarryLRType					Type
+summaryWeight					Weight
+summaryArticle					Article
+summaryCount					LR Count
+total							Total
+withBill						Bill
+withoutBill						Estimate
+dummy							DUMMY
+consignmentSummaryBillSelectionString 		Type
+sourceBranch					Source
+destinationBranch				Destination
+consignorName					Consignor
+consigneeName					Consignee
+totalArticles					Loaded Art
+articleDetails					Articles
+totalWeight						Weight
+amount							Amount
+deliveryTo						Delivery To
+serialnumberheader 				SR No.

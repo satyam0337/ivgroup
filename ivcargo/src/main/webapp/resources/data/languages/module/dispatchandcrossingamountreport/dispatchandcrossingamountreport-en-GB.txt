@@ -1,0 +1,27 @@
+header 								Dispatch And Crossing Amount Report
+
+date								Date :
+vehicleNumber						Vehicle Number :
+sourceSubRegion						Source Sub Region
+destSubRegion						Dest Sub Region
+find								Find
+
+subHeader1							<b>Dispatch And Crossing Amount Details</b>
+
+serialnumberheader					SR.No.
+dispatchLedgerId					LS NO.
+dispatchDate						Date
+dispatchSourceBranchName			From
+dispatchDestinationBranchName		To
+
+crossingPaid						Crossing Paid
+crossingToPay						Crossing ToPay
+crossingTBB							Crossing TBB
+totalPaid							Paid
+totalToPay							ToPay
+TotalTBB							TBB
+finalTotal							Total
+paidFreight							Paid Freight
+topayFreight						ToPay Freight
+tbbFreight							TBB Freight
+

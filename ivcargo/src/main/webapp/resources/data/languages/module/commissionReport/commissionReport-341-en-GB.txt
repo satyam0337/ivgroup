@@ -1,0 +1,42 @@
+header 						Commission Report
+
+date						Date
+commissionType				Commission Type 
+branch						Branch
+search						Search
+subHeader1					Commission Report Data
+
+lsNumber					MEMO
+lsDate						DATE
+vehicleNumber				VEH NO
+noOfArts					PKG
+sourceBranch				BKG BR.
+destBranch					DELIVERY BRANCH
+totalPaid					PAID
+totalToPay					TOPAY
+totalTBB					TBB
+bookingDiscount				BKG Discount
+deliveryDiscount			DLY Discount
+grandTotal					TOTAL
+bookingCommission			BKG Commission
+deliveryCommission			DLY Commission
+balance						BAL.
+partialheader				VIEW
+
+branchName					Branch Name
+bookingFright				Booking Freight
+bookingTimeCommission		Bkg. Commission
+deliveryTimeCommission		Dly. Commission
+bookingDateString			Date/Month
+serialnumberheader			SR.No.
+doorDelyCharge				DoorDly Charge
+dlyDiscount					DlyDis<br>Details
+dlyDscButton				Dly<br>Dsc<br>Details
+DDlyButton					DDly<br>Chrg
+lrExpensesAmount			LR Exp
+payableCommissionAmount		Payable Comm.
+deliveryCmsn				Total Dly Comm.
+showAllButton				LrExpense Details
+commissionType				Comm. Type
+lsSrcBranch					From
+lsDestBranch				To

@@ -1,0 +1,54 @@
+srNumberLabel					#
+lrNumberLabel					LR No.
+consignorLabel					Sender
+consigneeLabel					Receiver
+lrTypeLabel						TYP
+freightChargeLabel				FRT
+loadingChargeLabel				HML
+doorDeliveryChargeLabel			D D
+serviceTaxLabel					GST
+amountLabel						TOTAL
+dispatchNumberLabel				LS No : 
+vehicleNumberLabel				Truck No : 
+lhpvNumberLabel					LHPV No : 
+dispatchDateLabel				Date :
+totalArticleLabel				Quantity
+driverNameLabel					Driver : 
+driverLicenseLabel				License No : 
+lrDestinationBranchLabel		Destination
+serviceTax						GST
+commision						Commision
+hamali							Hamali
+thapi							Thapi
+crossing						Crossing
+refund							Refund
+total							Total
+vasuli							Vasuli
+paidDebit						Paid Debit
+paidCredit						Paid Credit
+cash							Total Comm.
+receivedComm					Received Comm.
+paidComm						Paid Comm.
+balance							Balance
+totalLabel						Total
+summaryFreightLabel				FREIGHT
+summaryHamaliLabel				HAMALI
+summaryTotalLabel				TOTAL
+ownerNameLabel					Owner's Name :
+branchAddressLabel				Address:
+reportType						Dispatch Report
+branchPhoneNumberLabel			Phone No.:
+vehicleowner					Vehicle owner: 
+paid							Paid
+topay							Topay
+tbb								TBB
+totaltopay						Total Topay
+totaltbb						Total TBB
+vehiclehire						Vehicle Hire
+vehicleadv						Vehicle Advance
+lhpvdetails						LHPV Details
+articletype						Article Type
+drvmob							Driver Mobile No. : 
+totalpaid						Total Paid
+crossingChrg					Crossing<br>Chrg.
+lsRemarkLabel					Remark : 

@@ -1,0 +1,14 @@
+bookingTotal						Booking
+phone								Phone
+destBranch							Delivery
+From								From
+To									To
+deliverTo							Delivered To
+noOfPkg								No. of Pkgs
+declareValue						Parcel Value
+invoiceNo							Invoice No : 
+chargesHeader						Charges
+discount							Discount
+deliverBy							Delivered By
+grandTotal							Total
+rupeeSign							Rs.

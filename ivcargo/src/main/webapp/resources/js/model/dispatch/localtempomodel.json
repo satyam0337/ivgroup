@@ -1,0 +1,12 @@
+ {
+	"labelId"					:	"localTempo",
+	"dataDtoKey"				:	"localTempo",
+	"columnDisplayCssClass"					:	"column-data-left-align",
+	"displayColumnTotal"			:	"false",
+	"elementConfigKey"			:	"LocalTempo",
+	"columnPrintWidthInPercentage"	:	"10",
+	"columnWidth"				:	100,
+	"dataType"					:	"input",
+	"buttonCss"					:	"form-control localTempo",
+	"maxLength"					:	"5"
+}

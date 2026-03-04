@@ -1,0 +1,99 @@
+@CHARSET "ISO-8859-1";
+
+#MainContent{
+	width : 80%;
+	margin-left: auto ;
+ 	margin-right: auto ;
+}
+
+	
+#srcBranch{
+	font-weight	: bold;
+	padding-top : 10px;
+	display: inline;
+}
+#viewAllLr{
+	padding-top : 3px;
+	padding-right : 5px;
+	float  : right;
+	display: inline;
+}
+#label{
+	padding-top	: 10px;
+	text-align: left;
+	font-weight: bold;
+}
+
+#dropdowndiv{
+	//border	: 1px solid #000000;
+}
+#destRegionDiv{
+	font-weight	: bold;
+	padding-left	: 15px;
+	float  : left;
+	display: inline;
+}
+#destSubRegionDiv{
+	font-weight	: bold;
+}
+#billSelectionDiv{
+	font-weight	: bold;
+	padding-right	: 15px;
+	float  : right;
+	display: inline;
+}
+
+#inputdiv{
+	//border	: 1px solid #000000;
+	padding-top: 50px;
+}
+
+#manualInputDiv{
+	//border	: 1px solid #000000;
+	padding-top: 10px;
+}
+
+#minRangeDiv{
+	font-weight	: bold;
+	padding-left	: 50px;
+	float  : left;
+	display: inline;
+}
+#maxRangeDiv{
+	font-weight	: bold;
+	padding-left	: 150px;
+	float  : left;
+	display: inline;
+}
+
+#manualMinRangeDiv{
+	font-weight	: bold;
+	padding-left	: 50px;
+	float  : left;
+	display: inline;
+}
+#manualMaxRangeDiv{
+	font-weight	: bold;
+	padding-left	: 150px;
+	float  : left;
+	display: inline;
+}
+
+#manualBillSelectionDiv{
+	font-weight	: bold;
+	padding-left	: 63px;
+	float  : left;
+	display: inline;
+}
+#nextValDiv{
+	font-weight	: bold;
+	padding-left	: 150px;
+	float  : left;
+	display: inline;
+}
+
+#labelDiv{
+	padding-left	: 15px;
+	float: left;
+}
+

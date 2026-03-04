@@ -1,0 +1,21 @@
+ {
+							"dataDtoKey":"DelyChrgesBtn"
+							,"dataType":"button"
+							,"labelId":"DelCharges"
+							,"searchFilter":false
+							,"listFilter":false
+							,"columnHidden":false
+							,"displayColumnTotal":false
+							,"columnMinWidth":90
+							,"columnWidth":90
+							,"columnMaximumDisplayWidthInPx":120
+							,"columnPrintWidthInPercentage":10
+							,"columnDisplayCssClass":"column-data-left-align"
+							,"buttonCss":"btn btn-primary btn-xs"
+							,"columnDisplayCssClass":""
+							,"columnPrintCssClass":""
+							,"inputElement":"button"
+							,"buttonCallback": "showPopUpWindow"
+							,"sortColumn":false
+							,"show":true
+}

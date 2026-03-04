@@ -1,0 +1,25 @@
+lrnumber				LR No : 
+date					Booking Date : 
+lrSource				From : 
+lrDestination			To : 
+consignorName			Sender : 
+consigneeName			Receiver : 
+phone					Phone : 
+lrType					LR Type : 
+declaredValue			Value of the Parcel : 
+NoOfPkgs				No. of Pkgs : 
+freight					Freight : 
+loading					Loading :
+doorDelivery			Door Delivery : 
+crossing				Crossing : 
+grandTotal				Total : 
+bookedby				Booked By : 
+printDate				Print Date : 
+sign					Sign : 
+deliverAt				Delivery At : 
+eWaybillNumber			EWayBill No:
+gstn					GSTIN :
+invoiceNo				Invoice No :
+deliveryTime            Delivery Time : 10:00 am to 5:00 pm
+remark					Remark :
+gst						Gst : 

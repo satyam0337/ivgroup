@@ -1,0 +1,9 @@
+{
+	"elementId"			: "vCode",
+	"elementName"		: "vCode",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "VCode",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: auto"
+}

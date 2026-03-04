@@ -1,0 +1,24 @@
+region								Region
+subRegion							Area
+branch								Branch
+vehicleNumber						Vehicle Number
+ReportSort							Report Sorting
+header								Fuel Hisab Voucher Details Report
+search								Search
+serialnumberheader					SR. No.
+vehicleAverage						Average
+creationDateTimeStr					Date
+startKilometer						Start KM
+voucherKilometer					End	KM
+voucherTotalRunning					Running KM
+voucherOpeningFuelBalance			Opening Fuel	
+fuelToFillUp						Filled Fuel	
+totalFuel							Total Fuel	
+fuelUsed							Used Fuel	
+fuelDeduction						Adjustment 	
+fuelBalance							Balance Fuel	
+driverName							Driver Name 	
+fuelDeductionRemark					Adjusment Remark 	
+hisabTakenByAndDateTime				Hisab Taken By Date and Time 
+branchName							Branch
+fuelHisabVoucherNumber				FHV No.

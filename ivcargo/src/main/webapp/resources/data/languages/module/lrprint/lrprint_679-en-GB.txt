@@ -1,0 +1,28 @@
+fromLable                        From : 
+toLable                          To : 
+lrNumberLable                    LR No. 
+dateLable  						 Date.
+consignorLable					 Consignor :
+consigneeLable					 Consignee :
+mobileNumberLable      			 Mobile No.
+noOgPackageLable				 No. of Packs
+articleTypeLable 				 Method
+saidToContainLable 	  			Particulars of Goods 
+rateOfArticleLable 				Rate
+weightLable						Weight
+chargeWeightLable				Charge wt.
+invoiceNumberLable 				Inv No.
+declareValueLable				Dec. Value
+freightLable 					Freight
+crossingLable					Crossing
+doorCollectionLable				Door Collection
+doorDeliveryLable				Door Delivery
+hamaliLable						Hamali
+stationaryChargeLable			Stationary Charge
+grandTotalLable					Total
+modeOfPaymentLable				Mode of Payment
+crossingDetailLable 			Crossing Detail
+remarkLable						TPT
+additionalRemarkLable			LR#
+deliveryAtLabel					Delivery At
+eWayBillNoLable					E-Waybill No.:

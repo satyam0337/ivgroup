@@ -1,0 +1,7 @@
+{
+	"buttonName":"searchBtn",
+	"buttonId":"searchBtn",
+	"buttonClass":"btn btn-primary",
+	"tooltipName":"Find",
+	"buttonSpanId":"find"
+}

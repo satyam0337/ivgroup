@@ -1,0 +1,32 @@
+add								Add
+view							View Party Seq.
+region							From Region
+subRegion						From Area
+branch							From Branch
+wayBillNumber					LR Number
+maxRangeLable					Max Range
+nextValue						Next Value
+save							Save
+partyName						Search Party
+update							Search
+partyName						Party
+wayBillSourceBranch				Src	Branch
+wayBillDestinationBranch		Dest Branch
+minRange						Min Range
+maxRange						Max Range
+createdOn						Created On
+createdBy						Created By
+delete							Delete
+partialheader					Update
+updateBtn						Update
+history							History
+updatedMinRange					Updated Min Range
+updatedMaxRange					Updated Max Range
+updatedNextVal					Updated Next Val
+view1							View All Party Seq.
+createdByStr					Created By
+wayBillGrandTotal				Grand Total
+wayBillType						LR Type
+wayBillCreationTimeStampStr		Bkg Date
+consigneeName					Consignee Name
+consignorName					Consignor Name

@@ -1,0 +1,9 @@
+wayBillDestinationBranchAbrvtinCode		Branch
+totalNumberOfLR							Total LR
+wayBillArticleQuantity					No. Of Art
+wayBillVasuliAmount						Vasuli Amt
+wayBillOtherAmount						Paid Amt
+wayBillActualWeight						Weight
+wayBillServiceTaxAmount					S.Tax
+wayBillCarrierRiskAmount				C.R.Chg
+chargeAmount							Hire Amt

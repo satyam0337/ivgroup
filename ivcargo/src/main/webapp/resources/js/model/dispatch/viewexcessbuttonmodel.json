@@ -1,0 +1,7 @@
+{
+	"buttonName":"viewExcessEntry",
+	"buttonId":"viewExcessEntry",
+	"buttonClass":"btn btn-success hide",
+	"tooltipName":"View Excess Entry",
+	"buttonSpanId":"viewExcessEntryLabel"
+}

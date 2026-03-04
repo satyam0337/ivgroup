@@ -1,0 +1,12 @@
+ {
+	"elementId":"wayBillTypeEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"wayBillTypeEle",
+	"elementType":"text",
+	"labelId":"wayBillType",
+	"elementDefaultValue":"",
+	"dataDtoKey":"wayBillType",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

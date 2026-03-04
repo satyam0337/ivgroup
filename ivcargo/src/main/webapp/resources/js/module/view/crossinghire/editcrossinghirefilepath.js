@@ -1,0 +1,15 @@
+define(function(require) {
+	return {
+		loadLanguage:function(){
+			console.log("inside filepath");
+			//global variable Language file Path Needs to be present in every HTML file
+			var globalLanguageObj = new Object();
+			//file path needs to be specified from languages folder
+			globalLanguageObj.filePath 		= PROJECT_IVUIRESOURCES+'/resources/data/languages/module/crossinghire';
+			//file name for language to be specified
+			globalLanguageObj.fileName 		= 'crossinghire'
+			return globalLanguageObj;
+		}
+	}
+})
+

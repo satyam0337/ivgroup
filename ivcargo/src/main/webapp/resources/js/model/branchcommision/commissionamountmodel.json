@@ -1,0 +1,10 @@
+ {
+	"labelId":"commissionAmount",
+	"dataDtoKey":"commissionAmount",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":true,
+	"elementConfigKey":"CommissionAmount",
+	"columnPrintWidthInPercentage":"17",
+	"columnWidth":135,
+	"columnMinWidth":60
+}

@@ -1,0 +1,14 @@
+header					Config Discount
+discount				Discount : 
+update					Update
+dicsountCharges			Dicsount charges : 
+damurrageCalculation	dd
+header2					Demurrage  Calculation
+article					No. of Article :
+weight					Charged Weight :
+storageDays				Storage Days :
+lessFreeDays			Less Free Days :
+chargeableDays			Chargeable Days :
+demmurageasPerWt		Demmurage as per Wt. :
+demmurageasPerArt		Demmurage as per Art. :
+remark					Remark :

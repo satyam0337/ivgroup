@@ -1,0 +1,69 @@
+srNumberLabel					Sr.No.
+lrNumberLabel					CN No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+dlvryToLabel					Dly Type 
+consignmentPackingDetailsLabel	Art. Detail
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						AMT. 
+branchAddressLabel				Address: 
+branchPhoneNumberLabel			Phone No.: 
+dispatchNumberLabel				Dispatch No.: 
+vehicleNumberLabel				Vehicle No.: 
+fromBranchLabel					From: 
+toBranchLabel					To: 
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.: 
+lrCategoryLabel					LR Type
+totalArticleLabel				Article
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amount
+driverNameLabel					Driver: 
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:  
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		Destination 
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark : 
+receiveLabel					Receiver Sign
+dispatchOwnerLabel				Owner : 
+dispatchOwnerPanLabel			Pan No.: 
+brokerName						Broker Name :  
+contactNumber					Contact No.: 
+bookingDateLabel				Bkg. Date
+packageNumerLabel				No.of <br> Pkgs.
+packagingMethodLabel			Method of <br> Packing
+contentLabel					Contents
+WeightLabel						weight<br>in kgs.
+destinationLabel				Destination
+lorryHireLabel					Extra 
+totalLabel						Total
+lessAdvanceLabel				Less Advance
+tdsLabel						Less TDS
+ballanceLabel					BALANCE
+totalPackageLabel				Total Pkgs. : 
+lorryHire						Lorry Hire
+detentionatLoadingpoint 	    Detention at Loading point
+extraLorryHire					Extra Lorry Hire
+advAmount 						Adv Amount
+tds								TDS
+balAmount						Bal Amount
+refundAmount					Refund Amount

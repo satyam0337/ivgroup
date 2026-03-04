@@ -1,0 +1,41 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery To :
+sourceBranch				From : 
+destinationBranch			To : 
+lrType						LR Type
+lrnumber					LR No. :
+bookingDate					Date :
+consignmentQuantity			Qty
+description				  	Article Details
+consignmentSaidToContain  	Said To contain
+actualWeight			  	Actual Weight :
+chargeWeight			  	Charge Weight :
+serviceBy					GST Paid By :
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					TOTAL
+consignorname				Consignor : 
+consigneename				Consignee :
+at							AT
+printedby					Printed By : 
+freight						Freight
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+bookedby					Booked By : 
+seperator					Of
+remark						Remark :
+receipt						Receipt
+rate						Rate : 
+gc							G.C.
+hamali						Hamali
+cca							CCA
+vscfov						VSC/FOV
+oda							ODA
+ddc							DDC
+stConsignor					&#10004
+stConsignee					&#10004
+stTransporter				&#10004
+toll						TOLL
+dcc							DCC

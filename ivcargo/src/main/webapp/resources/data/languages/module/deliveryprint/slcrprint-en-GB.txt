@@ -1,0 +1,20 @@
+crNO						CR No :
+date						Date :
+consignorName1				consignorName
+source						From :
+branch						Branch :
+consignee					Consignee :
+bookingDate					Bkg.<br/>Date
+lrNo						Lr.<br/>No
+totalAmount					Total<br/>Amt
+totalArticles				Total Articles
+bookngTotal					Booking Total
+articles					Art.
+total						Total :
+remark						Remark :
+user						User :
+printTime					Print Time:
+consinorCopy				Consinor Copy
+consineeCopy				Consinee Copy
+discount					Discount
+gst							GST

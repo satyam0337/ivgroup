@@ -1,0 +1,11 @@
+ {
+	"elementId"				:	"lorryHireIdEle",
+	"elementGlyphicon"		:	"glyphicon glyphicon-none",
+	"elementName"			:	"lorryHireIdEle",
+	"elementType"			:	"text",
+	"labelId"				:	"lorryHireId",
+	"divRegion"				:	"lorryHireNumberRegion",
+	"parentDivCss"			:	"col-xs-4 hide",
+	"labelCss"				:	"col-xs-5",
+	"elementDivCss"			:	"col-xs-7 validation-message"
+}

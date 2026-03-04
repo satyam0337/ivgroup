@@ -1,0 +1,9 @@
+ {
+	"labelId":"packingGroup",
+	"dataDtoKey":"packingGroupTypeName",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":"false",
+	"elementConfigKey":"PackingGroup",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+}

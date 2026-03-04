@@ -1,0 +1,9 @@
+serialnumberheader				SR.no.
+waybillNumber					LR no.
+bookingDate						Dispatch Date
+destinationBranch				To
+consignee						Consignee
+noOfArt							No.of Art.
+deliveryDiscount				Delivery Discount
+discountOn						Discount On
+frght							Freight

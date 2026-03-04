@@ -1,0 +1,43 @@
+partyName					Party Name :
+partyAddress				Address :
+gstNo						GST:
+billNo						BillNo :
+invoicedate					BillDate :
+date					 	DATE
+lrNo						LR No
+qty							PKG
+lrSourceBranchLabel			ORI
+invoceNo					Invoice No
+wegt						Ch.Wt.
+freight						FRT
+hamali						Hamali
+sTax						S_TAX
+oct							OCT
+otChrg						OT_CHA
+total						TOTAL
+srNumberLabel				SrNo.
+lrDestination				DES
+consignor					C/nor
+consignee					C/nee
+bcCharge					B.C.
+due                         Due
+taxInvoice                  TAX INVOICE
+dueAmount                   DUE AMOUNT
+rate                        RATE
+description                 DESCRIPTION
+amount                      TOTAL
+qty1                        QTY
+balanceDue                  BALANCE DUE
+dateSigned                  DATE 
+particular					PARTICULARS
+mode						MODE
+pcs							PCS
+wt							WT
+lrCharge					LR CH
+other						OTHER
+IgstLabel                   IGST @ 5% 
+cgstAadIgstLabel            CGST & SGST @ 5% 
+rndOffLabel					Round Off : 
+
+
+

@@ -1,0 +1,40 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery At :
+deliveryContact				Contact :
+sourceBranch				From Branch :
+destinationBranch			To Branch:
+lrType						Type
+bookingDate					Date :
+actualWeight			  	Actual Wt:
+chargedWeight			  	Charged Wt:
+lrNumber					L.R.NO :
+consignorName				Consignor :
+consigneeName				Consignee :
+declaredValue				Parcel Value :
+remark						Remark :
+weight						Weight
+serviceTax					GST 5%
+other						Other
+grandTotal					Net Amount Payable(₹)
+gstn						GST Number : 
+chargeName1					Freight
+chargeName49				Handling
+chargeName25				Door Delivery
+chargeName6					Door Pickup
+chargeName48				Unloading
+chargeName29				LR Charge
+chargeName7					Octroi
+chargeName57				Surcharge
+number						Ph : 
+consignorCopy				Consignor Copy
+consigneeCopy				Consignee Copy
+sourceMobileNo				Mobile No:
+destinationMobileNo			Mobile No:
+cgst						CGST
+igst						IGST
+sgst						SGST
+chargeName4					Loading
+branchAddress				Branch Address :
+commission					Comm.
+updatedTermsA				For consignments valued above ₹50,000/-, the responsibility of generation of e-Way Bill and furnishing valid tax invoice(s) rests entirely with the consignor/consignee. The transporter acts only as a carrier and shall not be liable for any consequences, penalties, detention, or proceedings under GST or any other law due to non-compliance by the consignor/consignee.

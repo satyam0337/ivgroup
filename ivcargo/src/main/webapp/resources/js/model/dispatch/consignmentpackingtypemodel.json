@@ -1,0 +1,6 @@
+ {
+	"tooltipName": "Packing Type",
+	"labelId":"packingType",
+	"dataDtoKey":"packingTypeMasterName",
+	"elementType":"text"
+}

@@ -1,0 +1,31 @@
+phoneNo							Ph:
+panNo							Pan no:- 
+transin							TRANSIN:- 
+customerName					Customer Name : 
+billNo							BILL No.:
+address							Address :
+vehicleNo						Vehicle No. : 
+date							Date
+srNo							Sr.No. 	
+bookingDate						Bk.date 	
+lrNo							LR.No. 	
+crNo							CR.No. 	
+destination						Destination 	
+invoiceNo						Invc.No 	
+consignee						Consignee 	
+packages						PKGS 	
+freight							FRGT 	
+other							OTH 	
+amount							Amount
+lrCount							L.R.(s)
+additionalAmount				Additional Amount :
+billTotal						Bill Total :
+total							TOTAL RUPEES
+remark							Remark :
+for 							For
+note1							(Service Tax Directly Payable By Customer )
+note2							PLEASE PAY BY A/C PAYEE CHEQUE ONLY
+eoe								E. & O.E.
+accountsManager					Accounts Manager
+invoice							INVOICE	
+custGst							Customer Gst No. :  

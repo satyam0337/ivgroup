@@ -1,0 +1,28 @@
+bookingDate 		Bkng Time :
+lrNo				WB No:
+lrSource			Org :
+lrDestination		Destination :
+consignorName		Sender :
+consigneeName		Receiver :
+consignorMobile		Sender No:
+consigneeMobile		Receiver No :
+lrType              WB Type :
+noOfPkgs			No.of Pkgs :
+freight				Freight:
+hamali              Hamali:
+loading				Loading :
+doorDelivery		DoorDelivery:
+doorPickup			DoorPickup:
+other				Other:
+total				Total:
+sgst 				SGST :
+cgst 				CGST :
+grandTotal 			Total :
+bookedby			Booked By:
+branch              Branch :
+printDate			Printed Time :
+deliveryAt			Delivery At :
+deliveryTime		Delivery Time :
+printedBy			Printed By :
+saidToContain		Packing Dtls :
+remarks				Remarks : 

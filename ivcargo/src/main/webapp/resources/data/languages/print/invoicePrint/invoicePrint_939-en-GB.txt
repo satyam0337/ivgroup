@@ -1,0 +1,56 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						WEIGHT
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					DESTINATION
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							S.No 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							Date: 	
+lrNo							LR NO
+bookingStation					Booking<br>Station
+consignee						CONSIGNEE NAME
+particulars						Description
+qty								Qty
+other							Other
+freight							BASIC<br>FREIGHT
+total							TOTAL <br>CHARGES
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GSTIN :
+invoiceno						Inv.No
+bookingdate						BOOKING<br> DATE
+articles						NO OF <br> ARTICLE
+lrNumber						LR Number
+lrSourceBranchlabel				Source
+toBranchlabel					Destination
+sNo								SNo
+note1							Bill towards Freight and Other Charges of your consignments transported as under
+particularss					Particulars
+bitlaTotal						Amount
+lrCharge                        LR <br>Amount
+doordly							D.D.C.
+handlinng                        HANDLING

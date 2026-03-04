@@ -1,0 +1,19 @@
+header						LHPV Charges History Details
+userName					Executive Name
+date						Date
+remark						Remark
+chargeName					Charge Name
+currentCharge				Current Charge
+prevCharge					Prev.Charge
+
+header1						LHPV Update History Details
+serialnumberheader			SR.
+updatedByName				Updated By User
+updatedDateTimeStr			Updated On
+editLHPVTypeStr				Edit Lhpv Type
+editDescriptionTypeStr		Edit Description Type
+description					Description
+preDescription				Previous Description
+currentDateTimeStr			Current Date
+preDateTimeStr				Previous Date
+remark						Remark

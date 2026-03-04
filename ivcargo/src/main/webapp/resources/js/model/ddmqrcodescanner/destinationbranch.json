@@ -1,0 +1,8 @@
+ {
+	"labelId":"DestinationBranch",
+	"elementConfigKey":"DestinationBranch",
+	"dataDtoKey":"wayBillInfoDestinationBranchName",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

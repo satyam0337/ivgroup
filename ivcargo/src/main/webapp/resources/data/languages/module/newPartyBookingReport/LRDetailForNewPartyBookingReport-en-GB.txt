@@ -1,0 +1,9 @@
+lrno				LRNo.
+bkgDate				Bkg Date
+from				From  
+to					To
+consignor			Consignor 
+consignee			Consignee 
+articles			Articles 
+lrType				LR Type
+amount				Amount

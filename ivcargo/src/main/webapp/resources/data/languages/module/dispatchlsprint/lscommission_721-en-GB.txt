@@ -1,0 +1,69 @@
+srNumberLabel					Sr.<br>No.
+lrNumberLabel					WB No.
+consignorLabel					Sender
+consigneeLabel					Receiver
+consigneeContactLabel			Receiver<br> No.
+lrTypeLabel						WB<br>Type
+consignmentPackingDetailsLabel	NO. OF PKGS
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT
+loadingChargeLabel				LDG.
+amountLabel						Amt
+amountLabel2					TO PAY
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					CATEGORY
+totalArticleLabel				NAG
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				Amount
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Origin
+lrDestinationBranchLabel		Destination
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						Bkg.<br>Date
+packages						No.Pkt.
+gst								GST no.
+saidToContain					Art
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WEIGHT
+totalLrChargeLabel				LR Charge
+hamaliCharge					Hamali
+csCharge						C.S.<br>Charge
+otherNTCS							Other
+lsExpense						Expenses (-)
+grandTotal						NET Amount
+balance							NET PAY/Company Due
+commission						Commission
+net                             Net
+remark                          Remark
+receiverSign                    Receiver<br>Sign
+totalBuiltyLabel                Builty Charge
+totalServiceTaxLabel            Total Tax
+totalHCLabel                    H C
+pkgDetails                      Pkgs<br>Details

@@ -1,0 +1,43 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+lrdate							LR Date
+doorPickupNumberLabel			PreloadingSheet Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+balanceAmtLabel					Balance
+setteledAmtLabel				Advance
+totalAmtLabel					Total
+extraLabel						Extra
+lorryHireAmtLabel				Lorry Hire
+driverNameLabel					Driver Name :
+toBranchLabel					To Branch :
+lorryHireLabel					Lorry Hire :
+vehicleNumberLabel				Vehicle Number :
+driverMobNoLabel				Driver Number :
+lrDestination 					Destination
+consignerName                   Consignor
+consigneeName                   Consignee
+pkg								Pkg
+vchno							Vch No :
+vchDate							Vch Date :
+vehNo							Veh No :
+panNO							Our Pan No :
+lrType							LR Type
+invNO							INV No
+invDate							INV Date
+remark							Remarks :  
+tax								Tax Payable By : Consignor
+words							In Words :
+netTotal						Net Total
+subTotal						SUB Total
+sign							Authorised Signatory
+partyName                       Party Name : 
+address                         Address : 
+gstNoOfParty                    GST NO OF party : 

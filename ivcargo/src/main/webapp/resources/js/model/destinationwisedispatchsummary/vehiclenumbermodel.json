@@ -1,0 +1,9 @@
+ {
+	"elementId":"vehicleNumberEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"vehicleNumberEle",
+	"elementType":"text",
+	"tooltipName": "Select Vehicle Number",
+	"labelId":"vehicleNumber",
+	"divRegion":"vehicleRegion"
+}

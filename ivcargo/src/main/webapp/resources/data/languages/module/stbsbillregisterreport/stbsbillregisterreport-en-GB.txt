@@ -1,0 +1,34 @@
+header 						STBS Bill Register
+header1						<b>STBS Bill Details</b>
+date						Date
+viewAll						View All Due Bills : 
+region						From Region
+subRegion					From Area
+branch						From Branch
+find						Find
+
+serialnumberheader			SR. No
+billNo						Bill No
+date 						Date
+collectionPerson			Collection Person
+deliveryCustomerName		Customer Name
+totalLRs					Total LRs.
+status						Status
+gstAmount					GST
+discountAmount				DISC
+balanceAmount				Balance Amt
+billAmount					Bill Amt
+ReceivedAmount				Received Amt
+notReceivedAmount			Not	Received Amt
+pendingLRs					Pending LRs
+receivedBy					Payment Received By
+printStbs					Print
+lrDetailsStr				View LRs
+partyName					Party Name
+settlementDate				Settlement Date
+creationBranch              Creation Branch
+settlementBranch            Settlement Branch
+paymentDetail               Payment Details
+paymentMode					Payment Mode
+chequeNumber				Cheque Number
+chequedate					Cheque Date

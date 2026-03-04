@@ -1,0 +1,48 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+consolidatedNumberLabel			Con. BLHPV No :
+consolidatedBLHPVDateLabel		Date :  
+date							Date  
+branchLabel						Branch : 
+toBranchLabel					To Branch : 
+vehicleNumberLabel				Vehicle Number  
+accountgroupname				Payment Made To : 
+contactNo						Contact No: 
+srNo							<b>#</b>
+bLHPVNumber						BLHPV No
+lHPVNumber						LHPV No
+lorryHireLabel					Lorry Hire
+lhpvBalanceAmtLabel				Balance
+balancePaidLabel				Balance Paid 
+balanceAmtLabel					Balance Amt
+refundAmtLabel					Refund
+blhpvAdditionCharges			BLHPV Added Charges
+blhpvDeductionCharges			BLHPV Dedu. Charges
+paymentSummary					<b>Payment Details:</b>
+paymenType						<b>Payment Type : </b>
+chequeNumber					<b>Cheque No : / Card No : / Txn No : </b>
+bankName						<b>Bank Name :</b>
+chequeDate						<b>Cheque Date :</b>
+balanceAmount					<b>Balance Amount  :</b>
+refundAmount					<b>Refund Amount   :</b>
+chequeGivenBy					<b>Cheque Given By :</b>
+chequeGivenTo					<b>Cheque Given To :</b>
+amountinwords                   <b>Amount In Words : </b>
+totalamount						Total Amount
+time							Time:
+addition						Addition
+deduction						Deduction
+overrun							Over Run
+policepenalty					Police Penalty
+deliverycancel					Del.Cancel
+other							Other
+remark							Remark
+preparedby                      Prepared By:
+chequeamount					Cheque Amount:
+advance							Advance

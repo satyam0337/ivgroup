@@ -1,0 +1,23 @@
+lrDetailsHeader  				Date Wise Booking Summary
+categoryWiseLRDetailsHeader		Category Wise Booking Details
+date							Date :
+lrType							LR type :
+sourceSubRegion					Source subregion :
+sourceBranch					Source branch :
+destinationSubRegion			Destination subregion :
+destinationBranch				Destination branch :
+findButton						Find
+wayBillId						wayBillId
+date							date
+wayBillTypeId					WayBillTypeId
+date							Date
+totalNoOfLrs					No Of Lrs
+totalNoOfArticles				No Of Art
+totalPaidAmount					Paid Amt
+totalToPayAmount				ToPay Amt
+totalTbbAmount					Tbb Amt
+totalFocAmount					Foc	Amt
+totalAmount						TotalAmt
+nag								NAG
+taxAmount						Total Tax
+wayBillTypeStr					WayBillType

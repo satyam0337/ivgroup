@@ -1,0 +1,10 @@
+header 						<b>CHEQUE BOUNCE ENTRY</b>
+NumberLabel					Number
+searchTypeLabel				Search Type
+branch						Branch
+find						Find
+
+header1						<b>Cheque Bounce Details</b>
+
+remark						Remark
+save						Save

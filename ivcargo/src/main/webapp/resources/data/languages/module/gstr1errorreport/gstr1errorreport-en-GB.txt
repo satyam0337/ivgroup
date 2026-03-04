@@ -1,0 +1,24 @@
+header 						<b>GSTR 1 ERROR Listing Report</b>
+
+date						Date
+companyName					Company Name
+srcState					From State
+srcBranch					From Branch
+toState						To State
+toBranch					To Branch
+search						Search
+
+subHeader1					<b>GSTR 1 Error Details</b>
+
+gstin						GSTIN/UIN of Recipient
+wayBillNumber				Invoice Number
+bkgDate						Invoice Date
+grandTotal					Invoice Value
+placeOfSupply				Place Of Supply
+reverseCharge				Reverse Charge
+type						Invoice Type
+rate						Rate
+taxOnAmount					Taxable Value
+freightType					Freight Type
+bookingTimeTax				GST Amt
+wayBillRemark				Remark

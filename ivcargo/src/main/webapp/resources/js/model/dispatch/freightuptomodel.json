@@ -1,0 +1,9 @@
+ {
+	"labelId":"freightUptoBranch",
+	"dataDtoKey":"freightUptoBranchName",
+	"columnDisplayCssClass":"column-data-left-align",
+	"displayColumnTotal":"false",
+	"elementConfigKey":"FreightUpto",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+}

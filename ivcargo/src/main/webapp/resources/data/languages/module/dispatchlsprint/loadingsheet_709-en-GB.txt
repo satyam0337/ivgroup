@@ -1,0 +1,63 @@
+srNumberLabel					SR<br>NO
+lrNumberLabel					GC<br>Note.<br>No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR<br>Type
+consignmentPackingDetailsLabel	PKGS
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						TOTAL
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Challan No.:
+vehicleNumberLabel				Lorry No :
+fromBranchLabel					Station :
+toBranchLabel					To Station :
+toDestination                   Destination
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR<br>Type
+totalArticleLabel				NO.OF<br>PKGS
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				Total
+driverNameLabel					Driver Name :
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG<br>DATE
+packages						NO.OF PKGS.
+gst								GST no.
+saidToContain					Particulars
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Owner Name :
+weight							Weight
+chWeight							Ch.<br>Weight
+
+emaillabel						Email Id :
+mob								Mobile No :
+dl					D.L. :
+cewb							CEWB No. :
+pan 							PAN No. :
+

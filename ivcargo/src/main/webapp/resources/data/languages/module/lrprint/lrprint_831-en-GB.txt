@@ -1,0 +1,138 @@
+invoiceNumber				INV :
+deliveryAt					Delivery At :
+sourceBranch				From :
+destinationBranch			To :
+lrType						Type
+bookingDate					Date :
+actualWeight			  	Actual Wt:
+chargedWeight			  	Charged Wt:
+lrNumber					Invoice/LR No :
+consignorname				Consignor :
+consigneename				Consignee :
+declaredValue				INV. VALUE :
+weight						Weight
+serviceTax					G.S.T
+other						Other
+grandTotal					Non Negotiable Total : 
+tinNo						TIN No : 
+chargeName1					Freight
+chargeName49				Handling
+chargeName25				Door Dly.
+chargeName6					Door Pickup
+chargeName48				Unloading
+chargeName29				LR Charge
+chargeName7					Octroi
+number						Ph : 
+chargeName23				Stationary	
+printedby					Printed By : 
+seperator					Of
+serviceTaxPaidBy			GST Paid in RCM By : 
+mobilenumber				Mobile No :
+consignmentQuantity			Qty.
+totalQty					Tot.
+description					DESCRIPTION OF ARTICLE SAID TO CONTAIN
+consignorcopy				Consignor Copy		
+info1						Party's Signature
+info2						Booked at Owner's Risk.
+info3						For Aditya Roadlines.
+vehicleCopy					Vehicle Copy
+consigneeCopy				Consignee Copy
+consignorCopy				Consignor Copy
+partycopy					Party Copy
+gstin						GSTIN : 
+freight						Freight
+ddc							DDC
+hamali						Hamali
+service						Service
+sc							S.C
+cover						Cover
+mobno						MOBILE NO.
+gstNo						GST No :
+sgst						SGST
+cgst						CGST
+igst						IGST
+freighttype					LR Type : 
+remark						Remark : 
+privateMark					Private Mark :
+mobileLable					Mob.: 
+dlyAdd						Delivery Add. :
+TandC						Terms & Conditions :
+
+
+
+
+2invoiceNumber				INVOICE NO. 
+2declaredValue				GOODS VALUE 
+2deliveryTo					DELIVERY AT :
+2sourceBranch				Form  
+2destinationBranch			To  
+2lrType						LR Type  
+2lrnumber					Estimated No. : 
+2bookingDate					Booked Date :
+2consignmentQuantity			Qty
+2description				  	Description Of Goods(Said To contain)
+2consignmentSaidToContain  	Said To Contain : 
+2actualWeight			  	ACTUAL WEIGHT
+2chargeWeight			  	CHARGED WEIGHT
+2serviceTaxPaidBy			GST Paid By
+2rupee						&#x20B9
+2serviceTax					GST
+2grandTotal					Non Negotiable Total : 
+TotalItems					Total Items :
+paymentType					Payment Type : 
+2consignorname				Sender  
+2consigneename				Receiver 
+2at							AT
+2printedby					Printed By : 
+2freight						FREIGHT
+2stationary					Stationary Charge
+2fov							FOV
+2hamali						Hamali
+2toll						Toll
+2doorcollection 				Door Collection
+2doordelivery				Door Delivery
+2sms							SMS Charge
+2bookedby					Booked By : 
+2seperator					OF
+2remark						Remark : 
+2privateMark					Pvt Mark : 
+2loading						Loading
+2receipt						Receipt
+2collection					Collection
+2formType					Form Type : 
+2rate						RATE 
+2insuredby					Insured By : 
+2deliveryType				DELIVERY TYPE : 
+2mobileno					MOB : 
+2tinno						TIN NO. : 
+2billingParty				BILLING PARTY : 
+2forCompanyName				For, AAKASH ROADWAYS
+2freight						FREIGHT
+2bc							B.C.
+2pf							P/F
+2lc							L/C
+2dd							D/D
+2accountheader				SRI SAMBASIVA CARGO CARRIERS
+2accountheader1				DOOR NO.15-6/132, JAMES GARDEN, NEAR VIJAYAMAHAL CENTER, NELLORE-524001, A.P.
+2Ph                          Ph:	
+2info						BOOKED AT OWNER RISK
+2discount					Discount (-)		
+2signature					Receiver Signature	
+2printedDateTime				Printed On	
+2phone						PHONE:
+2total						TOTAL : 
+2executiveSign				Signature of Clerk/Agent
+2gstn						GSTN : 
+2type						LR Type 
+2lrcharge                    LR CHARGE
+2art.charges                 ART. CHARGES
+2surcharge                   SURCHARGE
+2withpass                    WITHPASS
+2luc                         LUC
+2noOfPkgs     				Article :
+2deliveryBranchMobileNumber  Delivery Branch Mobile No :
+2deliveryAddress				Delivery Address : 
+printedBy					Printed By 
+termsCondition				Terms & Conditions
+perArt						Per Art
+perKg						Per Kg

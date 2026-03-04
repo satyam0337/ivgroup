@@ -1,0 +1,82 @@
+srNumberLabel					Sr.No.
+lrNumberLabel					Lr Number
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	NO. OF PKGS
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						Booking Amount
+amountLabel2					Total 
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Report #:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Report Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					Payment
+totalArticleLabel				Qty
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				Total
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+srcBranch						From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						NO.OF PKGS.
+gst								GST no.
+saidToContain					Items
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							Wght
+pickUpCharge					Pick Up Charges 
+count							Booking
+branchAddressLabel				BRANCH CODE :
+tel								Telephone
+nop								NOP
+type							Item Type
+ConEwaybillNumber				ConEwaybillNumber :
+destBranch						TO
+qty								Qty
+loadingChargeLabel				L
+lrChargeLabel					LR
+toPayHamaliChargeLabel			H
+ddcChargeLabel					DDC
+unloadingChargeLabel			UL
+doorCollectionChargeLabel		DC
+doorDeliveryChargeLabel			DD
+otherChargeLabel				OTH
+freightChargeLabel				Freight
+totalFreightLabel				Freight
+totalLoadingLabel				L
+totalUnloadingLabel				UL
+totalDoorCollectionLabel		DC
+totalDoorDeliveryLabel			DD
+totalOtherLabel					OTH
+totalLrChargeLabel				LR
+totalToPayHamaliLabel			H
+totalDDCLabel					DDC
+

@@ -1,0 +1,87 @@
+@CHARSET "ISO-8859-1";
+/* Modal Header */
+.payment-modal-header, .added-payment-modal-header {
+    padding: 2px 16px !important;
+    background-color: #337ab7;
+    color: white;
+    min-height: 16.42857143px;
+     border-bottom: 1px solid #e5e5e5;
+}
+
+.payment-modal-header .close, .added-payment-modal-header .close {
+  margin-top: -2px;
+}
+
+/* Modal Body */
+.payment-modal-body, .added-payment-modal-body {
+	position: relative;
+  	padding: 15px;
+	padding: 2px 16px;
+	height: auto;
+	width: 100%;
+}
+
+/* Modal Content */
+.payment-modal-content, .added-payment-modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top: -300px; opacity: 0} 
+    to {top: 0; opacity: 1}
+}
+
+@keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: 0; opacity: 1}
+}
+
+.payment-modal-footer {
+  padding: 15px;
+  text-align: right;
+  border-top: 1px solid #e5e5e5;
+}
+
+.payment-modal-footer .btn + .btn {
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+.payment-modal-footer .btn-group .btn + .btn {
+  margin-left: -1px;
+}
+.payment-modal-footer .btn-block + .btn-block {
+  margin-left: 0;
+}
+
+.payment-modal-footer:before,
+.payment-modal-footer:after {
+  display: table;
+  content: " ";
+}
+
+.payment-modal-footer:after {
+  clear: both;
+}
+
+.payment-modal-title {
+  margin: 0;
+  line-height: 1.42857143;
+}
+
+.added-payment-modal-dialog {
+  position: relative;
+  width: 75%;
+  margin: 10px;
+}

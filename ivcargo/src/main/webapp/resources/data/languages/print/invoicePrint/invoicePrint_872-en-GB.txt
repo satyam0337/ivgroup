@@ -1,0 +1,15 @@
+billno                          BILL NO.
+billDate                        DATE.
+from                            FROM:
+to                              TO:
+gstin                           GSTIN:
+billDate                        Date
+builtyNo                        Builty No.  
+itemDetails                     Items Details 
+place                           Place 
+partyName                       Party's Name
+dagina                          Dagina
+amount                          Amount  
+gstNo                           GST No: 
+partyName						Party Name :
+address							Address

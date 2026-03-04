@@ -1,0 +1,9 @@
+ {
+	"labelId":"consignorName",
+	"dataDtoKey":"wayBillConsignorName",
+	"columnDisplayCssClass":"column-data-left-align",
+	"displayColumnTotal":"false",
+	"elementConfigKey":"Consignor",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100
+}

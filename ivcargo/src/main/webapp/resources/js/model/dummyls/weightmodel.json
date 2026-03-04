@@ -1,0 +1,10 @@
+ {
+	"labelId":"totalWeight",
+	"dataDtoKey":"wayBillActualWeight",
+	"columnDisplayCssClass":"column-data-right-align",
+	"elementConfigKey":"Weight",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100,
+	"columnMinWidth":50,
+	"displayColumnTotal":true
+}

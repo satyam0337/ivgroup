@@ -1,0 +1,14 @@
+ewayBill            E-wayBill No :
+from				FROM : 
+to					TO : 
+date				DATE : 
+consignor			CONSIGNOR : 
+consignee			CONSIGNEE : 
+consignmentQuantity	NO.
+description			DESCRIPTION
+grandTotal			TOTAL
+consignorname		CONSIGNOR
+consigneename		CONSIGNEE
+gstNo				GST NO. 
+phone				MOB NO.
+address				ADDRESS : 

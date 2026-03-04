@@ -1,0 +1,42 @@
+header 						Door Delivery Memo
+region						Region
+subRegion					SubRegion
+branch						Branch 
+deliveryFor					Delivery For
+search						Search
+singleLRSearch				Search By LR No.
+lrDestination				LR Destination
+removeheader				Remove
+removeLabel					Remove
+serialnumberheader 			SR No.
+WayBillNumber				LR No.
+WayBillTypeName				Type
+Quantity					Qty
+LSNumber					LS Number
+receiveBtn					Door Delivery
+UnloadDate					Unl. Dt.
+SourceBranch				Source
+DestinationBranch			Destination
+ActualWeight				Actual Weight
+GrandTotal					Grand Total
+DeliveryTo					Delivery To
+Consignor					Consignor
+Consignee					Consignee
+LRType						LR Type
+Remark						Remark
+vehicleNumber				Vehicle Number
+driverName					Driver Name
+driverNumber				Driver Number
+vehicleDestination			Destination
+remark						Remark
+lorryHire					Lorry Hire
+createDDMBtn				Create
+Octroi						Octroi
+Octroi Clearing				Octroi Clearing
+Stationary					Stationary
+Hamali						Hamali
+Door Delivery				Door Delivery
+Demurrage					Demurrage
+Delivery Service			Delivery Service
+Carting						Carting
+ddmWithQR					DDM With QR

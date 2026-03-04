@@ -1,0 +1,30 @@
+wayBillNumber				LR No :
+bookingDateTime				Bkg Time : 
+srcBranch					From : 
+destBranch					To : 
+from						From :
+to							To :
+receiverNumber				Receiver No : 
+wayBillType                 LR Type : 
+remark						Remark :
+noOfPkg						No. of Pkgs :
+bookingTotal				Total
+bookedBy					Booked By :
+printedBy					Printed By :
+printDateTime 				Print Time :
+freight						Freight :
+loading						Loading<br/>Unloading
+actualweight				Actual<br/>Weight
+chargedweight				Charged<br/>Weight
+statistical					Statistical<br/>Charges
+other						Other<br/>Charges
+servicetax					GST
+octroi						Octroi
+osc							OSC 5%
+naka						Naka<br/>Charges
+demarage					Demarage
+chargesSection				Charges
+gstn						GSTN -  
+ewaybill					EwayBill No : 
+invoiceno					Invoice No : 
+invoicevalue				Invoice Value : 		

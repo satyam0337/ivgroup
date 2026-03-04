@@ -1,0 +1,11 @@
+header 						<b>Supplementary Bill</b>
+subHeader					<b>Search Details</b>
+billNumberLabel				Bill Number
+branchNameLabel				Branch
+branchAddressLabel			Branch Address:
+branchPhoneNumberLabel		Branch Phone No.:
+find						Find Details
+lrNumberLabel				LR Number
+append						Append LRs
+header1						<b>Append LR in Bill</b>
+findBtnForAppendLR			Find

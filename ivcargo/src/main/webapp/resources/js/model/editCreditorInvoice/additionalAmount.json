@@ -1,0 +1,10 @@
+{
+	"elementId"				: "additionalAmount",
+	"elementName"			: "additionalAmount",
+	"elementGlyphicon"		: "glyphicon glyphicon-none",
+	"elementType"			: "text",
+	"tooltipName"			: "Amount",
+	"maxLength" 			: 8,
+	"parentDivCss"			: "col-xs-6",
+	"elementStyle" 			: "width: auto"
+}

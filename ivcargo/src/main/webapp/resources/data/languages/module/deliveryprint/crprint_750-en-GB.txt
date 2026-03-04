@@ -1,0 +1,26 @@
+gst         GST NO : 
+from        From
+to          To
+lrDate      LR Date 
+package     Package
+consignor   Consignor
+crDate      CR Date 
+crno        CR No
+lrno        LR No
+dlyBy       Delivery By
+frt			Total Freight
+sty			Stationary
+hml         Hamali
+dd          Door Delivery
+dum         Dumurrage
+oth 		Other
+dumrgFrom   Dumurrage from :
+inv         Invoice No
+pay         Pay Mode :
+dlyType     Delivery Type 
+lrDisscount LR Disscount/balance
+grandTotal  Grand Total
+rupeesInWord  Rupees in words : 
+remark      Pvt Mark : 
+
+

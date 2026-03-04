@@ -1,0 +1,26 @@
+header 						Party Commission Report
+
+date						Date
+region						Region
+subRegion					Sub Region
+branch						Branch
+
+
+find						Find
+
+subHeader					Party Commission Report Details
+
+serialnumberheader			Sr No
+lrNumber					LR NO.
+lrDate						Bkg.Date
+invoiceNumber				Invoice No.
+consignorName				Consignor
+consigneeName				Consignee
+quantity					Qty
+chargeWeight				Charge Wt.
+chargeType					Charge Type
+freightAmount				Freight
+commissionRate				Cmsn Rate
+commissionValue				Cmsn Value
+bookingTotal				Bkg. Total
+party						Party

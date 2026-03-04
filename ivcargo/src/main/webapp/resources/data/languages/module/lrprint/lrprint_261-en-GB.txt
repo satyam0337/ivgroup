@@ -1,0 +1,64 @@
+invoiceNumber				INVOICE NO. 
+declaredValue				GOODS VALUE 
+deliveryTo					DELIVERY AT :
+sourceBranch				FROM : 
+destinationBranch			TO : 
+lrType						Paid/Topay
+lrnumber					LR No. 
+bookingDate					Date :
+consignmentQuantity			Total Item
+description				  	Description Of Goods(Said To contain)
+consignmentSaidToContain  	Said To contain
+actualWeight			  	WEIGHT
+chargeWeight			  	WEIGHT
+serviceTaxPaidBy			ST @4.50%
+rupee						&#x20B9
+serviceTax					ST @4.50%
+grandTotal					Total Amt
+consignorname				Sender : 
+consigneename				Receiver :
+at							AT
+printedby					Printed By : 
+freight						FREIGHT
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					OF
+remark						Remark : 
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						RATE 
+insuredby					Insured By : 
+deliveryType				DELIVERY TYPE : 
+mobileno					MOB : 
+tinno						TIN NO. : 
+billingParty				BILLING PARTY : 
+forCompanyName				For, AAKASH ROADWAYS
+freight						FREIGHT
+bc							B.C.
+pf							P/F
+lc							L/C
+dd							D/D
+accountheader				GOWTHAM CARGO
+accountheader2				DAILY PARCEL SERVICE
+accountheader3				Regd. No.: AGYPV 2687 CSD001
+accountheader4				Call 0891-2521799, 9246777699, 7799955027
+info						BOOKED AT OWNER RISK
+discount					Discount (-)		
+signature					Receiver Signature	
+printedDateTime				Printed On	
+phone						Phone
+total						Total
+executiveSign				Signature of Clerk/Agent
+
+item						Item
+RecNo						Rec No
+lrcopy						LR COPY					

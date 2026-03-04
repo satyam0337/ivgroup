@@ -1,0 +1,12 @@
+ {
+	"elementId":"",
+	"elementGlyphicon":"glyphicon glyphicon-none",
+	"elementName":"",
+	"elementType":"text",
+	"tooltipName": "",
+	"labelId":"",
+	"parentDivCss":"col-xs-4",
+	"labelCss":"col-xs-5",
+	"elementDivCss":"col-xs-7 validation-message",
+	"setDefaultLabel": true
+}

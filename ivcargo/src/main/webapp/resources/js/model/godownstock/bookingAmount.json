@@ -1,0 +1,13 @@
+ {
+	"elementId":"bookingAmountEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"bookingAmountEle",
+	"elementType":"text",
+	"labelId":"bookingAmount",
+	"elementDefaultValue":"",
+	"dataDtoKey":"bookingAmount",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

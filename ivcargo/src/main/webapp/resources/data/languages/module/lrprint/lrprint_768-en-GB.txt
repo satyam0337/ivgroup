@@ -1,0 +1,77 @@
+invoiceNumber				INV :
+deliveryAt					Delivery At :
+sourceBranch				FROM :
+destinationBranch			TO :
+lrType						Type
+bookingDate					Bkg. Date :
+actualWeight			  	Actual Wt:
+chargedWeight			  	Charged Wt:
+lrNumber					GR No :
+consignorname				Consignor :
+consigneename				Consignee :
+declaredValue				VALUE :
+weight						Weight
+serviceTax					G.S.T
+other						Other
+grandTotal					Total
+tinNo						TIN No : 
+chargeName1					Freight
+chargeName49				Handling
+chargeName25				Door Dly.
+chargeName6					Door Pickup
+chargeName48				Unloading
+chargeName29				LR Charge
+chargeName7					Octroi
+number						Ph : 
+chargeName23				Stationary	
+printedby					Printed By : 
+seperator					Of
+serviceTaxPaidBy			G.S.T Paid By :
+mobilenumber				Mob No :
+consignmentQuantity			Qty.
+totalQty					Tot.
+description					Description
+consignorcopy				Consignor Copy		
+info1						Party's Signature
+info2						Booked at Owner's Risk.
+info3						For Aditya Roadlines.
+vehicleCopy					Vehicle Copy
+consigneeCopy				Consignee Copy
+consignorCopy				Consignor Copy
+partycopy					Party Copy
+gstin						GSTIN : 
+freight						Freight
+ddc							DDC
+hamali						Hamali
+service						Service
+sc							S.C
+cover						Cover
+mobno						MOBILE NO.
+gstNo						GSTIN-
+sgst						SGST
+cgst						CGST
+igst						IGST
+freighttype					Freight type : 
+remark						Remark : 
+privateMark					Pvt. Marka :
+deliveryPartyMob			Delivery Party No : 
+billing						Billing : 
+grType						GR Type : 
+length						Length (IN)
+width						Width (IN)
+height						Height (IN)
+totalCFT					Total CFT
+chWt						CH WT
+acWt						AC WT
+freight						Basic Freight
+dlyCharge					Delivery Charge
+pickup						Pickup Charge
+loading						Loading Charge
+docketCharge				Docket Charge
+fov							FOV Charge
+other						Other Charge	
+invoiceNo					Inv No.
+invoiceDate					Inv Date
+invoiceValue				Inv Rs.
+deliveryMode				Delivery Mode : 
+pickupMode					Pickup Mode : 

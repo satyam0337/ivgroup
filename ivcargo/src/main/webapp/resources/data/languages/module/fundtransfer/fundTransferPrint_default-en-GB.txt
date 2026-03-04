@@ -1,0 +1,15 @@
+sourceBranch				    From Branch
+toBranchName				    To Branch 
+transNo					 	    Trans No :
+transdate				        Trans Date :
+paymentmode						Payment	Mode
+remark							Remark
+payment							Payment
+fundTransferNo					Fund Transfer No : 
+date							Date : 
+amount							Amount
+preparedBy						Prepared By : 
+checkedBy						Checked By :
+passedBy						Passed By :
+revenueStampSign				Revenue Stamp Signature 
+toAccount                       From Account

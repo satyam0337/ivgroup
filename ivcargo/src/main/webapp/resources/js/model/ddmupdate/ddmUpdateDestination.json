@@ -1,0 +1,9 @@
+{
+	"elementId"			: "ddmDestination",
+	"elementName"		: "ddmDestination",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "Destination Branch",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: 250px"
+}

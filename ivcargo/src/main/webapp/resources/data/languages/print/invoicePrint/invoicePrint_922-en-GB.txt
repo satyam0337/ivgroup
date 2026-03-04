@@ -1,0 +1,16 @@
+lrNo					LR No.
+lrBookingDateTimeStr	LR Date
+sourceBranchCode		FROM
+destinationBranchCode	TO
+articleTypeMultiple		DESCRIPTION OF GOODS
+totalArticle			ARTICLE
+chargeWeight			WT
+articleRate				RATE<br>(per kg)
+bookingAmount			TAXABLE<br>VALUE
+bookingAmount1			TAXABLE &nbsp; VALUE
+gstPercent				RATE<br>OF TAX		
+cgstWithDecimal			CGST AMT<br>2.5%
+sgstWithDecimal			SGST AMT<br>2.5%
+igstWithDecimal			IGST AMT<br>5%
+	
+	

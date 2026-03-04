@@ -1,0 +1,20 @@
+parcelHeader				PARCEL / LUGGAGE BOOKING RECEIPT
+bookingDate					Booking Date : 
+lrnumber					LR No : 
+consignmentDetails			-- Consignment Details --
+from						From : 
+to							To :
+consignor					Consignor :
+consignee					Consignee :
+packingType					Packing Type :
+totalquantity				Total :
+invoicenumber				Invoice no:
+declaredvalue				Declared Value :
+actualweight				Weight:
+remark						Remark : 
+chargedetails				-- Charges Details --
+servicetax					Service Tax
+grandtotal					Total
+info1						Read and Accepted
+sign						Consignor Signature:
+printerBy					Printed By : 

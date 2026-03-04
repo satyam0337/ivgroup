@@ -1,0 +1,10 @@
+ {
+	"elementId":"searchSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"searchSelectEle",
+	"elementType":"text",
+	"tooltipName": "Search By",
+	"labelId":"searchSelect",
+	"divRegion":"SearchRegion",
+	"elementDefaultValue":""
+}

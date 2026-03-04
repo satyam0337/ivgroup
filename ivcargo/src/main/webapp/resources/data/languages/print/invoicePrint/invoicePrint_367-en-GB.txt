@@ -1,0 +1,79 @@
+branchPhoneNumberLabel			Ph :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				Source 
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					Destination 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+m/s								M/s. : 
+srNo							SNo 
+gst								GST
+stateCode						State Code : 
+date							Date : 	
+lrNo							LR Number
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+total							Amount
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GST NO -
+invoiceno						Invoice No.
+bookingdate						LR Booking<br>Date
+particulars						Particulars
+invoice							INVOICE
+customerName					Customer Name
+billNo							BILL No.
+address							Address
+vehicleNo						Vehicle No.
+date							Date
+srNo							Sr.No. 	
+bkDate							Bk.date 	
+lrNo							LR.No. 	
+crNo							CR.No. 	
+destination						Destination 	
+invNo							Invc.No 	
+consignee						Consignee 	
+pkgs							PKGS 	
+frgt							FRGT 	
+oth								OTH 	
+amount							Amount
+lrCount							L.R.(s)
+additionalAmount				Additional Amount
+billTotal						Bill Total
+total							Total
+remark							Remark
+for								For
+taxByCust						(Service Tax Directly Payable By Customer )
+chequePay						PLEASE PAY BY A/C PAYEE CHEQUE ONLY
+eoe								E. & O.E.
+accountsManager					Accounts Manager
+ph     							Ph
+gstNo							GST No.
+bill 							BILL
+source							Source
+art								Art.
+chargedWeight					Chg.Wt. 	
+lrCharge  						LRCHRG

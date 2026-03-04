@@ -1,0 +1,22 @@
+
+lRNo					LR No: 
+mode					MODE:
+fromCity				From City:  
+toCity					To City: 
+sender					Sender:
+receiver				Receiver:
+senderMobNo				Sender Mob No:
+senderGst				Sender GSTN:
+recGst					Rec GSTN:
+RecMobNo				Rec Mob NO:
+booKingDate				Booking Date:
+netAmt					Net Amt:
+val						Goods Value:
+weight					Weight:
+quantity				Quantity:
+billNo					Bill No:
+delDate					Delivery Date:
+freight					Freight:
+cartage					Cartage:
+hamali					Hamali:
+docCharge				Doc. Charge:

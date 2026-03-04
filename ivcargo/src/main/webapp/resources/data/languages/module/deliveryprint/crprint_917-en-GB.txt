@@ -1,0 +1,63 @@
+
+consignorname						Branch
+IssuingOffice				Issuing Office
+CRNo						CR No
+Date						Date
+LRNO						LR No.
+srNo						Sr. No. 
+LRDate						Date
+LRDate1						LR Date
+From 						From 
+FromCity					From City
+LRType						LR Type:
+consigneename				Customer Name : 
+DeliveredTo					Receiver Name
+cmpNo						Phone No
+gst							Customer GST Number :
+gst1							GST No
+remark						Remark
+memoNumber					Memo Number :
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+total 						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				No. of Articles
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					Lr. Amount
+crCharge					Cr Charge
+Destination					To 
+consignor					Consignor : 
+paymenttype					Payment Type:
+receiptno					Receipt No :
+cnee						C'Nee : 
+from						From : 
+to							To : 
+vehicle						Vehicle No : 
+deliveryTo					Receiver Name : 
+deliveryToNo				Delivery To No : 
+DeliveryAdd					Delivery Address:
+DeliveryNo					Phone Number:
+memoDate					Memo Date :
+memoType					Memo Type : 
+Type 						Type 
+Article						Article
+gc							GC
+additionalFreight			Additional Freight
+totalFreight				Total Freight
+godown						Godown Name:
+saidToContain				Said To Contain
+deliveryToNumber			Delivery To Number
+Consignee					Consignee

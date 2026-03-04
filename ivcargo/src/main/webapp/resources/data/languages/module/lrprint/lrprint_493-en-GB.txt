@@ -1,0 +1,68 @@
+invoiceNumber				INVOICE NO. 
+declaredValue				GOODS VALUE 
+deliveryTo					DELIVERY AT :
+sourceBranch				FROM : 
+destinationBranch			TO : 
+lrType						FREIGHT BY
+lrnumber					LR No. 
+bookingDate					Date :
+consignmentQuantity			Qty
+description				  	Description Of Goods(Said To contain)
+consignmentSaidToContain  	Said To contain
+actualWeight			  	ACTUAL WEIGHT
+chargeWeight			  	CHARGED WEIGHT
+serviceTaxPaidBy			GST Paid By
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					NET AMOUNT
+consignorname				CONSIGNOR : 
+consigneename				CONSIGNEE :
+at							AT
+printedby					Printed By : 
+freight						FREIGHT
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					OF
+remark						Remark : 
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						RATE 
+insuredby					Insured By : 
+deliveryType				DELIVERY TYPE : 
+mobileno					MOB : 
+tinno						TIN NO. : 
+billingParty				BILLING PARTY : 
+forCompanyName				For, AAKASH ROADWAYS
+freight						FREIGHT
+bc							B.C.
+pf							P/F
+lc							L/C
+dd							D/D
+accountheader				SRI SAMBASIVA CARGO CARRIERS
+accountheader1				DOOR NO.15-6/132, JAMES GARDEN, NEAR VIJAYAMAHAL CENTER, NELLORE-524001, A.P.
+Ph                          Ph:	
+info						BOOKED AT OWNER RISK
+discount					Discount (-)		
+signature					Receiver Signature	
+printedDateTime				Printed On	
+phone						PHONE:
+total						TOTAL
+executiveSign				Signature of Clerk/Agent
+gstn						GSTN : 
+type						LR Type 
+lrcharge                    LR CHARGE
+art.charges                 ART. CHARGES
+surcharge                   SURCHARGE
+withpass                    WITHPASS
+luc                         LUC
+delivery                 	Dly :
+deliveryAt					Delivery At :

@@ -1,0 +1,20 @@
+no							No
+date						Date
+branch						Branch
+mobNo						Mob No. : 
+email						Email : 
+gstin						GSTIN :  
+deliveryCash				DELIVERY / CASH RECEIPT
+receivedWithThanks			Received with thanks from :  
+gstNo						GST No 
+sumOfRupees					The Sum of Rupees 
+particulars					Particulars
+amount						Amount
+Demurrage					Demurrage
+total						Total
+bankDetails					Bank Details : 
+for							For
+receivedthe					Received The Goods in Good Condition
+rcm							R C M 
+
+ 

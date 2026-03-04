@@ -1,0 +1,81 @@
+invoiceNumber				INV.NO :
+declaredValue				DEC.VALUE:
+deliveryAt					DELIVERY AT :
+sourceBranch				FROM :
+destinationBranch			TO :
+bookingDate					DATE :
+actualWeight			  	ACT. WT
+chargedWeight			  	CHARGED WT
+consignorname				CONSIGNOR :
+consigneename				CONSIGNEE :
+remark						REMARK :
+other						OTHER
+grandTotal					TOTAL
+freight						FREIGHT 	
+hamali						HAMALI 	
+lrCharge					BILTY
+other						OTHER 
+lateNight					LATE NIGHT 	
+waiting						WAITING 	 	
+printedby					PRINTED BY : 
+seperator					OF 
+serviceTaxPaidBy			GST PAID BY :
+mobilenumber				MOBILE :
+consignmentQuantity			QTY.
+description					DESCRIPTION
+type						TYPE
+gstNo						GST NO. :
+consigneeAddr				ADDRESS:
+consignorAddr				ADDRESS:
+lrNumber					LR.NO : 
+destAddr					DEST.ADDRESS:
+total						TOTAL
+amount:						AMOUNT :
+sgst						SGST
+cgst						CGST
+igst						IGST
+totalQty					TOT.
+address						ADDRESS :
+amount						AMOUNT
+lrType						TYPE :
+noofpackage 				NO.OF<br>PKGS.
+weight						WEIGHT KGS.
+charges						CHARGES
+rs							RS.
+ponumber					P.O.NO.
+challanno					CHALLAN NO.
+bilty						BILTY
+aoc							A.O.C.
+collection      			COLLECTION
+servicetax					S.TAX
+doordly						DOOR DLY
+paymentMode					PAYMENTMODE:
+transporter					TRANSPORTER:
+sgstprcnt					SGST %
+cgstprcnt					CGST %
+igstprcnt					IGST %
+amt							AMT
+regardingcompany			
+instruction1				DELIVERY COPY AT OWNER'S RISK
+instruction2				SUBJECT TO KOLKATA JURISDICTION
+instruction3				GOODS SUPPLIED AS PER TERMS OVERLEAF
+name						NAME :
+time						TIME :
+actWgt   					ACTUAL WT.
+chgWgt   					CHARGE WT.
+chgType                     CHARGE TYPE.
+ewaybill                    EWAY BILL-
+stcharge					ST.CHARGE
+surcharge					SURCHARGE
+gst							GST
+lrtype						LR TYPE
+headerccibranch 			R.O.  381, CENTRAL FACILITY BUILDING NO. 2, APMC MARKET, PHASE-2, SECTOR 19, VASHI, NAVI MUMBAI 400705.
+headerccigrp				H.O. 161, RANBINRA SARANI, 3RD FLOOR, ROOM NO.309, ONKAR MARKET, KOLKATA-700007
+deliveryType				DELIVERY TYPE:
+godownAdd					GODOWN ADD:
+totalArt					TOTAL
+gstnumber					GST NO :-
+consignorcopy				Consignor Copy
+consigneecopy				Consignee Copy
+officecopy					Office Copy
+lorrycopy					Lorry Copy

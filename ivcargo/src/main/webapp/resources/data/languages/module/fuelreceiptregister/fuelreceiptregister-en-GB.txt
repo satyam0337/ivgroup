@@ -1,0 +1,23 @@
+createDateTimeString				Date
+fuelPump			Fuel Pump
+vehicleNumber		Vehicle Number
+region				Region
+subRegion			Area
+branch				Branch
+ReportSort			Report Sorting
+header				Fuel Receipt Register
+search				Search
+serialnumberheader	SR. No.
+pumpReceiptNumber			Slip Number
+fuelToFillUp			Fuel Liter
+fuelUnitRate		Rate
+fuelTotalRate		Amount
+destinationBranchName	Destination
+totalKilometer			K.M.
+driverName				Driver
+remark				Remark
+pumpName			Fuel Pump
+fuelAsPerGps		Fuel As Per GPS
+branchName			Branch
+routeType			Route
+statusName			Status

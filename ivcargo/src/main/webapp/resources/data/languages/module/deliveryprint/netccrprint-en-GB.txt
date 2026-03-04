@@ -1,0 +1,56 @@
+bookingTotal						Freight
+bookingType							LR Type
+discount							Discount
+grandTotal							TOTAL
+crNo								CR NO.:
+crSource							From 
+crDestination						To 
+consigneeName						Consignee : 
+quantity							No.of Pkgs
+consignorName						Delivered By
+deliveryTime						Delivery Time
+bookingDate							Booking Date. : 
+printTime							Print Time
+deliveredAt							Godown :
+paymentType							Payment mode : 
+consigneeName						Received with thanks from M/s.
+deliveredToPerson					Delivered To
+deliveredToNumber					Number
+deliverydate						Date : 
+srcbranch							Bkg Branch : 
+lrNo								LR No. :
+quantity							Articles : 
+packingType							Packing Type : 
+receiveDateTime						Arrival Dt : 
+remark								Remark : 
+servicetax							GST
+actualweight						Actual Wgt : 
+chargeweight						Charge Wgt : 
+stpaidby							GST Paid By :
+rupee								&#x20B9 
+lrType								LR Type : 
+deloffice							DELIVERY OFFICE :
+truckno								Truck No.: 
+receiptno							Octroi Receipt no.:
+rs									Rs. :
+info1								GROW WITH US
+executive							Deliverd by : 
+deliveryTime						Time : 
+acknolwledge						Authorised Rep of Consignee
+signature							Signature
+chargeType							Payment Details
+chargeAmount						Rs.
+hamali								Hamali
+demurrage							Demurrage
+detention							Detension 
+local								Local 
+gi									G.I 
+other								Other 
+octroiform							Octroi Form 
+octroiservice						Octroi Service 
+octroi								Octroi
+companyname							NEW ERA TRANSPORT			
+gstn								GSTN :
+gstPaidBy							GST Paid By :
+statistical							Statistical						
+transport							TRANSPORT

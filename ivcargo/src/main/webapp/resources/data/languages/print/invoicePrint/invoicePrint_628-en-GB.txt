@@ -1,0 +1,30 @@
+date			DOCUMENT DATE 
+partyCode		PARTY CODE 
+partyGst		PARTY GST NO 
+sacCode			SAC CODE 
+branch			BRANCH 
+documentNo		DOCUMENT NO 
+ms				M/S 
+kindAtt			KIND ATTN 
+srNo			SR<BR>NO.
+lrNo			LR NO
+dt				DATE
+from			FROM
+to				TO
+item			ITEM
+pkgs			PKGS
+wt				WEIGHT
+frt				FREIGHT
+remark			REMARKS  
+basicFrt		Basic Freight
+statCharge		Statistical Charges
+words			AMOUNT IN WORDS:	
+grandTotal		Grand Total	
+GSTtAX			Gst Taxable Amount
+branchPhoneNumberLabel	mobile:
+address				ADDRESS :
+
+
+
+
+

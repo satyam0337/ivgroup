@@ -1,0 +1,18 @@
+phoneNumberLabel				Ph :  
+tripNo					Trip No. : 
+branch 					Branch :
+gstn					GSTIN :
+tripDateTime		Trip Date & Time :
+truckNo			Truck No. : 
+ownerName			Owner Name :
+engineNo			Engine No. :
+driverName		Driver Name : 
+chasisNo			Chasis No. :
+contactNo 			Contact No. :  
+permitNo			Permit No. : 
+licenseNo			License No. :
+validity 				Validity :
+driverSignature		Driver Signature 
+preparedBy		Prepared By :
+accountantSignature		Accountant Signature 
+                         

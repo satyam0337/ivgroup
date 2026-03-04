@@ -1,0 +1,24 @@
+define(function(require) {
+	return {
+		loadLanguage:function(){
+			//global variable Language file Path Needs to be present in every HTML file
+			var globalLanguageObj = new Object();
+			//file path needs to be specified from languages folder
+			globalLanguageObj.filePath 		= PROJECT_IVUIRESOURCES+'/resources/data/languages/module/commissionReport';
+			//file name for language to be specified
+			globalLanguageObj.fileName 		= 'commissionReport'
+			return globalLanguageObj;
+		},loadLanguageGroupWise : function(accountGroupId){
+			//global variable Language file Path Needs to be present in every HTML file
+			var globalLanguageObj = new Object();
+			//file path needs to be specified from languages folder
+			globalLanguageObj.filePath 		= PROJECT_IVUIRESOURCES+'/resources/data/languages/module/commissionReport';
+			
+			//file name for language to be specified
+			globalLanguageObj.fileName 		= 'commissionReport-'+accountGroupId;
+			
+			return globalLanguageObj;
+		}
+	}
+})
+

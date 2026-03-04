@@ -1,0 +1,9 @@
+wayBillNumber							LR Number
+wayBillSourceBranchName					Source Branch
+wayBillDestinationBranchName			Dest. Branch
+wayBillConsignorName					Consignor
+wayBillConsigneeName					Consignee
+wayBillArticleQuantity					No. Of Art
+packingTypeString						Packing Type
+wayBillType								Type
+wayBillGrandTotal						Grand Total

@@ -1,0 +1,33 @@
+luggageReceiptNo		Luggage Receipt No :
+lrDate					Date :
+totalQuantity			Parcel :
+grandTotal				Total :
+lrType					LR Type :
+senderName				Sender Name
+receiverName			Receiver Name
+address					Address
+phone					Phone
+destinationBranch		Destination Branch
+paymentMode				Payment Mode
+creditParty				Credit Party
+remark					Remark
+freight					Freight
+insurance				Insurance
+cartage					Cartage
+loading					Loading
+unloading				Unloading
+total					Total
+sgst					SGST
+cgst					CGST
+igst					IGST
+consignmentQuantity		Consignment Quantity
+description				Description
+consignorInvoiceNo		Bill No:
+lrDestination			Delivered at Branch
+deliveryToBranchAddress	 Delivery Branch Address:
+time					 Booking Time
+bookedByExecutive		 User Name:
+EWayBillNo				 EWay Bill No:
+decalredValue			Declared Value:
+doordelivery			Door Dly
+mobile					Mobile No :

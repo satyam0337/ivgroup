@@ -1,0 +1,10 @@
+ {
+	"labelId":"totalArticles",
+	"dataDtoKey":"pendingQuantity",
+	"columnDisplayCssClass":"column-data-right-align",
+	"elementConfigKey":"TotalArticles",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

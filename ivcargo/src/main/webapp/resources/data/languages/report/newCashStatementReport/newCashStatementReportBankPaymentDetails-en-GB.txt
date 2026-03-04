@@ -1,0 +1,10 @@
+header 						Cash Statement Report
+date						Date
+region						Region
+subRegion					SubRegion
+branch						Branch
+search						Search
+subHeader1					Cash Statement Report
+paymentTypeName				Payment Type
+noOfTransaction				No. Of Transaction
+amount						Amount

@@ -1,0 +1,14 @@
+header 						Un-Settled Toll Details Report
+subHeader					Search Details
+region						Region
+subRegion					Sub-Region
+branch						Branch 
+partyName					Party Name
+wayBillNumberSearch			LR No.
+find						Find Details
+
+serialnumberheader			SR. No.
+tollplazaname				Toll Name
+txnAmount					Amount
+truckHisabVoucherNumber		THV Number
+vehicleNumber				Vehicle Number

@@ -1,0 +1,49 @@
+header 						<b>GST Report</b>
+
+subHeader1					<b>Booking Details</b>
+subHeader2					<b>Delivery Details</b>
+subHeader3					Booking Details Summary
+subHeader4					Delivery Details Summary
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+GSTPaidBy					GST Paid By
+bkgDate						Bkg Date
+wayBillNumber				LR NO
+name						PartyName
+sourceBranch				From
+destinationBranch			To
+freight						Freight
+taxOn						TaxOn
+wayBillType					LR Type
+CancelDt					CancelDt
+tax							Tax
+
+cgstAmount					CGST
+sgstAmount					SGST
+igstAmount					IGST
+totalTax					Total GST
+billNumber					BillNo
+creditorName				Billing Party
+isLrModified				IsLrModified
+deliveryDateTime			Dly Date
+dlyAmt						Dly Amt
+crNumber					CrNo
+crCancelDt					CRCancelDt
+save						Find
+consigneeName				ConsigneeName
+consignorName				ConsignorName
+serialnumberheader			SR. No.
+
+state						State
+toState						To State
+toBranch					To Branch
+consignorGSTN				C/nor GSTN
+consigneeGSTN				C/nee GSTN
+billSelectionStr			Bill Type
+crossingHireAmount			BCH
+sourceRegionName			Source Region
+gstStatusName				GST Status
+handlingBranch              Handling Branch
+crossingAgentName			Crossing Agent

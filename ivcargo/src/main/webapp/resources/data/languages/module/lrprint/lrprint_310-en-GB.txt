@@ -1,0 +1,43 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery At :
+sourceBranch				From :
+destinationBranch			To :
+lrType						Type
+bookingDate					Date :
+actualWeight			  	Actual Wt:
+chargedWeight			  	Charged Wt:
+lrNumber					L.R.NO :
+consignorname				Consignor :
+consigneename				Consignee :
+declaredValue				Declared Value :
+remark						Remark :
+weight						Weight
+serviceTax					G.S.T
+other						Other
+grandTotal					Total
+tinNo						TIN No : 
+chargeName1					Freight
+chargeName49				Handling
+chargeName25				Door Dly.
+chargeName6					Door Pickup
+chargeName48				Unloading
+chargeName29				LR Charge
+chargeName7					Octroi
+number						Ph : 
+chargeName23				Stationary	
+printedby					Printed By : 
+seperator					Of
+serviceTaxPaidBy			G.S.T Paid By :
+mobilenumber				Mobile :
+consignmentQuantity			Qty.
+description					Description
+consignorcopy				Consignor Copy
+contactInfo					Phone Nos :
+info1						Party's Signature
+info2						Booked at Owner's Risk.
+info3						For Sai Krishna Travels.
+vehicleCopy					Vehicle Copy
+consigneeCopy				Consignee Copy
+srcAddress					H.O.Autonagar,Hyderabad.
+gstin						GSTIN : 

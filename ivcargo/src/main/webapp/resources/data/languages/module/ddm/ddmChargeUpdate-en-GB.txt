@@ -1,0 +1,8 @@
+header 						Update DDM Charges
+subHeader					<b>DDM Door Delivery LR's</b>
+ddmNumberLabel				DDM Number
+branchNameLabel				Branch 
+find						Find Details
+cancel						Cancel Bill
+crossingAgentLabel			Crossing Agent
+crossingAgentTypeLabel		Type

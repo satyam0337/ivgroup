@@ -1,0 +1,29 @@
+header						Unclaimed Goods Notice
+branchWisePanel				Godown Unload Details
+branch						Branch
+region						Region
+subRegion					Sub Region
+godown						Godown
+notice						Notices
+operation					Operation
+viewNoticeHeader			Notice Details
+noticeNumber				Number
+noticeId					Id
+branchName					Branch
+userName					User name
+transactionTimeStr			Date-time
+LRNo        				LR No        
+BookingDate         		Booking Date
+From     					From           
+To      					To          
+Consignor    				Consignor      
+Consignee  					Consignee        
+Article 					Article          
+ActualWgt 					Act.Wgt          
+Amount    					Amount         
+LRType       				LRType     
+DeclaredValue   			DeclaredValue   
+UnloadDate   				Unload Date      
+deliveryToStr      			Delivery To   
+viewNotice					View Notices
+noticeHeading				Notice

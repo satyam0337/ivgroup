@@ -1,0 +1,33 @@
+header 						<b>Trip Hisab Settlement</b>
+subHeader					<b>LS Details</b>
+vehicleNumberLabel			Vehicle Number
+driverNameLabel				Driver Name
+driverName					Driver Name
+driverNumber				Number
+licenceNumber				License Number
+find						Find
+save						Save
+add							Add
+addExpense					Add Expense
+driverAllowance				Driver Allowance
+tollExpense					Toll Expense
+miscExpense					Misc. Expense
+miscIncome					Misc. Income
+dieselPerLitre				Diesel Per Liter
+kmReading					Odometer Reading (KM)
+totalExpense				Total
+calculateTripHisab			Calculate Hisab
+settleTrip					Settle Trip
+
+lsNumber					LS Number
+creationDateString			LS Date
+sourceBranch				Source Branch
+destinationBranch			Destination Branch
+driverName					Driver Name
+kilometerReading			Km Reading
+dieselLiter					Diesel Liter
+dieselLiterByName			Diesel Liter By
+totalRawanaAmount			Total Rawana Amount
+remark						Remark
+type						Type
+driverFuel					Add Driver Fuel

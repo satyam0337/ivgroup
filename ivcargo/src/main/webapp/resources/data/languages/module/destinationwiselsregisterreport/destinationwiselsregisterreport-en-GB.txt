@@ -1,0 +1,21 @@
+header 						Destination wise LS Register
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+lsType						Type Of LS
+
+save						Find
+
+serialnumberheader			SR. No
+lsNumber   					LS No
+lsDate   					LS Date
+totalNoOfarticles			No of Art
+totalNoOfWeight				Act Wt
+totalToPayAmount			Topay
+serviceTaxAmount			S Tax
+crInsuranceCharge			CR/INSUR
+lhpvNumber					LHPV No
+lhpvAmount					LHPV Total Amt
+
+companyWiseLsDetails		Get Company Wise Print

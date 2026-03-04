@@ -1,0 +1,8 @@
+sourceBranch				    From Branch : 
+toBranchName				    To   Branch : 
+transNo					 	    Trans No :
+transdate				        Trans Date :
+paymentmode						Payment	Mode :
+remark							Remark	:
+payment							Payment
+interBranch						Inter Branch Fund Transfer

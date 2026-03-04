@@ -1,0 +1,23 @@
+wayBillNumber				WB No :
+bookingDateTime				Bkg DT : 
+srcBranch					Org : 
+destBranch					Dest : 
+from						From :
+to							To :
+receiverNumber				Receiver No : 
+wayBillType                 Booking Type : 
+remark						Remark :
+noOfPkg						No. of Pkgs :
+bookingTotal				Total Amount :
+bookedBy					Book By :
+printedBy					Printed By :
+printDateTime 				Print Time :
+srcgst           			GSTNO:  
+lrno						LR NO : 
+sender						Sender : 
+receiver					Receiver :
+gstno						GST :
+printdt						Print DT :
+Freight						Freight:
+receiverGstn				GSTN :
+senderGstn					GSTN :

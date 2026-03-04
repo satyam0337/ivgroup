@@ -1,0 +1,4 @@
+quantity						Pending Articles
+packingType						Packing Type
+dispatchQuantity				Dispatch Articles
+totalWeight						Dispatch Weight

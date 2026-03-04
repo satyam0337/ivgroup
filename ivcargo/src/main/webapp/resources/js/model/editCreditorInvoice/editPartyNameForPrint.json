@@ -1,0 +1,9 @@
+{
+	"elementId"			: "editPartyNameForPrint",
+	"elementName"		: "editPartyNameForPrint",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "Party Name",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: 280px"
+}

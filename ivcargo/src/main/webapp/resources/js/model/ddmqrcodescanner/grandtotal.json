@@ -1,0 +1,9 @@
+ {
+	"labelId":"GrandTotal",
+	"elementConfigKey":"GrandTotal",
+	"dataDtoKey":"wayBillInfoBookingTotal",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

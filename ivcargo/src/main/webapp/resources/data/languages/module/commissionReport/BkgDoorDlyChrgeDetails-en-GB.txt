@@ -1,0 +1,8 @@
+serialnumberheader				SR.no.
+waybillNumber					LR no.
+bookingDate						Booking Date
+destinationBranch				To
+consignee						Consignee
+noOfArt							No.of Art.
+frght							Freight
+bkgDDLyChrge					DoorDlyCharge

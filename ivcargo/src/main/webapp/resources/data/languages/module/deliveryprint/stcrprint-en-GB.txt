@@ -1,0 +1,27 @@
+lrNO						WB No :
+mrNo						MR No :
+lrType						WB Type :
+date						Date :
+lrDate						LR Date :
+bookedFrom					Booked From :
+bookedTo					To :
+noOfPackeges				No. of Pkgs :
+deliveryReceipt				Delivery Receipt
+info1						Customer Copy
+saidToContain				Description Of Goods
+rupee						Rs.
+freight						Freight
+source						Org :
+destination					Dest :
+deliveryCharge				Delivery Charges :	
+deliveryDiscount			DeliveryDisc :			
+total						Total:
+bookingCharges				Booking Charges :
+printTime					Print Time :
+deliveryTime				Delivery Time :
+deliveryTo 					Delivery To :
+packingType					Nature Of Pkg :
+deliverdBy					Delivered By :
+printedBy					Printed By :
+consignor                   Consignor:
+consignee                   Consignee:

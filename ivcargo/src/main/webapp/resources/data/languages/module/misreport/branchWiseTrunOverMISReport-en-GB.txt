@@ -1,0 +1,37 @@
+header 						Turnover Destination Wise
+date						Date
+save						Find
+subHeader					<b>Turnover Destination Wise</b>
+
+destinationBranchName    	Branch Name
+regionName					Region Name
+
+totalPaidLR					Total Paid LR
+totalPaidQuantity			Total Paid Qty
+totalPaidArt				Total Paid Art
+totalPaidActualWeight		Total Paid Act. Wgt
+grandTotalPaidAmount		Total Paid Amt
+
+totalToPayLR				Total ToPay LR
+totalToPayQuantity			Total ToPay Qty
+totalToPayArt				Total ToPay Art
+totalToPayActualWeight		Total ToPay Act. Wgt
+grandTotalToPayAmount		Total ToPay Amt
+
+totalTBBLR					Total TBB LR
+totalTBBQuantity			Total TBB Qty
+totalTBBArt					Total TBB Art
+totalTBBActualWeight		Total TBB Act. Wgt
+grandTotalTBBAmount			Total TBB Amt
+
+totalNoLR					Total LR	
+totalQuantity				Total Qty	
+totalArt					Total Art	
+totalActualWeight			Total Act. Wgt		
+grandTotalAmount			Total Amt
+
+totalFOCLR					Total FOC LR
+totalFOCQuantity			Total FOC Qty
+totalFOCArt					Total FOC Art
+totalFOCActualWeight		Total FOC Act. Wgt
+grandTotalFOCAmount			Total FOC Amt

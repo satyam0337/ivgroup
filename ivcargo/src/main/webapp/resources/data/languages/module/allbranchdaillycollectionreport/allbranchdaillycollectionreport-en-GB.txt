@@ -1,0 +1,30 @@
+header 						All Branch Dailly Collection Report
+
+date						Date
+
+
+search						Search
+
+subHeader1					All Branch Dailly Collection Report
+
+serialnumberheader			Sr No
+wayBillNumber				LR No
+BranchName					Branch
+Paid						Paid
+Topay						Topay
+Credit						Credit
+Quantity					Quantity
+Freight						Freight
+GrandTotal					GrandTotal
+BookedDate					BookedDate
+Hamali						Hamali
+PaidHamali					Paid Hamali
+DeliveryAmount				Delivery 
+AgentCommission				Agent Comm
+Delivery					Delivery
+DeliveryHamali				Delivery Hamali
+TotalAmount					Total Amount
+
+
+
+		

@@ -1,0 +1,9 @@
+header					Bill Payment Status
+
+ReceivedDate			Receive Date
+ReceivedAmount			Received Amount
+TDSAmount				TDS
+Discount				Discount
+paymentMode				Payment Mode
+Description				Description
+ReceivedBy				Received By

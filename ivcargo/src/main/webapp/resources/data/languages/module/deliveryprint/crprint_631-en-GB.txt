@@ -1,0 +1,19 @@
+branchCopy                 Branch Copy
+customerCopy               Customer Copy
+deliveryReceipt            Delivery Receipt
+lrNo                       WB No :
+crNo                       CR No :
+lrType                     WB Type :
+delTime                    Del Time :
+consignor                  From :
+consignee                  To :
+sourceBranch               Org :
+destinationBranch          Dest :
+noOfPackages				No.Of Pkgs :
+delCharge                  Delivery Charge :
+totalBkngAmt               Total Booking Amt :
+totalAmt                   Total Amt :
+deliveredBy                Delivered By :
+printTime                  Print Time :
+printedBy                  Printed By :
+receiverSign         	   Receivers Sign :

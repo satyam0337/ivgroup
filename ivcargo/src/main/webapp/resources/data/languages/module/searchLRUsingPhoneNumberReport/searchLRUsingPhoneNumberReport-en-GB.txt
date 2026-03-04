@@ -1,0 +1,17 @@
+mainHeader						Search LR By Phone Number
+lrDetailsHeader					LR Details
+
+phoneNumber						Phone Number :
+partyType						Party Type :
+date							Date :
+lrNumber						LR Number
+bookingDate						Booking Date
+lrType							LR Type
+amount							Amount
+quantity						Quantity
+source							Source
+destination						Destination
+consignor						Consignor
+consignee						Consignee
+wayBillStatus					Current Status
+viewAll							View All

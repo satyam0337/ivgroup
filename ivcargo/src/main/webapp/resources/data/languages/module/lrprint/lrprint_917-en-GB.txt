@@ -1,0 +1,29 @@
+lrnumber				LR No : 
+date					Date : 
+lrSource				Booking : 
+lrDestination			Delivery : 
+consignor				Consignor : 
+consignee				Consignee : 
+phone					Phone : 
+lrType					LR Type : 
+declaredValue			Dec Value - 
+NoOfPkgs				No. of Pkgs : 
+toPayFreight			 FREIGHT : 
+loading					Loading : 
+grandTotal				Total : 
+bookedby				Booked By : 
+printDate				Print Date : 
+sign					Sign : 
+deliverAt				Delivery At : 
+gstNo					GSTN:
+eWayBillNo				E-WayBill :
+invocieNo               Invoice No :
+privateMark             PrivateMark :
+article					Articles :
+description				Description
+declaredWt				Declared Wt :
+chargedWt				Charged Wt :	
+preparedBy				Prepared By :	
+saidToContain			Said To Contain :
+remark					Remark : 
+gstPaidBy				GST paid By :-

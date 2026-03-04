@@ -1,0 +1,5 @@
+header 						Creditor Report
+date						Date
+search						Search
+partyName					Party Name
+subHeader1					Creditor Report

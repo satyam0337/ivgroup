@@ -1,0 +1,19 @@
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dataReport						DISPATCH STOCK REPORT
+dispatchNumberLabel				Dispatch No.:
+dispatchDateLabel				Date:
+fromBranchLabel					From:
+toBranchLabel					To:
+driverNameLabel					Driver:
+vehicleNumberLabel				Vehicle No.:
+srNumberLabel					SR No.
+lrNumberLabel					LR No.
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		Destination Branch
+lrTypeLabel						LR Type
+artDetails						Art. Details
+totaltLabel						Total
+consignorLabel					Consignor
+lsRemarkLabel					Remark :
+receiverSignLabel				Receiver Sign:

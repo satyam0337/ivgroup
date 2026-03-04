@@ -1,0 +1,18 @@
+LR_number						LR No :
+delivery_time					Delivery Time :
+form							From :
+to								To :
+delivered_to					Delivered To :
+delivered_to_number				Delivered To Number :
+delivery_receipt				DELIVERY RECEIPT
+LR_type							LR Type :
+No_of_congs						No. of Congs :
+No_of_pkgs						No. of Pkgs :
+nature_of_pkg					Nature Of Pkg :
+bkg_chrg						Bkg Charges :
+delivery_chrg					Delivery Charges :
+delivery_disc					DeliveryDisc :
+delivered_by					Delivered By :
+printed_by						Printed By :
+print_time						Print Time :
+grand_total						Total :

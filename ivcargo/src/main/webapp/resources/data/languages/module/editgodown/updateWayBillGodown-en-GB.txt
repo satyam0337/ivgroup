@@ -1,0 +1,3 @@
+header 						Update Way Bill Godown
+godownLabel					Godown
+update						Update

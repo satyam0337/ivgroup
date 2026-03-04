@@ -1,0 +1,49 @@
+-----------------SRR delivery print---------------
+branch						Branch:
+IssuingOffice				Issuing Office
+CRNo						CR No:
+Date						Date:
+LRNO						LR No:
+LRDate						 Date:
+FromCity					From City:
+LRType						LR Type:
+Consignee					Consignee: 
+DeliveredTo					Delivered To
+cmpNo						TN Ph : 
+gst							GST No:
+Remark						Remark:
+ReceiveDate					Receive Date
+Weight						Weight:
+NoPkgs						No. Pkgs:
+SaidToContain				Said To Contain:
+DeliveryCharges				Delivery Charges:
+AMOUNT						AMOUNT:
+Freight						Freight:
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				No. of Packages:
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					Lr. Amount
+crCharge					Cr Charge
+source						From:
+Destination					To :
+consignor					Consignor:
+paymenttype					Payment Type:
+partymobil                   PARTY MOB:
+ARRIVING                     Arrival Date :
+waybill                    E-WayBill Number :
+gstpaid                     GST Payable by   
+for                         For 
+DCRNAME                    DELIVERY CASH RECEIPT
+short                       Short Credit
+bookingtotal              Booking Freight : 
+invNo						Invoice No. : 

@@ -1,0 +1,56 @@
+srNumberLabel					#
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consignorGstn					C/nor GSTN
+consigneeGstn					C/nee GSTN
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art. Detail
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				Basic<br/>Freight
+loadingChargeLabel				LDG.
+amountLabel						Total
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Dispatch No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				No.Of Art
+totalFreightLabel				Basic<br/>Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Total
+driverNameLabel					Driver:
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Source
+lrDestinationBranchLabel		Destination
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door<br/>Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+bkgDateLabel					Date
+doorPickupLabel					Door<br/>Pickup
+doorDeliveryLabel				Door<br/>Delivery
+otherChargeLabel				Others
+totalDoorPickupLabel			Door<br/>Pickup
+totalOtherLabel					Others
+loadingLabel					loading
+totalCartageAmountLabel			Cartage
+cartageLabel					Cartage 

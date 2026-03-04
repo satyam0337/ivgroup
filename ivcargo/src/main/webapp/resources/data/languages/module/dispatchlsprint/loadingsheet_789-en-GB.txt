@@ -1,0 +1,22 @@
+mDash						M - 
+goodsDispatchMemo			Goods Dispatch Memo
+dateLabel					Date:
+fromLabel					From:
+toLabel						To:
+memoNoLabel					Memo No:
+truckNoLabel				Truck No:
+driverLabel					Driver:
+mobileLabel					Mobile:
+lrNo						Lr No
+pkgs						Pkgs.
+consigner					Consigner
+kg							Kg.
+toPay						TO PAY
+paid						PAID
+tbb							TBB
+remarkLabel					Remark:
+toPayLabel					To Pay : 
+paidLabel					Paid : 
+tbbLabel					TBB : 
+totalLabel					Total : 
+consignee					Consignee

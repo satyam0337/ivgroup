@@ -1,0 +1,88 @@
+srNumberLabel					SR.NO.
+lrNumberLabel					BILTY </br> NO.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						PAYMENT</br> METHOD
+consignmentPackingDetailsLabel	NO. OF </br> PKG.
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						AMOUNT
+amountLabel2					AMOUNT
+branchAddressLabel				Head Off:
+branchPhoneNumberLabel			Mobile No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Lorry No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+weightLabel        				Actual Weight
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+quantityLabel     				Quantity
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						Art
+gst								GST no.
+saidToContain					Type </br> Of Pkg
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker Name :
+weight							WEIGHT
+totalLrChargeLabel				LR Charge
+ConsolidateEwaybillNo		   Con.EwaybillNo :
+ownerFleet                     FLEET OWNERS & TRANSPORT & ALL OVER INDIA
+emaillabel                     Email:
+email                          logistics.renuka@yahoo.co.in
+branchPhoneNumber              0253-2363888 
+lorryHire                      LOADING SHEET
+engine                         Engine No.:
+chasis                         Chasis No.:
+owner                          Owner's Name.: 
+brokerPan                      Broker PAN No.: 
+noOfPack                       NO. OF PKG.
+to                             DEST.
+lorryHirenew				   LORRY HIRE CHALLAN
+
+challanLabel				   Challan No.
+lorryFrght					   LORRY FREIGHT
+hamali						   HAMALI
+other						   OTHER
+total						   TOTAL
+advance						   ADVANCE
+balance						   BALANCE
+balancePayable				   Balance Payable at:
+preparedBy					   PREPARED BY
+passedBy					   PASSED BY
+driverSign					   DRIVER SIGN
+subtotal					   SUBTOTAL
+overLoad					   OVERLOAD
+diesel						   DIESEL
+weightLabel        				Actual Weight
+quantityLabel     				Quantity
+note							We have received the goods, good mentioned above in the street as per the terms and conditions of the contract of
+						carriage Signature of the truck behalf on himself and as authorised representative of the owner and the supplier of the
+						Trucks.Unloading hamali to be paid by Lorrywala. Lorry Freight fixed including Goods tax and other charges.

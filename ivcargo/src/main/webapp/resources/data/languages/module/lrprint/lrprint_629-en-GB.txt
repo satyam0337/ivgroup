@@ -1,0 +1,39 @@
+lrNo						LR No.:
+consignorName				Name :
+consignorPhone				Phone :
+consignorGstin				GSTIN :
+consigneeName				Name :
+consigneePhone				Phone :
+consigneeGstin				GSTIN :
+seperator					Of
+totalConsignment			Total :
+deliveryAt					Delivery At :
+gstPaidBy					GST Paid By :
+gst  						GST
+printedBy					Printed By :
+printTime					Print Time :
+deliveryAddress				Delivery Address :
+from						From :
+to							To :
+consignor					Consignor :
+consignee					Consignee :
+invoiceNo					Invoice No :
+declraedValue				Value :
+remark						Remark :
+saidTocontain				DESCRIPTIONS OF GOODS (SAID TO CONTAIN)
+noOfPkg						No Of Pkg
+actualWeight				Actual Weight :
+chargedWeight				Charged Weight :
+freight						Freight
+lrCharge					Statistical
+doorCollection				Door Collection
+doordly						Door Dly
+hamali						Hamali
+other						Other
+cgst						CGST
+sgst						SGST
+igst						IGST
+grandTotal					Total
+actualWeight				Actual Weight :
+chargedWeight				Charged Weight :
+sign						Sign.Of Booking Clerk

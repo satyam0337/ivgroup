@@ -1,0 +1,19 @@
+address1					Daily Parcel Service : <b>Hyderabad & Secunderabad to</b>
+address2					<b>Vijayawada, Yemmiganur, Adhoni</b>
+address3					# 5-2-200/A/14, New Osmangunj, Gowliguda Hyderabad 500 012.
+address4					# 2-3-105/A/14, Opp : Sadiq Bakery, Nallagutta, Secunderabad Hyderabad 500003.
+email						Email :  rajeswariparcelservice@gmail.com  
+transportid					Transport ID : 36EDTPR7534E1ZX		
+freighttype					Freight Type : 
+lrno						LR No : 	
+date						Date : 	
+sourceBranch				From : 
+destinationBranch			To :    
+consignorname				Consignor :
+consigneename				Consignee : 
+noof						No. Of
+desc						Description Of Goods
+charges						Charges
+amount						Amount
+gst							GST
+grandTotal					Total

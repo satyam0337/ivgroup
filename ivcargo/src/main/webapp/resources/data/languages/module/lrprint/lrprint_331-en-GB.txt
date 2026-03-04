@@ -1,0 +1,25 @@
+bookingDate 		BKG Time :
+lrNo				WB No :
+lrSource			Org :
+lrDestination		Dest :
+consignorName		From :
+consigneeName		To :
+consignorMobile		Sender No :
+consigneeMobile		Receiver No :
+lrType              WB Type :
+noOfPkgs			No. of Pkgs :
+freight				Freight :
+loading				Loading :
+doorDelivery		Door Delivery :
+doorPickup			Door Pickup :
+other				Other :
+total				Total :
+sgst 				SGST :
+cgst 				CGST :
+igst				IGST :
+gstNumber           GST :
+grandTotal 			Grand Total :
+bookedby			Booked By :
+printDate			Printed By :
+deliveryAt			Delivery At :
+deliveryTime		Delivery Time :

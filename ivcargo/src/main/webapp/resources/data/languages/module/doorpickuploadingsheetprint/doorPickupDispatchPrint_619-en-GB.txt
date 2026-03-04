@@ -1,0 +1,28 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+
+doorPickupNumberLabel			Collection Sheet Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+balanceAmtLabel					Balance
+setteledAmtLabel				Advance
+totalAmtLabel					Total
+extraLabel						Extra
+lorryHireAmtLabel				Lorry Hire
+driverNameLabel					Driver Name :
+toBranchLabel					To Branch :
+lorryHireLabel					Lorry Hire :
+vehicleNumberLabel				Vehicle Number :
+driverMobNoLabel				Driver Number :
+consignor                       Consignor 
+consignee                       Consignee
+vehicleAgentNameLabel           Vehicle Agent Name : 
+totalQuantityLabel              Total Quantity : 
+totalWeightLabel                Total Weight : 

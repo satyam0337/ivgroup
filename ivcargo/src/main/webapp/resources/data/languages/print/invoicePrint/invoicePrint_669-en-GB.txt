@@ -1,0 +1,105 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						Weight<br>Kgs
+bookingTotalLabel				Grand <br>Total
+lrSourceBranchLabel				From 
+doorPickupNumberLabel			Pickup Number :
+fromBranchLabel					From Branch : 
+toBranchLabel					To 
+vehicleNumberLabel				Vehi No 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+m/s								M/s. : 
+srNo							Sr.<br>No 
+gst								GST
+stateCode						State Code : 
+billNo							Bill No : 
+date							Date	
+lrNo							LR No
+bookingStation					Booking<br>Station
+consignee						Consignee
+particulars						Description
+qty								Qty
+other							Other
+freight							Freight
+gst5							GST 5%
+note							Note
+hamali							Hamali
+LrMt							LR Charge
+dlyhamali						Dly.<br>Hamali
+customername					Customer Name:
+customerGstLabel				GSTIN:
+branchgstno						GSTIN :
+invoiceno						Inv.No
+bookingdate						LR Booking<br> Date
+articles						Articles
+lrNumber						LR Number
+lrSourceBranchlabel				Source
+toBranchlabel					Destination
+sNo								SNo
+note1							Bill towards Freight and Other Charges of your consignments transported as under
+particularss					Particulars
+bitlaTotal						Amount
+charge					 		Charge
+total							Total
+beforeGst						Before Gst Amt
+sgst							SGST
+cgst							CGST
+igst							IGST
+gstP							GST %
+gst								GST
+remark							Remarks
+amt								AMT
+word							In Words :
+finalTotal						Final Total :
+bankDetais						Bank Details : Aprim Logistics Solution
+bankAcc							Bank Account No: 2121235731534440
+bank							Bank : AU SMALL BANK
+ifsc							IFSC Code : AUBL0002357
+termsAndCondition				Terms And Conditions :
+terms							1)GST will be paid by Transporter at the rate as per GST Norms<br>2) In case of any discrepancies inform within 2 days from receipt of
+for								FOR APRIM LOGISTICS SOLUTION
+panNo							PAN NO : AOVPR0199G 
+billDate						Bill Date :
+gstNo							GST NO :
+loadType						Load Type
+nos								Nos
+chWt							Ch Wt
+freight							Freight
+lrCharge						Lr Ch
+hamali							Hamali
+det								DET
+cc								CC
+ch								Ch
+dd								DD
+ct								C T.
+amt								Amt.
+fov								fov
+mathadi							mathadi
+lrcharge						lr ch
+collection						col
+doordelivery					door <br>dly
+katta							katta
+toll							toll
+extrarunning					extra <br>run
+expresscharge					exp ch
+e-waybill						e-waybill
+detention						det
+godowncharge					god <br>ch
+receipt							receipt
+other							other
+AdditionalCh					Extra Charge
+invNO							Invoice No
+hsnNote							Transportation Charges Of your Consignment under HSN: 996511
+executiveName                   User Name :-
+loginName                       Login Name :-
+poNumber						PO Number :
+poDate							PO Date :
+
+
+
+
+

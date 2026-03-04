@@ -1,0 +1,28 @@
+header 						Advanced LR Search
+subHeader1					<b>LR Details</b>
+date						Date
+branch						Source Branch
+destinationBranch			Dest Branch
+privateMark					Private Mark
+consignor					Consignor
+consignee					Consignee
+articleType					Article Type
+byDate						Search By Date
+wayBillNumber				LR Number
+sourceBranchName			Source Branch
+destinationBranchName		Dest Branch
+consignorName				Consignor
+consigneeName				Consignee
+bookingTotal				Grand Total
+bookingDate					Booking Date
+status						Status
+wayBillType					LR Type
+stPaidBy					GST Paid By
+deliveryAt					Delivery AT
+invoiceNO					Invoice No
+quantity					Articles
+saidToContain				Said To Contain
+doorDelivery				Door Dly
+
+save						Find
+lrNumber					LR Number

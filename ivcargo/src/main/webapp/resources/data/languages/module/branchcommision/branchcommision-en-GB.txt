@@ -1,0 +1,13 @@
+header 						Branch Commission Report 
+sourceSubRegionSelect		Source SubRegion
+sourceBranchSelect			Source Branch
+destinationSubRegionSelect	Destination SubRegion
+destinationBranchSelect		Destination Branch
+date 						Date
+serialnumberheader			SR No.
+paidAmount					Paid
+toPayAmount 				ToPay
+toPayLoadingAmount			Loading
+commissionAmount			Commission
+totalAmount					Recovery
+transportationMode			Transportation Mode

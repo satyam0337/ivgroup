@@ -1,0 +1,23 @@
+lrnumber				LR No : 
+date					Bkg Date :
+lrSource				From :
+lrDestination			To :
+consignorName			Sender :
+consigneeName			Receiver : 
+phone					Phone :
+lrType					LR Type :
+declaredValue			Parcel Value :
+NoOfPkgs				No. of Pkgs :
+freight					Freight :
+loading					Loading : 
+auto					Auto :
+grandTotal				Total :
+bookedby				Booked By :
+printDate				Printed On :
+sign					Sign : 
+deliverAt				Delivery At :
+remark					Remark :
+gstn					GSTN : 
+gstPaidBy				GST Paid By : 
+gst						GST:
+gstEnrollNo				GSTN / ENROLLMENT NO:

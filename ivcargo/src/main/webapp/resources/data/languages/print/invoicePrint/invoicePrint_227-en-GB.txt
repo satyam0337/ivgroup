@@ -1,0 +1,78 @@
+
+invoiceNo						Invoice No.:
+invoiceDate						Invoice Date:
+reverceChrge					Reverce Charge:
+billToParty						Billed to Party
+name							Name:
+address							Address:
+gstin							GSTIN:
+state							State:
+panNo							PAN NO:
+srNo							No.
+lrNo							L.R.No.
+truckNo							TR.<br>NO
+truckNo1						Truck<br>No
+lrSourceBranchLabel				FROM
+lrDestinationBranchLabel		TO
+rate							RATE<br>PER MT.
+detensionchrge					Detention<br>Chrgs
+amount							Amount
+remarks							Remarks
+date							DATE
+dateOfSupply					Date of Supply:
+placeOfSupply					Place of Supply:
+cargo							CARGO
+quantity						QTY<br>(M.T)
+lodingPoint						LOAD.<br>POINT<br>DETN
+unlodaingPoint					UNLOAD.<br>POINT<br>DETN
+labour							LABOUR<br>CHARGES
+sac								Sac
+destination						Destination
+description						Description
+actWght							Act<br>wgt.M.T
+chargWgt						Charged<br>wgt.M.T
+doubeldelvryChrg				Double<br>Delivery<br>Charges
+billNo							Bill No:
+billDate						Bill Date:
+branchMobNumberLabel			Mobile No :  
+branchAddressLabel				Address : 
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					Quantity
+weightLabel						WT.
+bookingTotalLabel				Grand Total
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To Branch : 
+vehicleNumberLabel				Vehicle Number : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+freight							FRGT
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					Balance Amt
+gst								GST
+stateCode						State Code : 
+bookingStation					Booking<br>Station
+consignee						Consignee
+pkgs							PKGS
+qty								Qty
+other							Other
+freight							FRGT
+total							Total
+gst5							GST 5%
+note							Note
+remark							Remark
+destinationLabel				Destinations
+ddChrge							DD<br>CHG
+otherChrg						OTH
+STax							STX
+amount							AMOUNT
+address							Address:
+lrDate							L.R.Date
+invoiceNumber					Invoice No					
+rateMt							Rate M.T
+amount1							Amount

@@ -1,0 +1,20 @@
+deliveryAt		Delivered At :
+crNo			CR No :
+consignee 		Consignee :
+paymentType		Payment Type :
+deliveredTo		Delivered To :
+date			Date :
+bkgBranch				Bkg Branch :
+lrNo 				LRNo :
+bkgdate			Bkg Date :
+article			Article :
+remark 			Remark :
+item			Item :
+tax				Service Tax No :
+freight				Freight
+hamali				Hamali
+dd					D D
+demurrage			Demurrage
+other				Other
+discount				Discount(-)
+total 				Total Amt

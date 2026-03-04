@@ -1,0 +1,63 @@
+.srNumberLabel					SL No
+lrNumberLabel					LR No.
+consignorLabel					Sender
+consigneeLabel					Receiver
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	PKGS Details
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay 
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						TOTAL
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From:
+toBranchLabel					To:
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF PKGS.
+totalFreightLabel				Freight
+totalFreight					Total Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Othr Chg
+totalAmount						Amount
+driverNameLabel					Driver:
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+commission						Commission
+receiveLabel					Receiver Sign
+bookingDate						BKG Date
+packages						No. of Article
+gst								GST no.
+saidToContain					Packing Type
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							WEIGHT
+cartageAmount					Cartage
+totalCartageAmount				Cartage
+remark							Remark
+toPay							To Pay Amount
+grandTotal						Grand Total
+Hamali							Hamali
+crossing						Crossing

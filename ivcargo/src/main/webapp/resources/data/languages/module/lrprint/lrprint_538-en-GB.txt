@@ -1,0 +1,102 @@
+invoiceNumber				Invoice No. 
+declaredValue				GOODS VALUE 
+deliveryTo					DELIVERY AT :
+sourceBranch				FROM : 
+destinationBranch			TO : 
+lrType						FREIGHT BY
+lrnumber					LR No. 
+bookingDate					Date :
+consignmentQuantity			No Of Pkg
+description				  	Goods Description
+consignmentSaidToContain  	Said To contain
+weight					  	Actual Weight
+charge					  	Charge Weight
+serviceTaxPaidBy			GST Paid By
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					NET AMOUNT
+consignorname				CONSIGNOR : 
+consigneename				CONSIGNEE :
+at							AT
+printedby					Printed By : 
+freight						FREIGHT
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					OF
+remark						Remark : 
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						RATE 
+insuredby					Insured By : 
+deliveryType				DELIVERY TYPE : 
+mobileno					MOB : 
+tinno						TIN NO. : 
+billingParty				BILLING PARTY : 
+forCompanyName				For, AAKASH ROADWAYS
+freight						FREIGHT
+bc							B.C.
+pf							P/F
+lc							L/C
+dd							D/D
+accountheader				SRI SAMBASIVA CARGO CARRIERS
+accountheader1				DOOR NO.15-6/132, JAMES GARDEN, NEAR VIJAYAMAHAL CENTER, NELLORE-524001, A.P.
+Ph                          Mob :	
+info						BOOKED AT OWNER RISK
+discount					Discount (-)		
+signature					Receiver Signature	
+printedDateTime				Printed On	
+phone						 Contact No : 
+total						TOTAL
+executiveSign				Signature of Clerk/Agent
+gstn						GSTN : 
+type						LR Type 
+lrcharge                    LR CHARGE
+art.charges                 ART. CHARGES
+surcharge                   SURCHARGE
+withpass                    WITHPASS
+luc                         LUC
+delivery                 	Dly :
+address						Address : 
+gst							GST No.: 
+invoiceAmt					Invoice Amt. 
+pvtMark						Private Mark
+srno						S.N
+billingParty                Billing Party:
+delType                     Del.Type
+actWt                       Act.Weight
+chwt                        Cha.Weight
+invoiceNo                   Invoice No
+invoiceValue                Invoice Value
+vehicleNo                   Vehical No
+eWayBillNo                  E-Way Bill:
+sac                         SAC:
+total                       Total
+totalQuantity               Total Quantity
+cft                         CFT
+h                           H
+l                           L
+w                           W
+qty                         Qty
+chargeName1					Freight
+chargeName24				Hamali
+chargeName25				Door Delivery
+chargeName39				Collection
+chargeName29				LR Charge
+chargeName28			    AOC
+chargeName274               Over Load
+chargeName270               Over Load
+chargeName27                FOV
+typeOfPkg                   Type Of Pkg
+vehicleType					Vehicle Type 
+partNo						Part No
+quantity					Quantity
+

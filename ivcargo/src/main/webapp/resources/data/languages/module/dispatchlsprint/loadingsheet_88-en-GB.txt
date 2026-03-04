@@ -1,0 +1,61 @@
+dottedline						------------------------------------------------------------------------------------------------
+srNumberLabel					SR No.
+lrNumberLabel					LR No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art. Detail
+paidFreightChargeLabel			PAID
+toPayFreightChargeLabel			TOPAY
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FRT.
+loadingChargeLabel				LDG.
+amountLabel						AMT.
+branchAddressLabel				Address:
+branchPhoneNumberLabel			Phone No.:
+dispatchNumberLabel				Challan No :
+vehicleNumberLabel				Truck No :
+fromBranchLabel					From
+toBranchLabel					To
+dispatchDateLabel				Date:
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				Art
+totalWeigthLabel				Weight
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					Other
+totalAmountLabel				Amount
+driverNameLabel					DriverName :
+drivermob						Driver Mobile : 
+driverlicno						Driver LicenceNo :
+driverMobile					Driver Mobile No :
+brokername						Broker Name :
+DriverlicenseNo					Lic.No:
+preparedByLabel					Prepared By:
+checkedByLabel					Checked By:
+receiverNameLabel				Receiver Name:
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				Source Branch
+lrDestinationBranchLabel		Station
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+truckrent						Truck Amount :
+advance							Advance
+balance							Balance :
+paidamount						Paid Amount :
+station							station
+ownername						Owner Name :
+typelabel						Type
+totallabel						Total :
+EwayBillNo						CEWayNo : 				

@@ -1,0 +1,66 @@
+invoiceNumber				Invoice No.
+declaredValue				Declared Value :
+deliveryTo					Delivery To :
+sourceBranch				From : 
+destinationBranch			To : 
+lrType						LR Type
+lrnumber					LR No. :
+bookingDate					Date :
+consignmentQuantity			Qty
+description				  	Article Details
+consignmentSaidToContain  	Said To contain
+actualWeight			  	Actual Weight :
+actualWeightConsignor	  	Actual Weight :
+actualWeightConsignee	  	Actual Weight :
+chargeWeight			  	Charge Weight :
+chargedWeightConsignor	  	Charge Weight :
+chargedWeightConsignee	  	Charge Weight :
+serviceBy					GST Paid By :
+rupee						&#x20B9
+serviceTax					GST
+grandTotal					TOTAL
+consignorname				Consignor : 
+consigneename				Consignee :
+at							AT
+printedby					Printed By : 
+freight						Freight
+stationary					Stationary Charge
+fov							FOV
+hamali						Hamali
+toll						Toll
+doorcollection 				Door Collection
+doordelivery				Door Delivery
+sms							SMS Charge
+bookedby					Booked By : 
+seperator					Of
+remark						Remark :
+privateMark					Pvt Mark : 
+loading						Loading
+receipt						Receipt
+collection					Collection
+formType					Form Type : 
+rate						Rate : 
+rateConsignor				Rate : 
+rateConsignee				Rate : 
+insuredby					Insured By : 
+builty						Builty Charge
+aoc							AOC
+collection					Collection
+doorChg						Door Dly
+oloc						OL / OC
+crinsure					CR/INSUR
+other						Other
+carrierrisk					Carrier Risk
+bhchg						B.H.Chg
+cartage						Cartage
+sgst						SGST
+cgst						CGST
+igst						IGST
+formNameWithNumber			Form Type :
+totalQuantity				Total QTY : 
+supplyInfo					Supplies Attracting Reverse Charge Mechanism Under GST >>
+gstn                        GSTN:
+phone                       Phone No:
+ewaybill                    E-Waybill No:
+deliveryat                  Delivery At:
+mobile                      MO:

@@ -1,0 +1,24 @@
+branchMobileNumerLabel						Mob : 
+branchGstNumberLabel						GSTNo :
+lrNumberLabel								GRN No : 
+lrBookingDateLabel							Bkg DT :
+fromCityLabel								From City : 
+toCityLabel									To City :
+senderNameLabel								Sender Name :
+SenderMoNumberLabel							Sender No :
+senderGstNumberLabel						Sender GST :
+receiverNameLabel							Receiver Name :
+receiverMoNumberLabel						Receiver No :
+receiverGstNumberLabel						Receiver GST :
+bookingTypeLabel							Booking Type :
+bookingTypeRemarkLabel						Remarks : 
+noOfPakgLabel								No Of Pkgs : 
+freightChargeLabel							Freight : Rs.
+loadingChargeLabel							Loading : Rs.
+transpChargeLabel							Transp. Charge : Rs.
+totalAmountLabel							Total Amount : Rs.
+bookByLabel									Book By : 
+printByLabel								Print By :
+destinationBranchAddressLabel				Del Branch :
+deliveryBranchMoNumberLabel					Mob No :
+ewaybill									Ewaybill No :

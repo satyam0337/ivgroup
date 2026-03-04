@@ -1,0 +1,8 @@
+ {
+	"labelId":"Consignee",
+	"elementConfigKey":"Consignee",
+	"dataDtoKey":"consigneeName",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

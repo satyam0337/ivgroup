@@ -1,0 +1,24 @@
+header 						Party Wise Outstanding
+
+region						Region
+subRegion					Sub Region
+branch						Branch
+
+search						Find
+
+subHeader1					Party Wise Outstanding Details
+serialnumberheader			Sr No
+partyName					Party Name
+branchName					Branch
+finalSTBCreditAmt			STB Amount
+finalTBBCreditAmt 			TBB Amount
+finalCreditAmount			Credit Amount
+finalDebitAmount			Debit Amount
+partyMobileNumber			Mobile Number
+receiveStringLink 			Receive
+detailsStringLink 			Details
+clearVoucherLink  			ClearVoucher
+							
+														
+
+							

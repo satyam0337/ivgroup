@@ -1,0 +1,7 @@
+{
+	"buttonName":"reprintBtn",
+	"buttonId":"reprintBtn",
+	"buttonClass":"btn btn-success",
+	"tooltipName":"Reprint",
+	"buttonSpanId":"reprintBtnLabel"
+}

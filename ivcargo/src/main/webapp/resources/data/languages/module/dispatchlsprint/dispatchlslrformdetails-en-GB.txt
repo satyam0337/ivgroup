@@ -1,0 +1,4 @@
+wayBillNumber							LR No
+wayBillSourceBranchName					Source Branch
+wayBillDestinationBranchName				Destination Branch
+wayBillFormName						Form Details

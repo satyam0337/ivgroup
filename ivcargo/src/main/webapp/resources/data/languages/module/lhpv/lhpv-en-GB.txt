@@ -1,0 +1,70 @@
+header					LHPV
+createLHPVFor			Create LHPV For
+truckEngagementSlip		Truck Engagement Slip
+search					Search
+destinationBranch		Destination Branch
+balancePayableBranch	Balance Payable At Branch
+advancePaidByBranch		Advance Paid By Branch
+vehicleSupplier			Vehicle Supplier
+vehicleType				Vehicle Type
+paymentType				Payment Type
+materials				Materials
+remark					Remark
+ratePerTon				Rate P.M.T
+save					Save
+lhpvOperationType		LHPV Operation
+vehicleNumber			Vehicle Number
+destinationSubRegion	Dest. Subregion
+destBranch				Dest. Branch
+balancePayeeSubRegion	Bal. Payee Subregion
+balancePayeeBranch		Bal. Payee Branch
+contactPerson			Contact Person
+panNumber				PAN Number
+tanNumber				TAN Number
+declarationGiven		Declaration Given
+individualFirm			Individual/Firm
+ownerName				Owner Name
+lhpvNumber				LHPV Number
+append					Append
+tdsRate					TDS Rate
+Range					Manual Range:
+isManual				Is Manual?
+manualNumber			Manual Number
+manualDate				Manual Date
+paymentStatus			Payment Status
+additionalRemark		Additional Remark
+searchType				Search Type
+lsNumber				LS Number
+driverName				Driver Name
+driverContact			Driver Contact
+debitToBranch			Debit To Branch
+routeTime				Route Time
+driverNumber			Mobile No
+licenceNumber			Licence No.
+vehicleAgent			Vehicle Agent
+lorryHireMode			Lorry Hire Mode
+openingKM				Opening KM
+weighBridge				Net Weight
+debitToBranch			Debit To Branch
+splitBtn				Split LHPV
+branch					Payable <br>  Branch
+amount					Payable <br> Amount
+addBtn					Add
+lhpvdetailAmnt			LHPV Total Amount
+balanceAmt				Balance Amount 
+removeBtn				Remove
+splitDieselBtn			Diesel Detail
+dieseldetailAmnt		Diesel Total Amount
+dieselBalanceAmt		Balance Amount
+pumpName				Pump <br> Name
+dieselAmount			Amount
+ratePMTType				Rate PMT Type
+extraWeight				Extra Weight
+noOfKg					No Of KG
+rateUnitType			Rate Unit Type
+rate					Rate
+srcBranch				Source Branch
+closingKM				Closing KM
+passingWeight			PASSING WEIGHT
+additionalWeight		ADDITIONAL WEIGHT
+lsWeight				LS WEIGHT			

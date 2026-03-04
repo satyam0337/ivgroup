@@ -1,0 +1,23 @@
+address							Address : 
+mobileno						Mobile No :
+beanchGST						GST : 
+date							Date : 
+from							FROM : 
+to								TO : 
+consignor						Consignor : 
+consignee						Consignee : 
+quantity						Qty.
+description						DESCRIPTION
+invoiceno						Invoice No.
+value							Value
+actualWeight					Actual Weight
+chargedweight					Charged Weight
+deliveryat						Delivery At :
+remark							Remark : 
+gstpaideby						G.S.T Paid By : 
+freighttype						Freight type : 
+grandtotal						Total
+ewaybillno						Ewaybill No :
+lrno							LR No :
+seperator						OF
+

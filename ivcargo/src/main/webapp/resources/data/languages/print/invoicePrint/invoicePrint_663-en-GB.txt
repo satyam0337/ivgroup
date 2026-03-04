@@ -1,0 +1,29 @@
+srNo                               S.N.
+date                               Date
+lrNo                               L.R.<br> No.
+invoiceNumber                      Inv.<br>No.
+particulars                        Particulars
+pkgs                               Pkgs
+from                               From
+station                            Station 
+ratePerBox                         Rate Per<br>Box
+basicAmount                        Basic<br>Amount
+doorDelivery                       Door <br>Delivery 
+lrCharges                          Other<br>Charge
+totalAmount                        Total
+DD								   DD
+Freight							   Freight
+localCharge						   Local
+otherCharge						   Other
+bcCharge                           B.C Charge
+branchMobileNumber                 Mobile No. : 
+branchEmail                        Email : 
+branchGST                          GSTIN : 
+gstAmount                          GST
+serviceCharges                     Service Charges
+delColl                            DELL/COLL
+Insurance                          Ins.
+lrCharges                          LR <br>CH
+cgst                               CGST<br>2.5%
+sgst                               SGST<br>2.5%
+igst                               IGST<br>5%

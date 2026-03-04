@@ -1,0 +1,46 @@
+-----------------SCM delivery print---------------
+branch						Branch
+IssuingOffice				Issuing Office
+CRNo						CR No
+Date						DATE
+LRNO						LR No.
+LRDate						GR DATE
+FromCity					From City
+LRType						LR Type
+Consignee					CONSIGNEE
+Consignor					CONSIGNOR
+DeliveredTo					Delivered To
+cmpNo						Phone No
+gst							GST No
+Remark						REMARK
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Others						OTHERS
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				No. of Articles
+actualweight				ACT WT.
+chargeweight				CHARGE WT.
+lrAmount1					Lr. Amount
+crCharge					Cr Charge
+address						Address
+mrNo						MR NO
+grNo						GR NO
+From						FROM
+To							TO
+freightmode					FREIGHT MODE
+nop							NOP
+GRAmount					GR AMOUNT
+PaymentTime					PAYMENT TYPE

@@ -1,0 +1,19 @@
+header						Branch Locator
+regionName					Region
+subRegionName				Sub Region
+branchName					Branch
+branchTypeString			Branch Type
+branchContactDetail			Contact
+branchAddress				Address
+branchTypeOfLocationString	Location Type
+branchId                 	Branch Code
+agentBranch					Is Agent Branch
+branchStatusString			Status
+emailAddress				Email Id
+handlingBranchName			Handling Branch
+region						Region
+subRegion					Sub Region
+branch						Branch
+type						Location Type
+searchBy					Search By
+search						Search

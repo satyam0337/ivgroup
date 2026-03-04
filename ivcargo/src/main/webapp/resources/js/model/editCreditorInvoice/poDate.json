@@ -1,0 +1,9 @@
+{
+	"elementId"			: "poDate",
+	"elementName"		: "poDate",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "PODate",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: auto"
+}

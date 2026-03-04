@@ -1,0 +1,13 @@
+ {
+	"elementId":"executiveSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-none",
+	"elementName":"executiveSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Executive",
+	"labelId":"executiveSelect",
+	"elementDefaultValue":"",
+	"divRegion":"truckDetination",
+	"parentDivCss":"col-xs-4",
+	"labelCss":"col-xs-5",
+	"elementDivCss":"col-xs-7 validation-message"
+}

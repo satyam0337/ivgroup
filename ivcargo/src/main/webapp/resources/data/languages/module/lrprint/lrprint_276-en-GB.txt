@@ -1,0 +1,23 @@
+lrnumber				LR No : 
+date					Booking Date : 
+lrSource				From : 
+lrDestination			To : 
+consignorName			Sender : 
+consigneeName			Receiver : 
+phone					Phone : 
+lrType					LR Type : 
+declaredValue			Declared Value : 
+NoOfPkgs				No. of Pkgs : 
+freight					Freight : 
+loading					Loading : 
+lrCharge				LR Charge : 
+grandTotal				Total : 
+bookedby				Booked By : 
+printDate				Print Dt : 
+sign					Sign : 
+deliverAt				Delivery At : 
+remark					Remark :
+info1					नोट: माल गुम या टूट-फुट होने पर
+info2					रुपये ५००/- से अधिक का क्लेम मान्य नहीं होगा l
+gstn					GSTIN : 
+destionationAddress		Dest Address : 

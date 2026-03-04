@@ -1,0 +1,18 @@
+ {
+	"labelId":"totalWeight",
+	"dataDtoKey":"pendingWeight",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":true,
+	"elementConfigKey":"Weight",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":100,
+	"columnMinWidth":50,
+	"elementId":"dispatchWeightEle",
+	"elementName":"dispatchWeightEle",
+	"showLabel":true,
+	"parentDivCss":"col-xs-9",
+	"labelCss":"col-xs-6",
+	"elementDivCss":"col-xs-6 validation-message",
+	"tooltipName":"Dispatch Weight"
+		
+}

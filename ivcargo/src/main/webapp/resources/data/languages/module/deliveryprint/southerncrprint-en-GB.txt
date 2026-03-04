@@ -1,0 +1,32 @@
+sourceBranch				From :
+destinationBranch			To :
+date						Date:
+lrType						LR Type:
+quantity					Total
+noOfPackages				No.Of Pkgs :
+quantityType				Goods
+saidToContain				Description
+deliveryOffc				Delivery Office :
+receipt						Receipt :
+unloading					Unloading :
+demurrage					Demurrage :
+doordly						Door Delivery :
+discount					Discount :
+total						Total:
+deliveredBy					Delivered By :
+printTime					Time:	
+source						Source:
+gst							GST :
+receiverSign				Receivers Sign
+total						TOTAL :
+gstPaidBy					GST Paid By :
+source						Booking -
+declaredValue				Declared Value :
+charges						Charges
+info2						( Rules Read & accepted )
+signature					Signature
+phoneNo						Phone :
+deliveredPerson				Delivered To :
+deliveredPersonPhoneNo		Phone :
+delivery					Delivery -
+rupee						&#x20B9

@@ -1,0 +1,31 @@
+bookingTotal						Booking Total 
+bookingType							LR Type
+discount							Discount
+grandTotal							Total
+crNo								CR No. 
+crSource							From 
+crDestination						To 
+consigneeName						Consignee : 
+quantity							No.of Pkgs
+consignorName						Delivered By
+deliveryTime						Delivery Time
+bookingDate							Date
+printTime							Print Time
+deliveredAt							Delivered At Godown :
+paymentType							Payment Mode : 
+deliveredTo							Delivered To :
+deliverydate						Date: 
+srcbranch							Bkg Branch : 
+lrNo								G.C.No. :
+quantity							Article : 
+packingType							Item : 
+receiveDateTime						Arrival : 
+remark								Remark : 
+serviceTax							GST 
+actualweight						Actual Weight : 
+chargeweight						Charge Weight : 
+stpaidby							GST Paid By :
+rupee								&#x20B9 
+lrtype								LR Type : 
+crheader							Cash Receipt
+prop								For KGN Cargo Carriers<br/><br/>Incharge

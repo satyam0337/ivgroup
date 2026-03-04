@@ -1,0 +1,35 @@
+header 						Agent Commission Report
+
+date						Date
+region						From Region
+subRegion					From SubRegion
+branch						From Branch
+search						Search
+subHeader1					Agent Commission Report
+
+branchName					Branch Name
+bookingFright				Booking Freight
+bookingTimeCommission		Bkg. Commission
+deliveryTimeCommission		Dly. Commission
+bookingDateString			Date/Month
+serialnumberheader			SR.No.
+partialheader				LR Details
+branchPanNumber				PAN Number
+tdsAmount					TDS Amt
+grandTotal					Final Commission
+tdsRate						TDS Rate (%)
+chargeWeight				Charge Weight
+netAmount					Total						
+labour						Labour Charge
+voucherTotal				Voucher Total
+paidAmount					Total Paid
+finalTotal					Grand Total
+tdsTxnOnAmount				Tds On Amount
+tdsTxnAmount				Tds Amount
+deliveryFreight             Delivery Freight
+totalCommision              Total Commission
+
+bookingAmount               Booking Amount
+amountReceived              Amount Received
+percentageCommission        Percentage Commission
+commissionAmount            Commission Amount

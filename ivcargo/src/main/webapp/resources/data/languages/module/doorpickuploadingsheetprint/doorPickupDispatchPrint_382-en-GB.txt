@@ -1,0 +1,40 @@
+branchPhoneNumberLabel			Phone No :  
+branchAddressLabel				Address : 
+
+srNumberLabel					Sr.
+lrNumberLabel					LR No.
+quantityLabel					No Of Pkg
+weightLabel						Weight
+bookingTotalLabel				Grand Total
+lrSourceBranchLabel				From 
+
+doorPickupNumberLabel			Pickup Number :
+doorPickupDispatchDateLabel		Date :  
+fromBranchLabel					From Branch : 
+toBranchLabel					To Branch : 
+vehicleNumberLabel				Vehicle Number : 
+vehicleTypeLabel				Vehicle Type   : 
+driverNameLabel					Driver Name : 
+driverMobNoLabel				Driver Mob No : 
+lorryHireLabel					Lorry Hire :
+
+lorryHireAmtLabel				Freight
+extraLabel						Extra
+totalAmtLabel					Total Lorry Hire
+setteledAmtLabel				Settled Amt
+balanceAmtLabel					BALANCE :-
+lpc								LOACL PICKUP CHALLAN-(NLM)
+startingKms					    STARTING KMS:-
+closingKms					    CLOSING  KMS:-
+hireCharge						HIRE CHARGE   :-
+advance							ADVANCE:-    .
+lrDate							LR DATE
+consignor						CONSIGNOR
+consignee						CONSIGNEE
+frightType						FREIGHT TYPE
+driverSig						DRIVER <br>SIGNATURE
+icSig							IC <br>SIGNATURE
+total  							TOTAL
+stafeName						staf name and <br> signature
+noofPodeReaceived				No Of Pods <br> Received
+amnt							Amount

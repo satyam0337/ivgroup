@@ -1,0 +1,35 @@
+header 					<b>Service Tax Report</b>
+
+subHeader1					<b>Booking Details</b>
+subHeader2					<b>Delivery Details</b>
+date						Date
+region						From Region
+subRegion					From Area
+branch						From Branch
+bkgDate						Bkg Date
+wayBillNumber				LR NO
+name						PartyName
+sourceBranch				From
+destinationBranch			To
+freight						Freight
+taxOn						TaxOn
+wayBillType					LR Type
+cancelDt					CancelDt
+tax							Tax
+kkc							KKC
+sbc							SBC
+tax4						Tax (4.40%)
+kkc0						KKC (0.05%)
+sbc0						SBC (0.05%)
+totalTax					Total Tax
+billNumber					BillNo
+creditorName				TBB Party
+isLrModified				IsLrModified
+deliveryDateTime			Dly Date
+dlyAmt						Dly Amt
+crNumber					CrNo
+CancelDt					CRCancelDt
+save						Find
+consigneeName				ConsigneeName
+consignorName				ConsignorName
+serialnumberheader			SR. No.

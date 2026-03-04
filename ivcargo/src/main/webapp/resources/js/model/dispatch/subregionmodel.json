@@ -1,0 +1,10 @@
+ {
+	"elementId":"areaSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"areaSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Area",
+	"labelId":"areaSelect",
+	"divRegion":"SearchRegion",
+	"elementDefaultValue":""
+}

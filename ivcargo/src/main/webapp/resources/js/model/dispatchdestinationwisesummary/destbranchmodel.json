@@ -1,0 +1,15 @@
+ {
+	"elementId":"destBranchSelectEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"destBranchSelectEle",
+	"elementType":"text",
+	"tooltipName": "Select Dest Branch",
+	"labelId":"destBranchSelect",
+	"elementDefaultValue":"",
+	"dataDtoKey":"destBranchName",
+	"divRegion":"vehicleRegion",
+	"elementConfigKey":"DestBranch",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":80
+}

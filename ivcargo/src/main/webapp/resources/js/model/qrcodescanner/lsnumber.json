@@ -1,0 +1,13 @@
+ {
+	"elementId":"LSNumberEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"LSNumberEle",
+	"elementType":"text",
+	"labelId":"LSNumber",
+	"elementDefaultValue":"",
+	"elementConfigKey":"LSNumber",
+	"dataDtoKey":"lsNumber",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":130,
+	"columnMinWidth":60
+}

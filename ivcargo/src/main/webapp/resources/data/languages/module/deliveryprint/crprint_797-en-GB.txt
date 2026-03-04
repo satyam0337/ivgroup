@@ -1,0 +1,69 @@
+-----------------SCM delivery print---------------
+branch						Branch
+IssuingOffice				Issuing Office
+CRNo						CR No
+Date						Date
+LRNO						LR No.
+LRDate						LR Date
+FromCity					From City
+LRType						LR Type:
+Consignee					Consignee: 
+DeliveredTo					Delivered To
+cmpNo						Phone No
+gst							GST No
+Remark						Remark
+ReceiveDate					Receive Date
+Weight						Weight
+NoPkgs						No. Pkgs
+SaidToContain				Said To Contain
+DeliveryCharges				Delivery Charges
+AMOUNT						AMOUNT
+Freight						Freight
+Hamali 						Hamali
+Demrage						Demrage
+GodownIns					GodownIns
+DoorDly						Door Dly
+Commison					Commison
+Other						Other
+Discount					Discount
+Total						Total
+DeliveryReceipt				Delivery Receipt
+of							of
+noofarticles				No. of Articles
+actualweight				Act. Wt.
+chargeweight				Charge Wt.
+lrAmount1					Lr. Amount
+crCharge					Cr Charge
+source						From
+Destination					To 
+consignor					Consignor: 
+paymenttype					Payment Type:
+
+
+LRDate1						Date
+srNo						Sr. No. 
+LRNO                       LR No.  
+From                       From  
+invoice                    Invoice No.  
+Article                    Article  
+chwt                       Charge Wt  
+bookingTotal               Booking Total  
+hamali                     Hamali  
+doorDelivery               Door Delivery  
+total                      Total  
+remark                     Remark :  
+deliveryTo                 Deliver To Name :  
+deliveryToNumber           Delivery To Number  
+amountInwords              Amount In Words :  
+netTotal                   Net Total -  
+igst5per                   IGST 5% -  
+grandTotal                 Grand Total    -  
+deliveryDiscount		   Discount       -
+additionalFreight		   Delivery Total -
+totalFreight			   Total Freight  - 
+deliveryBy                 Executive Name  
+memoNumber                 CR Number :  
+memoDate                   CR Date :  
+memoType                   Payment Type :  
+consigneename              Consignee Name :  
+Consigneegst               Consignee GST Number :  

@@ -1,0 +1,9 @@
+ {
+	"labelId":"Quantity",
+	"elementConfigKey":"Quantity",
+	"dataDtoKey":"quantity",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60,
+	"displayColumnTotal":true
+}

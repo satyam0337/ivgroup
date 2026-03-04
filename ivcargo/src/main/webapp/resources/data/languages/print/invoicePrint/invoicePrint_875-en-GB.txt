@@ -1,0 +1,14 @@
+to					To,
+ms					M/S
+invoiceNo			Invoice No. 
+invoiceDate			Invoice Date 
+invoicePeriod		Invoice Period
+sNo					S No. 
+lrNo				LR No.
+art					Art
+date				Date
+place				Place
+wt					W/T
+consignee			Consignee
+amount				Amount
+total				TOTAL

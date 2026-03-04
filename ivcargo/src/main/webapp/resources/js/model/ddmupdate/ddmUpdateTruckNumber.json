@@ -1,0 +1,9 @@
+{
+	"elementId"			: "truckNumber",
+	"elementName"		: "truckNumber",
+	"elementGlyphicon"	: "glyphicon glyphicon-none",
+	"elementType"		: "text",
+	"tooltipName"		: "Truck Number",
+	"parentDivCss"		: "col-xs-6",
+	"elementStyle" 		: "width: 250px"
+}

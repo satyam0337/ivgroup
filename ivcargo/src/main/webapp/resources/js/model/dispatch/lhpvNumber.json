@@ -1,0 +1,11 @@
+ {
+	"elementId"				:	"lhpvNumberEle",
+	"elementGlyphicon"		:	"glyphicon glyphicon-none",
+	"elementName"			:	"lhpvNumberEle",
+	"elementType"			:	"text",
+	"labelId"				:	"lhpvNumber",
+	"divRegion"				:	"lorryHireNumberRegion",
+	"parentDivCss"			:	"col-xs-4 hide",
+	"labelCss"				:	"col-xs-5",
+	"elementDivCss"			:	"col-xs-7 validation-message"
+}

@@ -1,0 +1,8 @@
+ {
+	"labelId":"LRType",
+	"elementConfigKey":"LRType",
+	"dataDtoKey":"wayBillType",
+	"columnPrintWidthInPercentage":"18",
+	"columnWidth":100,
+	"columnMinWidth":60
+}

@@ -1,0 +1,10 @@
+ {
+	"labelId":"toPayLoadingAmount",
+	"dataDtoKey":"loadingCharge",
+	"columnDisplayCssClass":"column-data-right-align",
+	"displayColumnTotal":true,
+	"elementConfigKey":"TopayLoading",
+	"columnPrintWidthInPercentage":"13",
+	"columnWidth":135,
+	"columnMinWidth":60
+}

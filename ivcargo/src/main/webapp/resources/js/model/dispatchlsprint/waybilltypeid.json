@@ -1,0 +1,11 @@
+ {
+	"elementId":"wayBillTypeIdEle",
+	"elementName":"wayBillTypeIdEle",
+	"tooltipName": "WayBill Type",
+	"labelId":"wayBillType",
+	"elementDefaultValue":"",
+	"dataDtoKey":"wayBillType",
+	"elementConfigKey": "WayBillType",
+	"columnPrintWidthInPercentage": "40",
+	"parentDivCss": "col-xs-4"
+}

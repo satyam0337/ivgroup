@@ -1,0 +1,12 @@
+{
+	"elementId":"LSNumberEle",
+	"elementGlyphicon":"glyphicon glyphicon-th",
+	"elementName":"LSNumberEle",
+	"elementType":"text",
+	"tooltipName": "LS Number",
+	"labelId":"LSNo",
+	"elementConfigKey":"LSNo",
+	"columnPrintWidthInPercentage":"10",
+	"columnWidth":20,
+	"columnMinWidth":20
+}

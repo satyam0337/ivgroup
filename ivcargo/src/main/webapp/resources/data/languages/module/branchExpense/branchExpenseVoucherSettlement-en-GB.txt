@@ -1,0 +1,44 @@
+header					Branch Expense Voucher Settlement
+voucherNo				Voucher number
+search					Search
+paymentType				Payment Type
+paymentStatus			Payment Status
+subHeader				Search Details
+save					Save
+VehicleOwnerType		VehicleOwnerType
+RegisteredOwner			RegisteredOwner
+RegisteredOwnerContact	RegisteredOwnerContact
+RegisteredDate			RegisteredDate
+VehicleAgentName		VehicleAgentName
+PanNumber				PanNumber
+Address					Address
+VehicleTypeName			VehicleTypeName
+VehicleTypeCapacity		VehicleTypeCapacity
+VehicleAverage			VehicleAverage
+StartKM					StartKM
+NoOfTyres				NoOfTyres
+SignBy					SignBy
+Model					Model
+Make					Make
+BodyType				BodyType
+EngineNumber			EngineNumber
+ChasisNumber			ChasisNumber
+GrossWeight				GrossWeight
+UnLadenWeight			UnLadenWeight
+LoadCapacity			LoadCapacity
+FinanceHP				FinanceHP
+hPValidity				hPValidity
+TcPaidUpTo				TcPaidUpTo
+ManufactureDate			ManufactureDate
+PassingAt				PassingAt
+PassingDate				PassingDate
+RegisteredAtRTO			RegisteredAtRTO
+Form15HSubmitted		Form15HSubmitted
+RoutingType				RoutingType
+AllotedCity				AllotedCity
+AllotedRegion			AllotedRegion
+AllotedSubRegion		AllotedSubRegion
+AllotedBranch			AllotedBranch
+InsuranceName			InsuranceName
+PolicyNo				PolicyNo
+PolicyValidity			PolicyValidity

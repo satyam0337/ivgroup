@@ -1,0 +1,82 @@
+srNumberLabel					Sl.
+lrNumberLabel					Gr.No.
+consignorLabel					Consignor
+consigneeLabel					Consignee
+consigneeContactLabel			C/nee No.
+lrTypeLabel						LR Type
+consignmentPackingDetailsLabel	Art
+paidFreightChargeLabel			Paid
+toPayFreightChargeLabel			ToPay
+tbbFreightChargeLabel			TBB
+freightChargeLabel				FREIGHT
+loadingChargeLabel				LDG.
+amountLabel						AMOUNT
+amountLabel2					AMOUNT
+branchAddressLabel				Address:
+PhoneNumberLabel			    Phone no.
+branchPhoneNumberLabel			Phone : 
+dispatchNumberLabel				Loading Sheet No.:
+vehicleNumberLabel				Vehicle No.:
+fromBranchLabel					From :
+toBranchLabel					To :
+dispatchDateLabel				Date :
+dispatchRouteLabel				Route No.:
+lrCategoryLabel					LR Type
+totalArticleLabel				NO.OF ARTICLES
+totalFreightLabel				Freight
+totalFOVLabel					FOV
+totalLoadingLabel				Loading
+totalOtherLabel					OTHERS
+totalAmountLabel				AMOUNT
+driverNameLabel					Driver :
+preparedByLabel					Prepared By :
+checkedByLabel					Checked By :
+receiverNameLabel				Receiver Name :
+dateTimeLabel					Date:
+cleanerNameLabel				Cleaner:
+lrSourceBranchLabel				From
+lrDestinationBranchLabel		To
+driverSignLabel					Driver Sign
+unLoadedByLabel					Unloaded By
+totalStationaryLabel			Stationary
+totalHamaliLabel				Hamali
+totalTollLabel					Toll
+totalDoorCollectionLabel		Door Collection
+totalDoorDeliveryLabel			Door Delivery
+totalSmsLabel					Sms
+lsRemarkLabel					Remark :
+receiveLabel					Receiver Sign
+bookingDate						BKG.DATE
+packages						Art
+gst								GST no.
+saidToContain					Item
+drivingLicenseLable				Driving License no.:
+vehicalOwnerLabel				Broker/Owner Name :
+weight							wt.
+totalLrChargeLabel				LR Charge
+ConsolidateEwaybillNo		    Con.EwaybillNo :
+challanCopy						Challan Copy
+truckNo							Truck No.:
+mobile 							Mobile : 
+challanNo						Challan No.:
+privateMarka					P.M
+quantity						Pkg
+topay							Topay
+paid							Paid
+tbb								TBB
+pf								P.F
+cart							Cart.
+hd								HD
+dlyComm							DLY COMM.
+diff							DIFFERENCE
+homeDly							HOME DELIVERY
+collect							Trip Charge
+drinac							Dr. IN Our A/c
+note 							Note:
+lodedby							Loaded By:
+enterby							Enterted By:
+consolidateEwaybillNo			Consolidate E-waybill no:
+unloading                       Unloading
+toPayTotal                      Topay Amt
+crossingWtRate					Crossing Katt
+crossingHamali 					C.K.

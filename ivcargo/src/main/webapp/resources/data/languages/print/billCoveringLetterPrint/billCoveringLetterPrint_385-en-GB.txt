@@ -1,0 +1,16 @@
+toLabel							To,  
+phoneNumberLabel				Contact No. :  
+emailLabel						Email : 
+gstnLabel						GSTN : 
+contactPerson					Kindly Attention,
+statementNo						Statement No.:
+billCoverLetterDateLabel		Date :  
+dispatchBy						Dispatch By :
+date							Date  
+amountLabel						Amount
+lrSourceBranchLabel				FROM 
+lrDestBranchLabel				DESTINATION 
+lrNumberLabel					DOCKET NO
+billTypeLabel					BILL TYPE
+dataInfo2						Authorised Signatory
+bankDetails						Bank Details                           

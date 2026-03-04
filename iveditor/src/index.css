@@ -1,0 +1,364 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:focus {
+  outline: none;
+}
+
+html, #react-root {
+  font-size: 16px;
+}
+
+#document {
+  font-family: serif;
+}
+
+#react-root input[type='number']::-webkit-outer-spin-button,
+#react-root input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#react-root input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+#react-root input::-webkit-calendar-picker-indicator {
+  display: none !important;
+}
+
+
+
+#react-root table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#react-root td {
+  vertical-align: top;
+  min-width: 10px;
+  font: unset;
+  padding: 0;
+}
+
+#react-root .debug-view td {
+  padding: 10px;
+}
+
+/* ------------------------------------------------------------ */
+/* Border All  &&  Border All Has Thead */
+
+#react-root table.border-all > tbody > tr > td,
+#react-root table.border-all.has-thead > thead > tr > td {
+  border: 1px solid #000;
+}
+
+
+/* ------------------------------------------------------------ */
+/* Border Inside */
+
+#react-root table.border-inside > tbody > tr > td {
+  border: 1px solid #000;
+}
+
+#react-root table.border-inside > tbody > tr:first-child > td {
+  border-top: none;
+}
+
+#react-root table.border-inside > tbody > tr > td:first-child {
+  border-left: none;
+}
+
+#react-root table.border-inside > tbody > tr:last-child > td {
+  border-bottom: none;
+}
+
+#react-root table.border-inside > tbody > tr > td:last-child {
+  border-right: none;
+}
+
+#react-root .debug-view table.border-inside > tbody > tr:first-child > td {
+  border-top: 1px dashed #000;
+}
+
+#react-root .debug-view table.border-inside > tbody > tr > td:first-child {
+  border-left: 1px dashed #000;
+}
+
+#react-root .debug-view table.border-inside > tbody > tr:last-child > td {
+  border-bottom: 1px dashed #000;
+}
+
+#react-root .debug-view table.border-inside > tbody > tr > td:last-child {
+  border-right: 1px dashed #000;
+}
+
+
+
+/* ------------------------------------------------------------ */
+/* Border Inside Has Thead */
+
+#react-root table.border-inside.has-thead > tbody > tr > td,
+#react-root table.border-inside.has-thead > thead > tr > td {
+  border: 1px solid #000;
+}
+
+#react-root table.border-inside.has-thead > thead > tr:first-child > td {
+  border-top: none;
+}
+
+#react-root table.border-inside.has-thead > tbody > tr > td:first-child,
+#react-root table.border-inside.has-thead > thead > tr > td:first-child {
+  border-left: none;
+}
+
+#react-root table.border-inside.has-thead > tbody > tr:last-child > td {
+  border-bottom: none;
+}
+
+#react-root table.border-inside.has-thead > tbody > tr > td:last-child,
+#react-root table.border-inside.has-thead > thead > tr > td:last-child {
+  border-right: none;
+}
+
+#react-root .debug-view table.border-inside.has-thead > thead > tr:first-child > td {
+  border-top: 1px dashed black;
+}
+
+#react-root .debug-view table.border-inside.has-thead > tbody > tr > td:first-child,
+#react-root .debug-view table.border-inside.has-thead > thead > tr > td:first-child {
+  border-left: 1px dashed black;
+}
+
+#react-root .debug-view table.border-inside.has-thead > tbody > tr:last-child > td {
+  border-bottom: 1px dashed black;
+}
+
+#react-root .debug-view table.border-inside.has-thead > tbody > tr > td:last-child,
+#react-root .debug-view table.border-inside.has-thead > thead > tr > td:last-child {
+  border-right: 1px dashed black;
+}
+
+
+
+/* ------------------------------------------------------------ */
+/* Border Outside */
+
+#react-root table.border-outside > tbody > tr > td {
+  border: none;
+}
+
+#react-root table.border-outside > tbody > tr:first-child > td {
+  border-top: 1px solid black;
+}
+
+#react-root table.border-outside > tbody > tr > td:first-child {
+  border-left: 1px solid black;
+}
+
+#react-root table.border-outside > tbody > tr:last-child > td {
+  border-bottom: 1px solid black;
+}
+
+#react-root table.border-outside > tbody > tr > td:last-child {
+  border-right: 1px solid black;
+}
+
+#react-root .debug-view table.border-outside > tbody > tr > td {
+  border: 1px dashed #000;
+}
+
+
+#react-root .debug-view table.border-outside > tbody > tr:first-child > td {
+  border-top: 1px solid black;
+}
+
+#react-root .debug-view table.border-outside > tbody > tr > td:first-child {
+  border-left: 1px solid black;
+}
+
+#react-root .debug-view table.border-outside > tbody > tr:last-child > td {
+  border-bottom: 1px solid black;
+}
+
+#react-root .debug-view table.border-outside > tbody > tr > td:last-child {
+  border-right: 1px solid black;
+}
+
+/* ------------------------------------------------------------ */
+/* Border Outside Has Thead */
+
+#react-root table.border-outside.has-thead > tbody > tr > td,
+#react-root table.border-outside.has-thead > thead > tr > td {
+  border: none;
+}
+
+#react-root table.border-outside.has-thead > thead > tr:first-child > td {
+  border-top: 1px solid black;
+}
+
+#react-root table.border-outside.has-thead > tbody > tr > td:first-child,
+#react-root table.border-outside.has-thead > thead > tr > td:first-child {
+  border-left: 1px solid black;
+}
+
+#react-root table.border-outside.has-thead > tbody > tr:last-child > td {
+  border-bottom: 1px solid black;
+}
+
+#react-root table.border-outside.has-thead > tbody > tr > td:last-child,
+#react-root table.border-outside.has-thead > thead > tr > td:last-child {
+  border-right: 1px solid black;
+}
+
+#react-root .debug-view table.border-outside.has-thead > tbody > tr > td,
+#react-root .debug-view table.border-outside.has-thead > thead > tr > td {
+  border: 1px dashed #000;
+}
+
+#react-root .debug-view table.border-outside.has-thead > thead > tr:first-child > td {
+  border-top: 1px solid black;
+}
+
+#react-root .debug-view table.border-outside.has-thead > tbody > tr > td:first-child,
+#react-root .debug-view table.border-outside.has-thead > thead > tr > td:first-child {
+  border-left: 1px solid black;
+}
+
+#react-root .debug-view table.border-outside.has-thead > tbody > tr:last-child > td {
+  border-bottom: 1px solid black;
+}
+
+#react-root .debug-view table.border-outside.has-thead > tbody > tr > td:last-child,
+#react-root .debug-view table.border-outside.has-thead > thead > tr > td:last-child {
+  border-right: 1px solid black;
+}
+
+
+
+/* ------------------------------------------------------------ */
+/* Border None */
+
+#react-root table.border-none > tbody > tr > td {
+  border: none;
+}
+
+#react-root .debug-view table.border-none > tbody > tr > td {
+  border: 1px dashed #000;
+}
+
+
+
+
+/* ------------------------------------------------------------ */
+/* Border None Has Thead */
+
+#react-root table.border-none.has-thead > tbody > tr > td,
+#react-root table.border-none.has-thead > thead > tr > td {
+  border: none;
+}
+
+#react-root .debug-view table.border-none.has-thead > tbody > tr > td,
+#react-root .debug-view table.border-none.has-thead > thead > tr > td {
+  border: 1px dashed #000;
+}
+
+
+
+
+/* Reset for IVCargo */
+#react-root label {
+  float: unset;
+  margin-bottom: unset;
+}
+
+
+#rightTD {
+  font: unset;
+}
+
+/* Undo global tailwind styles for IVCargo */
+#othersection img {
+  display: revert-layer;
+  height: revert-layer;
+}
+
+
+/* For footer part style written by taking refernece of thead   */
+/* ============================================================ */
+/* HAS tfoot - Border All */
+
+table.border-all.has-tfoot > tbody > tr > td,
+table.border-all.has-tfoot > tfoot > tr > td {
+  border: 1px solid #000;
+}
+
+
+/* ============================================================ */
+/* HAS tfoot - Border Inside */
+
+table.border-inside.has-tfoot > tbody > tr > td,
+table.border-inside.has-tfoot > tfoot > tr > td {
+  border: 1px solid #000;
+}
+
+table.border-inside.has-tfoot > tfoot > tr:first-child > td {
+  border-top: none;
+}
+
+table.border-inside.has-tfoot > tbody > tr > td:first-child,
+table.border-inside.has-tfoot > tfoot > tr > td:first-child {
+  border-left: none;
+}
+
+table.border-inside.has-tfoot > tbody > tr:last-child > td {
+  border-bottom: none;
+}
+
+table.border-inside.has-tfoot > tbody > tr > td:last-child,
+table.border-inside.has-tfoot > tfoot > tr > td:last-child {
+  border-right: none;
+}
+
+
+/* ============================================================ */
+/* HAS tfoot - Border Outside */
+
+table.border-outside.has-tfoot > tbody > tr > td,
+table.border-outside.has-tfoot > tfoot > tr > td {
+  border: none;
+}
+
+table.border-outside.has-tfoot > tfoot > tr:first-child > td {
+  border-top: 1px solid black;
+}
+
+table.border-outside.has-tfoot > tbody > tr > td:first-child,
+table.border-outside.has-tfoot > tfoot > tr > td:first-child {
+  border-left: 1px solid black;
+}
+
+table.border-outside.has-tfoot > tbody > tr:last-child > td {
+  border-bottom: 1px solid black;
+}
+
+table.border-outside.has-tfoot > tbody > tr > td:last-child,
+table.border-outside.has-tfoot > tfoot > tr > td:last-child {
+  border-right: 1px solid black;
+}
+
+
+/* ============================================================ */
+/* HAS tfoot - Border None */
+
+table.border-none.has-tfoot > tbody > tr > td,
+table.border-none.has-tfoot > tfoot > tr > td {
+  border: none;
+}

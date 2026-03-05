@@ -77,10 +77,10 @@ public class GenerateTemplateBllImpl implements GenerateTemplateBll {
 			//final var gitRepositoryDirectory		= (String) lrTemplateConfig.getOrDefault(Constant.GIT_REPOSITORY_DIRECTORY, "");
 			// when running locally: comment uper part uncomment below part 
 			final var gitRepositoryDirectory 		= System.getProperty("user.home") + "/BaBua/Space2/ivworkspace";
-			final var gitRemoteUrlWithCreds			= (String) lrTemplateConfig.getOrDefault(Constant.GIT_REMOTE_URL_WITH_CREDENTIALS, "");
-			final var gitBranch						= (String) lrTemplateConfig.getOrDefault(Constant.GIT_BRANCH, "");
-			final var workSpacePath					= (String) folderConfigurationObj.getOrDefault(Constant.WORKSPACE_PATH, "");
-			final var ivcargoPathToMatch			= (String) folderConfigurationObj.getOrDefault(Constant.IVCARGO_PATH_TO_MATCH, "");
+			final var gitRemoteUrlWithCreds			= (String) lrTemplateConfig.getOrDefault(Constant.GIT_REMOTE_URL_WITH_CREDENTIALS, "");  // http://AutoRelease:AAuRltrm45q1240fg159@codebase.ivgroup.in/ivgroup/ivworkspace.git
+			final var gitBranch						= (String) lrTemplateConfig.getOrDefault(Constant.GIT_BRANCH, "");  // same branch present should  be on  local to commit and pusblish
+			final var workSpacePath					= (String) folderConfigurationObj.getOrDefault(Constant.WORKSPACE_PATH, ""); // ivcargo/src/main/webapp/
+			final var ivcargoPathToMatch			= (String) folderConfigurationObj.getOrDefault(Constant.IVCARGO_PATH_TO_MATCH, ""); // /ivcargo
 
 			//final var websiteTempPath 				= (String) folderConfigurationObj.get(FolderLocationPropertiesConstant.WEBSITE_REAL_PATH);  // e.g., /tomcat/cargo_tomcat/webapps/ivcargo
 			// when running locally: comment uper part uncomment below part 
@@ -164,3 +164,4 @@ public class GenerateTemplateBllImpl implements GenerateTemplateBll {
 		return stdout.toString();
 	}
 }
+

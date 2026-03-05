@@ -49,9 +49,11 @@ public class GenerateTemplateBllImpl implements GenerateTemplateBll {
 			if (originalfilePath.startsWith(ivcargoPathToMatch))
 				filePath = originalfilePath.substring(ivcargoPathToMatch.length());
 
-			final var tomcatFolderPath	= (String) folderConfigurationObj.get(Constant.TOMCAT_FOLDER_PATH);
-			final var websiteTempPath 	= (String) folderConfigurationObj.get(FolderLocationPropertiesConstant.WEBSITE_REAL_PATH);  // e.g., /tomcat/cargo_tomcat/webapps/ivcargo
-			// when running locally: websiteTempPath = "/home/iv/ivworkspace4/ivworkspace/IVTomcat/wtpwebapps/ivcargo/";
+			//final var tomcatFolderPath	= (String) folderConfigurationObj.get(Constant.TOMCAT_FOLDER_PATH);
+			//final var websiteTempPath 	= (String) folderConfigurationObj.get(FolderLocationPropertiesConstant.WEBSITE_REAL_PATH);  // e.g., /tomcat/cargo_tomcat/webapps/ivcargo
+			// when running locally: comment uper part uncomment below part 
+			final var websiteTempPath	= "/home/babua/BaBua/Space2/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ivcargo/";
+			final var tomcatFolderPath	= "/home/babua/BaBua/Space2/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ivcargo/";
 
 			final var fullTempPath		= websiteTempPath + filePath;
 			final var fullTomcatPath	= tomcatFolderPath + filePath;
@@ -72,14 +74,17 @@ public class GenerateTemplateBllImpl implements GenerateTemplateBll {
 			final var lrTemplateConfig 				= cacheData.getConfigurationData(ModuleIdentifierConstant.GIT_REPOSITOTY, 0);
 			final var folderConfigurationObj		= cacheData.getConfigurationData(ModuleIdentifierConstant.FOLDER_LOCATION, 0);
 			final var executiveData					= cacheData.getExecutiveById(Utility.getLong(allRequestParams, Constant.EXECUTIVE_ID));
-			final var gitRepositoryDirectory		= (String) lrTemplateConfig.getOrDefault(Constant.GIT_REPOSITORY_DIRECTORY, "");
+			//final var gitRepositoryDirectory		= (String) lrTemplateConfig.getOrDefault(Constant.GIT_REPOSITORY_DIRECTORY, "");
+			// when running locally: comment uper part uncomment below part 
+			final var gitRepositoryDirectory 		= System.getProperty("user.home") + "/BaBua/Space2/ivworkspace";
 			final var gitRemoteUrlWithCreds			= (String) lrTemplateConfig.getOrDefault(Constant.GIT_REMOTE_URL_WITH_CREDENTIALS, "");
 			final var gitBranch						= (String) lrTemplateConfig.getOrDefault(Constant.GIT_BRANCH, "");
 			final var workSpacePath					= (String) folderConfigurationObj.getOrDefault(Constant.WORKSPACE_PATH, "");
 			final var ivcargoPathToMatch			= (String) folderConfigurationObj.getOrDefault(Constant.IVCARGO_PATH_TO_MATCH, "");
 
-			final var websiteTempPath 				= (String) folderConfigurationObj.get(FolderLocationPropertiesConstant.WEBSITE_REAL_PATH);  // e.g., /tomcat/cargo_tomcat/webapps/ivcargo
-			// when running locally: websiteTempPath = "/home/iv/ivworkspace4/ivworkspace/IVTomcat/wtpwebapps/ivcargo/";
+			//final var websiteTempPath 				= (String) folderConfigurationObj.get(FolderLocationPropertiesConstant.WEBSITE_REAL_PATH);  // e.g., /tomcat/cargo_tomcat/webapps/ivcargo
+			// when running locally: comment uper part uncomment below part 
+			final var websiteTempPath	= "/home/babua/BaBua/Space2/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ivcargo/";
 
 			final var sourceFilePath 				= (String) allRequestParams.get("filePath");
 			final List<String> addedFiles 			= new ArrayList<>();
@@ -159,4 +164,3 @@ public class GenerateTemplateBllImpl implements GenerateTemplateBll {
 		return stdout.toString();
 	}
 }
-
